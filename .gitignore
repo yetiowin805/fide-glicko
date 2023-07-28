@@ -1,0 +1,7 @@
+*.txt
+!rating_lists_with_info/*/2023-07.txt
+
+.vscode/
+glicko2
+process_fide_rating_list
+remove_duplicates
