@@ -1,5 +1,5 @@
 *.txt
-!rating_lists_with_info/*/2023-07.txt
+!top_rating_lists/*
 
 .vscode/
 glicko2

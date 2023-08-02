@@ -1,6 +1,7 @@
 import sys
 from tqdm import tqdm
 import math
+import os
 
 BASE_RATING = 1500.0
 BASE_RD = 350.0
@@ -158,11 +159,15 @@ def write_to_file(filename, players):
     with open(filename, 'w') as out_file:
         out_file.writelines(lines)
 
-def write_to_pretty_file(filename, players, players_info):
+def write_to_pretty_file(filename, players, players_info, top_filename = None):
+    # Sort players by rating in descending order
+    sorted_players = sorted(players.values(), key=lambda p: p.rating, reverse=True)
+
     with open(filename, 'w') as out_file:
         # Write headers first
         out_file.write("ID Name Federation BirthYear Sex Rating RD Volatility\n")
-        for player in players.values():
+        
+        for player in sorted_players:
             player_info = players_info.get(player.id, {})
             name = player_info.get('name', '')
             federation = player_info.get('federation', '')
@@ -171,14 +176,87 @@ def write_to_pretty_file(filename, players, players_info):
             
             line = f"{player.id} {name} {federation} {b_year} {sex} {player.rating:.6f} {player.rd:.6f} {player.volatility:.6f}\n"
             out_file.write(line)
+    if top_filename is not None:
+        os.makedirs(top_filename, exist_ok=True)
+        with open(os.path.join(top_filename, "open.txt"), 'w') as out_file:
+            # Write headers first
+            out_file.write("Name Federation BirthYear Sex Rating RD\n")
 
+            counter = 1
+            
+            for player in sorted_players:
+                if counter > 100:
+                    break
+                player_info = players_info.get(player.id, {})
+                if player.rd < 85:
+                    name = player_info.get('name', '')
+                    federation = player_info.get('federation', '')
+                    b_year = player_info.get('b_year', '')
+                    sex = player_info.get('sex', '')
+                    line = f"{counter} {name}\t{federation} {b_year} {sex} {player.rating:.2f} {player.rd:.2f}\n"
+                    out_file.write(line)
+                    counter += 1
+        with open(os.path.join(top_filename, "women.txt"), 'w') as out_file:
+            # Write headers first
+            out_file.write("Name Federation BirthYear Rating RD\n")
+
+            counter = 1
+            
+            for player in sorted_players:
+                if counter > 100:
+                    break
+                player_info = players_info.get(player.id, {})
+                sex = player_info.get('sex', '')
+                if sex == "F" and player.rd < 75:
+                    name = player_info.get('name', '')
+                    federation = player_info.get('federation', '')
+                    b_year = player_info.get('b_year', '')
+                    line = f"{counter} {name}\t{federation} {b_year} {player.rating:.2f} {player.rd:.2f}\n"
+                    out_file.write(line)
+                    counter += 1
+        with open(os.path.join(top_filename, "juniors.txt"), 'w') as out_file:
+            # Write headers first
+            out_file.write("Name Federation BirthYear Sex Rating RD\n")
+
+            counter = 1
+            
+            for player in sorted_players:
+                if counter > 100:
+                    break
+                player_info = players_info.get(player.id, {})
+                b_year = player_info.get('b_year', '')
+                if b_year.isdigit() and int(b_year) >= 2003 and player.rd < 75:
+                    name = player_info.get('name', '')
+                    federation = player_info.get('federation', '')
+                    sex = player_info.get('sex', '')
+                    line = f"{counter} {name}\t{federation} {b_year} {sex} {player.rating:.2f} {player.rd:.2f}\n"
+                    out_file.write(line)
+                    counter += 1
+        with open(os.path.join(top_filename, "girls.txt"), 'w') as out_file:
+            # Write headers first
+            out_file.write("Name Federation BirthYear Rating RD\n")
+
+            counter = 1
+            
+            for player in sorted_players:
+                if counter > 100:
+                    break
+                player_info = players_info.get(player.id, {})
+                b_year = player_info.get('b_year', '')
+                sex = player_info.get('sex', '')
+                if sex == 'F' and b_year.isdigit() and int(b_year) >= 2003 and player.rd < 75:
+                    name = player_info.get('name', '')
+                    federation = player_info.get('federation', '')
+                    line = f"{counter} {name}\t{federation} {b_year} {player.rating:.2f} {player.rd:.2f}\n"
+                    out_file.write(line)
+                    counter += 1
 
 def apply_new_ratings(players):
     for player in players.values():
         player.rating = player.new_rating
         player.rd = player.new_rd
 
-def main(ratings_filename, games_filename, output_filename, pretty_output_filename):
+def main(ratings_filename, games_filename, output_filename, pretty_output_filename, top_rating_list_filename):
 
     players = {}
     players_info = {}
@@ -226,15 +304,21 @@ def main(ratings_filename, games_filename, output_filename, pretty_output_filena
 
     # Write updated ratings to the output file
     write_to_file(output_filename, players)
-    write_to_pretty_file(pretty_output_filename, players, players_info)
+    write_to_pretty_file(pretty_output_filename, players, players_info, top_rating_list_filename)
     print(f"Results written to {output_filename}")
 
 if __name__ == "__main__":
-    if len(sys.argv) != 5:  # Check for 5 arguments: script name + 4 user-provided arguments
-        print(f"Usage: {sys.argv[0]} <ratings_file> <games_file> <output_file> <pretty_output_file>")
+    # At least 4 and at most 5 user-provided arguments
+    if len(sys.argv) < 5 or len(sys.argv) > 6:  
+        print(f"Usage: {sys.argv[0]} <ratings_file> <games_file> <output_file> <pretty_output_file> [optional: top_rating_list_filename]")
         sys.exit(1)
+    
     ratings_filename = sys.argv[1]
     games_filename = sys.argv[2]
     output_filename = sys.argv[3]
     pretty_output_filename = sys.argv[4]
-    main(ratings_filename, games_filename, output_filename, pretty_output_filename)
+    
+    # Check if top_rating_list is provided
+    top_rating_list_filename = sys.argv[5] if len(sys.argv) == 6 else None  # or provide a default value instead of None
+
+    main(ratings_filename, games_filename, output_filename, pretty_output_filename, top_rating_list_filename)
