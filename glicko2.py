@@ -188,7 +188,7 @@ def write_to_pretty_file(filename, players, players_info, top_filename = None):
                 if counter > 100:
                     break
                 player_info = players_info.get(player.id, {})
-                if player.rd < 85:
+                if player.rd < 75:
                     name = player_info.get('name', '')
                     federation = player_info.get('federation', '')
                     b_year = player_info.get('b_year', '')
