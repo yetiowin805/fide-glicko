@@ -1,4 +1,4 @@
-Name Federation BirthYear Sex Rating RD
+Rank Name Federation BirthYear Sex Rating RD
 1 Firouzja, Alireza	FRA 2003 M 2682.41 54.31
 2 Gukesh D	IND 2006 M 2629.82 43.03
 3 Abdusattorov, Nodirbek	UZB 2004 M 2621.61 49.72

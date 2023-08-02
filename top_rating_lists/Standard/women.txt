@@ -1,4 +1,4 @@
-Name Federation BirthYear Rating RD
+Rank Name Federation BirthYear Rating RD
 1 Lei, Tingjie	CHN 1997 2491.60 74.99
 2 Ju, Wenjun	CHN 1991 2452.59 66.45
 3 Lagno, Kateryna	RUS 1989 2425.08 56.28

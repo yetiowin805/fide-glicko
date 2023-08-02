@@ -1,4 +1,4 @@
-Name Federation BirthYear Sex Rating RD
+Rank Name Federation BirthYear Sex Rating RD
 1 Carlsen, Magnus	NOR 1990 M 2799.02 49.70
 2 Nakamura, Hikaru	USA 1987 M 2797.59 54.41
 3 Firouzja, Alireza	FRA 2003 M 2793.00 60.76

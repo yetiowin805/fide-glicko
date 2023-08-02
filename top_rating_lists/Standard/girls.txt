@@ -1,4 +1,4 @@
-Name Federation BirthYear Rating RD
+Rank Name Federation BirthYear Rating RD
 1 Assaubayeva, Bibisara	KAZ 2004 2358.67 53.21
 2 Salimova, Nurgyul	BUL 2003 2278.02 52.26
 3 Divya Deshmukh	IND 2005 2275.50 48.05

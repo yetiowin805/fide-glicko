@@ -1,4 +1,4 @@
-Name Federation BirthYear Sex Rating RD
+Rank Name Federation BirthYear Sex Rating RD
 1 Carlsen, Magnus	NOR 1990 M 2763.96 64.49
 2 So, Wesley	USA 1993 M 2741.66 50.80
 3 Duda, Jan-Krzysztof	POL 1998 M 2732.68 60.55
