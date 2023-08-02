@@ -23,7 +23,7 @@ def scrape_fide_data(country, month, year):
 
     if len(a_elements):
         # Create the directory path
-        dir_path = os.path.join(country, f"{year}-{month_str}")
+        dir_path = os.path.join("raw_tournament_data", country, f"{year}-{month_str}")
         os.makedirs(dir_path, exist_ok=True)
 
         # Save the 'a_elements' contents to a text file
@@ -56,6 +56,6 @@ countries = [
 ]
 
 for country in countries:
-    for year in range(2008,2024):
-        for month in range(1,13):
+    for year in range(2023,2024):
+        for month in range(8,9):
             scrape_fide_data(country,month,year)

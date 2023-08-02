@@ -2,7 +2,7 @@ import os
 import requests
 from bs4 import BeautifulSoup
 import re
-from concurrent.futures import ThreadPoolExecutor
+from multiprocessing import Pool
 
 def scrape_tournament_data(country, month, year):
     # Pad the month with a leading zero if it's less than 10
@@ -27,7 +27,7 @@ def scrape_tournament_data(country, month, year):
             code = line[line.find("?code=")+6:line.find('"><img')]
 
             # Create the file path for the new file
-            new_path = os.path.join(os.path.dirname(path), 'crosstables', f'{code}.txt')
+            new_path = os.path.join(os.path.dirname(path), 'info', f'{code}.txt')
             
             # Check if the new file path exists and is not empty
             if os.path.exists(new_path) and os.path.getsize(new_path) > 0:
@@ -36,7 +36,7 @@ def scrape_tournament_data(country, month, year):
 
             # If the file doesn't exist or is empty, fetch data from the URL
             # Form the complete URL
-            url = base_url + 'view_source.phtml?code=' + code
+            url = base_url + 'tournament_details.phtml?event=' + code
 
             # Make the HTTP request
             response = requests.get(url)
@@ -54,45 +54,48 @@ def scrape_tournament_data(country, month, year):
 def scrape_country_month_year(args):
     return scrape_tournament_data(*args)
 
-countries = [
-    'AFG', 'ALB', 'ALG', 'AND', 'ANG', 'ANT', 'ARG', 'ARM', 'ARU', 'AUS', 
-    'AUT', 'AZE', 'BAH', 'BRN', 'BAN', 'BAR', 'BLR', 'BEL', 'BIZ', 'BER', 
-    'BHU', 'BOL', 'BIH', 'BOT', 'BRA', 'IVB', 'BRU', 'BUL', 'BUR', 'BDI', 
-    'CAM', 'CMR', 'CAN', 'CPV', 'CAY', 'CAF', 'CHA', 'CHI', 'CHN', 'TPE', 
-    'COL', 'COM', 'CGO', 'CRC', 'CRO', 'CUB', 'CYP', 'CZE', 'COD', 'DEN', 
-    'DJI', 'DMA', 'DOM', 'ECU', 'EGY', 'ESA', 'ENG', 'GEQ', 'ERI', 'EST', 
-    'SWZ', 'ETH', 'FAI', 'FIJ', 'FIN', 'FRA', 'GAB', 'GAM', 'GEO', 'GER', 
-    'GHA', 'GRE', 'GRN', 'GUM', 'GUA', 'GCI', 'GUY', 'HAI', 'HON', 'HKG', 
-    'HUN', 'ISL', 'IND', 'INA', 'IRI', 'IRQ', 'IRL', 'IOM', 'ISR', 'ITA', 
-    'CIV', 'JAM', 'JPN', 'JCI', 'JOR', 'KAZ', 'KEN', 'KOS', 'KUW', 'KGZ', 
-    'LAO', 'LAT', 'LBN', 'LES', 'LBR', 'LBA', 'LIE', 'LTU', 'LUX', 'MAC', 
-    'MAD', 'MAW', 'MAS', 'MDV', 'MLI', 'MLT', 'MTN', 'MRI', 'MEX', 'MDA', 
-    'MNC', 'MGL', 'MNE', 'MAR', 'MOZ', 'MYA', 'NAM', 'NRU', 'NEP', 'NED', 
-    'AHO', 'NZL', 'NCA', 'NIG', 'NGR', 'MKD', 'NOR', 'OMA', 'PAK', 'PLW', 
-    'PLE', 'PAN', 'PNG', 'PAR', 'PER', 'PHI', 'POL', 'POR', 'PUR', 'QAT', 
-    'ROU', 'RUS', 'RWA', 'SKN', 'LCA', 'SMR', 'STP', 'KSA', 'SCO', 'SEN', 
-    'SRB', 'SEY', 'SLE', 'SGP', 'SVK', 'SLO', 'SOL', 'SOM', 'RSA', 'KOR', 
-    'SSD', 'ESP', 'SRI', 'VIN', 'SUD', 'SUR', 'SWE', 'SUI', 'SYR', 'TJK', 
-    'TAN', 'THA', 'TLS', 'TOG', 'TTO', 'TUN', 'TUR', 'TKM', 'UGA', 'UKR', 
-    'UAE', 'USA', 'URU', 'ISV', 'UZB', 'VEN', 'VIE', 'WLS', 'YEM', 'ZAM', 
-    'ZIM'
-]
+
+if __name__ == "__main__":
+
+    countries = [
+        'AFG', 'ALB', 'ALG', 'AND', 'ANG', 'ANT', 'ARG', 'ARM', 'ARU', 'AUS', 
+        'AUT', 'AZE', 'BAH', 'BRN', 'BAN', 'BAR', 'BLR', 'BEL', 'BIZ', 'BER', 
+        'BHU', 'BOL', 'BIH', 'BOT', 'BRA', 'IVB', 'BRU', 'BUL', 'BUR', 'BDI', 
+        'CAM', 'CMR', 'CAN', 'CPV', 'CAY', 'CAF', 'CHA', 'CHI', 'CHN', 'TPE', 
+        'COL', 'COM', 'CGO', 'CRC', 'CRO', 'CUB', 'CYP', 'CZE', 'COD', 'DEN', 
+        'DJI', 'DMA', 'DOM', 'ECU', 'EGY', 'ESA', 'ENG', 'GEQ', 'ERI', 'EST', 
+        'SWZ', 'ETH', 'FAI', 'FIJ', 'FIN', 'FRA', 'GAB', 'GAM', 'GEO', 'GER', 
+        'GHA', 'GRE', 'GRN', 'GUM', 'GUA', 'GCI', 'GUY', 'HAI', 'HON', 'HKG', 
+        'HUN', 'ISL', 'IND', 'INA', 'IRI', 'IRQ', 'IRL', 'IOM', 'ISR', 'ITA', 
+        'CIV', 'JAM', 'JPN', 'JCI', 'JOR', 'KAZ', 'KEN', 'KOS', 'KUW', 'KGZ', 
+        'LAO', 'LAT', 'LBN', 'LES', 'LBR', 'LBA', 'LIE', 'LTU', 'LUX', 'MAC', 
+        'MAD', 'MAW', 'MAS', 'MDV', 'MLI', 'MLT', 'MTN', 'MRI', 'MEX', 'MDA', 
+        'MNC', 'MGL', 'MNE', 'MAR', 'MOZ', 'MYA', 'NAM', 'NRU', 'NEP', 'NED', 
+        'AHO', 'NZL', 'NCA', 'NIG', 'NGR', 'MKD', 'NOR', 'OMA', 'PAK', 'PLW', 
+        'PLE', 'PAN', 'PNG', 'PAR', 'PER', 'PHI', 'POL', 'POR', 'PUR', 'QAT', 
+        'ROU', 'RUS', 'RWA', 'SKN', 'LCA', 'SMR', 'STP', 'KSA', 'SCO', 'SEN', 
+        'SRB', 'SEY', 'SLE', 'SGP', 'SVK', 'SLO', 'SOL', 'SOM', 'RSA', 'KOR', 
+        'SSD', 'ESP', 'SRI', 'VIN', 'SUD', 'SUR', 'SWE', 'SUI', 'SYR', 'TJK', 
+        'TAN', 'THA', 'TLS', 'TOG', 'TTO', 'TUN', 'TUR', 'TKM', 'UGA', 'UKR', 
+        'UAE', 'USA', 'URU', 'ISV', 'UZB', 'VEN', 'VIE', 'WLS', 'YEM', 'ZAM', 
+        'ZIM'
+    ]
 
 
-# Create a list to hold all tasks
-tasks = []
+    # Create a list to hold all tasks
+    tasks = []
 
-# for year in range(2008,2023):
-#     for month in range(1,13):
-#         for country in countries:
-#             tasks.append((country, month, year))
-for month in range(7,8):
-    for country in countries:
-        tasks.append((country, month, 2023))
+    # for year in range(2008,2023):
+    #     for month in range(1,13):
+    #         for country in countries:
+    #             tasks.append((country, month, year))
+    for month in range(8,9):
+        for country in countries:
+            tasks.append((country, month, 2023))
 
-# Number of threads to use
-num_threads = 10
+    # Number of processes to use
+    num_processes = 6 # Adjust this as necessary
 
-# Using ThreadPoolExecutor to run tasks concurrently
-with ThreadPoolExecutor(max_workers=num_threads) as executor:
-    executor.map(scrape_country_month_year, tasks)
+    # Using a multiprocessing Pool to run tasks concurrently
+    with Pool(num_processes) as p:
+        p.map(scrape_country_month_year, tasks)

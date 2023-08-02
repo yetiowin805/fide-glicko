@@ -37,6 +37,30 @@ def main():
     # Run for Rapid and Blitz starting from 2011-12
     run_glicko("Rapid", 2011, 12)
     run_glicko("Blitz", 2011, 12)
+    
+    cmd = (f"python glicko2.py rating_lists/Standard/2023-07.txt "
+            f"clean_numerical/2023-07/Standard/games.txt "
+            f"./rating_lists/Standard/2023-08.txt "
+            f"./rating_lists_with_info/Standard/2023-08.txt "
+            f"./top_rating_lists/Standard")
+            
+    os.system(cmd)
+
+    cmd = (f"python glicko2.py rating_lists/Rapid/2023-07.txt "
+            f"clean_numerical/2023-07/Rapid/games.txt "
+            f"./rating_lists/Rapid/2023-08.txt "
+            f"./rating_lists_with_info/Rapid/2023-08.txt "
+            f"./top_rating_lists/Rapid")
+            
+    os.system(cmd)
+
+    cmd = (f"python glicko2.py rating_lists/Blitz/2023-07.txt "
+            f"clean_numerical/2023-07/Blitz/games.txt "
+            f"./rating_lists/Blitz/2023-08.txt "
+            f"./rating_lists_with_info/Blitz/2023-08.txt "
+            f"./top_rating_lists/Blitz")
+            
+    os.system(cmd)
 
 if __name__ == "__main__":
     main()

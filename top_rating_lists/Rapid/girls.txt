@@ -1,101 +1,101 @@
 Rank Name Federation BirthYear Rating RD
-1 Assaubayeva, Bibisara	KAZ 2004 2374.11 66.63
-2 Garifullina, Leya	FID 2004 2234.50 66.27
-3 Salimova, Nurgyul	BUL 2003 2196.53 69.28
-4 Sinitsina, Anastassia	EST 2004 2151.36 56.14
-5 Savitha Shri B	IND 2007 2130.58 56.93
-6 Nurmanova, Alua	KAZ 2007 2125.21 52.57
-7 Toncheva, Nadya	BUL 2005 2117.19 70.15
-8 Kamalidenova, Meruert	KAZ 2005 2108.95 64.29
-9 Lu, Miaoyi	CHN 2010 2106.78 62.59
-10 Omonova, Umida	UZB 2006 2105.88 61.72
-11 Srdanovic, Jovana	SRB 2003 2096.33 63.03
-12 Beydullayeva, Govhar	AZE 2003 2092.92 66.85
-13 Schippke, Manon	FRA 2007 2092.27 52.31
-14 Gaal, Zsoka	HUN 2007 2085.86 69.43
-15 Borda Rodas, Anapaola S.	ARG 2004 2079.63 72.96
-16 Nasyrova, Ekaterina	RUS 2005 2074.76 59.51
-17 Solozhenkina, Elizaveta	RUS 2003 2073.68 70.24
-18 Czarnecka, Lidia	POL 2004 2064.56 62.96
-19 Wikar, Martyna	POL 2005 2051.92 65.38
-20 Malicka, Maria	POL 2003 2050.00 65.31
-21 Loskutova, Viktoriya	RUS 2004 2040.30 54.86
-22 Bach Ngoc Thuy Duong	VIE 2003 2037.96 62.87
-23 Nur-Mukhametova, Alisa	RUS 2005 2032.31 49.54
-24 Yurasova, Daria	RUS 2003 2030.29 59.83
-25 Nurgali, Nazerke	KAZ 2004 2029.78 64.82
-26 Blanquet, Camille	FRA 2005 2029.46 68.90
-27 Miroshnik, Ekaterina	RUS 2003 2022.87 64.29
-28 Zhapova, Yana	FID 2008 2022.15 54.54
-29 Yakimova, Mariya	FID 2005 2021.24 52.39
-30 Balabayeva, Xeniya	KAZ 2005 2018.83 54.93
-31 Djidjeli, Sarah	FRA 2003 2018.51 71.69
-32 Zhurova, Anna	RUS 2005 2017.91 51.81
-33 Goraj, Barbara	POL 2005 2015.08 70.52
-34 Zahedifar, Anahita	IRI 2003 2009.22 49.51
-35 Hryzlova, Sofiia	SUI 2004 2007.18 67.08
-36 Kirdyashkina, Ekaterina	RUS 2008 2005.89 46.37
-37 Karmanova, Olga Dm.	RUS 2007 2005.73 51.19
-38 Dylag, Emilia	POL 2004 2004.36 61.69
-39 Getman, Tatyana	RUS 2003 2002.62 52.54
-40 Rakshitta Ravi	IND 2005 2001.08 68.74
-41 Hrebenshchykova, Yelyzaveta	UKR 2005 2000.18 72.47
-42 Hnatyshyn, Anastasiia	UKR 2010 1999.62 55.45
-43 Kurmangaliyeva, Liya	KAZ 2005 1996.35 54.73
-44 Ciolacu, Alessia-Mihaela	ROU 2004 1992.26 56.52
-45 Kuznetsova, Marina	RUS 2006 1989.50 54.09
-46 Obada, Ema	ROU 2005 1986.87 65.98
-47 Siekanska, Maria	POL 2007 1985.04 59.59
-48 Jarocka, Liwia	POL 2003 1978.09 57.49
-49 Pipiras, Filipa Fortuna	POR 2005 1977.20 65.08
-50 Shukhman, Anna	FID 2009 1973.28 57.55
-51 Sultanbek, Zeinep	KAZ 2004 1973.12 56.58
-52 Waszczuk, Patrycja	POL 2003 1972.23 73.67
-53 Usacheva, Glafira	RUS 2003 1971.22 64.74
-54 Galvan Cipriani, Viviana	ESP 2004 1970.11 65.27
-55 Fedorova, Olesya	RUS 2009 1967.68 56.27
-56 Kirtadze, Anastasia	GEO 2009 1967.33 69.25
-57 Tomasi, Elise	FRA 2004 1967.22 60.52
-58 Kairbekova, Amina	KAZ 2006 1966.95 51.33
-59 Shubenkova, Veronika	RUS 2007 1966.75 63.84
-60 Starosta, Martyna	POL 2006 1965.08 60.03
-61 Shvedova, Alexandra	FID 2008 1963.66 51.58
-62 Mohammadi, Melika	IRI 2010 1963.04 46.39
-63 Wang, Minqing	GER 2004 1961.59 41.42
-64 Nguyen Hong Nhung	VIE 2006 1958.26 65.49
-65 Kleymenova, Valeria	RUS 2008 1957.17 68.26
-66 Sala, Giulia	ITA 2007 1955.89 64.50
-67 Zabrzanska, Weronika	POL 2006 1950.76 73.15
-68 Khamdamova, Afruza	UZB 2009 1950.44 66.89
-69 Levitan, Ronit	ISR 2004 1948.63 71.22
-70 Babic, Masa	BIH 2008 1946.43 49.21
-71 Norman, Kseniya	FID 2007 1945.61 63.09
-72 Nurgaliyeva, Zarina	KAZ 2009 1942.80 42.82
-73 Harazinska, Magdalena	POL 2003 1942.78 65.44
-74 Poliakova, Varvara	FID 2005 1940.83 52.48
-75 Mikheeva, Galina	RUS 2007 1939.23 47.68
-76 Cornileau, Juliette	FRA 2006 1936.91 62.42
-77 Tejaswini G	IND 2007 1936.64 60.11
-78 Paktinat, Zhina	IRI 2003 1935.93 73.65
-79 Petrova, Elizaveta	RUS 2007 1933.84 50.55
-80 Mahdian, Anousha	IRI 2003 1931.07 68.82
-81 Smietanska, Wiktoria	POL 2010 1929.12 44.38
-82 Sumarriva Paulin, Laura	FRA 2005 1928.08 54.17
-83 Allahverdiyeva, Ayan	AZE 2005 1927.11 74.29
-84 Stepanyan, Eva	RUS 2005 1925.87 70.63
-85 Hercog, Nusa	SLO 2003 1923.03 74.64
-86 Courjal, Pauline	FRA 2004 1922.29 45.28
-87 Renganayaki Venkatesh	IND 2006 1920.85 61.72
-88 Nikolaeva, Nadezhda	RUS 2006 1920.46 54.43
-89 Bhagyashree Patil	IND 2005 1920.45 72.77
-90 Naymanova, Patricie	BUL 2005 1919.95 66.80
-91 Czarniecka, Aleksandra	POL 2003 1916.97 55.75
-92 Bravo Mallco, Kate Azumi	PER 2007 1916.66 61.41
-93 Barwinska, Ewa	POL 2006 1916.46 58.44
-94 Mihelic, Vesna	SLO 2006 1914.72 57.32
-95 Kroliczek, Gabriela	POL 2004 1911.28 56.17
-96 Yeshchenko, Uliana	UKR 2005 1910.47 72.23
-97 Moracchini, Margaux	FRA 2004 1907.70 46.03
-98 Kirchei, Viktoriia	RUS 2005 1907.16 71.06
-99 Arzur, Maia	FRA 2009 1903.67 54.94
-100 Ruzic, Pia Marie	SLO 2004 1903.02 69.24
+1 Assaubayeva, Bibisara	KAZ 2004 2374.11 68.46
+2 Garifullina, Leya	FID 2004 2234.50 68.10
+3 Salimova, Nurgyul	BUL 2003 2196.53 71.03
+4 Toncheva, Nadya	BUL 2005 2157.97 65.88
+5 Sinitsina, Anastassia	EST 2004 2151.36 58.28
+6 Savitha Shri B	IND 2007 2130.58 59.05
+7 Nurmanova, Alua	KAZ 2007 2125.21 54.85
+8 Kamalidenova, Meruert	KAZ 2005 2108.95 66.17
+9 Gaal, Zsoka	HUN 2007 2107.61 62.60
+10 Lu, Miaoyi	CHN 2010 2106.78 64.53
+11 Omonova, Umida	UZB 2006 2096.95 61.88
+12 Beydullayeva, Govhar	AZE 2003 2092.92 68.66
+13 Schippke, Manon	FRA 2007 2092.27 54.60
+14 Borda Rodas, Anapaola S.	ARG 2004 2079.63 74.62
+15 Nasyrova, Ekaterina	RUS 2005 2074.76 61.54
+16 Solozhenkina, Elizaveta	RUS 2003 2073.68 71.96
+17 Srdanovic, Jovana	SRB 2003 2067.16 58.38
+18 Czarnecka, Lidia	POL 2004 2064.56 64.87
+19 Wikar, Martyna	POL 2005 2051.92 67.22
+20 Malicka, Maria	POL 2003 2050.00 67.17
+21 Loskutova, Viktoriya	RUS 2004 2040.30 57.06
+22 Nur-Mukhametova, Alisa	RUS 2005 2032.31 51.95
+23 Yurasova, Daria	RUS 2003 2030.29 61.85
+24 Blanquet, Camille	FRA 2005 2029.46 70.66
+25 Bach Ngoc Thuy Duong	VIE 2003 2025.42 61.00
+26 Nurgali, Nazerke	KAZ 2004 2025.01 61.77
+27 Miroshnik, Ekaterina	RUS 2003 2022.87 66.17
+28 Zhapova, Yana	FID 2008 2022.15 56.74
+29 Yakimova, Mariya	FID 2005 2021.24 54.68
+30 Balabayeva, Xeniya	KAZ 2005 2018.83 57.12
+31 Djidjeli, Sarah	FRA 2003 2018.51 73.38
+32 Zhurova, Anna	RUS 2005 2017.91 54.11
+33 Goraj, Barbara	POL 2005 2015.08 72.23
+34 Zahedifar, Anahita	IRI 2003 2012.66 47.95
+35 Kirdyashkina, Ekaterina	RUS 2008 2009.26 45.01
+36 Karmanova, Olga Dm.	RUS 2007 2009.25 50.07
+37 Hryzlova, Sofiia	SUI 2004 2007.18 68.88
+38 Dylag, Emilia	POL 2004 2004.36 63.64
+39 Getman, Tatyana	RUS 2003 2002.62 54.83
+40 Rakshitta Ravi	IND 2005 2001.08 70.51
+41 Hrebenshchykova, Yelyzaveta	UKR 2005 2000.18 74.14
+42 Hnatyshyn, Anastasiia	UKR 2010 1999.62 57.64
+43 Kurmangaliyeva, Liya	KAZ 2005 1996.35 56.92
+44 Waszczuk, Patrycja	POL 2003 1994.77 69.11
+45 Ciolacu, Alessia-Mihaela	ROU 2004 1992.26 58.67
+46 Kuznetsova, Marina	RUS 2006 1989.50 56.31
+47 Obada, Ema	ROU 2005 1986.87 67.81
+48 Kheerthi Ganta	IND 2007 1986.29 70.87
+49 Siekanska, Maria	POL 2007 1985.04 61.61
+50 Wang, Minqing	GER 2004 1979.11 42.69
+51 Jarocka, Liwia	POL 2003 1978.09 59.57
+52 Pipiras, Filipa Fortuna	POR 2005 1977.20 66.94
+53 Kairbekova, Amina	KAZ 2006 1975.43 48.95
+54 Demeter, Dorina	HUN 2005 1973.35 67.14
+55 Shukhman, Anna	FID 2009 1973.28 59.64
+56 Sultanbek, Zeinep	KAZ 2004 1973.12 58.71
+57 Jyothsna L	IND 2004 1972.01 71.32
+58 Usacheva, Glafira	RUS 2003 1971.22 66.62
+59 Nurgaliyeva, Zarina	KAZ 2009 1970.78 42.41
+60 Galvan Cipriani, Viviana	ESP 2004 1970.11 67.12
+61 Sarvani Cheedella	IND 2009 1968.30 68.61
+62 Fedorova, Olesya	RUS 2009 1967.68 58.39
+63 Kirtadze, Anastasia	GEO 2009 1967.33 71.00
+64 Tomasi, Elise	FRA 2004 1967.22 62.52
+65 Shubenkova, Veronika	RUS 2007 1966.75 65.73
+66 Starosta, Martyna	POL 2006 1965.08 62.03
+67 Shvedova, Alexandra	FID 2008 1963.66 53.90
+68 Nguyen Hong Nhung	VIE 2006 1961.01 62.15
+69 Kleymenova, Valeria	RUS 2008 1957.17 70.03
+70 Sala, Giulia	ITA 2007 1955.89 66.38
+71 Mohammadi, Melika	IRI 2010 1951.78 46.82
+72 Zabrzanska, Weronika	POL 2006 1950.76 74.80
+73 Khamdamova, Afruza	UZB 2009 1950.44 68.70
+74 Norman, Kseniya	FID 2007 1945.61 65.00
+75 Levitan, Ronit	ISR 2004 1945.43 69.20
+76 Harazinska, Magdalena	POL 2003 1942.78 67.28
+77 Poliakova, Varvara	FID 2005 1940.83 54.76
+78 Smietanska, Wiktoria	POL 2010 1940.45 43.64
+79 Gombocz, Zsofia	HUN 2003 1939.84 68.88
+80 Mikheeva, Galina	RUS 2007 1939.23 50.19
+81 Babic, Masa	BIH 2008 1938.60 48.90
+82 Ershova, Sofya	RUS 2004 1938.33 68.84
+83 Cornileau, Juliette	FRA 2006 1936.91 64.35
+84 Mahdian, Anousha	IRI 2003 1931.07 70.58
+85 Courjal, Pauline	FRA 2004 1930.35 45.80
+86 Tejaswini G	IND 2007 1928.90 58.14
+87 Sumarriva Paulin, Laura	FRA 2005 1928.08 56.39
+88 Stepanyan, Eva	RUS 2005 1925.87 72.35
+89 Hercog, Nusa	SLO 2003 1924.29 68.65
+90 Renganayaki Venkatesh	IND 2006 1920.85 63.67
+91 Ros Alonso, Joana	ESP 2003 1920.79 66.43
+92 Nikolaeva, Nadezhda	RUS 2006 1920.46 56.63
+93 Naymanova, Patricie	BUL 2005 1919.95 68.61
+94 Sevcikova, Lucia	SVK 2006 1918.14 57.45
+95 Czarniecka, Aleksandra	POL 2003 1916.97 57.91
+96 Bravo Mallco, Kate Azumi	PER 2007 1916.66 63.37
+97 Barwinska, Ewa	POL 2006 1916.46 60.49
+98 Allahverdiyeva, Ayan	AZE 2005 1915.78 69.26
+99 Mihelic, Vesna	SLO 2006 1914.72 59.45
+100 Kroliczek, Gabriela	POL 2004 1911.28 58.32
