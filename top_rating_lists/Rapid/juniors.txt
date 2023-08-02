@@ -1,0 +1,101 @@
+Name Federation BirthYear Sex Rating RD
+1 Firouzja, Alireza	FRA 2003 M 2706.15 75.29
+2 Erigaisi Arjun	IND 2003 M 2694.61 62.07
+3 Abdusattorov, Nodirbek	UZB 2004 M 2652.40 58.10
+4 Nihal Sarin	IND 2004 M 2613.96 54.56
+5 Keymer, Vincent	GER 2004 M 2569.46 64.42
+6 Gukesh D	IND 2006 M 2548.01 68.14
+7 Sadhwani, Raunak	IND 2005 M 2545.00 63.03
+8 Sindarov, Javokhir	UZB 2005 M 2540.30 54.63
+9 Niemann, Hans Moke	USA 2003 M 2528.23 80.48
+10 Dardha, Daniel	BEL 2005 M 2496.02 65.72
+11 Murzin, Volodar	FID 2006 M 2478.98 57.12
+12 Lazavik, Denis	BLR 2006 M 2469.01 61.23
+13 Teclaf, Pawel	POL 2003 M 2466.99 54.01
+14 Suleymanli, Aydin	AZE 2005 M 2462.83 61.70
+15 Sahidi, Samir	SVK 2003 M 2449.32 59.15
+16 Nesterov, Arseniy	FID 2003 M 2442.02 45.74
+17 Gavrilescu, David	ROU 2003 M 2440.62 58.25
+18 Muradli, Mahammad	AZE 2003 M 2434.19 61.17
+19 Pranav, V	IND 2006 M 2430.99 58.34
+20 Boyer, Mahel	FRA 2004 M 2426.93 54.81
+21 Daneshvar, Bardiya	IRI 2006 M 2411.90 58.81
+22 Makarian, Rudik	FID 2004 M 2397.15 50.46
+23 Sankalp Gupta	IND 2003 M 2395.74 72.45
+24 Grebnev, Aleksey	FID 2006 M 2392.14 45.48
+25 Abdrlauf, Elham	NOR 2005 M 2389.11 56.43
+26 Khubukshanov, Erdem	RUS 2007 M 2380.36 52.58
+27 Assaubayeva, Bibisara	KAZ 2004 F 2374.11 66.63
+28 Droin, Augustin	FRA 2006 M 2370.54 65.56
+29 Mohammad Fahad, Rahman	BAN 2003 M 2370.14 84.32
+30 Gines Esteo, Pedro Antonio	ESP 2004 M 2362.64 57.81
+31 Bilych, Olexiy	UKR 2004 M 2361.01 42.45
+32 Degraeve, Remy	FRA 2003 M 2354.27 47.89
+33 Galperin, Platon	SWE 2003 M 2353.00 66.34
+34 Maurizzi, Marc`Andria	FRA 2007 M 2351.98 82.69
+35 Alexakis, Dimitris	GRE 2003 M 2347.57 63.97
+36 Larkin, Vladyslav	UKR 2004 M 2343.87 44.62
+37 Stefansson, Vignir Vatnar	ISL 2003 M 2339.33 63.19
+38 Cardoso Cardoso, Jose Gabriel	COL 2004 M 2338.39 58.06
+39 Pogosyan, Stefan	ARM 2004 M 2332.53 83.83
+40 Shubin, Kirill	FID 2003 M 2331.43 50.19
+41 Pour Agha Bala, Amirreza	IRI 2004 M 2330.44 82.01
+42 Grachev, Alexey	RUS 2005 M 2328.49 79.07
+43 Nogerbek, Kazybek	KAZ 2004 M 2321.40 52.89
+44 Quispe Arteaga, Gabriel	ESP 2003 M 2320.35 70.98
+45 Mis, Mieszko	POL 2003 M 2316.40 56.90
+46 Samunenkov, Ihor	UKR 2009 M 2314.75 62.07
+47 Stoyanov, Tsvetan	BUL 2004 M 2311.94 70.01
+48 Klimkowski, Jan	POL 2007 M 2310.24 54.52
+49 Bharath Subramaniyam H	IND 2007 M 2309.66 59.25
+50 Petkov, Momchil	BUL 2005 M 2309.28 71.57
+51 Martins, Bruno Andre Leite	POR 2003 M 2307.99 53.50
+52 Barria Santos, Jose Guilherme	POR 2003 M 2306.02 61.12
+53 Subelj, Jan	SLO 2004 M 2305.97 51.91
+54 Remizov, Yaroslav	RUS 2003 M 2304.22 47.50
+55 Milosevic, Milos	SRB 2003 M 2301.66 57.44
+56 Bacrot, Alexandre	FRA 2004 M 2298.46 51.19
+57 Madaminov, Mukhiddin	UZB 2006 M 2297.05 70.80
+58 Dudin, Gleb	FID 2004 M 2292.74 76.31
+59 Petrovskyi, Vadym	UKR 2007 M 2290.81 66.27
+60 Tsoi, Dmitry	RUS 2004 M 2290.69 41.99
+61 Veiga, Jose Francisco R P Neves	POR 2003 M 2286.39 55.67
+62 Davtyan, David Arm.	ARM 2003 M 2286.25 83.06
+63 Peyrer, Konstantin	AUT 2003 M 2284.11 57.96
+64 Horvath, Dominik	AUT 2003 M 2280.21 70.52
+65 Materia, Marco	FRA 2009 M 2278.46 76.53
+66 Batsuren, Dambasuren	MGL 2004 M 2277.83 81.81
+67 Damjanovic, Vuk	SRB 2006 M 2275.89 68.64
+68 Avila Pavas, Santiago	COL 2004 M 2275.49 58.69
+69 Tsaruk, Maksim	FID 2005 M 2270.62 54.30
+70 Mathieu, Phileas	FRA 2005 M 2269.65 62.41
+71 Srihari L R	IND 2005 M 2268.67 57.91
+72 Carlo, Emanuele	ITA 2003 M 2268.53 66.17
+73 Patrelakis, Evaggelos	GRE 2004 M 2267.25 63.93
+74 Popov, Konstantin	RUS 2005 M 2267.15 84.85
+75 Levin, Guy	ISR 2006 M 2264.38 53.70
+76 Rostovtsev, Dmitry	RUS 2006 M 2262.07 37.63
+77 Mahdavi, Reza	IRI 2008 M 2261.33 37.76
+78 Ponomarev, Grigori	RUS 2006 M 2261.09 61.40
+79 Borhy, Marcell	HUN 2005 M 2256.04 80.25
+80 Quizon, Daniel	PHI 2004 M 2254.71 49.04
+81 Martinovici, Ilia	MDA 2003 M 2253.67 77.10
+82 Makoveev, Ilya	RUS 2006 M 2246.93 82.46
+83 Kucuksari, Kaan	SWE 2003 M 2246.76 72.34
+84 Laux, Dominik	GER 2006 M 2242.42 74.30
+85 Skatchkov, Valery	RUS 2004 M 2242.34 55.48
+86 Tadic, Stefan	SRB 2005 M 2242.18 53.27
+87 Han, Yichen	NED 2007 M 2242.09 55.73
+88 Pranesh M	IND 2006 M 2241.13 84.63
+89 Sorensen, Hampus	SWE 2003 M 2240.91 67.25
+90 Rozen, Eytan	ISR 2006 M 2240.83 65.15
+91 Baum, Jonasz	POL 2004 M 2240.19 59.37
+92 Zharkov, Nikolay	RUS 2003 M 2235.17 44.85
+93 Garifullina, Leya	FID 2004 F 2234.50 66.27
+94 Khripachenko, Alexander	FID 2007 M 2234.41 44.92
+95 Bazyrtsyrenov, Kirill	RUS 2006 M 2234.19 67.50
+96 Alonso Garcia, Aaron	ESP 2003 M 2231.81 66.32
+97 Prado Lobo, Jonas	ESP 2003 M 2231.30 69.34
+98 Risteski, Emil	MKD 2004 M 2229.79 65.89
+99 Lamaze, Simon	FRA 2006 M 2229.53 65.61
+100 Zia, Tahsin Tajwar	BAN 2005 M 2227.23 66.58
