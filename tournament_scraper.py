@@ -51,6 +51,36 @@ def scrape_tournament_data(country, month, year):
             with open(new_path, 'w', encoding='utf-8') as f:
                 f.write(str(soup))
 
+        # Loop through each line in the file
+        for line in lines:
+            # Extract the code from the line
+            code = line[line.find("?code=")+6:line.find('"><img')]
+
+            # Create the file path for the new file
+            new_path = os.path.join(os.path.dirname(path), 'crosstables', f'{code}.txt')
+            
+            # Check if the new file path exists and is not empty
+            if os.path.exists(new_path) and os.path.getsize(new_path) > 0:
+                # File exists and is not empty, skip this iteration
+                continue
+
+            # If the file doesn't exist or is empty, fetch data from the URL
+            # Form the complete URL
+            url = base_url + 'view_source.phtml?code=' + code
+
+            # Make the HTTP request
+            response = requests.get(url)
+
+            # Parse the HTML content
+            soup = BeautifulSoup(response.text, 'html.parser')
+
+            # Make sure the directory exists
+            os.makedirs(os.path.dirname(new_path), exist_ok=True)
+            
+            # Write the contents of 'soup' into the file
+            with open(new_path, 'w', encoding='utf-8') as f:
+                f.write(str(soup))
+
 def scrape_country_month_year(args):
     return scrape_tournament_data(*args)
 
@@ -89,7 +119,7 @@ if __name__ == "__main__":
     #     for month in range(1,13):
     #         for country in countries:
     #             tasks.append((country, month, year))
-    for month in range(8,9):
+    for month in range(9,10):
         for country in countries:
             tasks.append((country, month, 2023))
 

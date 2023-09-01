@@ -1,101 +1,101 @@
 Rank Name Federation BirthYear Rating RD
-1 Ju, Wenjun	CHN 1991 2473.57 57.01
-2 Lei, Tingjie	CHN 1997 2466.96 61.50
-3 Lagno, Kateryna	RUS 1989 2425.08 58.38
-4 Goryachkina, Aleksandra	FID 1998 2417.71 50.58
-5 Kosteniuk, Alexandra	SUI 1984 2408.56 51.67
-6 Tan, Zhongyi	CHN 1991 2403.55 54.35
-7 Koneru, Humpy	IND 1987 2394.28 62.18
-8 Zhu, Jiner	CHN 2002 2377.81 52.72
-9 Dzagnidze, Nana	GEO 1987 2373.34 50.05
-10 Muzychuk, Mariya	UKR 1992 2373.02 55.35
-11 Muzychuk, Anna	UKR 1990 2369.87 54.94
-12 Dronavalli, Harika	IND 1991 2362.15 52.44
-13 Assaubayeva, Bibisara	KAZ 2004 2358.67 55.48
-14 Shuvalova, Polina	RUS 2001 2355.32 48.67
-15 Khotenashvili, Bella	GEO 1988 2339.82 57.67
-16 Paehtz, Elisabeth	GER 1985 2335.72 54.13
-17 Batsiashvili, Nino	GEO 1987 2334.21 48.90
-18 Wagner, Dinara	GER 1999 2327.97 46.92
-19 Abdumalik, Zhansaya	KAZ 2000 2325.84 57.30
-20 Kashlinskaya, Alina	POL 1993 2325.54 53.55
-21 Arabidze, Meri	GEO 1994 2320.05 52.93
-22 Cramling, Pia	SWE 1963 2319.41 57.91
-23 Sebag, Marie	FRA 1986 2313.51 61.23
-24 Osmak, Yuliia	UKR 1998 2309.47 56.16
-25 Gunina, Valentina	FID 1989 2308.51 56.69
-26 Vaishali, Rameshbabu	IND 2001 2303.73 41.35
-27 Mammadzada, Gunay	AZE 2000 2302.90 52.09
-28 Javakhishvili, Lela	GEO 1984 2297.32 53.28
-29 Ushenina, Anna	UKR 1985 2292.15 67.50
-30 Krush, Irina	USA 1983 2289.54 60.97
-31 Hoang, Thanh Trang	HUN 1980 2280.96 72.53
-32 Efroimski, Marsel	ISR 1995 2280.78 55.71
-33 Saduakassova, Dinara	KAZ 1996 2280.53 73.24
-34 Bulmaga, Irina	ROU 1993 2278.51 45.35
-35 Injac, Teodora	SRB 2000 2276.17 46.22
-36 Vantika Agrawal	IND 2002 2274.28 42.13
-37 Danielian, Elina	ARM 1978 2273.70 57.34
-38 Pogonina, Natalija	RUS 1985 2269.16 67.89
-39 Salimova, Nurgyul	BUL 2003 2266.76 49.42
-40 Garifullina, Leya	FID 2004 2259.93 47.40
-41 Stefanova, Antoaneta	BUL 1979 2259.49 56.83
-42 Matnadze Bujiashvili, Ann	ESP 1983 2256.44 55.77
-43 Girya, Olga	RUS 1991 2255.67 65.80
-44 Milliet, Sophie	FRA 1983 2254.35 47.27
-45 Socko, Monika	POL 1978 2251.85 47.26
-46 Melia, Salome	GEO 1987 2251.72 67.47
-47 Narva, Mai	EST 1999 2249.21 53.06
-48 Mkrtchian, Lilit	ARM 1982 2249.10 61.65
-49 Kiolbasa, Oliwia	POL 2000 2247.94 46.57
-50 Huang, Qian	CHN 1986 2247.43 54.16
-51 Atalik, Ekaterina	TUR 1982 2247.34 51.67
-52 Vega Gutierrez, Sabrina	ESP 1987 2246.85 50.69
-53 Roebers, Eline	NED 2006 2245.90 43.68
-54 Xiao, Yiyi	CHN 1996 2239.82 51.66
-55 Divya Deshmukh	IND 2005 2239.19 45.81
-56 Maltsevskaya, Aleksandra	POL 2002 2237.22 49.54
-57 Guichard, Pauline	FRA 1988 2236.47 51.67
-58 Badelka, Olga	FID 2002 2230.36 44.06
-59 Tsolakidou, Stavroula	GRE 2000 2224.15 51.42
-60 Bivol, Alina	FID 1996 2223.88 51.64
-61 Vo, Thi Kim Phung	VIE 1993 2220.56 54.83
-62 Song, Yuxin	CHN 2005 2219.68 43.29
-63 Balajayeva, Khanim	AZE 2001 2218.98 59.81
-64 Gara, Ticia	HUN 1984 2216.65 74.39
-65 Sukandar, Irine Kharisma	INA 1992 2216.56 47.20
-66 Fataliyeva, Ulviyya	AZE 1996 2216.02 50.52
-67 Nomin-Erdene, Davaademberel	MGL 2000 2215.17 68.22
-68 Cori T., Deysi	PER 1993 2214.04 53.62
-69 Savina, Anastasia	FRA 1992 2213.55 51.40
-70 Padmini, Rout	IND 1994 2213.04 49.63
-71 Guo, Qi	CHN 1995 2212.70 50.42
-72 Munguntuul, Batkhuyag	MGL 1987 2211.09 56.37
-73 Cyfka, Karina	POL 1987 2210.76 55.61
-74 Shvayger, Yuliya	ISR 1994 2209.39 72.36
-75 Beydullayeva, Govhar	AZE 2003 2209.18 55.23
-76 Buksa, Nataliya	UKR 1996 2209.11 47.21
-77 Korneva, Marina	RUS 1986 2208.13 58.81
-78 Schleining, Zoya	GER 1961 2208.08 67.22
-79 Aulia, Medina Warda	INA 1997 2205.72 68.51
-80 Gara, Anita	HUN 1983 2205.45 74.40
-81 Zatonskih, Anna	USA 1978 2204.14 56.55
-82 Zawadzka, Jolanta	POL 1987 2200.90 50.30
-83 Voit, Daria	RUS 1994 2200.59 46.81
-84 Daulyte-Cornette, Deimante	FRA 1989 2199.21 53.75
-85 Melamed, Tatjana	GER 1974 2197.23 68.91
-86 Yakubbaeva, Nilufar	UZB 2000 2195.58 47.74
-87 Gaponenko, Inna	UKR 1976 2193.78 55.30
-88 Alinasab, Mobina	IRI 2000 2192.13 54.44
-89 Mammadova, Gulnar	AZE 1991 2189.72 49.47
-90 Nandhidhaa, P V	IND 1996 2188.97 50.28
-91 Babiy, Olga	UKR 1989 2188.87 68.83
-92 Kulkarni Bhakti	IND 1992 2186.92 47.18
-93 Kulon, Klaudia	POL 1992 2186.82 45.76
-94 Rapport, Jovana	ROU 1992 2186.76 67.00
-95 Tokhirjonova, Gulrukhbegim	USA 1999 2186.05 51.25
-96 Garcia Martin, Marta	ESP 2000 2185.82 47.96
-97 Gomes, Mary Ann	IND 1989 2185.21 49.97
-98 Avramidou, Anastasia	GRE 2000 2184.87 73.97
-99 Bodnaruk, Anastasia	RUS 1992 2182.06 51.11
-100 Unuk, Laura	SLO 1999 2179.75 51.07
+1 Lei, Tingjie	CHN 1997 2466.96 63.47
+2 Ju, Wenjun	CHN 1991 2453.46 55.98
+3 Goryachkina, Aleksandra	FID 1998 2418.34 47.70
+4 Lagno, Kateryna	RUS 1989 2413.24 59.29
+5 Kosteniuk, Alexandra	SUI 1984 2392.34 52.26
+6 Koneru, Humpy	IND 1987 2390.74 59.46
+7 Tan, Zhongyi	CHN 1991 2389.95 50.18
+8 Muzychuk, Mariya	UKR 1992 2385.33 53.78
+9 Muzychuk, Anna	UKR 1990 2377.79 50.15
+10 Shuvalova, Polina	RUS 2001 2367.57 47.56
+11 Dzagnidze, Nana	GEO 1987 2365.98 51.54
+12 Zhu, Jiner	CHN 2002 2365.89 51.91
+13 Dronavalli, Harika	IND 1991 2362.28 50.64
+14 Assaubayeva, Bibisara	KAZ 2004 2351.12 50.86
+15 Paehtz, Elisabeth	GER 1985 2349.95 51.89
+16 Khotenashvili, Bella	GEO 1988 2346.87 54.11
+17 Batsiashvili, Nino	GEO 1987 2335.88 48.59
+18 Wagner, Dinara	GER 1999 2327.97 49.47
+19 Abdumalik, Zhansaya	KAZ 2000 2325.84 59.41
+20 Kashlinskaya, Alina	POL 1993 2325.54 55.76
+21 Cramling, Pia	SWE 1963 2319.41 59.96
+22 Osmak, Yuliia	UKR 1998 2317.40 55.47
+23 Sebag, Marie	FRA 1986 2313.51 63.18
+24 Arabidze, Meri	GEO 1994 2308.43 52.77
+25 Javakhishvili, Lela	GEO 1984 2304.38 53.04
+26 Vaishali, Rameshbabu	IND 2001 2298.56 42.96
+27 Ushenina, Anna	UKR 1985 2294.54 64.63
+28 Efroimski, Marsel	ISR 1995 2293.79 52.75
+29 Salimova, Nurgyul	BUL 2003 2292.58 46.32
+30 Mammadzada, Gunay	AZE 2000 2291.31 53.22
+31 Injac, Teodora	SRB 2000 2284.03 46.15
+32 Saduakassova, Dinara	KAZ 1996 2280.53 74.89
+33 Gunina, Valentina	FID 1989 2279.52 55.70
+34 Bulmaga, Irina	ROU 1993 2278.68 46.92
+35 Vantika Agrawal	IND 2002 2275.47 43.09
+36 Danielian, Elina	ARM 1978 2273.70 59.43
+37 Krush, Irina	USA 1983 2270.05 59.98
+38 Pogonina, Natalija	RUS 1985 2269.16 69.65
+39 Hoang, Thanh Trang	HUN 1980 2267.68 70.34
+40 Pham, Le Thao Nguyen	VIE 1987 2265.38 70.12
+41 Roebers, Eline	NED 2006 2263.99 44.44
+42 Stefanova, Antoaneta	BUL 1979 2259.49 58.92
+43 Matnadze Bujiashvili, Ann	ESP 1983 2257.04 53.78
+44 Milliet, Sophie	FRA 1983 2256.39 45.38
+45 Girya, Olga	RUS 1991 2255.67 67.61
+46 Divya Deshmukh	IND 2005 2255.04 43.68
+47 Narva, Mai	EST 1999 2254.92 52.28
+48 Mkrtchian, Lilit	ARM 1982 2249.10 63.58
+49 Garifullina, Leya	FID 2004 2247.46 48.67
+50 Huang, Qian	CHN 1986 2247.43 56.34
+51 Atalik, Ekaterina	TUR 1982 2247.34 53.96
+52 Vega Gutierrez, Sabrina	ESP 1987 2246.85 53.03
+53 Aulia, Medina Warda	INA 1997 2245.71 61.77
+54 Socko, Monika	POL 1978 2240.38 48.39
+55 Badelka, Olga	FID 2002 2239.57 45.01
+56 Kiolbasa, Oliwia	POL 2000 2239.47 47.77
+57 Maltsevskaya, Aleksandra	POL 2002 2237.22 51.95
+58 Bivol, Alina	FID 1996 2234.53 50.82
+59 Melia, Salome	GEO 1987 2230.27 65.08
+60 Fataliyeva, Ulviyya	AZE 1996 2230.24 50.62
+61 Beydullayeva, Govhar	AZE 2003 2228.51 50.11
+62 Tsolakidou, Stavroula	GRE 2000 2222.65 51.60
+63 Song, Yuxin	CHN 2005 2219.68 46.04
+64 Daulyte-Cornette, Deimante	FRA 1989 2219.03 50.09
+65 Guichard, Pauline	FRA 1988 2218.03 48.79
+66 Sukandar, Irine Kharisma	INA 1992 2216.56 49.71
+67 Xiao, Yiyi	CHN 1996 2214.99 53.09
+68 Vo, Thi Kim Phung	VIE 1993 2214.37 55.74
+69 Padmini, Rout	IND 1994 2213.82 48.21
+70 Cori T., Deysi	PER 1993 2212.75 53.49
+71 Guo, Qi	CHN 1995 2212.70 52.80
+72 Shvayger, Yuliya	ISR 1994 2209.39 74.02
+73 Voit, Daria	RUS 1994 2208.91 46.14
+74 Korneva, Marina	RUS 1986 2208.13 60.84
+75 Schleining, Zoya	GER 1961 2208.08 69.01
+76 Kulkarni Bhakti	IND 1992 2207.52 43.71
+77 Zatonskih, Anna	USA 1978 2204.14 58.67
+78 Savina, Anastasia	FRA 1992 2203.89 49.62
+79 Cyfka, Karina	POL 1987 2202.37 55.20
+80 Zawadzka, Jolanta	POL 1987 2200.90 52.65
+81 Munguntuul, Batkhuyag	MGL 1987 2198.52 55.86
+82 Buksa, Nataliya	UKR 1996 2197.98 48.88
+83 Melamed, Tatjana	GER 1974 2197.23 70.65
+84 Nomin-Erdene, Davaademberel	MGL 2000 2194.06 61.14
+85 Gaponenko, Inna	UKR 1976 2193.24 53.53
+86 Mammadova, Gulnar	AZE 1991 2191.57 49.98
+87 Balajayeva, Khanim	AZE 2001 2191.49 60.22
+88 Xu, Yuanyuan	CHN 1981 2191.08 63.99
+89 Babiy, Olga	UKR 1989 2188.87 70.58
+90 Gomes, Mary Ann	IND 1989 2188.06 49.58
+91 Rapport, Jovana	ROU 1992 2186.76 68.78
+92 Tokhirjonova, Gulrukhbegim	USA 1999 2186.05 53.58
+93 Yakubbaeva, Nilufar	UZB 2000 2183.94 45.84
+94 Kulon, Klaudia	POL 1992 2182.32 43.61
+95 Bodnaruk, Anastasia	RUS 1992 2182.06 53.42
+96 Kamalidenova, Meruert	KAZ 2005 2180.95 45.45
+97 Garcia Martin, Marta	ESP 2000 2180.54 46.60
+98 Goltseva, Ekaterina	RUS 2002 2179.50 45.04
+99 Houska, Jovanka	ENG 1980 2179.26 69.11
+100 Nandhidhaa, P V	IND 1996 2178.23 51.56

@@ -1,101 +1,101 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nakamura, Hikaru	USA 1987 M 2729.46 60.82
-2 Carlsen, Magnus	NOR 1990 M 2724.75 57.71
-3 Caruana, Fabiano	USA 1992 M 2686.30 48.97
-4 Nepomniachtchi, Ian	RUS 1990 M 2685.14 52.83
-5 Ding, Liren	CHN 1992 M 2683.55 52.92
-6 Firouzja, Alireza	FRA 2003 M 2682.41 56.55
-7 Le, Quang Liem	VIE 1991 M 2678.09 72.42
-8 So, Wesley	USA 1993 M 2673.64 47.50
-9 Giri, Anish	NED 1994 M 2670.20 48.55
-10 Rapport, Richard	ROU 1996 M 2658.27 55.21
-11 Mamedyarov, Shakhriyar	AZE 1985 M 2653.24 52.54
-12 Wei, Yi	CHN 1999 M 2636.17 71.27
-13 Aronian, Levon	USA 1982 M 2636.16 56.02
-14 Gukesh D	IND 2006 M 2635.26 43.04
-15 Duda, Jan-Krzysztof	POL 1998 M 2634.88 58.28
-16 Dominguez Perez, Leinier	USA 1983 M 2634.86 63.92
-17 Vachier-Lagrave, Maxime	FRA 1990 M 2633.84 51.80
-18 Dubov, Daniil	RUS 1996 M 2628.17 66.66
-19 Abdusattorov, Nodirbek	UZB 2004 M 2621.61 52.15
-20 Vitiugov, Nikita	FID 1987 M 2613.53 68.18
-21 Grischuk, Alexander	RUS 1983 M 2613.40 71.71
-22 Vidit, Santosh Gujrathi	IND 1994 M 2608.08 51.64
-23 Yu, Yangyi	CHN 1994 M 2603.83 49.40
-24 Shankland, Sam	USA 1991 M 2603.06 57.75
-25 Harikrishna, Pentala	IND 1986 M 2601.87 51.18
-26 Praggnanandhaa R	IND 2005 M 2596.61 48.32
-27 Keymer, Vincent	GER 2004 M 2592.59 44.69
-28 Howell, David W L	ENG 1990 M 2592.23 73.08
-29 Deac, Bogdan-Daniel	ROU 2001 M 2590.77 48.53
-30 Robson, Ray	USA 1994 M 2590.01 55.47
-31 Vallejo Pons, Francisco	ESP 1982 M 2589.54 64.42
-32 Sjugirov, Sanan	RUS 1993 M 2589.04 51.44
-33 Maghsoodloo, Parham	IRI 2000 M 2584.32 45.43
-34 Eljanov, Pavel	UKR 1983 M 2583.66 55.92
-35 Balog, Imre	HUN 1991 M 2583.56 74.92
-36 Sevian, Samuel	USA 2000 M 2583.40 52.00
-37 Svidler, Peter	FID 1976 M 2582.32 69.22
-38 Van Foreest, Jorden	NED 1999 M 2582.11 42.59
-39 Anton Guijarro, David	ESP 1995 M 2581.96 54.68
-40 Navara, David	CZE 1985 M 2578.98 43.83
-41 Tomashevsky, Evgeny	RUS 1987 M 2578.47 72.96
-42 Erigaisi Arjun	IND 2003 M 2578.23 44.35
-43 Artemiev, Vladislav	RUS 1998 M 2576.99 60.46
-44 Kasimdzhanov, Rustam	UZB 1979 M 2575.62 70.81
-45 Tabatabaei, M. Amin	IRI 2001 M 2575.54 42.30
-46 Sargissian, Gabriel	ARM 1983 M 2574.43 63.59
-47 Sarana, Alexey	SRB 2000 M 2573.46 58.24
-48 Xiong, Jeffery	USA 2000 M 2573.45 70.13
-49 Oparin, Grigoriy	USA 1997 M 2568.81 54.60
-50 Nihal Sarin	IND 2004 M 2567.15 49.35
-51 Esipenko, Andrey	FID 2002 M 2566.06 44.19
-52 Grandelius, Nils	SWE 1993 M 2566.02 45.66
-53 Bu, Xiangzhi	CHN 1985 M 2564.57 49.42
-54 Matlakov, Maxim	RUS 1991 M 2562.76 53.31
-55 Amin, Bassem	EGY 1988 M 2561.80 49.35
-56 Ma, Qun	CHN 1991 M 2560.13 64.61
-57 Donchenko, Alexander	GER 1998 M 2559.48 44.27
-58 Wojtaszek, Radoslaw	POL 1987 M 2557.86 48.39
-59 Shirov, Alexei	ESP 1972 M 2557.81 58.02
-60 Martirosyan, Haik M.	ARM 2000 M 2557.39 44.59
-61 Bluebaum, Matthias	GER 1997 M 2555.86 47.84
-62 Fressinet, Laurent	FRA 1981 M 2555.24 58.56
-63 Wang, Hao	CHN 1989 M 2552.26 59.93
-64 Fedoseev, Vladimir	FID 1995 M 2552.05 52.58
-65 Shevchenko, Kirill	ROU 2002 M 2552.02 48.66
-66 Van Wely, Loek	NED 1972 M 2549.33 67.48
-67 Bacrot, Etienne	FRA 1983 M 2548.37 54.27
-68 Inarkiev, Ernesto	FID 1985 M 2546.85 74.02
-69 Sindarov, Javokhir	UZB 2005 M 2545.98 53.26
-70 Kryvoruchko, Yuriy	UKR 1986 M 2541.97 59.54
-71 Ivanchuk, Vasyl	UKR 1969 M 2540.99 58.25
-72 Volokitin, Andrei	UKR 1986 M 2540.54 54.17
-73 Moussard, Jules	FRA 1995 M 2539.99 45.10
-74 Gelfand, Boris	ISR 1968 M 2539.45 54.80
-75 Alekseenko, Kirill	AUT 1997 M 2539.36 56.49
-76 Korobov, Anton	UKR 1985 M 2537.44 43.10
-77 Santos Latasa, Jaime	ESP 1996 M 2535.41 50.56
-78 Saric, Ivan	CRO 1990 M 2534.10 44.55
-79 Ponomariov, Ruslan	UKR 1983 M 2531.48 58.92
-80 Narayanan.S.L	IND 1998 M 2531.46 46.49
-81 Salem, A.R. Saleh	UAE 1993 M 2530.47 57.53
-82 Melkumyan, Hrant	ARM 1989 M 2529.95 71.51
-83 Cheparinov, Ivan	BUL 1986 M 2528.81 49.18
-84 Naiditsch, Arkadij	AZE 1985 M 2528.63 55.82
-85 Li, Chao b	CHN 1989 M 2522.61 58.61
-86 Niemann, Hans Moke	USA 2003 M 2522.22 38.21
-87 Adams, Michael	ENG 1971 M 2521.72 51.79
-88 Najer, Evgeniy	FID 1977 M 2520.91 54.12
-89 Abasov, Nijat	AZE 1995 M 2519.10 44.70
-90 Malakhov, Vladimir	FID 1980 M 2518.93 69.93
-91 Liang, Awonder	USA 2003 M 2518.93 58.37
-92 Idani, Pouya	IRI 1995 M 2518.87 64.39
-93 Meier, Georg	URU 1987 M 2517.56 62.57
-94 Aravindh, Chithambaram VR.	IND 1999 M 2516.85 46.48
-95 Predke, Alexandr	SRB 1994 M 2516.60 53.32
-96 Ni, Hua	CHN 1983 M 2515.30 72.18
-97 Nguyen, Thai Dai Van	CZE 2001 M 2515.29 42.87
-98 Aryan Chopra	IND 2001 M 2515.12 42.72
-99 Svane, Frederik	GER 2004 M 2514.40 42.52
-100 Vakhidov, Jakhongir	UZB 1995 M 2513.48 57.95
+1 Carlsen, Magnus	NOR 1990 M 2728.79 52.21
+2 Nakamura, Hikaru	USA 1987 M 2706.43 59.07
+3 Caruana, Fabiano	USA 1992 M 2688.12 45.81
+4 Ding, Liren	CHN 1992 M 2683.55 55.14
+5 Firouzja, Alireza	FRA 2003 M 2682.41 58.71
+6 Nepomniachtchi, Ian	RUS 1990 M 2667.99 51.18
+7 Rapport, Richard	ROU 1996 M 2658.27 57.36
+8 Giri, Anish	NED 1994 M 2655.76 49.46
+9 So, Wesley	USA 1993 M 2651.59 47.64
+10 Le, Quang Liem	VIE 1991 M 2648.64 69.89
+11 Radjabov, Teimour	AZE 1987 M 2646.50 73.39
+12 Dominguez Perez, Leinier	USA 1983 M 2642.63 57.44
+13 Gukesh D	IND 2006 M 2640.32 42.72
+14 Aronian, Levon	USA 1982 M 2636.16 58.11
+15 Wei, Yi	CHN 1999 M 2629.08 68.24
+16 Mamedyarov, Shakhriyar	AZE 1985 M 2626.69 50.73
+17 Duda, Jan-Krzysztof	POL 1998 M 2618.66 55.01
+18 Praggnanandhaa R	IND 2005 M 2616.21 45.14
+19 Vachier-Lagrave, Maxime	FRA 1990 M 2615.03 51.99
+20 Keymer, Vincent	GER 2004 M 2609.53 45.16
+21 Dubov, Daniil	RUS 1996 M 2607.20 64.66
+22 Vitiugov, Nikita	FID 1987 M 2606.43 65.70
+23 Abdusattorov, Nodirbek	UZB 2004 M 2606.19 53.44
+24 Yu, Yangyi	CHN 1994 M 2603.79 49.83
+25 Harikrishna, Pentala	IND 1986 M 2601.87 53.45
+26 Vallejo Pons, Francisco	ESP 1982 M 2601.51 62.28
+27 Grischuk, Alexander	RUS 1983 M 2598.96 71.06
+28 Vidit, Santosh Gujrathi	IND 1994 M 2597.76 48.83
+29 Deac, Bogdan-Daniel	ROU 2001 M 2594.45 49.42
+30 Maghsoodloo, Parham	IRI 2000 M 2593.15 45.70
+31 Sjugirov, Sanan	RUS 1993 M 2589.04 53.74
+32 Erigaisi Arjun	IND 2003 M 2588.92 43.44
+33 Sarana, Alexey	SRB 2000 M 2587.68 54.84
+34 Robson, Ray	USA 1994 M 2586.16 54.22
+35 Van Foreest, Jorden	NED 1999 M 2583.94 44.01
+36 Eljanov, Pavel	UKR 1983 M 2583.66 58.03
+37 Sevian, Samuel	USA 2000 M 2583.40 54.29
+38 Svidler, Peter	FID 1976 M 2582.88 63.81
+39 Nihal Sarin	IND 2004 M 2582.67 48.90
+40 Howell, David W L	ENG 1990 M 2581.38 69.04
+41 Shankland, Sam	USA 1991 M 2580.91 58.79
+42 Tomashevsky, Evgeny	RUS 1987 M 2578.47 74.59
+43 Kasimdzhanov, Rustam	UZB 1979 M 2575.62 72.50
+44 Sargissian, Gabriel	ARM 1983 M 2574.43 65.45
+45 Xiong, Jeffery	USA 2000 M 2573.45 71.84
+46 Artemiev, Vladislav	RUS 1998 M 2571.14 57.09
+47 Navara, David	CZE 1985 M 2571.04 44.97
+48 Oparin, Grigoriy	USA 1997 M 2568.81 56.81
+49 Esipenko, Andrey	FID 2002 M 2565.75 44.66
+50 Bu, Xiangzhi	CHN 1985 M 2564.57 51.80
+51 Tabatabaei, M. Amin	IRI 2001 M 2562.84 44.06
+52 Grandelius, Nils	SWE 1993 M 2561.19 45.04
+53 Martirosyan, Haik M.	ARM 2000 M 2560.50 45.21
+54 Ma, Qun	CHN 1991 M 2560.13 66.47
+55 Fedoseev, Vladimir	FID 1995 M 2557.90 48.58
+56 Amin, Bassem	EGY 1988 M 2557.32 49.71
+57 Shevchenko, Kirill	ROU 2002 M 2554.77 49.23
+58 Matlakov, Maxim	RUS 1991 M 2554.19 51.86
+59 Bluebaum, Matthias	GER 1997 M 2553.97 48.48
+60 Donchenko, Alexander	GER 1998 M 2552.11 45.37
+61 Abasov, Nijat	AZE 1995 M 2551.32 42.53
+62 Wang, Hao	CHN 1989 M 2550.62 55.68
+63 Wojtaszek, Radoslaw	POL 1987 M 2549.20 48.83
+64 Bacrot, Etienne	FRA 1983 M 2542.69 52.55
+65 Kryvoruchko, Yuriy	UKR 1986 M 2541.97 61.52
+66 Sindarov, Javokhir	UZB 2005 M 2540.81 48.38
+67 Anton Guijarro, David	ESP 1995 M 2540.55 52.24
+68 Alekseenko, Kirill	AUT 1997 M 2539.36 58.63
+69 Shirov, Alexei	ESP 1972 M 2538.97 52.26
+70 Volokitin, Andrei	UKR 1986 M 2537.27 55.03
+71 Fressinet, Laurent	FRA 1981 M 2536.42 57.32
+72 Moussard, Jules	FRA 1995 M 2533.40 45.33
+73 Melkumyan, Hrant	ARM 1989 M 2529.95 73.18
+74 Ivanchuk, Vasyl	UKR 1969 M 2529.24 54.78
+75 Naiditsch, Arkadij	AZE 1985 M 2528.63 57.93
+76 Adams, Michael	ENG 1971 M 2528.60 50.67
+77 Narayanan.S.L	IND 1998 M 2527.82 44.80
+78 Gelfand, Boris	ISR 1968 M 2527.80 55.56
+79 Cheparinov, Ivan	BUL 1986 M 2526.27 49.44
+80 Niemann, Hans Moke	USA 2003 M 2525.43 38.40
+81 Korobov, Anton	UKR 1985 M 2523.73 42.84
+82 Kollars, Dmitrij	GER 1999 M 2523.68 49.19
+83 Santos Latasa, Jaime	ESP 1996 M 2522.92 47.36
+84 Li, Chao b	CHN 1989 M 2522.61 60.63
+85 Saric, Ivan	CRO 1990 M 2522.41 46.15
+86 Najer, Evgeniy	FID 1977 M 2520.91 56.32
+87 Ponomariov, Ruslan	UKR 1983 M 2519.27 52.34
+88 Pichot, Alan	ARG 1998 M 2519.07 45.85
+89 Aravindh, Chithambaram VR.	IND 1999 M 2519.04 46.14
+90 Malakhov, Vladimir	FID 1980 M 2518.93 71.63
+91 Idani, Pouya	IRI 1995 M 2518.87 66.26
+92 Predke, Alexandr	SRB 1994 M 2518.24 53.88
+93 Warmerdam, Max	NED 2000 M 2515.57 42.58
+94 Ni, Hua	CHN 1983 M 2515.30 73.83
+95 Svane, Rasmus	GER 1997 M 2514.52 44.52
+96 Yilmaz, Mustafa	TUR 1992 M 2513.94 46.89
+97 Meier, Georg	URU 1987 M 2513.84 61.49
+98 Liang, Awonder	USA 2003 M 2512.69 58.13
+99 Xu, Xiangyu	CHN 1999 M 2512.59 47.40
+100 Mamedov, Rauf	AZE 1988 M 2512.21 50.60
