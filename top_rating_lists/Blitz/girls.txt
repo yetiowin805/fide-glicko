@@ -25,7 +25,7 @@ Rank Name Federation BirthYear Rating RD
 24 Kanyamarala, Trisha	IRL 2005 2016.79 58.05
 25 Balabayeva, Xeniya	KAZ 2005 2015.42 49.36
 26 Kurmangaliyeva, Liya	KAZ 2005 2013.98 55.06
-27 Getman, Tatyana	RUS 2003 2012.72 60.01
+27 Getman, Tatyana	FID 2003 2012.72 60.01
 28 Czarnecka, Lidia	POL 2004 2012.13 56.28
 29 Pipiras, Filipa Fortuna	POR 2005 2009.76 59.29
 30 Nguyen Hong Nhung	VIE 2006 2005.18 53.72

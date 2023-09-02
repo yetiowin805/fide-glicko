@@ -35,14 +35,14 @@ Rank Name Federation BirthYear Sex Rating RD
 34 Gavrilescu, David	ROU 2003 M 2393.00 45.29
 35 Makarian, Rudik	FID 2004 M 2388.84 45.14
 36 Batsuren, Dambasuren	MGL 2004 M 2386.07 55.73
-37 Abdrlauf, Elham	NOR 2005 M 2384.11 41.97
+37 Amar, Elham	NOR 2005 M 2384.11 41.97
 38 Schitco, Ivan	MDA 2003 M 2382.03 53.64
 39 Hong, Andrew	USA 2004 M 2381.57 52.93
 40 Gurel, Ediz	TUR 2008 M 2379.82 49.75
 41 Sankalp Gupta	IND 2003 M 2376.34 43.88
 42 Ahmadzada, Ahmad	AZE 2004 M 2374.56 52.78
 43 Jacobson, Brandon	USA 2003 M 2373.77 40.89
-44 Dudin, Gleb	FID 2004 M 2372.66 41.46
+44 Dudin, Gleb	HUN 2004 M 2372.66 41.46
 45 Samant Aditya S	IND 2006 M 2371.35 44.12
 46 Pour Agha Bala, Amirreza	IRI 2004 M 2362.87 53.24
 47 Girel, Joseph	FRA 2004 M 2360.76 42.25

@@ -32,7 +32,7 @@ Rank Name Federation BirthYear Rating RD
 31 Lehaci, Miruna-Daria	ROU 2004 2067.76 47.50
 32 Hryzlova, Sofiia	SUI 2004 2064.84 46.16
 33 Zhurova, Anna	RUS 2005 2063.66 50.03
-34 Getman, Tatyana	RUS 2003 2063.30 47.72
+34 Getman, Tatyana	FID 2003 2063.30 47.72
 35 Balabayeva, Xeniya	KAZ 2005 2062.20 44.27
 36 Sinitsina, Anastassia	EST 2004 2056.80 54.61
 37 Solozhenkina, Elizaveta	RUS 2003 2056.21 64.16

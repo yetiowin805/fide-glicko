@@ -48,7 +48,7 @@ Rank Name Federation BirthYear Sex Rating RD
 47 Henderson de La Fuente, Lance	AND 2003 M 2372.93 72.17
 48 Boyer, Mahel	FRA 2004 M 2372.88 55.29
 49 Rodrigue-Lemieux, Shawn	CAN 2004 M 2365.74 63.01
-50 Abdrlauf, Elham	NOR 2005 M 2363.83 42.45
+50 Amar, Elham	NOR 2005 M 2363.83 42.45
 51 Shubin, Kirill	FID 2003 M 2354.19 54.70
 52 Suyarov, Mukhammadzokhid	UZB 2009 M 2349.20 53.53
 53 Dobrikov, Marco	GER 2004 M 2348.14 54.93

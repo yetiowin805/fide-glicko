@@ -25,7 +25,7 @@ Rank Name Federation BirthYear Sex Rating RD
 24 Boyer, Mahel	FRA 2004 M 2411.08 57.58
 25 Sankalp Gupta	IND 2003 M 2404.95 67.24
 26 Pranesh M	IND 2006 M 2391.10 65.49
-27 Abdrlauf, Elham	NOR 2005 M 2391.00 56.54
+27 Amar, Elham	NOR 2005 M 2391.00 56.54
 28 Assaubayeva, Bibisara	KAZ 2004 F 2390.22 68.04
 29 Grebnev, Aleksey	FID 2006 M 2389.01 44.69
 30 Khubukshanov, Erdem	RUS 2007 M 2380.36 57.09
@@ -44,7 +44,7 @@ Rank Name Federation BirthYear Sex Rating RD
 43 Bharath Subramaniyam H	IND 2007 M 2330.57 55.48
 44 Subelj, Jan	SLO 2004 M 2325.72 52.40
 45 Alexakis, Dimitris	GRE 2003 M 2324.33 61.39
-46 Dudin, Gleb	FID 2004 M 2321.80 69.45
+46 Dudin, Gleb	HUN 2004 M 2321.80 69.45
 47 Quispe Arteaga, Gabriel	ESP 2003 M 2320.35 74.38
 48 Mis, Mieszko	POL 2003 M 2316.40 61.06
 49 Samunenkov, Ihor	UKR 2009 M 2314.75 65.93

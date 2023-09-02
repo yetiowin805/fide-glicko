@@ -20,7 +20,7 @@ Rank Name Federation BirthYear Sex Rating RD
 19 Rapport, Richard	ROU 1996 M 2652.94 49.39
 20 Artemiev, Vladislav	RUS 1998 M 2652.58 55.76
 21 Vidit, Santosh Gujrathi	IND 1994 M 2643.41 45.42
-22 Fedoseev, Vladimir	FID 1995 M 2641.23 63.00
+22 Fedoseev, Vladimir	SLO 1995 M 2641.23 63.00
 23 Salem, A.R. Saleh	UAE 1993 M 2641.05 59.26
 24 Grigoryan, Karen H.	ARM 1995 M 2632.49 63.07
 25 Grischuk, Alexander	RUS 1983 M 2629.75 45.85
@@ -79,7 +79,7 @@ Rank Name Federation BirthYear Sex Rating RD
 78 Fressinet, Laurent	FRA 1981 M 2531.15 74.39
 79 Balogh, Csaba	HUN 1987 M 2527.78 68.36
 80 Predke, Alexandr	SRB 1994 M 2525.49 60.25
-81 Pichot, Alan	ARG 1998 M 2524.25 54.83
+81 Pichot, Alan	ESP 1998 M 2524.25 54.83
 82 Shirov, Alexei	ESP 1972 M 2522.58 46.51
 83 Henriquez Villagra, Cristobal	CHI 1996 M 2520.64 57.81
 84 Tabatabaei, M. Amin	IRI 2001 M 2519.50 68.64
@@ -92,7 +92,7 @@ Rank Name Federation BirthYear Sex Rating RD
 91 Eljanov, Pavel	UKR 1983 M 2511.88 65.36
 92 Ibarra Jerez, Jose Carlos	ESP 1985 M 2511.35 62.67
 93 Moussard, Jules	FRA 1995 M 2510.98 52.60
-94 Chigaev, Maksim	FID 1996 M 2510.75 52.93
+94 Chigaev, Maksim	ESP 1996 M 2510.75 52.93
 95 Grachev, Boris	RUS 1986 M 2509.73 61.81
 96 Rublevsky, Sergei	RUS 1974 M 2508.95 70.65
 97 Xu, Xiangyu	CHN 1999 M 2508.53 70.21
