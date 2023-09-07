@@ -159,104 +159,90 @@ def write_to_file(filename, players):
     with open(filename, 'w') as out_file:
         out_file.writelines(lines)
 
-def write_to_pretty_file(filename, players, players_info, top_filename = None, year = 2023):
+def write_to_pretty_file(filename, players, players_info, year):
     # Sort players by rating in descending order
     sorted_players = sorted(players.values(), key=lambda p: p.rating, reverse=True)
 
-    with open(filename, 'w') as out_file:
+    os.makedirs(filename, exist_ok=True)
+    with open(os.path.join(filename, "open.txt"), 'w') as out_file:
         # Write headers first
-        out_file.write("ID Name Federation BirthYear Sex Rating RD Volatility\n")
+        out_file.write("Rank Name Federation BirthYear Sex Rating RD\n")
+
+        counter = 1
         
         for player in sorted_players:
+            if counter > 100:
+                break
             player_info = players_info.get(player.id, {})
-            name = player_info.get('name', '')
-            federation = player_info.get('federation', '')
+            if player.rd < 75:
+                name = player_info.get('name', '')
+                federation = player_info.get('federation', '')
+                b_year = player_info.get('b_year', '')
+                sex = player_info.get('sex', '')
+                line = f"{counter} {name}\t{federation} {b_year} {sex} {player.rating:.7f} {player.rd:.7f} {player.id}\n"
+                out_file.write(line)
+                counter += 1
+    with open(os.path.join(filename, "women.txt"), 'w') as out_file:
+        # Write headers first
+        out_file.write("Rank Name Federation BirthYear Rating RD\n")
+
+        counter = 1
+        
+        for player in sorted_players:
+            if counter > 100:
+                break
+            player_info = players_info.get(player.id, {})
+            sex = player_info.get('sex', '')
+            if sex == "F" and player.rd < 75:
+                name = player_info.get('name', '')
+                federation = player_info.get('federation', '')
+                b_year = player_info.get('b_year', '')
+                line = f"{counter} {name}\t{federation} {b_year} {player.rating:.7f} {player.rd:.7f} {player.id}\n"
+                out_file.write(line)
+                counter += 1
+    with open(os.path.join(filename, "juniors.txt"), 'w') as out_file:
+        # Write headers first
+        out_file.write("Rank Name Federation BirthYear Sex Rating RD\n")
+
+        counter = 1
+        
+        for player in sorted_players:
+            if counter > 100:
+                break
+            player_info = players_info.get(player.id, {})
+            b_year = player_info.get('b_year', '')
+            if b_year.isdigit() and year - int(b_year) <= 20 and player.rd < 75:
+                name = player_info.get('name', '')
+                federation = player_info.get('federation', '')
+                sex = player_info.get('sex', '')
+                line = f"{counter} {name}\t{federation} {b_year} {sex} {player.rating:.7f} {player.rd:.7f} {player.id}\n"
+                out_file.write(line)
+                counter += 1
+    with open(os.path.join(filename, "girls.txt"), 'w') as out_file:
+        # Write headers first
+        out_file.write("Rank Name Federation BirthYear Rating RD\n")
+
+        counter = 1
+        
+        for player in sorted_players:
+            if counter > 100:
+                break
+            player_info = players_info.get(player.id, {})
             b_year = player_info.get('b_year', '')
             sex = player_info.get('sex', '')
-            
-            line = f"{player.id} {name} {federation} {b_year} {sex} {player.rating:.7f} {player.rd:.7f} {player.volatility:.7f}\n"
-            out_file.write(line)
-    if top_filename is not None:
-        os.makedirs(top_filename, exist_ok=True)
-        with open(os.path.join(top_filename, "open.txt"), 'w') as out_file:
-            # Write headers first
-            out_file.write("Rank Name Federation BirthYear Sex Rating RD\n")
-
-            counter = 1
-            
-            for player in sorted_players:
-                if counter > 100:
-                    break
-                player_info = players_info.get(player.id, {})
-                if player.rd < 75:
-                    name = player_info.get('name', '')
-                    federation = player_info.get('federation', '')
-                    b_year = player_info.get('b_year', '')
-                    sex = player_info.get('sex', '')
-                    line = f"{counter} {name}\t{federation} {b_year} {sex} {player.rating:.7f} {player.rd:.7f} {player.id}\n"
-                    out_file.write(line)
-                    counter += 1
-        with open(os.path.join(top_filename, "women.txt"), 'w') as out_file:
-            # Write headers first
-            out_file.write("Rank Name Federation BirthYear Rating RD\n")
-
-            counter = 1
-            
-            for player in sorted_players:
-                if counter > 100:
-                    break
-                player_info = players_info.get(player.id, {})
-                sex = player_info.get('sex', '')
-                if sex == "F" and player.rd < 75:
-                    name = player_info.get('name', '')
-                    federation = player_info.get('federation', '')
-                    b_year = player_info.get('b_year', '')
-                    line = f"{counter} {name}\t{federation} {b_year} {player.rating:.7f} {player.rd:.7f} {player.id}\n"
-                    out_file.write(line)
-                    counter += 1
-        with open(os.path.join(top_filename, "juniors.txt"), 'w') as out_file:
-            # Write headers first
-            out_file.write("Rank Name Federation BirthYear Sex Rating RD\n")
-
-            counter = 1
-            
-            for player in sorted_players:
-                if counter > 100:
-                    break
-                player_info = players_info.get(player.id, {})
-                b_year = player_info.get('b_year', '')
-                if b_year.isdigit() and year - int(b_year) <= 20 and player.rd < 75:
-                    name = player_info.get('name', '')
-                    federation = player_info.get('federation', '')
-                    sex = player_info.get('sex', '')
-                    line = f"{counter} {name}\t{federation} {b_year} {sex} {player.rating:.7f} {player.rd:.7f} {player.id}\n"
-                    out_file.write(line)
-                    counter += 1
-        with open(os.path.join(top_filename, "girls.txt"), 'w') as out_file:
-            # Write headers first
-            out_file.write("Rank Name Federation BirthYear Rating RD\n")
-
-            counter = 1
-            
-            for player in sorted_players:
-                if counter > 100:
-                    break
-                player_info = players_info.get(player.id, {})
-                b_year = player_info.get('b_year', '')
-                sex = player_info.get('sex', '')
-                if sex == 'F' and b_year.isdigit() and year - int(b_year) <= 20 and player.rd < 75:
-                    name = player_info.get('name', '')
-                    federation = player_info.get('federation', '')
-                    line = f"{counter} {name}\t{federation} {b_year} {player.rating:.7f} {player.rd:.7f} {player.id}\n"
-                    out_file.write(line)
-                    counter += 1
+            if sex == 'F' and b_year.isdigit() and year - int(b_year) <= 20 and player.rd < 75:
+                name = player_info.get('name', '')
+                federation = player_info.get('federation', '')
+                line = f"{counter} {name}\t{federation} {b_year} {player.rating:.7f} {player.rd:.7f} {player.id}\n"
+                out_file.write(line)
+                counter += 1
 
 def apply_new_ratings(players):
     for player in players.values():
         player.rating = player.new_rating
         player.rd = player.new_rd
 
-def main(ratings_filename, games_filename, output_filename, pretty_output_filename, top_rating_list_filename, year):
+def main(ratings_filename, games_filename, output_filename, top_rating_list_filename, player_info_filename, year):
 
     players = {}
     players_info = {}
@@ -274,7 +260,7 @@ def main(ratings_filename, games_filename, output_filename, pretty_output_filena
             players[player_id] = Player(player_id, rating, rd, volatility)
 
     print("Extracting player info...")
-    players_info = extract_player_info("players_list_foa.txt")
+    players_info = extract_player_info(player_info_filename)
 
     # Reading games
     with open(games_filename, 'r') as game_file:
@@ -304,22 +290,20 @@ def main(ratings_filename, games_filename, output_filename, pretty_output_filena
 
     # Write updated ratings to the output file
     write_to_file(output_filename, players)
-    write_to_pretty_file(pretty_output_filename, players, players_info, top_rating_list_filename, year)
     print(f"Results written to {output_filename}")
+    write_to_pretty_file(top_rating_list_filename, players, players_info, year)
+    print(f"Rating list written to {top_rating_list_filename}")
 
 if __name__ == "__main__":
-    # At least 4 and at most 5 user-provided arguments
-    if len(sys.argv) < 5 or len(sys.argv) > 7:  
-        print(f"Usage: {sys.argv[0]} <ratings_file> <games_file> <output_file> <pretty_output_file> [optional: top_rating_list_filename] [optional: year]")
+    if len(sys.argv) != 7:  
+        print(f"Usage: {sys.argv[0]} <ratings_file> <games_file> <output_file> <top_rating_list_filename> <player_info_filename> <year>")
         sys.exit(1)
     
     ratings_filename = sys.argv[1]
     games_filename = sys.argv[2]
     output_filename = sys.argv[3]
-    pretty_output_filename = sys.argv[4]
-    
-    # Check if top_rating_list is provided
-    top_rating_list_filename = sys.argv[5] if len(sys.argv) > 5 else None  # or provide a default value instead of None
-    year = int(sys.argv[6]) if len(sys.argv) > 6 else None  # or provide a default value instead of None
+    top_rating_list_filename = sys.argv[4]
+    player_info_filename = sys.argv[5]
+    year = int(sys.argv[6])
 
-    main(ratings_filename, games_filename, output_filename, pretty_output_filename, top_rating_list_filename, year)
+    main(ratings_filename, games_filename, output_filename, top_rating_list_filename, player_info_filename, year)
