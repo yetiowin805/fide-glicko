@@ -26,9 +26,9 @@ if not os.path.exists(SAVE_PATH):
     os.makedirs(SAVE_PATH)
 
 # Generate URLs and download them
-for year in range(2012, 2024):
+for year in range(2007, 2024):
     for month in range(1, 13):
-        if year == 2012 and month < 9:
+        if year == 2007 and month < 11:
             continue
         if year == 2023 and month > 8:
             break
@@ -42,19 +42,27 @@ for year in range(2012, 2024):
             print(f"File {expected_txt_file} already exists. Skipping download for {month}/{year}.")
             continue
 
+        if year > 2012 or (year == 2012 and month >= 9):
+            zip_header = f"standard_{month_str}{year_str}"
+        else:
+            zip_header = f"{month_str}{year_str}"
+
         # Generate the URL
-        url = BASE_URL + f"standard_{month_str}{year_str}frl.zip"
+        url = BASE_URL + f"{zip_header}frl.zip"
 
         # Download the zip file
         response = requests.get(url)
-        zip_path = os.path.join(SAVE_PATH, f"standard_{month_str}{year_str}frl.zip")
+        zip_path = os.path.join(SAVE_PATH, f"{zip_header}frl.zip")
         
         with open(zip_path, 'wb') as file:
             file.write(response.content)
 
         # Extract the zip file
-        with zipfile.ZipFile(zip_path, 'r') as zip_ref:
-            zip_ref.extractall(SAVE_PATH)
+        try:
+            with zipfile.ZipFile(zip_path, 'r') as zip_ref:
+                zip_ref.extractall(SAVE_PATH)
+        except Exception:
+            pass
 
         # Delete the zip file
         os.remove(zip_path)
@@ -65,6 +73,11 @@ for file_name in os.listdir(SAVE_PATH):
     if re.match(r'standard_[a-z]{3}\d{2}frl\.txt', file_name):
         year = "20" + file_name[12:14]
         month = [num for num, abbr in month_mappings.items() if abbr == file_name[9:12]][0]
+        new_file_name = f"{year}-{month:02}.txt"
+        os.rename(os.path.join(SAVE_PATH, file_name), os.path.join(SAVE_PATH, new_file_name))
+    elif re.match(r'[a-z]{3}\d{2}frl\.txt', file_name):
+        year = "20" + file_name[3:5]
+        month = [num for num, abbr in month_mappings.items() if abbr == file_name[0:3]][0]
         new_file_name = f"{year}-{month:02}.txt"
         os.rename(os.path.join(SAVE_PATH, file_name), os.path.join(SAVE_PATH, new_file_name))
 

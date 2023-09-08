@@ -124,21 +124,34 @@ def glicko2_update(target, players):
         target.volatility = 0.1
 
 def extract_player_info(input_filename):
-    with open(input_filename, 'r') as f:
-        lines = f.readlines()
+    with open(input_filename, 'r', encoding='utf-8', errors='replace') as f:
+        header = f.readline().strip()  # Read the header line
+        lines = f.readlines()          # Read the rest of the lines
 
-    # Skip the header line
-    lines = lines[1:]
+    # Determine column positions based on the header
+    id_start = header.index("ID")
+    name_start = header.index("Name")
+    name_end = min(header.index("Tit"),header.index("Fed"))
+    fed_start = header.index("Fed")
+    bday_start = header.index("B")
+    flag_start = header.index("Flag")
 
     players_dict = {}
 
     for line in lines:
         # Extract relevant fields
-        fide_id = int(line[:9].strip())
-        name = line[9:64].strip()
-        federation = line[76:79].strip()
-        sex = line[80:81].strip()
-        b_year = line[-11:-7].strip()
+        try:
+            fide_id = int(line[id_start:name_start].strip())
+        except ValueError:
+            continue
+        name = line[name_start:name_end].strip()
+        federation = line[fed_start:fed_start+3].strip()
+        sex = line[flag_start:].strip()
+        if 'w' in sex:
+            sex = 'F'
+        else:
+            sex = 'M'
+        b_year = line[bday_start:bday_start+4].strip()
 
         # Store in a dictionary
         players_dict[fide_id] = {
@@ -176,6 +189,8 @@ def write_to_pretty_file(filename, players, players_info, year):
             player_info = players_info.get(player.id, {})
             if player.rd < 75:
                 name = player_info.get('name', '')
+                if name == '':
+                    continue
                 federation = player_info.get('federation', '')
                 b_year = player_info.get('b_year', '')
                 sex = player_info.get('sex', '')
@@ -195,6 +210,8 @@ def write_to_pretty_file(filename, players, players_info, year):
             sex = player_info.get('sex', '')
             if sex == "F" and player.rd < 75:
                 name = player_info.get('name', '')
+                if name == '':
+                    continue
                 federation = player_info.get('federation', '')
                 b_year = player_info.get('b_year', '')
                 line = f"{counter} {name}\t{federation} {b_year} {player.rating:.7f} {player.rd:.7f} {player.id}\n"
@@ -213,6 +230,8 @@ def write_to_pretty_file(filename, players, players_info, year):
             b_year = player_info.get('b_year', '')
             if b_year.isdigit() and year - int(b_year) <= 20 and player.rd < 75:
                 name = player_info.get('name', '')
+                if name == '':
+                    continue
                 federation = player_info.get('federation', '')
                 sex = player_info.get('sex', '')
                 line = f"{counter} {name}\t{federation} {b_year} {sex} {player.rating:.7f} {player.rd:.7f} {player.id}\n"
@@ -232,6 +251,8 @@ def write_to_pretty_file(filename, players, players_info, year):
             sex = player_info.get('sex', '')
             if sex == 'F' and b_year.isdigit() and year - int(b_year) <= 20 and player.rd < 75:
                 name = player_info.get('name', '')
+                if name == '':
+                    continue
                 federation = player_info.get('federation', '')
                 line = f"{counter} {name}\t{federation} {b_year} {player.rating:.7f} {player.rd:.7f} {player.id}\n"
                 out_file.write(line)
