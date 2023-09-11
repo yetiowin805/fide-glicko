@@ -133,7 +133,10 @@ def extract_player_info(input_filename):
     name_start = header.index("Name")
     name_end = min(header.index("Tit"),header.index("Fed"))
     fed_start = header.index("Fed")
-    bday_start = header.index("B")
+    if "Born" in header:
+        bday_start = header.index("Born")
+    elif "B-day" in header:
+        bday_start = header.index("B-day")
     flag_start = header.index("Flag")
 
     players_dict = {}
