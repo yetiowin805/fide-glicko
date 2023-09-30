@@ -75,6 +75,7 @@ void count_files_in_directory(const char *dir_path) {
 
 void process_file(const char *path, map<int, Player>& local_players_map) {
     FILE *file = fopen(path, "r");
+    printf("Processing %s\n", path);
     if (!file) {
         printf("Failed to open the file %s.\n", path);
         return;
@@ -120,6 +121,7 @@ void process_file(const char *path, map<int, Player>& local_players_map) {
 void process_directory(const char *dir_path) {
     struct dirent *entry;
     DIR *dp = opendir(dir_path);
+    printf("Processing %s\n", dir_path);
     if (dp == NULL) {
         perror("Failed to open directory");
         return;

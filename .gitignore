@@ -6,3 +6,4 @@ glicko2
 process_fide_rating_list
 remove_duplicates
 *.sh
+./random/*
