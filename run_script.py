@@ -7,8 +7,7 @@ def run_glicko(folder, start_year, start_month):
         # For the start year, use the provided start month. For other years, start from January.
         start_m = start_month if year == start_year else 1
         
-        # For 2023, end in September. For other years, end in December.
-        end_m = 9 if year == 2023 else 12
+        end_m = 10 if year == 2023 else 12
 
         for month in range(start_m, end_m + 1):
             player_info_path = f"./player_info/{year:04d}-{month:02d}.txt"
