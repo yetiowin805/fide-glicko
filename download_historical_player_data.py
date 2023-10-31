@@ -30,7 +30,7 @@ for year in range(2007, 2024):
     for month in range(1, 13):
         if year == 2007 and month < 11:
             continue
-        if year == 2023 and month > 10:
+        if year == 2023 and month > 11:
             break
 
         month_str = month_mappings[month]

@@ -42,17 +42,21 @@ def run_glicko(folder, start_year, start_month):
             os.system(cmd)
 
 def main():
-    # Run for Standard
-    run_glicko("Standard", 2007, 10)
+    # # Run for Standard
+    # run_glicko("Standard", 2007, 10)
     
-    # Copy the 2011-12 ratings to Rapid and Blitz folders
-    src_file = "./rating_lists/Standard/2011-12.txt"
-    shutil.copy(src_file, "./rating_lists/Rapid/2011-12.txt")
-    shutil.copy(src_file, "./rating_lists/Blitz/2011-12.txt")
+    # # Copy the 2011-12 ratings to Rapid and Blitz folders
+    # src_file = "./rating_lists/Standard/2011-12.txt"
+    # shutil.copy(src_file, "./rating_lists/Rapid/2011-12.txt")
+    # shutil.copy(src_file, "./rating_lists/Blitz/2011-12.txt")
 
-    # Run for Rapid and Blitz starting from 2011-12
-    run_glicko("Rapid", 2011, 12)
-    run_glicko("Blitz", 2011, 12)
+    # # Run for Rapid and Blitz starting from 2011-12
+    # run_glicko("Rapid", 2011, 12)
+    # run_glicko("Blitz", 2011, 12)
+
+    run_glicko("Standard", 2023, 10)
+    run_glicko("Rapid", 2023, 10)
+    run_glicko("Blitz", 2023, 10)
 
 if __name__ == "__main__":
     main()
