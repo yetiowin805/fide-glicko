@@ -26,11 +26,11 @@ if not os.path.exists(SAVE_PATH):
     os.makedirs(SAVE_PATH)
 
 # Generate URLs and download them
-for year in range(2007, 2024):
+for year in range(2007, 2025):
     for month in range(1, 13):
         if year == 2007 and month < 11:
             continue
-        if year == 2023 and month > 11:
+        if year == 2024 and month > 10:
             break
 
         month_str = month_mappings[month]
