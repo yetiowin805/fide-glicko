@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Jacimovic, Sara	BIH 1997 1823.4921432 60.3250212 14403668
+2 Topic, Ajla	BIH 1995 1593.1283632 69.0758235 14404605

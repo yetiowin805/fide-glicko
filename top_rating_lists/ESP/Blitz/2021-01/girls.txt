@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Galvan Cipriani, Viviana	ESP 2004 1850.4122996 73.0748925 32041144
+2 Garcia Garcia, Aida	ESP 2004 1715.9326635 73.2344285 24576140
+3 Canon Alvarez, Nerea	ESP 2003 1579.1776845 73.2272588 24575828

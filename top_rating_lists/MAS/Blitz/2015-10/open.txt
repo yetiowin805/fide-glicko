@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Lim, Kian Hwa	MAS 1953 M 1587.2144636 73.6100381 5700744
+2 Chua, Jia-Tien	MAS 2003 F 1535.6791627 73.5798520 5710006

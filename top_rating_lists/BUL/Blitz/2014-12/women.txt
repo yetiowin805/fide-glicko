@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Stefanova, Antoaneta	BUL 1979 2550.2771497 60.2861095 2902257
+2 Georgieva, Emilia	BUL 1967 1801.3635878 71.9643981 2902451
+3 Grabcheva, Natalia	BUL 2002 1514.9798791 59.5808341 2917815

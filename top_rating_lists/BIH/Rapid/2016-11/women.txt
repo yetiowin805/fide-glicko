@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Maksimovic, Masa	BIH 2001 1751.6487031 74.9139047 14408902
+2 Mikic, Ivana	BIH 2003 1619.0066591 65.6227651 14545080

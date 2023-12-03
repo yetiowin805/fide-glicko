@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Khader, Sami	JOR 1972 M 2428.5804070 48.5847627 8100500
+2 Issa, Rafat	JOR 1975 M 2409.0000000 52.3874105 7600437

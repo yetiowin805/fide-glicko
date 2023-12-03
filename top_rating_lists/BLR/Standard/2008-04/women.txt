@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Eidelson, Rakhil	BLR 1958 2150.5190895 70.0237092 13500210
+2 Kasparova, Tatiana	BLR 1969 2121.5253142 73.9089667 13501453

@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Abera, Aydagnuhem Gezachew	ETH 1986 M 1969.9761256 74.5900601 10801839
+2 Tolu, Behailu Workneh	ETH 1991 M 1794.2947956 74.3710489 15702405
+3 Moges,Flower Habtu	ETH 1993 M 1769.5820136 72.4979367 15701662
+4 Gebregiorgis , Habtamu Gebremedhin	ETH 1990 M 1713.1088499 74.4717108 15704270

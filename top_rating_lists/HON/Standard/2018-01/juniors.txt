@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Miller Matute, Marlon Eduardo	HON 2001 M 1861.5427934 65.8372497 8400555
+2 Fernandez, Nelson Wilfredo	HON 2000 M 1710.3676834 74.3547877 8401594
+3 Ortiz, Rosa Daniela	HON 1999 F 1513.4463829 72.1317403 8400547
+4 Ramos Donaire, Maria Pradi	HON 2002 F 1392.5730446 71.1127904 8402337

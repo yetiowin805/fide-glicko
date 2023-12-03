@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Juarez Garcia, Daniela	GUA 2006 F 1566.8548997 62.7611926 7302703

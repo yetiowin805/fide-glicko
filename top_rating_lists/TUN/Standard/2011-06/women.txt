@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Krifa, Najla	TUN 1992 1624.4873216 74.9878995 5501040
+2 Marzouk, Amira	TUN 1988 1590.6684300 72.1119153 5501148

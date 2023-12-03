@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ayyad Husain	BRN 1986 M 2174.1671394 71.3313822 11200243

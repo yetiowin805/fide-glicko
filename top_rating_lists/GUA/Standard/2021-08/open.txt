@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Cu Hor, Winston Darwin	GUA 1990 M 2181.6585827 60.2198742 7300662

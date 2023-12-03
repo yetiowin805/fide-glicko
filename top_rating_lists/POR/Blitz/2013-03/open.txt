@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Morais, Vitor	POR 1955 M 2039.7659232 73.7000114 1900552
+2 Aguiar, Carlos Alberto Branco l	POR 1960 M 1948.1412241 74.4668995 1902571

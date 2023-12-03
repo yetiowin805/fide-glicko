@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Collins, Sam E.	IRL 1982 M 2454.1592199 67.8979513 2501198
+2 Breen, Anthony	IRL 1975 M 1584.8408398 74.4504122 2503174

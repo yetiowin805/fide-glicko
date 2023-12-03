@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Yang, Minchen	AUS 2010 M 1467.5350266 74.8110102 3239438
+2 Anup Kumar, Vihaan	AUS 2010 M 1416.0060187 73.8545433 3234517

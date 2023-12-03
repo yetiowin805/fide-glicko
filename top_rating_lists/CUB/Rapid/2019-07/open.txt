@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Arencibia Rodriguez, Walter	CUB 1967 M 2461.8898984 68.6427742 3500012
+2 Alarcon Casellas, Rolando	CUB 1986 M 2429.1766535 73.7669259 3507610
+3 Garcia Pantoja, Roberto	CUB 1992 M 2371.3895025 73.2408248 3509265
+4 Alonso Bouza, Julio Javier	CUB 1989 M 2254.6596544 69.2389102 3508889
+5 Gomez Perez, Humberto	CUB 1964 M 1973.7450108 72.1982434 3504948

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Joshi, Sindira	NEP 1983 1554.1263186 74.3993283 12312754
+2 Adhikari, Kripa	NEP 2003 1488.0350535 74.7217974 12315583

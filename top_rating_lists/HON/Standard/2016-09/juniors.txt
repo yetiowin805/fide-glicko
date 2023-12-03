@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Gavarrete, Joel	HON 1997 M 1820.2215875 61.0318522 8401160
+2 Cantillano, Eduard	HON 1996 M 1594.8892915 74.0059937 8402981

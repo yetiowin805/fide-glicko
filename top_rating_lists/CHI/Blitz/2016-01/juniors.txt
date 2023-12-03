@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Suarez OHiggins, Luis	CHI 1997 M 1800.4491925 61.2689453 3416780
+2 Aguirre Contreras, Cristian	CHI 1996 M 1789.4488149 74.6733083 3412776
+3 Fuentes Parra, Victor Ignacio	CHI 1997 M 1696.8736656 74.0961990 3407659
+4 Estrada Lavin, Cristian Alexand	CHI 1999 M 1666.2083604 66.7478800 3411710
+5 Christie Rodriguez, Ian	CHI 2000 M 1650.0251629 65.3073238 3418006

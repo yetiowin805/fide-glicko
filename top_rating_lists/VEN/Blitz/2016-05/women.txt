@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Rating RD
+1 Vasquez Alcala, Astrid	VEN 1991 1760.5654523 73.5460060 3901858
+2 Patino Garcia, Corals	VEN 1999 1662.0210487 71.0403903 3902781
+3 Yepez Moreno, Juliet Carolina	VEN 2001 1574.8268945 65.8238792 3905438
+4 Yepez Moreno, Catherine Celeste	VEN 2003 1316.4970602 69.5753890 3905292
+5 Dumont Peroza, Agnes Coromoto	VEN 2001 1172.4152233 74.9957929 3924254

@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Chit Ye Thu	MYA 1984 M 1539.2329531 66.9854705 13008323

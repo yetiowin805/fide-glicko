@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Geldiyeva, Mahri	TKM 1973 F 2019.3938372 68.4173430 14000059
+2 Karayev, Azat	TKM 2003 M 1612.1207488 56.8444598 14006383

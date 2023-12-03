@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Ptacnikova, Lenka	ISL 1976 2040.6222385 69.7601578 305650
+2 Thorsteinsdottir, Hallgerdur	ISL 1992 1905.6791701 63.4016716 2302454
+3 Johannsdottir, Johanna Bjorg	ISL 1993 1894.1219693 73.4240742 2303108
+4 Kristinardottir, Elsa Maria	ISL 1989 1865.0203077 55.6213047 2300370

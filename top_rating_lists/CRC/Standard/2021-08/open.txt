@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Cabezas Solano, David Alejandro	CRC 2004 M 1872.2346314 73.2805695 6507522
+2 Salazar Gould, Melanie	CRC 2003 F 1764.8993684 66.5157372 6505090
+3 Pastor Carvajal, Jeigoth	CRC 2004 M 1711.1926188 72.7920975 6516718
+4 Melendez Arce, Kalet	CRC 2003 M 1618.9232708 72.7362511 6513522
+5 Salazar Gould, Kristy Valeria	CRC 2008 F 1467.2071557 69.5869987 6511643

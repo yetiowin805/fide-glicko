@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Heredia Serrano, Carla	ECU 1991 1995.5858851 58.1103929 3603687
+2 Pinargote Carreno, Kassandra	ECU 1993 1806.1367388 67.2870279 3605256
+3 Rivadeneira Ayala, Maria Belen	ECU 1990 1777.1672783 64.5526075 3604276

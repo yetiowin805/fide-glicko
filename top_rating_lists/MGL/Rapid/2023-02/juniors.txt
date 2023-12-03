@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Batsuren, Dambasuren	MGL 2004 M 2277.8279377 73.9529310 4902920
+2 Bayasgalan, Khishigbaatar	MGL 2007 F 1859.6779379 69.8715447 4904311
+3 Margad, Munkhpurev	MGL 2011 F 1637.0661225 73.7102955 4910222
+4 Uyangalyankhua, Batzaya	MGL 2011 F 1542.0388276 73.8316057 4918959
+5 Tsogt-Erdene, Bayarjavkhlan	MGL 2009 M 1453.2189126 73.5023376 4922255

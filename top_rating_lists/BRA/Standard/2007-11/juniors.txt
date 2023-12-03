@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Fier, Alexandr	BRA 1988 M 2530.7860927 46.9665795 2107139
+2 Di Berardino, Diego Rafael	BRA 1987 M 2430.0000000 52.3874105 2105446

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Hommadov, Amanmuhammet	TKM 2006 M 2077.8416213 70.3624125 14005514
+2 Batyrov, Alihan	TKM 2013 M 1681.0828824 73.8814325 14006766
+3 Agamyradova, Mahri	TKM 2010 F 1601.9548787 74.6471304 14007568

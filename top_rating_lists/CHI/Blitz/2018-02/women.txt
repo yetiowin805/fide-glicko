@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Morales Flores, Monserrat	CHI 1994 1824.7685206 64.1978989 3412016
+2 Gomez Barrera, Javiera Belen	CHI 2002 1638.0957754 74.9502019 3418723
+3 Rossel Grandon, Maria Ignacia	CHI 2010 1319.3206217 73.7582472 3431509

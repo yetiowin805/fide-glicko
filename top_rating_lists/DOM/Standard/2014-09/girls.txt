@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Villar Acevedo, Darlin Rocio	DOM 1996 1636.2896365 69.1571006 6405053
+2 Fermin Dicent, Ellian Lissette	DOM 1995 1538.6020227 73.3554876 6408060
+3 Hilario, Fabel	DOM 1996 1524.5007063 67.6637162 6406548

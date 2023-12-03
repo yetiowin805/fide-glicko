@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Yahi, Mohamed Salem	MTN 1966 M 1776.8452979 73.1077265 19600160
+2 Mohamed Lemine, Mohamed	MTN 1994 M 1770.1323882 71.6101443 19601409
+3 Mohamed Abderrahim, Taleb Mohamed	MTN 2007 M 1673.5495491 70.7283056 19601441
+4 Hassan Sidi Mohamed Cheikh	MTN 1994 M 1672.6316940 70.7763624 19601433

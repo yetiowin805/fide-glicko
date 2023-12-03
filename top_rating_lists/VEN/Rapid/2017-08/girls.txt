@@ -1,0 +1,9 @@
+Rank Name Federation BirthYear Rating RD
+1 Alvarado Arcila, Marvia Josefina	VEN 2000 1737.5280925 72.6237653 3909034
+2 Camacho Villarreal, Beatriz Giov	VEN 2000 1628.0117502 74.7084493 3909093
+3 Rivas Lugo, Omary Milena	VEN 2001 1602.4028488 72.1766188 3905390
+4 Moro Hernandez, Alba Maria	VEN 2001 1581.4483780 74.4048687 3905349
+5 Monsalve Montalban, Valentina De	VEN 2001 1468.3797253 73.2870383 3905330
+6 Altuve Medina, Victoria Isabella	VEN 2007 1456.2989612 73.9515303 3935639
+7 Yepez Moreno, Catherine Celeste	VEN 2003 1435.1955245 71.9461318 3905292
+8 Dumont Peroza, Agnes Coromoto	VEN 2001 1273.9751502 72.8810299 3924254

@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Krogh, Peter Ove	DEN 1939 M 1733.0885304 74.4799300 1407023

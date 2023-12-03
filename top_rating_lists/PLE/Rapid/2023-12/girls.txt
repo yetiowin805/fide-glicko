@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Sawan, Eman	PLE 2007 1776.5201306 69.4252126 11511729
+2 Alhammouri, Roa	PLE 2007 1591.7346916 74.5958974 11506784

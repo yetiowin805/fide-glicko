@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Atabayev, Saparmyrat	TKM 1999 M 2401.8952085 73.9849534 14000571
+2 Atabayev, Maksat	TKM 1994 M 2388.5386095 71.0914033 14001101
+3 Ovezdurdiyeva, Jemal	TKM 1998 F 1877.5673021 73.1387212 14001888

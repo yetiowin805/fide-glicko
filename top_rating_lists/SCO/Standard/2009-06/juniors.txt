@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Green, Andrew D	SCO 1990 M 2211.3547379 47.7177084 2401762
+2 McClement, Andrew	SCO 1995 M 1919.3110919 69.1036455 2400480

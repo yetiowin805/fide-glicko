@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Vanduyfhuys, Daria	BEL 2003 1903.1680715 72.4897840 246336
+2 Dgebuadze, Marie	BEL 2004 1723.7436735 73.9895965 240222
+3 Pribylla, Amelia	BEL 2012 1414.8814601 74.1605071 267511

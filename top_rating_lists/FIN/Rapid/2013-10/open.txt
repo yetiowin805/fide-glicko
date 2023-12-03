@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Auvinen, Esa	FIN 1950 M 1837.1253593 73.9024321 501069
+2 Patola, Eero	FIN 1950 M 1810.6168665 72.9209710 504092

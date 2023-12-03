@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Paasikangas, Johanna	FIN 1974 2039.3063632 62.1459226 500879
+2 Nazarova, Anastasia	FIN 2001 1973.2433182 61.8154093 34101737

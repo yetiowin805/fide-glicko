@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Stojkovska, Monika	MKD 1993 1864.1144248 61.7220384 15002594
+2 Lakinska, Simona	MKD 1999 1513.9788074 72.0649056 15001695

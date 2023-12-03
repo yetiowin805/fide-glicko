@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Jarnstrom, Henrik	FIN 1952 M 1708.3639795 63.2600205 510572

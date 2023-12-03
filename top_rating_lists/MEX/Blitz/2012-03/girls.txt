@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Rating RD
+1 Mendoza Velazquez, Lorena Alejan	MEX 1994 1913.8326556 57.2832755 5101794
+2 De La Parra Hurtado, Daniela	MEX 1993 1910.6479859 69.3776143 5107369
+3 Real Pereyra, Diana Carime	MEX 1995 1898.0070497 65.6406574 5104106
+4 Duran Juarez, Citlali	MEX 1992 1866.1998825 64.7430867 5104084
+5 Garcia Morales, Ivette Ale	MEX 1994 1844.2786795 67.7576469 5105994

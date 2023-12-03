@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Cho, Seongho	KOR 1990 M 1842.2654913 65.8935202 13200550
+2 Bin Nasrin, Nayyef Ashyraf	KOR 1993 M 1783.4979772 69.5767152 13207091

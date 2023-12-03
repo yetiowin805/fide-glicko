@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Otero Marino, Alain	CUB 2005 M 1914.4253820 69.6917530 3524876
+2 Gonzalez Arredondo, Lazaro A.	CUB 2004 M 1893.2270674 74.9190286 3524418

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Cornileau, Juliette	FRA 2006 1685.9392838 71.2177810 36083372
+2 Marchis Mouren, Emma	FRA 2005 1615.7025573 64.3341060 36014036

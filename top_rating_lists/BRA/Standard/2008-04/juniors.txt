@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Fier, Alexandr	BRA 1988 M 2537.2072532 45.8522622 2107139
+2 Martins, Vinicius Tine	BRA 1989 M 2242.7172022 67.7767129 2112884
+3 Santiago, Yago De Moura	BRA 1992 M 2240.5019086 62.0218894 2103877

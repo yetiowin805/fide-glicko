@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Zimina, Olga	ITA 1982 2215.4251298 56.9941628 4132190
+2 Belli, Michela	ITA 1972 1808.8022174 73.8890683 2814779

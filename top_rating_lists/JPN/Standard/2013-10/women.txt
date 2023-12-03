@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Hoshino, Karen	JPN 2001 1536.6138862 55.9066466 2137984
+2 Hasegawa, Emi	JPN 1979 1452.3556973 72.2762380 7000103

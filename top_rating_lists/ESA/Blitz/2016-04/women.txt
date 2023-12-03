@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Zepeda, Lorena	ESA 1984 1928.7277300 68.4117179 6700233
+2 Garcia Mendez, Alcira Guadalupe	ESA 1998 1557.1306584 72.0097766 6702945
+3 De Leon, Stephanie	ESA 2000 1554.3519312 71.1268057 6703127

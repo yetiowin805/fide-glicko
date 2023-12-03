@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Fuentes, Agustin	ARG 2007 M 1662.8411879 74.5899798 140040
+2 Fournel, Bautista	ARG 2009 M 1620.9695777 74.4175991 20000421

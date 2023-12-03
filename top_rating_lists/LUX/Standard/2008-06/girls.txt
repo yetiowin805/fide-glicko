@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Steil-Antoni, Fiona	LUX 1989 2141.4817094 50.6451093 4001249
+2 Boyarchenko, Vlada	LUX 1997 1478.2679058 65.8373915 4000072

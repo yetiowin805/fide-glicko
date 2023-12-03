@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Agibileg, Uurtsaikh	MGL 2001 M 2176.5951022 70.6026756 4901606
+2 Enkhtuul, Altan-Ulzii	MGL 1994 F 1892.7508523 72.9005510 4901444

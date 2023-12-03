@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mellado Trivino, Juan	AND 1968 M 2362.3205814 74.6755033 2201224
+2 Ribera Veganzones, Josep Maria	AND 2003 M 1549.9610797 69.3644883 6900763
+3 Alcon Llosada, Alex	AND 2003 M 1521.6284943 63.3884524 6900780
+4 Alcon Llosada, Jaume	AND 2006 M 1440.9538294 64.6994355 6900798

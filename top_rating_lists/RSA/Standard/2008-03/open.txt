@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Michelakis, George	RSA 1972 M 2425.0000000 61.0098672 14300087
+2 Steel, Henry Robert	RSA 1989 M 2313.6057334 73.1260154 14300567

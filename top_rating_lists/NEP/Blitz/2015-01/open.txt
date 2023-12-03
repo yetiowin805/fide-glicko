@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Duwal, Ganesh Man	NEP 1957 M 1867.8542735 73.1247843 12300284

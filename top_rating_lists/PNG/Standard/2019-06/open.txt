@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Press, Shaun	PNG 1966 M 1820.9926028 71.9827976 9100075
+2 Tia, Rudy Jr.	PNG 1964 M 1661.6419075 70.9930028 9100067

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Johnson, Joshua	TTO 1999 M 1839.5522365 74.5160218 7700768
+2 Smith, Javanna	TTO 1997 F 1536.7461059 72.0246010 7700466

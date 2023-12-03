@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Baules, Jorge	PAN 1983 M 2366.5414857 73.7473615 6600247

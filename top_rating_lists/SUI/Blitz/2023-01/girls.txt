@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Manko, Mariia	SUI 2007 1848.5068255 63.7663217 14199220
+2 Avilova, Yulia	SUI 2004 1656.5956532 74.9212063 34166073

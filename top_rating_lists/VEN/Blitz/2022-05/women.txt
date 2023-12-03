@@ -1,0 +1,16 @@
+Rank Name Federation BirthYear Rating RD
+1 Pena Gonzalez, Clara Isabel	VEN 2004 1648.9639437 61.0758884 3924203
+2 Gonzalez Gonzalez, Maria Alejandra	VEN 2005 1618.7784522 74.7161182 3936040
+3 Guadalajara Barrios, Jacksilany	VEN 2006 1490.5246713 62.8707400 3931242
+4 Velasquez Marin, Glaycell Daniela	VEN 2007 1471.2349591 71.4379665 3946762
+5 Araujo Briceno, Gilary Ahilyn	VEN 2007 1460.9450789 63.5661703 3935841
+6 Guerrero Corniel, Gabriela Alejandra	VEN 2004 1439.1103068 69.0573259 3905110
+7 Castro Paitan, Maria Raquel	VEN 2003 1394.6405527 73.6057395 3915387
+8 Hernandez Mora, Nohelia Virginia	VEN 2005 1379.8877574 48.9774005 3915344
+9 Pschorn Gonzalez, Tairuma Kaina	VEN 1995 1343.3025665 73.7523270 3906060
+10 Espinoza Balza, Abril Nathaly	VEN 2006 1337.8335109 55.5760971 3962830
+11 Marin Murguey, Valentina Jatniel	VEN 2005 1326.4672483 59.1273373 3955478
+12 Quijada Delgado, Eliana Paola	VEN 2005 1205.7581331 58.8540833 3955494
+13 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1145.2013036 64.5892885 3964051
+14 Luzardo Lopez, Aranza Victoria	VEN 2011 1071.3534063 74.1065906 3956733
+15 Larez Grinstein, Katherine Sofia	VEN 2007 1063.2724586 66.4188671 3965295

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Wallace O. Williams	LBR 2004 M 1557.1017650 68.7871490 22601058
+2 Abigail Karyah	LBR 2008 F 1444.7103313 70.2032135 22601147

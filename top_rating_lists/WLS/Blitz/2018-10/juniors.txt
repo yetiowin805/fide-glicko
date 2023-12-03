@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Stevenson, Neil	WLS 2005 M 1610.6419012 67.5734173 1804235

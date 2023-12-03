@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Majoros, Rozsa Evelin	HUN 2004 1859.2447527 73.8430995 767310
+2 Hatzi, Evelin	HUN 2000 1469.3101802 74.7248483 789372

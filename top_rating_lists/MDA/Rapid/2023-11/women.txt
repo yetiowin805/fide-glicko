@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Bargan, Victoria	MDA 2007 1785.5637841 72.2337209 13908197
+2 Grebeniuc, Alexandra	MDA 2008 1641.1998791 73.4010145 13911635

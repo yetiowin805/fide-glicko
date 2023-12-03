@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Rating RD
+1 Roy, Ali	SCO 1995 1655.6902292 65.5416880 2400456

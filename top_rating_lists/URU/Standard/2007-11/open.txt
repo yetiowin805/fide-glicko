@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rodriguez Vila, Andres	URU 1973 M 2564.4961575 45.9909146 3000010
+2 Roselli Mailhe, Bernardo	URU 1965 M 2433.1928824 48.1512088 3000028

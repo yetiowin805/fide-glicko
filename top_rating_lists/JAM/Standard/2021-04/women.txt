@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Brown, Raehanna	JAM 2005 1594.9442489 72.1551754 7402740
+2 Stephenson, Amy	JAM 2006 1421.7825840 74.5155497 7403550

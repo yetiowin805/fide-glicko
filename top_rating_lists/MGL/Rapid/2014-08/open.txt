@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Gundavaa Bayarsaikhan	MGL 1989 M 2513.0116385 67.1853410 4901045
+2 Byambaa Zulzaga	MGL 1974 M 2145.6210349 73.2256754 4900642
+3 Buyandalai, Tumen	MGL 1973 M 2120.2082747 74.1145272 4901916

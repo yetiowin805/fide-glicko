@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 De Seroux, Camille	SUI 1993 1982.8743967 46.6217694 1305620
+2 Grillon, Charline	SUI 1994 1569.0030430 71.6563210 1301047

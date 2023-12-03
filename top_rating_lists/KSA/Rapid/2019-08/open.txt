@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Alem, Ali Hussain	KSA 1976 M 1650.5238786 72.0753797 21500088
+2 Al Mutlaq, Ibrahim A	KSA 1989 M 1409.5367289 72.0161311 21504610

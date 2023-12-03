@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ansell, Alan	NZL 1997 M 2042.0163927 74.8742779 4303083
+2 Li, Zuhao Luke	NZL 1997 M 2021.7312866 74.1807802 4303431

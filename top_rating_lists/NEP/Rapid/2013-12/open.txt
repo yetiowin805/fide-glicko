@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Hamal, Manish	NEP 1986 M 2040.7478650 72.4349862 12300110
+2 Shrestha, Shyam Sundar	NEP 1977 M 1905.9596927 74.5486070 12300632

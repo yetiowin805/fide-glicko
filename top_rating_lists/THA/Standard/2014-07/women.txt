@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Atthaworadej, Worasuda	THA 1999 1613.2806422 71.2841399 6201563
+2 Vongvastana, Chananchida	THA 2000 1492.1268370 62.6034300 6202179
+3 Atikankhotchasee, Manunthon	THA 1991 1448.2869740 69.2095947 6203191
+4 Phitchayarom, Ruja	THA 1992 1448.0450133 70.9603843 6201911

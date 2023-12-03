@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Apol, Luitjen Akselsson	FAI 2006 M 1808.6456203 70.6899653 7202466
+2 Berg, Margar M.	FAI 1991 M 1727.9438628 74.0386318 7200021
+3 Tummasarson, Flovin M.	FAI 2003 M 1643.1323114 71.6693551 7202431

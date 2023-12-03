@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Wei, Yi	CHN 1999 M 2637.7848071 56.9231828 8603405

@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Thilakarathne, G M H	SRI 2003 M 1865.2591558 64.3058117 9912053
+2 Piyumantha, M Sasith Nipun	SRI 2002 M 1718.5304207 66.3859515 9916148
+3 Liyanage, Ranindu Dilshan	SRI 2003 M 1694.0146664 63.7423267 9915834
+4 Nanayakkara, J A K Saranath	SRI 2003 M 1650.5374525 68.6546051 9924906

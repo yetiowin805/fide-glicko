@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kelires, Andreas	CYP 1999 M 1893.1367744 71.3210135 5900727
+2 Georgiou, Andreas	CYP 1973 M 1681.4374856 74.3798756 5900360

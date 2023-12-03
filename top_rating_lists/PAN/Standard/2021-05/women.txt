@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Rondon Chacon, Yolys Desiree	PAN 1986 1632.1259760 74.8484686 3903508
+2 Vasquez Jaen, Lourdes Lorena	PAN 2003 1568.3611578 63.4447218 6605559
+3 Alvarez Chang, Claudia Mercedes	PAN 2004 1545.8236353 67.4791767 6604374

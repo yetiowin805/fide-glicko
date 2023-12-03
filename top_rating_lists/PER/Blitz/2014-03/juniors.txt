@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Cori, Jorge	PER 1995 M 2412.1098866 71.9567336 3802272
+2 Caballero Quijano, Mitzy Mishell	PER 2001 F 1897.6710670 57.6765366 3807223
+3 Quispe Rojas, Gabriel Herwin	PER 2001 M 1515.9329058 74.8116429 3816818
+4 Vergara Pastor, Jorge Luis Braul	PER 1999 M 1435.6230613 73.8071731 3816869

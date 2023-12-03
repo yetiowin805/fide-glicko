@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Chiarion, Elisa	ITA 1995 1978.0054482 65.3196088 828653
+2 Marseglia, Serena	ITA 2001 1230.5770329 60.8834966 2827048

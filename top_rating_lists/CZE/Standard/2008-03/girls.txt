@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Nemcova, Katerina	CZE 1990 2400.3200306 57.1589815 322750
+2 Sochorova, Jana	CZE 1991 1903.7331394 65.7511783 329894

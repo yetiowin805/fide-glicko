@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Dogan, Sevval	TUR 1999 1653.5596954 71.3963323 6322565
+2 Oney, Gulumser	TUR 1956 1607.7496617 74.5986491 6343082

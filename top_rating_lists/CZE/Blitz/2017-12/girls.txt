@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Pribylova, Sofie	CZE 2002 1860.4598644 41.0710896 371726
+2 Encinas, Michelle Diane	CZE 2002 1461.8131237 71.6517949 392898

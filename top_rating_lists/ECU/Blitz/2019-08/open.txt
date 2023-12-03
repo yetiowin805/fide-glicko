@@ -1,0 +1,7 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Pazos Gambarrotti, Plinio	ECU 1960 M 2191.7640464 72.4500587 3600068
+2 Carrasco Jacome, Bryan	ECU 1997 M 2114.3265613 64.3628063 3618986
+3 Noboa Silva, Kevin	ECU 1999 M 2032.1719686 63.5566486 3618471
+4 Garzon Zapatanga,Christopher Leonel	ECU 2008 M 1759.2196885 69.3217276 3634787
+5 Quezada Pauker,Katheen Gabriela	ECU 2007 F 1627.8212421 73.0173308 3632261
+6 Artieda Berru,Ariadna Ameli	ECU 2007 F 1487.3155919 71.6370586 3630293

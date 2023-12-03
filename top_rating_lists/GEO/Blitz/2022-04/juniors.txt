@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Qalichava, Akaki	GEO 2005 M 2014.8874502 74.3710559 13615408
+2 Tsotsonava, Elene	GEO 2005 F 1968.8797657 70.4518894 13615939

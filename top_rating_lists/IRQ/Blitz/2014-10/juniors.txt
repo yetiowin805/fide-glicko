@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rabeea, Sabah Nori	IRQ 2002 M 1588.4202497 74.6641188 4806212
+2 Ameer Dhafer Abdulameer	IRQ 2005 M 1454.5258887 71.3493239 4807537

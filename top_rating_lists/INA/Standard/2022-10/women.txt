@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Sukandar, Irine Kharisma	INA 1992 2268.0472878 51.1741898 7101937
+2 Aulia, Medina Warda	INA 1997 2241.9090101 68.6687059 7101570
+3 Citra, Dewi Ardhiani Anastasia	INA 1994 2125.9334071 70.2445119 7101244
+4 Singgih, Diajeng Theresa	INA 2004 1896.3427883 57.8329923 7104391

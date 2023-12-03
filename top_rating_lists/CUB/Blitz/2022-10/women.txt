@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Gonzalez Ochoa, Yoana	CUB 1992 1966.8727244 71.3550552 3507629
+2 Palmero Martinez, Rachel	CUB 1997 1916.2264739 74.8061784 3516466
+3 Fernandez Bustamante, Leancy B.	CUB 2000 1859.2179631 71.0381665 3523870
+4 Caballero Ramos, Greter	CUB 2006 1776.0095878 67.9081697 3530655

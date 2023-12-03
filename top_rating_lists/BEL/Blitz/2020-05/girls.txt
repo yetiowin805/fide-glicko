@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Burssens, Maya	BEL 2008 1539.1564975 73.2767565 258237
+2 Navez, Alice	BEL 2005 1421.9885635 71.6086368 252336

@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Dominguez Perez, Leinier	CUB 1983 M 2778.4011277 72.7139869 3503240
+2 Martinez Duany, Lelys Stanley	CUB 1985 M 2594.2367481 72.2742042 3504727
+3 Alarcon Casellas, Rolando	CUB 1986 M 2494.6030292 70.9242513 3507610
+4 Julien Casteleiro, Ariel	CUB 1990 M 1567.0862072 71.2498575 3516628

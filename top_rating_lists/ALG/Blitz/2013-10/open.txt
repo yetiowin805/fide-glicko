@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Haddouche, Mohamed	ALG 1984 M 2336.6277387 70.7478173 7900660
+2 Ferhi, Djamel	ALG 1984 M 2044.9241467 74.9140828 7900740

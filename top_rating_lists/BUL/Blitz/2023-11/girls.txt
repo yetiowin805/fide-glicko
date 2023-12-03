@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Toncheva, Nadya	BUL 2005 2037.7743963 67.4971151 2924056
+2 Naymanova, Patricie	BUL 2005 1834.5210520 72.6266923 2925907
+3 Chuchukova, Stefani	BUL 2006 1780.2961352 51.2653756 2942488

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Megaranto, Susanto	INA 1987 M 2519.3046861 69.6337230 7101384
+2 Sukandar, Irine Kharisma	INA 1992 F 2322.3871415 71.0546054 7101937
+3 Sean, Winshand Cuhendi	INA 1997 M 2273.7870303 65.3317862 7101554

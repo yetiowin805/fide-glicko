@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Hoshino, Karen	JPN 2001 1665.4805108 63.5877822 2137984
+2 Kojima, Natsumi	JPN 1994 1652.0461028 66.5774799 7002181

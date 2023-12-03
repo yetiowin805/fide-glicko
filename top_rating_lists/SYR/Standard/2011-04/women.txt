@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Algildah, Nibal	SYR 1987 1748.7233753 60.9578527 7600950
+2 Al-Jelda, Fatma	SYR 1988 1696.2055649 65.7097658 7600291

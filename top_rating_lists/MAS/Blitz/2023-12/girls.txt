@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Chua, Jia-Tien	MAS 2003 1688.9558865 66.9164716 5710006
+2 Kumaran, Ashwiniy	MAS 2010 1625.4290927 74.6709405 35815787

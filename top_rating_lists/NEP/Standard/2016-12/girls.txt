@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Lohani, Sujana	NEP 1999 1543.8029710 68.5989345 12311987
+2 Neupane, Anisha	NEP 2002 1380.2917201 73.7205027 12311642

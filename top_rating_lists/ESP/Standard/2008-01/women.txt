@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Vega Gutierrez, Sabrina	ESP 1987 2347.7877679 54.6386358 2219026
+2 Llaneza Vega, Patricia	ESP 1979 2313.8844047 69.1778762 2212676
+3 Clopes Llahi, Judit	ESP 1991 2094.0807419 69.5384936 2269244

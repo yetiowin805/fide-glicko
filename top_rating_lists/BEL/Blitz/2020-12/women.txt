@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Zozulia, Anna	BEL 1980 2085.7765512 49.7001892 14102110
+2 Vanduyfhuys, Daria	BEL 2003 1785.1911748 71.1940822 246336

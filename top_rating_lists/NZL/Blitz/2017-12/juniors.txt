@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Punsalan, Vyanla M	NZL 2004 F 1772.6089756 74.4809832 4305850
+2 Picken, Oliver	NZL 2003 M 1690.4457018 70.8261348 4304764

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Nakhbayeva, Guliskhan	KAZ 1991 2205.7462702 63.2702646 13704788
+2 Rysbayeva, Aigerim	KAZ 1991 2185.6942923 68.0381375 13704567
+3 Saduakassova, Dinara	KAZ 1996 2014.1428888 64.3589250 13700090

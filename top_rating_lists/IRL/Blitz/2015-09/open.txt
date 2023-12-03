@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 McCabe, Shane	IRL 1968 M 1718.5715710 71.9987865 2503891

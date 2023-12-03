@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Nazarova, Anastasia	FIN 2001 2017.3944857 50.2427445 34101737
+2 Rinne, Heini	FIN 1990 1688.3618851 65.5543479 513423

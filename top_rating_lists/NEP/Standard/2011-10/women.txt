@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ghale, Tara	NEP 1995 1596.5978969 70.5767423 12301680
+2 Adhikari, Asmita	NEP 1994 1529.7716012 67.5879501 12301329

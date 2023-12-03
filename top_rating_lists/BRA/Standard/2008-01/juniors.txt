@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Fier, Alexandr	BRA 1988 M 2542.5223334 46.2230184 2107139
+2 Santiago, Yago De Moura	BRA 1992 M 2241.2028468 72.7970353 2103877

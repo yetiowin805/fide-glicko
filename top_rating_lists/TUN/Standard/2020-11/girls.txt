@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Miladi, Amen	TUN 2004 1696.6376986 61.3706852 5503779
+2 Hwass, Zaineb	TUN 2005 1503.5668752 71.6527212 5504643

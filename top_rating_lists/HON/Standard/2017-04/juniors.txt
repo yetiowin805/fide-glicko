@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Gavarrete, Joel	HON 1997 M 1831.6659546 66.8393560 8401160
+2 McDowell, Sharon	HON 1997 F 1504.0613253 67.6673795 8401489

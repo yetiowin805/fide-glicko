@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Francis, Thapelo	BOT 1994 1670.5779646 57.0924449 11301317
+2 Nthite, Rosa	BOT 1995 1498.8413552 74.6983950 11300604

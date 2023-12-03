@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Emojong Elijah	UGA 1992 M 2052.6449434 59.1071689 10000402
+2 Nsubuga, Haruna	UGA 1992 M 1932.2968923 67.5417608 10000569

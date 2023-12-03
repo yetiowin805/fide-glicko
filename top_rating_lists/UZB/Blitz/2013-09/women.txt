@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Muminova, Nafisa	UZB 1990 2222.1971507 67.7495185 14201526
+2 Kurbonboeva, Sarvinoz	UZB 1994 2100.0380843 73.4062216 14201780

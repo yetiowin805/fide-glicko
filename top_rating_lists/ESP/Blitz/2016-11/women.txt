@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Collado Barbas, Laura	ESP 1993 2081.6596200 69.5933355 2294907
+2 Nieto Rego, Ana	ESP 2004 1516.2468783 67.2319155 24537330

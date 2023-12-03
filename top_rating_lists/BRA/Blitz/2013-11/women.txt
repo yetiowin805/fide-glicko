@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Giese, Ellen Cristine	BRA 1981 1745.9112289 71.4641446 2115867
+2 Reis,Virginia Lagrange M.	BRA 1968 1596.9692390 69.0730424 2134730

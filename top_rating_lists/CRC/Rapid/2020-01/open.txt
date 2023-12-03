@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Pastor Carvajal, Jeigoth	CRC 2004 M 1855.2640823 67.7969647 6516718
+2 Murillo Gonzalez, Carlos E	CRC 1998 M 1812.8147953 74.8983973 6504892
+3 Villegas Rodriguez, Jeremy	CRC 2003 M 1667.7947665 72.9036375 6512798
+4 Lobo Meneses, Natalia	CRC 2003 F 1651.7443925 69.8683867 6509207

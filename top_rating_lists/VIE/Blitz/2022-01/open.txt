@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Le, Quang Liem	VIE 1991 M 2645.7197678 57.0124610 12401137
+2 Dong, Bao Nghia	VIE 1992 M 2285.6419776 66.0059276 12400343

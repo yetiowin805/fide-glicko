@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kusatha, Niken	NEP 2002 M 1939.7181485 63.8766174 12314560
+2 Silwal, Purushottam	NEP 2008 M 1855.7003622 74.7046313 12332313

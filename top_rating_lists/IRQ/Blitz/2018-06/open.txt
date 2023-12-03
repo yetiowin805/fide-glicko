@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Moazaz , Dhahir Habeeb	IRQ 2003 M 1900.2856306 73.5741122 4807421
+2 Mohammed Ali MahdiAl-Kinani	IRQ 1965 M 1852.5325147 74.9352661 4801792
+3 Jalaluldeen, Kareen Kamal J.	IRQ 1992 F 1551.0722674 72.9471866 4801776

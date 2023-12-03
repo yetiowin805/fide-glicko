@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Stojkovska, Monika	MKD 1993 1868.5695416 72.7963017 15002594
+2 Bejatovic, Bojana	MKD 1994 1854.2166808 70.3650563 15000141

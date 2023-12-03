@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Papadopoulos, Ioannis K.	GRE 1988 M 2450.1726163 54.2035323 4207742
+2 Pavlidou, Ekaterini	GRE 1993 F 1948.3776214 69.5582796 4213262

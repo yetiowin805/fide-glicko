@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Cancio-Bello Ayes, Flavia	CUB 1993 1965.0839751 74.5134619 3512070
+2 Fernandez Rivero, Karla July	CUB 1997 1709.8225228 69.9797207 3517489

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Osmanodja, Filiz	GER 1996 2025.4364933 64.3579493 24633569
+2 Zahn, Alina	GER 1998 1789.2353542 74.1284014 24696730

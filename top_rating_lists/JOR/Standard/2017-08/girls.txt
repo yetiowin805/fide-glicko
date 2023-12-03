@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Alshoyby, Rama	JOR 2000 1472.6331706 74.7217813 8103933
+2 Dalya, Abdelrahim	JOR 2006 1253.7029238 74.7613401 8108161

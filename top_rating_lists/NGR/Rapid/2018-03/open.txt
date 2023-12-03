@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Osiyemi, Lara	NGR 1961 M 1684.9192037 74.1132614 8500789
+2 Odiase, Oluwaseun	NGR 1980 M 1639.9722195 53.4421811 8502315

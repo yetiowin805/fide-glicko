@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Elisabeth, Christine	INA 2002 F 1773.5891561 70.0035612 7106165

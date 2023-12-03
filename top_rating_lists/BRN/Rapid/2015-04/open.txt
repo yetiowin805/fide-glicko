@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Amini, Hossein Ali	BRN 0000 M 1613.7944532 73.9577651 11201584
+2 Shaker, Mosab	BRN 1986 M 1566.9581293 58.8059551 11201789

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Latreche, Khadidja	ALG 1990 1846.2504599 73.5657867 7901780
+2 Nouali, Djouher	ALG 1987 1690.8397886 73.9089129 7900414

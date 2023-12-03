@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Masango, Spencer	ZIM 1982 M 2070.1630608 60.3239071 14300753
+2 Muzhingi, Taurai Bless	ZIM 2001 M 1779.7094671 72.6598877 11006307

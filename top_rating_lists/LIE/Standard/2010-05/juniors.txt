@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Zier, Oliver	LIE 1995 M 2099.0434139 60.9155877 24631906
+2 Zier, Verena	LIE 1991 F 1968.3085070 71.9004348 24620602

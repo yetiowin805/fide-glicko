@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Azman Hisham, Nur Nabila	MAS 1997 1885.6796502 72.3915126 5702135
+2 Chua, Jia-Tien	MAS 2003 1640.1345638 65.6907939 5710006

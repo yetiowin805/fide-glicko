@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Nemeth, Zalan	IRL 2002 M 2115.5684260 74.5863974 2512041
+2 McDonnell, James J.	IRL 1954 M 1561.6351981 68.3982370 2500787

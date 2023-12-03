@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Petrenko, Svetlana	MDA 1974 2121.9853514 67.7235390 13900196
+2 Daicu, Diana	MDA 1999 1544.8576171 66.5358297 13905163

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Kanakova, Natalie	CZE 1999 1786.6956509 69.4563006 350486
+2 Sabolova, Kristyna	CZE 1995 1727.5402042 71.9926054 332305

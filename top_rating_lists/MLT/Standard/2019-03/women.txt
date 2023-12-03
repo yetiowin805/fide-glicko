@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Psaila, Uranchimeg	MLT 1978 1391.5762398 68.9481528 5600804
+2 Stagno, Milena	MLT 2006 1325.9961519 52.7558137 5602289

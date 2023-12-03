@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Alawadhi, Amenah	KUW 1980 1274.3405332 68.0674738 10301100
+2 Alkanderi, Suad	KUW 1974 1213.3346773 67.0283284 10300805

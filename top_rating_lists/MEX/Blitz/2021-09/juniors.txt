@@ -1,0 +1,8 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Castillo Coronado, David Arturo	MEX 2005 M 1827.0980062 64.3515731 5163340
+2 Ramirez Sosa, Carlos	MEX 2008 M 1714.0180464 74.7945536 5139767
+3 Aguilar Sanchez, Marcos Eduardo	MEX 2003 M 1648.9440143 66.9993663 5119693
+4 Del Razo Mendoza, Andrea Nikole	MEX 2003 F 1540.8148550 66.6453012 5137640
+5 Aguilar Sanchez, Citlali	MEX 2004 F 1483.9060438 66.9988218 5119502
+6 Del Bosque Montes, Sergio Alan	MEX 2006 M 1480.6787157 71.7640120 5166942
+7 Del Razo Mendoza, Nancy Ailine	MEX 2006 F 1383.1893202 70.6394918 5137632

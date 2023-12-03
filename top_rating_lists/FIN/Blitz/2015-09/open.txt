@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Puroila, Sippo	FIN 1959 M 1840.9455428 68.3154255 504572
+2 Pietinen, Pekka	FIN 1961 M 1830.2149401 72.8846882 502545

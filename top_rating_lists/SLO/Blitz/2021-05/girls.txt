@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Drevensek, Doroteja	SLO 2005 1621.5000881 71.7912677 14635283
+2 Pajek, Tjasa	SLO 2005 1569.9214016 61.3159920 14616831

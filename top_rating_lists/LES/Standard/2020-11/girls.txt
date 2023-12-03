@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Malillo, Phera	LES 2005 1496.3589504 71.9027495 21300763
+2 Reitumetse Taioe	LES 2009 1355.4824724 74.5294532 21300658

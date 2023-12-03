@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mena, Ailen Oriana	AHO 1999 F 1729.4205478 72.1173689 3902773
+2 Sanchez, Mariana	AHO 2001 F 1488.8884191 67.6127221 7501307

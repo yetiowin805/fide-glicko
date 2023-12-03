@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Khachatryan, Marieta	ARM 2004 1791.1174775 73.9242761 13310437
+2 Khachatryan, Nadezhda	ARM 2004 1750.8440782 71.6726703 13310771

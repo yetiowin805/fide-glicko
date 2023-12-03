@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Studer, Noel	SUI 1996 M 2370.2400433 59.4840034 1319620
+2 Bischofberger, Dario	SUI 1998 M 1981.9034577 73.5946509 1322087

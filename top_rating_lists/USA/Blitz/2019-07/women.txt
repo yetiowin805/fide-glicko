@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Krush, Irina	USA 1983 2340.2758937 53.4625659 2012782
+2 Zatonskih, Anna	USA 1978 2301.8463087 73.9965624 14101572

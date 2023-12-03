@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Bajarani, Ulvi	AZE 1995 M 2460.5820368 70.8621348 13403028
+2 Bunyatov, Rustam	AZE 1999 M 2130.4969247 71.8504636 13410210

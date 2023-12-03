@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Richterova, Natasa	CZE 1996 1879.6536934 70.0184746 350591
+2 Pribylova, Sofie	CZE 2002 1659.2478997 63.9187868 371726
+3 Smajzrova, Katerina	CZE 1996 1495.5249186 72.8576388 373150

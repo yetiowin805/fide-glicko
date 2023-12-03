@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Enkhtuul, Altanulzii	MGL 1994 F 2081.1067303 68.5224967 4901444
+2 Enkhnar, Enkhbaatar	MGL 1997 M 2065.5786443 68.5216486 4900324
+3 Saikhanzaya, Ganbaatar	MGL 1997 F 1815.9636405 71.1431163 4900030

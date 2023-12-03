@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Strnadova, Monika	CZE 2005 1688.9743910 69.0426883 23701668
+2 Hosova, Sandra	CZE 2006 1672.6882412 58.5220787 397717

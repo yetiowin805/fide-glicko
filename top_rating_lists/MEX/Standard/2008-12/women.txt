@@ -1,0 +1,7 @@
+Rank Name Federation BirthYear Rating RD
+1 Guerrero Rodriguez, Alejandra	MEX 1974 2030.2829383 64.3279482 5104297
+2 Gutierrez Mancillas, Alicia Abig	MEX 1990 1945.3829470 64.0648574 5108926
+3 Mendoza Velazquez, Lorena Alejan	MEX 1994 1904.4828709 56.2577405 5101794
+4 Quiriz Lopez, Jeaneth Estela	MEX 1989 1854.3215633 73.6077221 5110947
+5 Real Pereyra, Diana Karime	MEX 1995 1808.6672041 70.4542332 5104106
+6 De La Parra Hurtado, Daniela	MEX 1993 1731.8553761 63.1437619 5107369

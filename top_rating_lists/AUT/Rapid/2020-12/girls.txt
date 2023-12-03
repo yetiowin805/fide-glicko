@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Katter, Katharina	AUT 2005 1794.4780508 73.4412064 1642626
+2 Vicze, Kata	AUT 2006 1760.1952058 71.7638978 786527

@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Garzon Zapatanga,Christopher Leonel	ECU 2008 M 1821.5776555 73.5684437 3634787
+2 Quezada Pauker,Katheen Gabriela	ECU 2007 F 1672.2429546 72.6029206 3632261
+3 Artieda Berru,Ariadna Ameli	ECU 2007 F 1533.9206167 72.1330849 3630293
+4 Orbe Vivero, Maria Jose	ECU 2007 F 1477.6340746 74.3585320 3636330

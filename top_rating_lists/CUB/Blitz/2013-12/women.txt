@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Cardenas Ballester, Maydelin	CUB 1987 2060.4725606 73.9452849 3508242
+2 Fernandez Rivero, Karla July	CUB 1997 1709.8225228 73.3972551 3517489

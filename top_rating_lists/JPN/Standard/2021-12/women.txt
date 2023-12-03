@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Kojima, Natsumi	JPN 1994 1609.6782915 70.7916706 7002181
+2 Mitsuyama, Rikka	JPN 2009 1495.3185417 72.3739428 7002815

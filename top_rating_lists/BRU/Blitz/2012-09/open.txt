@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Hj, Azahari Md Aliuddin	BRU  M 2030.6343824 67.8439150 10500324
+2 Yee, Soon Wei	BRU 1989 M 2020.7958715 64.8818820 10500553
+3 Pg, L Wijaya Pg Hj Mohd Limbang	BRU  M 1598.8211550 68.8149248 10500480

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Burbach, Anya Belle	THA 2006 1392.6644811 64.8823096 6205690
+2 Kaewwattha, Natrada	THA 2007 1376.9141558 65.9562707 6212174

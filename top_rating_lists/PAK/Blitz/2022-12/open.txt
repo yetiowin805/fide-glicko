@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Dr. Murtaza Ali	PAK 1981 M 2121.3590584 64.1701726 7801750
+2 Kamran, Fardad	PAK 2006 M 1547.4338705 56.6028710 7814372

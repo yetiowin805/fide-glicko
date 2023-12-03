@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kirega, Titus Mwangi	KEN 1989 M 1814.5458706 72.9864592 10802240
+2 Kirega, Joseph	KEN 1996 M 1764.0208774 74.5275416 10802142

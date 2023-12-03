@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Dos Anjos, Diovana Ferreira	BRA 1999 1540.8030751 72.3162157 2152282
+2 De Souza, Elana Silva	BRA 1995 1359.8267464 66.6305491 2150239

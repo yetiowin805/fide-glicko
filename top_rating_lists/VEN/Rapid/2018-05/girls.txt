@@ -1,0 +1,9 @@
+Rank Name Federation BirthYear Rating RD
+1 Alvarado Arcila, Marvia Josefina	VEN 2000 1758.4041638 70.7863185 3909034
+2 Patino Garcia, Corals	VEN 1999 1740.8000721 69.0038815 3902781
+3 Pena Gonzalez, Clara Isabel	VEN 2004 1654.5818572 70.3824114 3924203
+4 Perez Hernandez, Vicmary C.	VEN 2005 1550.5281667 68.0817051 3930831
+5 Guadalajara Barrios, Jacksilany	VEN 2006 1436.1227798 66.1765679 3931242
+6 Araujo Briceno, Gilary Ahilyn	VEN 2007 1342.1336934 65.2735837 3935841
+7 Hernandez Mora, Nohelia Virginia	VEN 2005 1313.2745678 62.6566925 3915344
+8 Dumont Peroza, Agnes Coromoto	VEN 2001 1250.0997349 64.9566326 3924254

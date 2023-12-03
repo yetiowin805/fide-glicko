@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Arakhamia-Grant, Ketevan	SCO 1968 F 2396.0219198 69.9381067 13600168
+2 Sreeves, Clement	SCO 1992 M 2144.3683209 74.2907192 2402564

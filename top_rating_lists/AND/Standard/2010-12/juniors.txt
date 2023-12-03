@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mateu Guiu, Esteve	AND 1992 M 1865.8835172 74.9602957 22270728
+2 Pericas Rechi, Marc	AND 1994 M 1620.9953305 71.4386744 22271279

@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Juarez Garcia, Daniela	GUA 2006 1586.1116123 57.6499495 7302703
+2 Raymundo, Deycy Daniela	GUA 2008 1526.2984615 67.0079355 7305184
+3 Garcia Medina, Fiorella Jasmine	GUA 2008 1471.3247263 65.0776704 7305338
+4 Reinhard Moller, Kerstin Danielle	GUA 2013 1345.5166055 60.2675811 7306997

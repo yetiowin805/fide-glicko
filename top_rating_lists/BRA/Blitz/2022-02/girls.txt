@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Rodrigues Mota, Sophia Lorena	BRA 2007 1500.7584522 72.1611935 2187280
+2 Campagnolo, Bruna	BRA 2007 1488.2277956 64.8034229 2178257
+3 Pavao, Alice Lara Biasi	BRA 2010 1310.1836110 64.9400738 22779035

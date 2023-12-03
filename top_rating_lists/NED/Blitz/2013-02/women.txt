@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Haast, Anne	NED 1993 2235.7449934 74.7558806 1017292
+2 Osinga, Angelique	NED 1995 1693.4602598 74.7648007 1035347

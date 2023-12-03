@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Al-Fayyadh, Yamama Asif Abdula	IRQ 2001 1592.2258638 74.9681052 4806700
+2 Tiba, Mahdi Attiyah	IRQ 2006 1470.8462827 74.6398550 4809521

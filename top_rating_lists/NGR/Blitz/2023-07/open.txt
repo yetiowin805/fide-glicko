@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Balogun, Oluwafemi Daniel	NGR 1987 M 1968.7520008 73.8181549 8501246
+2 Fakuade Babatunde Olabode	NGR 1984 M 1957.8275182 74.3009427 8508640
+3 OFUBU, Samson	NGR 1997 M 1767.5096524 69.6851834 8509980

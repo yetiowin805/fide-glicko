@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Song, Raymond	TPE 1994 M 2302.8124887 61.5699685 3203824
+2 Camhi, David	TPE 1972 M 1515.2320352 67.8950787 16300254

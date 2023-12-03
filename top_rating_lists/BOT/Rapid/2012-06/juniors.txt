@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Francis, Onkemetse	BOT 1992 F 1612.4351748 69.2615004 11301287
+2 Botlhole, Kgalalelo	BOT 1992 F 1555.9341310 72.9138647 11300469

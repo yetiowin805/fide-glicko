@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Samhouri, Bilal	JOR 1989 M 2171.2231739 74.8667724 8100942
+2 Saad, Baha	JOR 1989 M 2006.1842436 74.9150448 8101205

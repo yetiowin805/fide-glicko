@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Koljevic, Nikolina	MNE 2001 1813.0394005 66.9163170 16503945
+2 Popovic, Mateja	MNE 2005 1568.6584685 62.7807717 16504518

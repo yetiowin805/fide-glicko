@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Saleh, Nora Mohd	UAE 1989 1850.6672203 69.7272200 9301607
+2 Al-Zarouni, Kholoud Essa	UAE  1732.3797747 60.6441030 9301194

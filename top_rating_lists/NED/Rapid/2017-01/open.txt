@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Giri, Anish	NED 1994 M 2754.7857485 69.9103437 24116068
+2 Bok, Benjamin	NED 1995 M 2540.0186549 64.0159948 1017063

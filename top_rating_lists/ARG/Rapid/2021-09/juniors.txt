@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Scarsi, Anna Laura	ARG 2006 F 1675.0772633 72.7313747 159328
+2 Yanacon Barrios, Leonel Antonio	ARG 2007 M 1646.3871912 74.2723498 181625
+3 Fuentes, Agustin	ARG 2007 M 1628.7571512 72.5575347 140040

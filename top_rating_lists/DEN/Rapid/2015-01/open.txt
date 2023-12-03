@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Hjort, Helge	DEN 1944 M 1757.0177954 65.6452596 1436678
+2 Baliuniene, Margarita	DEN 1960 F 1708.1229438 72.5237455 12802760

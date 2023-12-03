@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Munkhbayar, Janjaadorj	MGL 1971 M 2043.6737870 64.8646827 4900200
+2 Bayasgalan, Khishigbaatar	MGL 2007 F 1859.6779379 73.2878341 4904311

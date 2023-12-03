@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mujahid Bin Yazeed	MDV 2005 M 1638.7425496 69.3736325 16701160
+2 Nuha, Rilwan	MDV 2005 F 1282.4891752 71.3973897 16700899

@@ -1,0 +1,9 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Otero Marino, Alain	CUB 2005 M 2091.6246808 61.1910723 3524876
+2 Ramos Silvera, Roberto Alejandro	CUB 2003 M 1982.8474243 73.6906877 3527557
+3 Perez Marimon, Jorge De Jesus	CUB 2003 M 1979.0262111 67.7016165 3524582
+4 Hernandez Izquierdo, Jose A.	CUB 2006 M 1927.0742161 71.7088526 3527263
+5 Azahares Serrano,  Raymond Daniel	CUB 2007 M 1885.3752734 63.7922393 3530744
+6 Cabrera Gonzalez, Maximo Ariel	CUB 2004 M 1793.8653137 73.3096772 3524493
+7 Ricardo Perez, Josue Marcelo	CUB 2010 M 1730.6469878 65.8343367 3530523
+8 Azahares Serrano, Reymond David	CUB 2007 M 1578.7678646 68.7018918 3533506

@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Do Valle Cardoso, Lucas	BRA 2002 M 2281.5500826 73.1573761 2163144
+2 Caetano, Ryan Wesley Da Costa	BRA 2002 M 1959.8137013 73.9224695 2188554
+3 Haraguchi, Diego Sashaki	BRA 2008 M 1808.7748817 74.8272404 22729925
+4 Lima, Stefan Moisei VIeira	BRA 2007 M 1762.6126129 69.0966973 22782273

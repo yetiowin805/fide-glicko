@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Benitez Galeano, Alejandro	PAR 2002 M 1892.3215982 64.3742104 3703568
+2 Melian, Juan Sebastian	PAR 2006 M 1707.4598323 68.7343846 3706575
+3 Jodorcovsky, Alejandro David	PAR 2007 M 1635.0434028 72.9422181 3705625

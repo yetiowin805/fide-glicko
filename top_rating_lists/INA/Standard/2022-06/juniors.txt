@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Arfan, Aditya Bagus	INA 2006 M 2148.0534776 64.6604354 7106041
+2 Budhy, Samuel Dave Abraham	INA 2009 M 1542.6261349 70.6246586 7126360
+3 Tan, Darren Emmanuel Aprilio	INA 2010 M 1444.3109308 74.8660351 7122039

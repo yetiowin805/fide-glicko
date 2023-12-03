@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Vojinovic, Jovana	MNE 1992 2279.0492776 51.5230491 937266
+2 Stojanovic, Marija R	MNE 1983 2221.7540704 73.0571553 931411
+3 Mijovic, Aleksandra	MNE 1986 2179.1416359 70.1666631 933988

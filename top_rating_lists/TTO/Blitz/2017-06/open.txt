@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Johnson, Joshua	TTO 1999 M 2064.3069098 71.5372773 7700768
+2 Cupid, Kevin	TTO 1991 M 1954.7704791 73.1185182 7700512

@@ -1,0 +1,9 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Espinoza Solano, Jose Nahum	NCA 2003 M 2008.5332200 51.2222685 6104428
+2 Vanegas Lopez, Natanael Emanuel	NCA 2006 M 1793.3507354 47.6163318 6108326
+3 Valle Alonso, Moises Abraham	NCA 2008 M 1660.5718022 53.9679891 6109560
+4 Cabezas Calero, Abigail Carolina	NCA 2008 F 1503.8464588 63.2468451 6105971
+5 Martinez Orozco, Cristiana Yorlene	NCA 2005 F 1501.4087997 67.9855104 6107079
+6 Pilarte Castro, Rene Ozmar	NCA 2004 M 1476.6515607 74.1573210 6104690
+7 Munoz Cortez, Anahi Alexandra	NCA 2006 F 1428.2875993 69.9724055 6109527
+8 Pena Baltodano, Yaddolly	NCA 2007 F 1194.5379474 73.1512354 6111599

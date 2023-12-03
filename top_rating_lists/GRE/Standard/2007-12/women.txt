@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Dembo, Yelena	GRE 1983 2416.9721077 42.9597233 723916
+2 Pavlidou, Ekaterini	GRE 1993 1948.3776214 67.7795364 4213262
+3 Manelidou, Maria	GRE  1934.3354444 71.6635734 4212240

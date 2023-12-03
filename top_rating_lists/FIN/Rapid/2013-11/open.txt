@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Patola, Eero	FIN 1950 M 1810.6168665 74.5783661 504092

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Nazarova, Anastasia	FIN 2001 1701.6713189 51.3940219 34101737
+2 Ruth, Katarina	FIN 2000 1496.7809212 59.3286982 1716450

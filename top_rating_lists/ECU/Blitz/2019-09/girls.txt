@@ -1,0 +1,8 @@
+Rank Name Federation BirthYear Rating RD
+1 Quezada Pauker,Katheen Gabriela	ECU 2007 1666.8162347 60.4830688 3632261
+2 Villagomez Martinez,Heidy Arelys	ECU 2008 1596.2462568 70.6469742 3634710
+3 Escobar Villota, Domenika Gabriela	ECU 2007 1529.3045989 71.0942606 3635287
+4 Oblitas Calle, Alexa	ECU 2008 1522.6682887 61.4268524 3636917
+5 Artieda Berru,Ariadna Ameli	ECU 2007 1521.9427674 59.7167025 3630293
+6 Orbe Vivero, Maria Jose	ECU 2007 1458.3241057 63.3561993 3636330
+7 Palacios Gordillo, Camila Estefania	ECU 2006 1444.1611957 67.6063046 3636852

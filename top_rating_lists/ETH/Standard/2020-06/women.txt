@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Haile , Lidet Abate	ETH 1996 1685.9120001 73.3253316 15702073
+2 Tekulu,Masho Beyene	ETH 1999 1603.3103706 73.5051529 15702758
+3 Gebratsadik , Merhawit Brhane	ETH 1999 1545.7089086 74.6959009 15704190

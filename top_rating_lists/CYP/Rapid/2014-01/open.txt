@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Aristotelous, Vassilis	CYP 1956 M 1913.1066537 74.5207260 5900468
+2 Vasiliou, Costas	CYP 1960 M 1583.1199207 73.3792327 5900514

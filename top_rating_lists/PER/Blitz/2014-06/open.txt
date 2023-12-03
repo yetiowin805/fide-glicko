@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Vera Siguenas, Deivy	PER 1992 M 2276.7754248 74.4234553 3804623
+2 Caballero Quijano, Mitzy Mishell	PER 2001 F 1897.6710670 63.8384650 3807223
+3 Barrera Ricra, Victor Hugo	PER 1971 M 1839.1638273 73.9521661 3811611
+4 Egoavil Jump, Giannfranco	PER 1979 M 1777.3183533 74.5556762 3811000
+5 Chavez Melendez, Raul Angel	PER 1967 M 1486.8004123 71.2871632 3811638

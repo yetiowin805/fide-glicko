@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Haile, Batel Goitom	ISL 2007 1494.5726826 57.0679874 2315190
+2 Birkisdottir, Freyja	ISL 2006 1401.9321439 64.3011195 2311860

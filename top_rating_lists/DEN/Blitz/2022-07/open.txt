@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Boe, Mads	DEN 1968 M 2113.5033142 60.8526514 1401408
+2 Sigurdsson, Magnus	DEN 1980 M 1603.4521233 72.6166812 1418017

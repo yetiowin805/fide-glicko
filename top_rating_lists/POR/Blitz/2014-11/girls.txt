@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Silva, Mariana Sofia T.	POR 1998 1688.0327568 68.9421065 1911899
+2 Santos, Ines Lima	POR 1996 1676.4473523 74.4658103 1913034
+3 Nogueira, Diana Sofia	POR 1998 1657.6671787 69.0450861 1920693

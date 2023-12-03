@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Vasquez Schroeder, Rodrigo	CHI 1969 M 2477.7470831 74.4719838 3400042
+2 Henriquez Villagra, Cristobal	CHI 1996 M 2436.1610483 73.1698660 3409350

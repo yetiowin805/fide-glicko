@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Tokhirjonova, Gulrukhbegim	UZB 1999 1990.0547252 58.6488522 14203626
+2 Abdusattorova, Bakhora	UZB 1999 1796.3696611 65.5224530 14204126
+3 Khegay, Yuliya	UZB 2004 1576.6020726 65.2402022 14205394

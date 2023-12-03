@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Restifo, Katiuscia	ITA 1974 1732.2974411 73.7004716 865273
+2 Miracola, Giorgia	ITA 1997 1635.1740480 71.3726927 878359
+3 Bizzarro, Sofia	ITA 1999 1570.3311717 72.2228973 871559

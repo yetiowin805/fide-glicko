@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Georgiou, Andreas	CYP 1973 M 1579.8726557 74.7725157 5900360

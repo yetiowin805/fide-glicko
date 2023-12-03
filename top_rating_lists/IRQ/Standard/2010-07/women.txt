@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ibrahim, Delbak Ismael	IRQ 1988 1905.9955798 70.9882874 4803116
+2 Mushin, Dhuha M	IRQ 1990 1814.3385639 72.3532531 4803159

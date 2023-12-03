@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Sindarov, Javokhir	UZB 2005 M 2239.4308498 73.5715714 14205483
+2 Tokhirjonova, Gulrukhbegim	UZB 1999 F 2022.8082453 70.8003309 14203626

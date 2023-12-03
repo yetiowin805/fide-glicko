@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Giri, Anish	NED 1994 M 2738.2981904 70.9189881 24116068
+2 Van Foreest, Jorden	NED 1999 M 2515.0921236 72.1784938 1039784

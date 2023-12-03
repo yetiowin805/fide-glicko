@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Salimova, Nurgyul	BUL 2003 2225.4352046 74.3645067 2915138
+2 Naymanova, Patricie	BUL 2005 1824.9714012 72.4682782 2925907
+3 Chuchukova, Stefani	BUL 2006 1773.3390908 66.1230642 2942488

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Cramling, Pia	SWE 1963 F 2349.0815190 51.2114914 1700030
+2 Hedlerfog, Robert	SWE 1971 M 1666.2132445 73.2547111 1708945

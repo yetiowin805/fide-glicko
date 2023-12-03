@@ -1,0 +1,7 @@
+Rank Name Federation BirthYear Rating RD
+1 Santiago Sontay, Jenny Fernanda	GUA 2002 1626.1271572 50.0711535 7303084
+2 Cruz Lima, Kimberly Esmeralda	GUA 2001 1558.0155612 62.5052873 7301480
+3 Juarez Garcia, Daniela	GUA 2006 1552.8822813 48.9658244 7302703
+4 Samayoa Gomez, Maria Rene	GUA 2002 1510.9145705 65.5464122 7302800
+5 Santiago Sontay, Melanie Charlizze	GUA 2004 1414.0571692 66.1382837 7303157
+6 Gonzalez B., Debora Elizabeth	GUA 2000 1410.6510357 70.0117965 7303289

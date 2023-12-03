@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Pancevski, Filip	MKD 1988 M 2444.6863507 72.7928670 15002187
+2 Menkinoski, Riste	MKD 1978 M 2219.9293374 73.7380557 15001261

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Garcia Garcia, Aida	ESP 2004 1694.4521411 72.8492588 24576140
+2 Canon Alvarez, Nerea	ESP 2003 1563.5899914 73.1003854 24575828

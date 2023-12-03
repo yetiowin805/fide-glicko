@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Leyva, Hector	ESA 1965 M 2401.7633269 56.4091560 6700268
+2 Aguilar, Gustavo	ESA  M 1934.3836707 72.4055353 6700780

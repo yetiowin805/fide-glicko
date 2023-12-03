@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Zrikem, Nassim	MAR 2002 M 1916.4191114 68.3469620 9002693
+2 Aboulasse, Saad	MAR 2010 M 1510.4282760 65.8992351 45188041

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Lombart, Philippe	BEL 1954 M 1704.7722724 70.7650695 202789
+2 Wuillaume, Nathan	BEL 2005 M 1602.7007841 74.0491945 260231
+3 Menolascina, Francesco	BEL 2008 M 1495.9688258 73.7596258 262080

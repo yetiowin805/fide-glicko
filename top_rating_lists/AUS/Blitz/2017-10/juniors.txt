@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Puccini, Jack	AUS 1999 M 2145.8721186 71.9424252 3213307
+2 Mikkelsen, Max	AUS 2001 M 1865.5526799 61.9283845 3220443

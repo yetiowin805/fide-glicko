@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Nicolajsen, Thea	DEN 1996 1562.2259356 64.3277323 1434144
+2 Le Besq, Emma	DEN 1997 1507.7486745 74.6705205 1437097

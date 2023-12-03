@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Haddouche, Mohamed	ALG 1984 M 2358.2316808 68.8215940 7900660
+2 Ioualalen, Lotfi	ALG 1980 M 1959.1739629 71.9767217 7902301
+3 Latreche, Sabrina	ALG 1993 F 1920.1271119 71.4762493 7901798

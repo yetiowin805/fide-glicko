@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Greeff, Melissa	RSA 1994 2054.0525437 61.6639001 14301504
+2 Jansen Van Rensburg, Monica	RSA 1997 1645.7033807 73.9047408 14302853

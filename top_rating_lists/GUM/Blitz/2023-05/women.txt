@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ramas, Carmina Jasmine	GUM 2004 1580.0738880 65.2117812 31001548
+2 Nacario, Ruth	GUM 1990 1538.7838516 73.2370407 31000541

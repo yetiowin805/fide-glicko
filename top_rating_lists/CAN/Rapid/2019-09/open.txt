@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Spraggett, Kevin	CAN 1954 M 2394.7978529 65.5571105 2600013

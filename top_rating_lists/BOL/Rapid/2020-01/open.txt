@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Gil Marquez, Joel Dickie	BOL 2005 M 1695.5770924 71.8082284 3325148
+2 Gil Marquez, Anahi	BOL 2006 F 1659.7672673 63.4838544 3325130
+3 Ramirez Pinto, Juan Alberto	BOL 2008 M 1638.3708331 71.6964575 3325199

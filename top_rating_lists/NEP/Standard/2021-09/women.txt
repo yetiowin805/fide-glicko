@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Joshi, Sindira	NEP 1983 1574.1957516 73.5487954 12312754
+2 Neupane, Anisha	NEP 2002 1554.8561811 73.4220468 12311642

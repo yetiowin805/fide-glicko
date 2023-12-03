@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Michaelides, Konstantinos	CYP 2002 M 2113.3790088 70.6568696 5901871
+2 Antoniou, Rafail	CYP 2008 M 1635.7003714 66.0654982 5904390
+3 Lavrishchev, Matvei	CYP 2010 M 1338.9613044 63.0455400 34390146

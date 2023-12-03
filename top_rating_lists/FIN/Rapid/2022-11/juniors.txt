@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Polkki, Eino	FIN 2006 M 1816.6801531 63.6145360 515779
+2 Velagapudi, Vihan	FIN 2011 M 1676.4648694 70.6654635 515604

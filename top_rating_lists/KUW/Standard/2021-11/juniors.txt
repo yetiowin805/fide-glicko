@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Alhejab, Meshal	KUW 2007 M 1603.6907274 71.6413971 10302603
+2 Alazmi, Aeshah	KUW 2004 F 1283.1896848 74.3615389 10302875

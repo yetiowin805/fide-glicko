@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Yagi, Rita	SYR 1999 1644.7672975 67.9158023 7603266
+2 Alkaseir, Roaa	SYR 1996 1633.6886944 66.7091486 7602847

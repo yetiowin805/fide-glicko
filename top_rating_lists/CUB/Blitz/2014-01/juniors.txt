@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Perera Alfonso, Rene Humberto	CUB 1994 M 2152.3748299 72.9888061 3514722
+2 Ochoa de la Rosa, Manuel Dario	CUB 1994 M 2106.3289647 69.5832715 3509540

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Motycakova, Monika	SVK 1992 2060.1514859 67.7510165 14909626
+2 Nadzamova, Viktoria	SVK 2006 1646.1801277 68.0264109 14943999

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ali Khan, Amani	LBN 1993 1404.1381587 73.8711380 5307570
+2 Ayoub, Auriane	LBN 2011 1381.0539305 61.6964595 5305233

@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Pintor, Ariana	POR 1988 2271.5580265 65.6546929 1902806
+2 Rato, Ana Margarida Portugal Do	POR 1996 1663.7292644 70.5562115 1907514
+3 Ribau, Nidia Salvador	POR 1995 1577.3112150 60.1168990 1908855
+4 Vieira, Albina Isabel Dos Santo	POR 1994 1426.1195204 65.6481346 1900340

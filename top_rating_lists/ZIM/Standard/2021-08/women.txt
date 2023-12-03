@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Charinda, Kudzanayi	ZIM 1994 1787.0039077 70.9939509 11000538
+2 Makwena, Christine	ZIM 1993 1679.3588359 70.2089738 11003391

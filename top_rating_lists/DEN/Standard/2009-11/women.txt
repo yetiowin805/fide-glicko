@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Fredericia, Louise	DEN 1970 2074.9650692 70.5935430 1404113
+2 Frank-Nielsen, Marie	DEN 1986 1943.4866495 73.5183544 1409344
+3 Nielsen, Marianne Izaura	DEN 1985 1804.8838535 72.0809673 1413040

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Videnova, Iva	BUL 1987 2233.5865196 71.0694973 2907763
+2 Nikolova, Adriana	BUL 1988 2179.9326718 73.5587143 2908689

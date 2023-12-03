@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Batsuren, Dambasuren	MGL 2004 M 2376.1685182 68.2332374 4902920
+2 Altantuya, Boldbaatar	MGL 2005 F 2088.1719302 74.2176967 4902785
+3 Chinguun Sundui	MGL 2008 M 1613.9427184 73.8962420 4907930

@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Lopez, Jasel	ARU 1994 M 2023.2547650 73.3113691 15900045

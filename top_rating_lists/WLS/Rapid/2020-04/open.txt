@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rizvi, Nasir	WLS 1977 M 1859.0390247 54.3456514 1800540
+2 Corrigan, James	WLS 1993 M 1522.4968886 74.7603788 1804006

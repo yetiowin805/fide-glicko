@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Aboulasse, Saad	MAR 2010 M 1539.2938331 67.7352454 45188041
+2 Aboulasse, Ghita	MAR 2012 F 1476.3190440 68.4911175 45188033

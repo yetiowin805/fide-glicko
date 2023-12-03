@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Nguyen, Thien Ngan	VIE 2005 1809.7323405 71.8872843 12414816
+2 Nguyen, Binh Vy	VIE 2008 1609.1008922 64.7421899 12419966

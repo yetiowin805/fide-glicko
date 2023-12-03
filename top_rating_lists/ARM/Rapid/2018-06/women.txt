@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Mkrtchian, Lilit	ARM 1982 2309.8181347 66.5888664 13300601
+2 Gevorgyan, Maria	ARM 1994 2229.1994790 67.0086846 13300270

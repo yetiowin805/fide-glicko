@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Olsarova, Karolina	CZE 1993 2183.5123358 67.4554829 320242
+2 Grussova, Helena	CZE 1993 1920.2179375 72.4154667 321613

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Sukandar, Irine Kharisma	INA  2323.5242588 49.3240340 7101937
+2 Medina, Warda Aulia	INA  2022.8834130 69.3109482 7101570
+3 Dewi, Aa Citra	INA 1994 1987.0949025 65.2013751 7101244

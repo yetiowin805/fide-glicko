@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Coppola, Claudio	URU 1992 M 1993.0168075 73.7544049 3001717

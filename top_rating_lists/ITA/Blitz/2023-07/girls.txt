@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Rubinshtein, Kamilla	ITA 2005 1626.8266431 60.2802672 2838708
+2 Orru`, Giulia	ITA 2005 1593.0730848 74.1523537 2828931

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Johannsdottir, Johanna Bjorg	ISL 1993 1907.1978711 72.1252072 2303108
+2 Helgadottir, Idunn	ISL 2007 1534.9730480 52.7336136 2314118
+3 Briem, Gudrun Fanney	ISL 2010 1510.8442612 60.3432950 2317486

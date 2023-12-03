@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Norlamo, Sarabella	FIN 2003 1791.0171582 57.3985421 4505344
+2 Lehtinen, Helja	FIN 2003 1700.8744124 65.9700113 515566

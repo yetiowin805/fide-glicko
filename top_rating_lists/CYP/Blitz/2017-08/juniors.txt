@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Isaakidis, Alexandros	CYP 1998 M 2045.9815213 68.4152943 5903076
+2 Michaelides, Konstantinos	CYP 2002 M 1911.1766483 71.1687396 5901871

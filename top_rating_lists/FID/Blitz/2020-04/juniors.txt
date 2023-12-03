@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Firouzja, Alireza	FID 2003 M 2634.2324988 55.2193779 12573981

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Maksimovic, Masa	BIH 2001 1906.5848016 61.5664395 14408902
+2 Tomic, Jelena	BIH 2001 1813.9582649 69.5909527 14406330

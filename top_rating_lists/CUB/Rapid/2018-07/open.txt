@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Dominguez Perez, Leinier	CUB 1983 M 2809.2085272 71.7102209 3503240
+2 Arencibia Rodriguez, Walter	CUB 1967 M 2462.7820359 70.1611583 3500012
+3 Garcia Pantoja, Roberto	CUB 1992 M 2412.7561365 67.4312934 3509265

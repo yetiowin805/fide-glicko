@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Orozbaev, Eldiar	KGZ 2006 M 1764.7213390 64.4116155 13802240
+2 Solomko, Artur	KGZ 2006 M 1585.4395510 73.0427226 13801945

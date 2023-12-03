@@ -1,0 +1,13 @@
+Rank Name Federation BirthYear Rating RD
+1 Gonzalez Gonzalez, Maria Alejandra	VEN 2005 1582.5006701 74.2500174 3936040
+2 Gonzalez Gomez, Daniela Carolina	VEN 2003 1576.4216663 70.6961291 3915417
+3 Manaure Medina, Mariangeles	VEN 1998 1530.8837790 72.2572857 3908666
+4 Guadalajara Barrios, Jacksilany	VEN 2006 1528.4442594 65.1274308 3931242
+5 Marin Murguey, Valentina Jatniel	VEN 2005 1523.5403394 71.5639307 3955478
+6 Acuna Castillo, Yohalis del Valle	VEN 2007 1511.7169436 69.2919145 3943674
+7 Hernandez Mora, Nohelia Virginia	VEN 2005 1495.8237485 65.1232043 3915344
+8 Araujo Briceno, Gilary Ahilyn	VEN 2007 1376.3210123 68.2316128 3935841
+9 Quijada Delgado, Eliana Paola	VEN 2005 1364.9970532 70.1420654 3955494
+10 Matute Ferrer, Rosa Angelina	VEN 1967 1354.0325575 71.4857638 3969177
+11 Cabeza Marquez, Mariangel Alejandra	VEN 2007 1312.6227242 69.2801262 3934527
+12 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1302.3933579 65.6397918 3964051

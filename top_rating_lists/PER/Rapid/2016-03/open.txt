@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Granda Zuniga, Julio E	PER 1967 M 2676.3512581 73.7594467 3800024
+2 Alvarado, Carlos	PER 1975 M 2197.3340414 72.6105195 3800555

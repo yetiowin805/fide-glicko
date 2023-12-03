@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Narva, Mai	EST 1999 2028.7226127 60.8366045 4500512
+2 Olde, Margareth	EST 2000 1689.6434977 68.3653670 4503082

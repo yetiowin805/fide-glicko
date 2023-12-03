@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Sena, Juan	DOM 1961 M 1920.4608801 59.3773507 6400272

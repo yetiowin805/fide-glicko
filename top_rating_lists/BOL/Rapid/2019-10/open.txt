@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Gil Marquez, Anahi	BOL 2006 F 1654.0205967 73.6200913 3325130
+2 Quiroga, Walter Gonzalo	BOL 1956 M 1444.5652543 70.3031571 3308103

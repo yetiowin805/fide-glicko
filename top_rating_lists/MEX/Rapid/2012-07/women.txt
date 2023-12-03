@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Rating RD
+1 Medina Altamirano, Karla	MEX 1977 1940.4876799 72.6980111 5105404
+2 Mendoza Velazquez, Lorena Alejan	MEX 1994 1913.8326556 65.2604642 5101794
+3 Real Pereyra, Diana Carime	MEX 1995 1898.0070497 72.6956125 5104106
+4 Duran Juarez, Citlali	MEX 1992 1866.1998825 71.8992193 5104084
+5 Garcia Morales, Ivette Ale	MEX 1994 1844.2786795 74.6298159 5105994

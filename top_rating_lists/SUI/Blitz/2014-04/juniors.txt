@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Gaehwiler, Gabriel	SUI 1994 M 2216.6656148 73.9014352 1314530
+2 Rindlisbacher, Lars	SUI 1996 M 2178.5366480 73.1400218 1304178

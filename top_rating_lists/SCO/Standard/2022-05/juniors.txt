@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Gordon, Frederick	SCO 2010 M 1894.9028519 73.2571028 2409143
+2 McKay, Jonathan	SCO 2003 M 1805.1895163 66.7001398 2405512

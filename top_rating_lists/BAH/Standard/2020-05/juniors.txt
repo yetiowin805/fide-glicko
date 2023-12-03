@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Karelina, Polina	BAH 2001 F 1711.2577147 60.6704144 10400222
+2 Smith, Nathan	BAH 2005 M 1670.7031257 74.6196256 61400220

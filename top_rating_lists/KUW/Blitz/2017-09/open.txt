@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Alsaqer, Meshal	KUW 1986 M 1711.8823522 72.3390330 10301771
+2 Alzaid, Zaid	KUW 1972 M 1384.5166970 64.7852701 383266891

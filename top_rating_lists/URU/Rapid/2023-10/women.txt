@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Fabra, Nahiara	URU 2007 1711.6877433 71.5839118 3009572
+2 Gonzalez Bodega, Juliana	URU 2006 1371.0204455 73.4306308 3016145

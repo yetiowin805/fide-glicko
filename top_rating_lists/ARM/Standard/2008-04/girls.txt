@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Darbinyan, Nune	ARM 1990 2144.9690796 74.8317101 13302566
+2 Karapetyan, Lusine	ARM 1991 1965.1757055 71.8431591 13303163

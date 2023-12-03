@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Shuqja, Klean	ALB 2006 F 1536.9568747 59.9330620 4701585
+2 Guri,Adrian	ALB 2007 M 1298.9714438 66.9888935 4702557

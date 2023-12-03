@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Cantero, Rodolfo	PAR 1999 M 1929.2871747 67.7887131 3703762
+2 Benitez Galeano, Alejandro	PAR 2002 M 1910.6780517 66.1380518 3703568
+3 Melian, Juan Sebastian	PAR 2006 M 1674.2623603 68.2671458 3706575
+4 Carreras Colman, Luz Gabriela	PAR 2000 F 1514.8509694 72.7188254 3706729

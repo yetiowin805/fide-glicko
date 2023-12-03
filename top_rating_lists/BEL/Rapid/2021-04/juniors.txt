@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Wuillaume, Nathan	BEL 2005 M 1602.7007841 72.3786322 260231
+2 Menolascina, Francesco	BEL 2008 M 1495.9688258 72.0845232 262080

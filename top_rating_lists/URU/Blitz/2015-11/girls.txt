@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Quevedo, Andreina	URU 1999 1529.4670627 74.7449056 3004147
+2 de Leon, Veronica	URU 1997 1471.3231050 69.1704756 3000290

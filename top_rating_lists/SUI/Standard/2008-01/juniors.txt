@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Nuri, Kambez	SUI 1992 M 2178.6553268 74.8995177 1311433
+2 Duport, Nicolas	SUI 1991 M 2069.0700377 65.1668297 1314424

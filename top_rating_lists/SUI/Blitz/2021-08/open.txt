@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Budisin, Stanislav	SUI 1972 M 2073.7568215 63.0513389 1304470
+2 Avilova, Yulia	SUI 2004 F 1599.8066385 72.7502926 34166073

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Fonseca Cabrera, Ernesto	NCA 0000 M 2068.8159361 72.8994332 6101046
+2 Ortiz, Marcos	NCA 0000 M 2054.4497093 74.2465941 6100678

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Otero Marino, Alain	CUB 2005 M 1914.4253820 74.7777303 3524876
+2 Otero Marino, Vladimir	CUB 2000 M 1876.4861305 74.2504976 3520510
+3 Rivero Guerra, Yoel Orlando	CUB 1979 M 1681.8459024 44.8915193 3517411

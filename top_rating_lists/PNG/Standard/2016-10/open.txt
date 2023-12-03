@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Marko, Helmut	PNG 1954 M 1762.1954577 66.1858506 9100032
+2 Fancy, Stuart	PNG 1959 M 1758.0542440 73.8402614 9100024

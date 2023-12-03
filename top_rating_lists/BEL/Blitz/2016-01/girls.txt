@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Vanduyfhuys, Daria	BEL 2003 1561.9862119 73.4363445 246336
+2 Marchal, Anais	BEL 1998 1343.9654702 70.3153861 236209

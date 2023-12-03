@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Meier, Peter	SEY 1985 M 1935.5664046 71.2105123 9800158
+2 Figaro, Dericka	SEY 1994 F 1564.8314294 73.5361807 9800034

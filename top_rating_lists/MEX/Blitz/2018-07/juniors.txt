@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Luna Javier, Edgar Froylan	MEX 2001 M 1963.6769815 68.5393828 5120101
+2 Garcia de Dios, Jose Antonio	MEX 2002 M 1939.3526934 62.9452552 5128919
+3 De Dios Suarez, Diego Anas	MEX 2002 M 1610.5200775 74.5176845 5119782

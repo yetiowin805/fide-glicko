@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Megaranto, Susanto	INA 1987 M 2541.5909974 73.4566719 7101384
+2 Sukandar, Irine Kharisma	INA 1992 F 2304.3781743 73.9226638 7101937
+3 Limono, Handjojo	INA 1963 M 1738.1517103 69.9793732 7102909

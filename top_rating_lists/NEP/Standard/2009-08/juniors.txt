@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Jaiswal, Rupesh	NEP 1997 M 1763.0711189 73.5957821 12300870
+2 Duwal, Nikesh	NEP 1994 M 1663.3811747 69.0800540 12300535

@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Rating RD
+1 Wu, Min	AUT 1998 1759.9939534 73.6172895 1631969

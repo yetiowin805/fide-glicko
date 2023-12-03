@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Socko, Monika	POL 1978 2481.0967397 46.5971281 1106619
+2 Rajlich, Iweta	POL 1981 2430.2884614 41.6218158 1108166

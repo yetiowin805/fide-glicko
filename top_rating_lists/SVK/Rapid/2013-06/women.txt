@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Gazikova, Veronika	SVK 1999 1911.1137539 74.6602365 14919311
+2 Benova, Zita	SVK 1940 1515.3728117 72.1571559 14906686

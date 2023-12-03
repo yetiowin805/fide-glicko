@@ -1,0 +1,8 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Castillo Coronado, David Arturo	MEX 2005 M 1827.0980062 62.4127338 5163340
+2 Perez, Valero Rodrigo Gael	MEX 2002 M 1660.8310990 74.8358546 5146372
+3 Aguilar Sanchez, Marcos Eduardo	MEX 2003 M 1653.9351368 68.5026070 5119693
+4 Mendieta, Gallegos Diego Armando	MEX 2004 M 1551.1477904 74.3146922 5159580
+5 Del Razo Mendoza, Andrea Nikole	MEX 2003 F 1517.2511229 72.3134722 5137640
+6 Aguilar Sanchez, Citlali	MEX 2004 F 1468.7833560 69.3841509 5119502
+7 Del Razo Mendoza, Nancy Ailine	MEX 2006 F 1383.1893202 68.8884077 5137632

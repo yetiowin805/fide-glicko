@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Adu, Oladapo	NGR  M 2216.3371436 55.0601920 8500258
+2 Odeh, Kenneth	NGR 1969 M 1874.6922684 66.7494194 8500142

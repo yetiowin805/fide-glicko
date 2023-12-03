@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Lorenzana, Wilson Estuardo	GUA 1978 M 2179.5932478 73.5110944 7300239
+2 Cu Hor, Winston Darwin	GUA 1990 M 2167.7393863 74.4114024 7300662

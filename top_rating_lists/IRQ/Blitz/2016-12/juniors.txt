@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ahmed, Jaza Jamal	IRQ 2003 M 1747.6584905 73.4330361 4808509
+2 Rabeea, Sabah Nori	IRQ 2002 M 1648.5803260 73.5337645 4806212
+3 Ameer,Dhafer Abdulameer	IRQ 2005 M 1375.1494407 73.3519919 4807537

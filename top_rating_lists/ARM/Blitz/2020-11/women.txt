@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Mkrtchian, Lilit	ARM 1982 2246.5315814 63.7602679 13300601
+2 Danielian, Elina	ARM 1978 2189.5573790 68.7590756 13300210

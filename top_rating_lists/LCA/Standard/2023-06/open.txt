@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mathurin, Nathaniel	LCA 2004 M 1830.6799673 65.7028465 23000139
+2 Sixtus Gabriel	LCA 1980 M 1594.0579525 72.8627116 23000180

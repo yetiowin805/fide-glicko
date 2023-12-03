@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Panchol, James Madol	SSD 1995 M 2034.7467903 56.6199911 10806253
+2 Bedjwok Thomas Ajak	SSD 1995 M 1726.7875369 41.1746015 32500459

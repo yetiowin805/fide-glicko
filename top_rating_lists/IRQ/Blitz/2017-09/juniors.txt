@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Moazaz , Dhahir Habeeb	IRQ 2003 M 1835.0341566 71.2573183 4807421
+2 Ahmed, Jaza Jamal	IRQ 2003 M 1779.9689784 71.3336871 4808509
+3 Rabeea, Sabah Nori	IRQ 2002 M 1681.4418607 73.0712282 4806212

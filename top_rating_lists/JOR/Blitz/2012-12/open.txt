@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Khader, Sami	JOR 1972 M 2331.7189366 70.2040934 8100500
+2 Saad, Baha	JOR 1989 M 2039.7460005 74.9867632 8101205

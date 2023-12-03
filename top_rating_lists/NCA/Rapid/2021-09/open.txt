@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Picado, Jorge	NCA 1980 M 2013.2242745 73.0738456 6100376
+2 Castillo, Rommel	NCA 0000 M 1819.4186227 71.1353027 6100490

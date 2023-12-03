@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Boyer, Mahel	FRA 2004 M 2267.4114541 71.4008633 45102422
+2 Volkov, Andreiy	FRA 2007 M 1560.4161763 54.5847538 45144079

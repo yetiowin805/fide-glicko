@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Guadalajara Barrios, Jacksilany	VEN 2006 1497.6632278 73.4365223 3931242
+2 Sanchez Salas, Estefani Alejandra	VEN 2007 1497.2961892 68.9322561 3965759

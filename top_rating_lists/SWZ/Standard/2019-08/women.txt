@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Dlamini, Temahlubi Queen	SWZ 2000 1486.7725453 63.2406295 14318091
+2 Pales Pi, Marta	SWZ 1963 1314.4944802 70.3228743 345279188

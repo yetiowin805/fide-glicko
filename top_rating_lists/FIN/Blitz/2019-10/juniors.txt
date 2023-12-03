@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Keinanen, Toivo	FIN 2002 M 2325.0380404 67.1730592 509825
+2 Nazarova, Anastasia	FIN 2001 F 1943.3047751 56.0231036 34101737

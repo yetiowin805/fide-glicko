@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ramadani, Sarah	SLO 1999 1816.2955524 61.3591079 14605350
+2 Skuhala, Barbara	SLO 1996 1777.1331796 69.9109375 14605465

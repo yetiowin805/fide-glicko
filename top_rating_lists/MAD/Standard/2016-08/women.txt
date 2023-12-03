@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Ravelomanana, Sabi	MAD 1988 1719.9326229 73.4589589 13100394
+2 Razafindrabiaza, Christine	MAD 1978 1568.7262192 69.8518713 13100416
+3 Raharimanana, Faratiana	MAD 1991 1544.5942940 71.3229911 13100378

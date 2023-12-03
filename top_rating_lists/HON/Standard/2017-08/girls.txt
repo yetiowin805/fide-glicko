@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 McDowell, Sharon	HON 1997 1515.9232618 69.4491014 8401489
+2 Ortiz, Rosa Daniela	HON 1999 1480.9068106 70.5684077 8400547

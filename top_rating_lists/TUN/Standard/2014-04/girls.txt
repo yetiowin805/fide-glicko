@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Lahmar, Chaima	TUN 1997 1431.0021300 63.0576432 5502063
+2 Ben Fredj, Mariem	TUN 2001 1327.8655663 69.5107254 5502020

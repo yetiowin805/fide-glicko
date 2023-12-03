@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Papadopoulos, Ioannis K.	GRE 1988 M 2445.0000000 52.3874105 4207742

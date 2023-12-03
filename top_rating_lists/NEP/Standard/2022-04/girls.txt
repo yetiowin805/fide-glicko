@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Adhikari, Kritisara	NEP 2003 1630.2951350 68.8512072 12315583
+2 Neupane, Anisha	NEP 2002 1589.2811739 70.7165218 12311642

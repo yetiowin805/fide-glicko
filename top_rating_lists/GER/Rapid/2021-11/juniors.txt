@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kopylov, Daniel	GER 2003 M 2162.9164825 66.9561482 12921971
+2 Janoschka, Julien	GER 2008 M 1580.2952933 73.7353484 16233948

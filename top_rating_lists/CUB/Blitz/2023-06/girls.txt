@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Obregon Garcia, Roxangel	CUB 2003 1875.1954028 70.8695788 3520420
+2 Caballero Ramos, Greter	CUB 2006 1848.1513194 64.1534578 3530655
+3 Valdes Boza, Aliett	CUB 2008 1750.6217595 73.9767932 3527280

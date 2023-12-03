@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 David, Alberto	LUX 1970 M 2576.9485218 44.2253025 4000013
+2 Steil-Antoni, Fiona	LUX 1989 F 2167.7287513 70.7954644 4001249

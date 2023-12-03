@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mohamed Abderrahim, Taleb Mohamed	MTN 2007 M 1951.8865244 60.7347848 19601441
+2 Abdellahi Khaled Abdellahi	MTN 2007 M 1779.5603249 59.5450004 19604416
+3 Abdou Abdellahi Ahmed Alem	MTN 2008 M 1766.3765432 66.0579854 19603720
+4 Ahmed cherif Khaled Abdellahi	MTN 2010 M 1471.4186920 56.8109093 19605226
+5 Mohamed Hemam	MTN 2014 M 1302.4226229 59.8685064 19603606

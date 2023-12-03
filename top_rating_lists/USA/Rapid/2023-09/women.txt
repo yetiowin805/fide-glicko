@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Zatonskih, Anna	USA 1978 2199.3690654 60.4158608 14101572
+2 Sinkar, Anagha Aniket	USA 2012 1716.0790558 73.9743345 30974780
+3 Rallabandi, Sahasra Krishna	USA 2010 1604.2758782 72.9230198 25913549

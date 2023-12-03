@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ananya, Suresh	IND 2000 1784.0952467 72.0966388 25004450
+2 Bommini Mounika Akshaya	IND 2003 1600.8810521 74.8641899 25019872

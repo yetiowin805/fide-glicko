@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Miswadah, Baha	PLE 1981 M 1867.1099055 70.9479606 11502118
+2 Hashlmoun, Amjad	PLE 0000 M 1836.4128876 71.4566548 11502592
+3 Uqba Mohamad, Rashed Shbaita	PLE 1982 M 1774.0689309 73.3585753 11501812

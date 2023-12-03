@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Vilhete, Vania Fausto Da T.	MOZ 1985 1674.1352939 63.2390361 14800144
+2 Sitoe, Cheila Andre	MOZ 1999 1652.2790032 64.2257793 14800780
+3 Castro, Neusa Aridas De	MOZ 1995 1591.4958939 73.6816225 14800250

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Faulks, Nick	BER 1952 M 2001.5839234 73.8372026 8800103
+2 Ebbin, Larry	BER 1943 M 1485.9194764 73.8143210 8800294

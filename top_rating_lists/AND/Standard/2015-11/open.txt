@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mellado Trivino, Juan	AND 1968 M 2368.3237964 63.0822657 2201224
+2 Garcia Paolicchi, Raul	AND 1952 M 2064.3671971 61.4182568 6900020
+3 Jose Queralto, Daniel	AND 1973 M 2038.1537229 74.4554091 6900089

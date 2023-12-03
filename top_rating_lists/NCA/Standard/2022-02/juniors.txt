@@ -1,0 +1,7 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Salazar Cabezas, Alberto Javier	NCA 2002 M 1959.4521234 59.9079322 6104401
+2 Espinoza Solano, Jose Nahum	NCA 2003 M 1918.1098167 50.1836549 6104428
+3 Castillo Sevilla, Ian Eiffel	NCA 2002 M 1896.0957378 60.6672397 6104207
+4 Vanegas Lopez, Natanael Emanuel	NCA 2006 M 1629.5153552 53.7286915 6108326
+5 Alvarez Gutierrez, Patricia	NCA 2002 F 1597.2714145 57.0396022 6105548
+6 Pavon Ruiz, Cristhoffer Israel	NCA 2005 M 1312.9975721 67.1966959 6108628

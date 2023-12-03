@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Katkov, Michelle	ISR 2003 1808.6674475 70.3179336 2816393
+2 Lapushnian, Maya	ISR 2007 1637.3254891 71.8898014 2837161

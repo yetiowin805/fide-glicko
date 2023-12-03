@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Mirza, Diana	IRL 2000 1676.0960169 51.6199283 2503999
+2 Ui Laighleis, Gearoidin	IRL 1964 1578.7376979 73.6322716 2501171
+3 Kecskemeti, Admira Aida	IRL 2006 1270.0058175 73.1646827 2508559

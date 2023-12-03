@@ -1,0 +1,9 @@
+Rank Name Federation BirthYear Rating RD
+1 Rosario Almanzar, Raydily	DOM 1998 1809.3438576 58.8716742 6403573
+2 Diaz Cesar, Wilsaida Pieranlly	DOM 1991 1733.5675130 67.4560444 6403557
+3 Castillo Pena, Patricia Evarista	DOM 1991 1702.6091169 67.2371863 6412106
+4 Ramirez Luzon, Franchesca	DOM 2004 1674.2596864 54.7982020 6421792
+5 Almanzar Vasquez, Jeniffer Maria	DOM 1993 1659.6541647 62.3560932 6406505
+6 Gonzalez Peguero, Mary Loly	DOM 1993 1592.8018326 66.8197212 6421482
+7 Cabreja Lora, Suzette	DOM 1995 1518.2504174 74.5925086 6416292
+8 Moronta Ramos, Dianelva Altagracia	DOM 1980 1513.9105087 71.9115569 6408109

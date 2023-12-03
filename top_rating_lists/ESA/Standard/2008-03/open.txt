@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Leyva, Hector	ESA 1965 M 2401.7633269 54.1999507 6700268
+2 Burgos Figueroa, Carlos E.	ESA 1979 M 2345.4514584 74.8823841 6700187

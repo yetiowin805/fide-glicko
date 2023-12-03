@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Saraci, Korab	KOS 2003 M 1925.9488733 50.5429820 4701968
+2 Uruci, Ardit	KOS 2002 M 1662.3305583 67.1459271 22101705

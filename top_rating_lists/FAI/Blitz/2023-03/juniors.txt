@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Apol, Luitjen Akselsson	FAI 2006 M 1965.1885033 72.6494483 7202466
+2 Jacobsen, Markus	FAI 2007 M 1553.3578662 72.4191876 7202989
+3 Petersen, Elias	FAI 2007 M 1487.9773367 69.6950905 7202725

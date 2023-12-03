@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ramos Donaire, Maria Pradi	HON 2002 1589.2565437 62.6938932 8402337
+2 Garcia Reyes, Alejandra Nicolle	HON 2003 1536.6757555 63.9520733 8403023

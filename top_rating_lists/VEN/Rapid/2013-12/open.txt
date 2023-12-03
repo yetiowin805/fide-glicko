@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Perez Sanchez, Ricardo Jose	VEN 1996 M 1876.1317197 56.5914973 3903923
+2 Larez Hernandez, Jose Alejandro	VEN 1997 M 1750.8929160 56.2578535 3906035
+3 Millan Gonzalez, Yuneitsy Del Va	VEN 1997 F 1620.9182353 57.9962722 3906132
+4 Carreno Planas, Manuela	VEN 1996 F 1506.0166458 59.2049959 3906019

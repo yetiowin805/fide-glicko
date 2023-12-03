@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ahjum, Savannah	RSA 2006 1586.5014333 72.9164238 14320231
+2 Strong, Davida	RSA 2008 1458.7466981 72.1281184 14333082

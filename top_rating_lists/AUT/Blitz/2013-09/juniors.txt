@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Menezes, Christoph	AUT 1996 M 2217.6525177 67.5068732 1617001
+2 Wertjanz, David	AUT 1994 M 2196.9564265 70.0109962 1618989

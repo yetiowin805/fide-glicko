@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Karas, Eugenia	ENG 2008 1648.7592895 69.7910866 463485
+2 Sivanandan, Bodhana	ENG 2015 1606.8522405 66.2426566 497592

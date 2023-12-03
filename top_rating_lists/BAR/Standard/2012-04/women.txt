@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Blackman, Katrina	BAR 1992 1535.5563544 72.6168258 11100540
+2 Warner, Juanita	BAR 1973 1400.5787529 57.3770890 11101016

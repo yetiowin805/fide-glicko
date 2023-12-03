@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Vuilleumier, Alexandre	SUI 1982 M 2224.8072966 63.2806020 1305662
+2 Paleologu, Vladimir	SUI 1971 M 2152.9908196 67.0921785 1305573
+3 Boschetti, Claudio	SUI 1957 M 2023.9983647 73.6927624 1300920

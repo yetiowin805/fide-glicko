@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Briestenska, Andrea	SVK 1993 1835.8060454 67.8060264 14902885
+2 Benova, Zita	SVK 1940 1558.2528700 72.0810940 14906686

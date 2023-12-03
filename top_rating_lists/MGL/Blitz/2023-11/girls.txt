@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Bayasgalan, Khishigbaatar	MGL 2007 1939.3208981 66.2810718 4904311
+2 Mandukhai, Myagmarsuren	MGL 2003 1919.6351516 54.8960954 4902246
+3 Amin-Erdene, Bayanmunkh	MGL 2006 1794.2431587 63.0523484 4903161

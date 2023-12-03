@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Rating RD
+1 Santana Freitas, Maria Eduarda	BRA 2005 1496.5472260 66.7298383 2193787
+2 Bartmeyer, Maria Veronica	BRA 1997 1448.7573375 67.5783258 2152614
+3 Bartmeyer, Beatriz	BRA 1999 1374.2395694 71.9729385 2152592
+4 Balbys, Fernanda Santoro Boscard	BRA 2002 1330.1058348 73.6164183 2172950
+5 Ribeiro, Jessica Maria da Silva	BRA 2000 1139.2606723 70.1182638 22701320

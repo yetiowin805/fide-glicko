@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ali, Akar	IRQ 1990 M 2036.0494210 67.0368554 4800575
+2 Hayder Farhan Al- Hasnawi	IRQ 1992 M 1697.2992602 71.7583522 4803728

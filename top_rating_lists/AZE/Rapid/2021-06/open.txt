@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mamedov, Rauf	AZE 1988 M 2609.8253356 73.6242720 13401653
+2 Davudov, Tunar	AZE 2009 M 1699.2771017 74.3653012 13422316

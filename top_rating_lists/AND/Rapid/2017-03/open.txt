@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ribera Veganzones, Josep Maria	AND 2003 M 1571.7229321 66.0892468 6900763
+2 Alcon Llosada, Alex	AND 2003 M 1564.6323627 61.6843357 6900780
+3 Alcon Llosada, Jaume	AND 2006 M 1465.4340225 62.7751615 6900798

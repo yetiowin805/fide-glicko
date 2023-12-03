@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Haraguchi, Diego Sashaki	BRA 2008 M 1718.2943115 74.6940383 22729925
+2 Silva, Liara Blanco	BRA 2004 F 1653.8147679 74.6551954 22718664
+3 Salles, Henrique	BRA 2008 M 1532.1048565 74.9837984 22744444

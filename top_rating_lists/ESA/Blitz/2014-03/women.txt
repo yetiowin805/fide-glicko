@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Sanchez, Ingrid	ESA 1991 1788.2876540 66.4431171 6700217
+2 De Leon, Stephanie	ESA 0000 1485.3849180 71.6638799 6703127

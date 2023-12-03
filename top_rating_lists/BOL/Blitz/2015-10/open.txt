@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Aguilar, Luis Miguel	BOL 1999 M 1757.8356613 58.9590412 3303187
+2 Vargas D, Crystel	BOL 1999 F 1510.9614997 62.4463630 3305007

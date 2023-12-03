@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Parkkinen, Jyrki	FIN 1968 M 2016.8448148 72.0694680 502375

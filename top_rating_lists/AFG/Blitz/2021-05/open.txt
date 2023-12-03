@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rahmani, Asef	AFG 1973 M 1744.7218568 74.2048327 12540951
+2 Mohtaat, Homayoun	AFG 1972 M 1631.9722290 60.3065601 11701552

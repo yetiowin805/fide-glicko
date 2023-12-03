@@ -1,0 +1,7 @@
+Rank Name Federation BirthYear Rating RD
+1 Granados Diaz, Maria Esther	NCA 1995 1762.6538902 58.3599818 6101488
+2 Ferrufino, Michelle	NCA 0000 1691.3998654 58.2436326 6103162
+3 Narvaez Talavera, Joanie Ellen	NCA 2002 1656.2463080 68.6346702 6105840
+4 Granados Ortiz, Maria Jose	NCA 2001 1648.2307725 59.7906415 6103812
+5 Alvarez Gutierrez, Patricia	NCA 2002 1641.3155780 61.3096670 6105548
+6 Cabezas Calero, Abigail Carolina	NCA 2008 1475.6855897 71.1945780 6105971

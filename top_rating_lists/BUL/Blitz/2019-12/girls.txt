@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Toncheva, Nadya	BUL 2005 1825.9415154 63.6405891 2924056
+2 Grabcheva, Natalia	BUL 2002 1699.4124394 61.7029517 2917815

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Gavrilova, Anastasia	SUI 1990 2115.1570721 68.1994334 1310356
+2 De Seroux, Camille	SUI 1993 1928.0323129 47.6150408 1305620

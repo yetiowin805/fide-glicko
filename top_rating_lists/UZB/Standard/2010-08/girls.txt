@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Muminova, Nafisa	UZB 1990 2286.8972717 47.5280908 14201526
+2 Tokhirjanova, Hulkar	UZB 1991 2121.2704028 54.1245279 14202247

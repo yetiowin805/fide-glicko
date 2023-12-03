@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Tracey, Shaun M	CAY 1979 M 1597.8405523 64.1236737 419052
+2 Shaw, Clifford	CAY 1950 M 1568.2282089 74.4270619 33100101

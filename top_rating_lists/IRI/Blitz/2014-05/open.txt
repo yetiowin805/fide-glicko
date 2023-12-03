@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ghaem Maghami, Ehsan	IRI 1982 M 2558.6441884 54.3009577 12500739
+2 Pourramezanali, Amirreza	IRI 1992 M 2378.9629977 72.1077206 12511412
+3 Khademalsharieh, Sarasadat	IRI 1997 F 2142.8126568 70.0260610 12512214
+4 Derakhshani, Dorsa	IRI 1998 F 2016.6157006 74.7085243 12500330

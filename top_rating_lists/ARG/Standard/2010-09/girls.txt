@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Martinez, Ayelen	ARG 1993 1964.2180777 55.2546152 118702
+2 Dominguez, Gisella	ARG 1992 1795.4928417 65.4374301 118788
+3 Strgacich, Aylen	ARG 1999 1484.6918219 62.9021910 119296

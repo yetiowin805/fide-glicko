@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Pribylova, Sofie	CZE 2002 1838.7673227 40.0699044 371726
+2 Kanakova, Natalie	CZE 1999 1816.3561764 73.1209343 350486
+3 Encinas, Michelle Diane	CZE 2002 1461.8131237 73.3403346 392898

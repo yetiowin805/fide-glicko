@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Messina, Roberta	ITA 1993 1869.8589796 67.2490261 819018
+2 Reginato, Sabrina	ITA 1991 1773.3758878 73.8075655 825204

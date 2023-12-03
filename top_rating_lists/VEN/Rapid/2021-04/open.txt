@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Escalona Landi, Samid Eduardo	VEN 2002 M 2049.2399867 71.2127008 3937437
+2 Yanez Rodriguez, Wilbert	VEN 1974 M 1943.4250938 72.4181233 3900576
+3 Simoes, John	VEN 1973 M 1941.1911501 69.2106868 3901157
+4 Jaramillo Lopez, Ali Aaron	VEN 2006 M 1835.0058639 70.3526534 3943275

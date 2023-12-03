@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ghozali, Seddik	ALG 2006 M 1579.5519846 73.2728727 7925166
+2 Aissat, Wail	ALG 2006 M 1570.9396510 73.1273856 7930780

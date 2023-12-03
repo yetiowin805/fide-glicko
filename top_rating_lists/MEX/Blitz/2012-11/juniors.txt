@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rojas Alarcon, Julian Antonio	MEX 1992 M 2290.4253780 72.6254676 5107407
+2 Diaz Rosas, Julio Cesar	MEX 1994 M 2064.2845730 64.4985462 5105099
+3 Mendoza Velazquez, Lorena Alejan	MEX 1994 F 1913.8326556 72.3635456 5101794
+4 Garcia Morales, Ivette Ale	MEX 1994 F 1861.5651215 72.8624826 5105994

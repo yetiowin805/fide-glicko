@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Argote Heredia, Valentina	COL 2000 1852.1969716 74.7773036 4431022
+2 Lopez Rayo, Isabella	COL 2005 1606.1790584 71.3204105 4452755
+3 Cayon, Laura Valentina	COL 2001 1600.3246865 74.5335843 4430840
+4 Finley Rosero, Karol Valentina	COL 2004 1596.4527160 71.7058163 4464028

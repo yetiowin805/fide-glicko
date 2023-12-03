@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Farrugia, Jamie	MLT 1999 1430.1942533 67.1330328 5600898
+2 Psaila, Uranchimeg	MLT 1978 1382.2724067 69.0324183 5600804

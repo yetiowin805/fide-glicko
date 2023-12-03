@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Stsepkina, Katsiaryna	BLR 1999 1834.8229607 74.6127672 13507575
+2 Badelka, Olga	BLR 2002 1831.2897653 66.4110694 13509926

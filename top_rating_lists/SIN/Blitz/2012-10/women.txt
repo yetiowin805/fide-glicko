@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Liu, Yang Hazel	SIN 1990 2017.7536258 74.8845828 5800919
+2 Tay, Li Jin Jeslin	SIN 1990 2003.7331296 74.6993377 5800927

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Al-Zarouni, Kholoud Essa	UAE 1992 1774.2447654 74.9343344 9301194
+2 Nouman, Amna	UAE 1996 1712.1999214 66.9035677 9301500

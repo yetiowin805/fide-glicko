@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ringoir, Tanguy	BEL 1994 M 2561.2508430 72.4033471 208027
+2 Godart, Francois	BEL 1994 M 2312.3257497 71.3391854 208078
+3 Harutyunyan, Axel	BEL 1995 M 1938.9772412 74.2443736 235474

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ali Firas Qassim	IRQ 2006 M 1895.0576960 69.9848605 4810139
+2 Parwa, Pshtiwan Ahmed	IRQ 2007 F 1483.9165109 74.5408794 4814193

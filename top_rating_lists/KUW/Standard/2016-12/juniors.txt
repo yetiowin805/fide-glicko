@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Alothman, Salem	KUW 2003 M 1494.2159269 51.9421416 10301186
+2 Baqer, Fatemah Alzahraa	KUW 2001 F 1127.7548326 69.7838802 10301291

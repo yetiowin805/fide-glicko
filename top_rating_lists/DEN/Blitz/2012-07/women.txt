@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Vovk, Oksana	DEN 1982 2185.8357647 73.2592147 1404695
+2 Nicolajsen, Thea	DEN 1996 1562.2259356 74.8716102 1434144

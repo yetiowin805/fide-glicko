@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Matnadze, Ana	ESP 1983 2432.0557809 70.2013860 13601377
+2 Vega Gutierrez, Sabrina	ESP 1987 2136.8184059 72.2635814 2219026

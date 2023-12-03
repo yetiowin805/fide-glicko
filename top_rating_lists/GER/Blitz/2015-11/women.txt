@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Paehtz, Elisabeth	GER 1985 2469.8337821 66.7812924 4641833
+2 Frey, Alisa	GER 1992 1952.2319178 68.5393314 24634662

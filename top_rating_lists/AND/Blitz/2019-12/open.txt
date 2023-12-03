@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Aloma Vidal, Robert	AND 1989 M 2362.7970996 72.4825252 2260409
+2 Ribera Veganzones, Josep Maria	AND 2003 M 1837.7263468 72.2569632 6900763
+3 Cabarcos Baulina, Manuel	AND 1997 M 1653.8148890 70.5476800 6901166

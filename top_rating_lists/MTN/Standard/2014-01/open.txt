@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Taleb Mohamed, Ahmed	MTN 1973 M 1850.3436448 69.1866362 19600038
+2 Tajidine, Sidi Mohamed	MTN 1965 M 1650.3288309 67.3032153 26030900
+3 Bechir, Mohamedou	MTN 1970 M 1621.3066878 67.2449567 19600062

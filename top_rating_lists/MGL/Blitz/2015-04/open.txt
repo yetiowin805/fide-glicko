@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Gundavaa, Bayarsaikhan	MGL 1989 M 2584.7166414 69.7018768 4901045
+2 Enkhtuul, Altan-Ulzii	MGL 1994 F 1995.0069531 68.3137885 4901444

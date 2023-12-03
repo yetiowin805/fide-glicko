@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Shubitidze, Barbare	GEO 2010 1539.5970482 62.8732586 13633350
+2 Bechvaia, Ketevan	GEO 2006 1414.0300539 74.6079434 13620185

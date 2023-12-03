@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Angulo Cubero, Oscar	CRC 0000 M 1912.1137913 74.1105513 6501435
+2 Jimenez Garcia, Emmanuel	CRC 1997 M 1878.5527190 72.8210704 6504779
+3 Alvarado, Dizan Ernesto	CRC 1967 M 1758.7914696 71.9547347 6500420
+4 Gamboa Alvarado, Olga Leticia	CRC 0000 F 1755.6271060 71.5200086 6502270

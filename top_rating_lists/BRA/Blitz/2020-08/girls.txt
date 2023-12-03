@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Buiar, Maria Eduarda Beraldo	BRA 2007 1560.1575718 72.3557914 22706593
+2 Rodrigues Mota, Sophia Lorena	BRA 2007 1482.5578425 71.9994866 2187280
+3 De Ramos, Mitzi Vedan	BRA 2007 1455.8497225 67.4297203 2197677

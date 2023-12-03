@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Campagnolo, Fabiola	BRA 1999 1702.5964013 71.2995511 2160030
+2 Fernandes, Beatriz	BRA 2009 1500.5494841 73.8940162 22744193

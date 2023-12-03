@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Nader, Mohamed	EGY 1994 M 1934.2292148 73.5017675 10600159
+2 Wafa, Shrook	EGY 1997 F 1797.5519801 74.2491768 10609970

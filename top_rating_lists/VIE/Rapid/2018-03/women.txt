@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Pham, Le Thao Nguyen	VIE 1987 2408.6484155 68.9321414 12401226
+2 Nguyen, Thi Mai Hung	VIE 1994 2213.1538395 74.3778256 12401676

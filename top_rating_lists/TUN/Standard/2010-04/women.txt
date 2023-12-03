@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Matoussi, Amina	TUN 1987 1546.7786928 70.6373273 5501164
+2 Matoussi, Amani	TUN 1987 1431.7226915 72.7560084 5501156

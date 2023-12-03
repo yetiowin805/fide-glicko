@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Henriquez Villagra, Cristobal	CHI 1996 M 2522.6760651 63.2220817 3409350
+2 Valenzuela Gomez, Fernando	CHI 1991 M 2372.0138512 55.1424158 3409392
+3 Rojas Keim, Luis	CHI 1975 M 2313.0048487 68.4916277 3400646
+4 Vecchi Moncada, Erwin Francisco	CHI 2000 M 1751.3085826 70.2330809 3427277

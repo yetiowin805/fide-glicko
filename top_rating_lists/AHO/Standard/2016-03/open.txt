@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Vos, Tjark	AHO 1996 M 2056.1206535 61.3873339 1020870
+2 Maduro, Sherman	AHO 1975 M 1876.6408466 74.9529530 7500122

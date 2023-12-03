@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Schut, Donna	NED 1992 2075.6846919 71.0270228 1017934
+2 Middelveld, Martine	NED 1989 2041.1431986 67.4842323 1016555

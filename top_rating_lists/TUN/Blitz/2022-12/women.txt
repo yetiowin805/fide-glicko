@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Bousselmi, Chahd	TUN 2005 1626.2454614 64.9892215 5533295
+2 Farhat, Assil	TUN 2008 1453.5761956 72.6196704 5526892

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Pavlidou, Ekaterini	GRE 1993 2039.3749605 64.4129915 4213262
+2 Serefidou, Despina	GRE 1997 1644.3279592 66.3901816 4218787
+3 Amiridou, Dimitra	GRE 1996 1622.6873245 67.1211257 4218230

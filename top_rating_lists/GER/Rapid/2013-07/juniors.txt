@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Donchenko, Alexander	GER 1998 M 2266.8605796 69.7637691 24603295
+2 Schroeder, Jan-Christian	GER 1998 M 2151.3655972 74.0824022 24662259
+3 Yankelevich, Lev	GER 1997 M 2113.5157629 72.6422368 24684074

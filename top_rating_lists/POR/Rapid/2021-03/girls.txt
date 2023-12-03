@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Avelino, Camila Biscaya	POR 2004 1756.4797593 70.1775417 1938975
+2 Duque, Raquel Dos Santos	POR 2004 1688.3014675 72.9108528 1945890
+3 Sismeiro, Sofia	POR 2008 1368.2620690 71.3984061 1952587

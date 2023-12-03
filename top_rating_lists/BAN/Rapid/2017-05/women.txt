@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Sultana, Sharmin Shirin	BAN 1987 2064.7969985 70.4694209 10204482
+2 Zisha, Zahuratul Zannat	BAN 1996 1634.6010514 71.0470636 10212809
+3 Jannatul, Ferdous	BAN 2005 1604.7878446 69.5125198 10212590

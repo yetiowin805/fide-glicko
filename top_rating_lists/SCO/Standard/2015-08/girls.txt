@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Milton, Anna	SCO 2000 1471.7306844 74.2563831 2404419
+2 Espinosa Cancino, Monica	SCO 2000 1430.0946978 72.5707864 22253025

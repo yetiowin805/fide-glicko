@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Aura, Daniel	FIN 2004 M 1603.0822054 68.9274345 510602
+2 Suslin, Altai	FIN 2012 M 1261.4353674 45.2069699 519529

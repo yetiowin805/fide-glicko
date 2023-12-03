@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Chinguun, Sumiya	MGL 2005 M 2069.3659185 71.5817262 4902572
+2 Tsogzolmaa, Nanjid	MGL 2004 F 1663.0525651 70.9879890 4903099
+3 Udval, Batkhishig	MGL 2004 F 1612.7269051 71.5193665 4902505

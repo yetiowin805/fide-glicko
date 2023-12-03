@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 De La Riva Aguado, Oscar	AND 1972 M 2548.0000000 52.3874105 6900224
+2 Mellado Trivino, Juan	AND 1968 M 2410.0000000 52.3874105 2201224

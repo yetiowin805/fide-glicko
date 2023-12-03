@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Drayton, Anthony	GUY 1994 M 1866.1111155 67.5676901 19700261
+2 Su, Haifeng	GUY 1995 M 1704.6098171 73.5041399 19700202

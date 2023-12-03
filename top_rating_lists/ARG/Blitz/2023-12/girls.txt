@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Francisco Guecamburu, Candela Be	ARG 2006 2143.3128610 71.9794738 160911
+2 Bosco, Giuliana	ARG 2004 1894.6776275 63.2575059 142611
+3 Borda Rodas, Anapaola S.	ARG 2004 1879.4956824 74.9445317 152781
+4 Castaneda, Milagros	ARG 2008 1456.9406433 68.4167243 180874

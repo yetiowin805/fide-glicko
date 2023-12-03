@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Sukandar, Irine Kharisma	INA 1992 F 2221.6522841 61.4174827 7101937
+2 Elisabeth, Christine	INA 2002 F 1780.2916650 66.9930416 7106165

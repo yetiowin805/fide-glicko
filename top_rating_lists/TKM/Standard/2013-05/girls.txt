@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Atabayeva, Ogulgerek	TKM 1997 1872.9024629 71.7733243 14001810
+2 Jorayewa, Govher	TKM 1994 1777.7340774 73.1902989 14001454

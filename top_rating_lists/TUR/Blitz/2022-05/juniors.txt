@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Demirkol, Kerim Calvelo	TUR 2009 M 1627.1339629 59.4939671 26396815
+2 Barut, Emir	TUR 2011 M 1301.6900953 65.7471676 146243282

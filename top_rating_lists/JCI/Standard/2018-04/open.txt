@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Farrand, Tom	JCI 1961 M 2055.5443573 67.9127399 406457
+2 Wojciechowski, Paul	JCI 1954 M 1770.1373179 72.4253722 15600017

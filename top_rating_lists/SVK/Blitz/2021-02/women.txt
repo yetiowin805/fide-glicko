@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Nadzamova, Viktoria	SVK 2006 1832.0195752 63.7751981 14943999
+2 Ondrusova, Miroslava	SVK 1997 1651.2063288 73.9582672 14943794

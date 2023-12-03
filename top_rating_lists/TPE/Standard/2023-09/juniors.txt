@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Bai, Adelard	TPE 2007 M 2194.1769875 45.3307325 16301188
+2 Hung,Chen-Ting	TPE 2003 M 1711.5786813 62.5857882 16302184

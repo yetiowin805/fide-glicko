@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Zhezhovska, Monika	MKD 2008 1554.0513390 70.8783385 15007588
+2 Veleva, Teodora	MKD 2006 1421.1220042 71.4758002 15006441

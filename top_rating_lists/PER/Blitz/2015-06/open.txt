@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Cordova, Emilio	PER 1991 M 2502.1452416 70.5512781 3801497
+2 Escalante Ramirez, Brian Sebasti	PER 1999 M 1960.6677580 68.3062565 3819566
+3 Villar, Juan	PER 1987 M 1925.5427154 74.5804347 3802744

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Antonova, Nadezhda	TJK 1988 1893.5543677 56.5415931 14700182
+2 Hotami, Mutriba	TJK 1997 1657.2175908 64.1675493 14700204

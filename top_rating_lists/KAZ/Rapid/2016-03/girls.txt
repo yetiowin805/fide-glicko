@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Adilbekova, Erkezhan	KAZ 1998 1655.8523954 68.0968478 13711504
+2 Kairbekova, Amina	KAZ 2006 1564.8218388 73.8631320 13712799

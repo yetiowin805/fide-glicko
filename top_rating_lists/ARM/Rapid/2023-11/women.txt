@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Danielian, Elina	ARM 1978 2188.8491695 73.9007075 13300210
+2 Gevorgyan, Maria	ARM 1994 2162.9187382 73.2704525 13300270

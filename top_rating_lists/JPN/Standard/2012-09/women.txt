@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Nakagawa, Emiko	JPN 1941 1520.1045091 72.6663591 7000480
+2 Hoshino, Karen	JPN 2001 1456.4935521 66.0620638 2137984

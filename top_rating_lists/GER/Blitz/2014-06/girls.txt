@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Schaefer, Annabelle	GER 1997 2038.6238755 63.7195916 12917729
+2 Osmanodja, Filiz	GER 1996 2025.4364933 66.2522880 24633569

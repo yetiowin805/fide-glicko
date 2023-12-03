@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Belli, Michela	ITA 1972 1734.6175795 57.4085929 2814779
+2 Vecchione, Anna Pia	ITA 2001 1733.4318486 61.0089152 2804706
+3 Picchi, Darina Francesca	ITA 1997 1627.8332967 68.3440252 880329

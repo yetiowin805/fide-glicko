@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kim, Alexey	KOR 1986 M 2468.5331075 60.0743185 4129776
+2 Jung, Young Hoon	KOR  M 1694.4522021 69.6401303 13200194

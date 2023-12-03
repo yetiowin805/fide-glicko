@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Lane, Nancy L	AUS 1971 1467.1763160 74.6561049 3203794
+2 Rupasinghe, Chanya	AUS 2011 1301.7879714 70.3203169 3236242

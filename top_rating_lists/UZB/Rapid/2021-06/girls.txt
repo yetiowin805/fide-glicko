@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Bobomurodova, Maftuna	UZB 2006 1788.9632785 59.6349309 14207400
+2 Imomkuzieva, Nilufarkhon	UZB 2010 1605.7937163 53.5467323 14216736
+3 Khasanova, Shakhzoda	UZB 2010 1599.9729722 61.9849202 14216795
+4 Mirzakhoshimova, Marjona	UZB 2009 1403.9510642 68.3816432 14223449

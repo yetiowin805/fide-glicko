@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Cruz, Jeremiah Luis	PHI 2005 M 1607.6535084 74.8314499 5228751
+2 Cuizon, Richily Evans	PHI 2008 F 1470.4293143 71.8376963 5230306

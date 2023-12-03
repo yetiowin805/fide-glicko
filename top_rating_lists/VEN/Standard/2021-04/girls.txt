@@ -1,0 +1,11 @@
+Rank Name Federation BirthYear Rating RD
+1 Perez Hernandez, Vicmary C.	VEN 2005 1734.5400481 68.9158025 3930831
+2 Pena Gonzalez, Clara Isabel	VEN 2004 1689.7367413 72.9912190 3924203
+3 Vargas Ortiz, Grecia Valentina	VEN 2003 1636.6756552 74.5851855 3941990
+4 Ubertin Gomez, Katherin Rossmary	VEN 2002 1610.2703156 72.1095568 3916391
+5 Guadalajara Barrios, Jacksilany	VEN 2006 1500.5248332 70.9885257 3931242
+6 Hernandez Mora, Nohelia Virginia	VEN 2005 1336.4707027 74.8311772 3915344
+7 Quijada Delgado, Eliana Paola	VEN 2005 1293.0857213 74.4645696 3955494
+8 Leon De Canha, Yassell Arianne	VEN 2008 1236.7972524 73.6282472 3974898
+9 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1179.4359290 74.3092692 3964051
+10 Cabeza Marquez, Mariangel Alejandra	VEN 2007 1144.6124989 74.8101559 3934527

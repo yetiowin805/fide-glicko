@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Vaishali R	IND 2001 2247.1349720 74.2330140 5091756
+2 Katari Sajyotsna	IND 2011 1561.9670566 74.4159728 25910108

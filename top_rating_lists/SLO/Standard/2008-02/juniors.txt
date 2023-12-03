@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Lenic, Luka	SLO 1988 M 2593.1326942 43.7066191 14603853
+2 Muzychuk, Anna	SLO 1990 F 2469.8224735 43.5826239 14111330

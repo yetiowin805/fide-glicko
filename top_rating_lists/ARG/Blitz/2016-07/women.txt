@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Fernandez, Maria Florencia	ARG 1991 2022.2378827 71.5990882 116459
+2 Carraro, Denise	ARG 1988 2014.9654519 73.5621274 111791

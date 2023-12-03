@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Rating RD
+1 Hernandez Bermudez, Manuela	COL 2004 1751.2722496 61.7896326 4483103
+2 Lopez Rayo, Isabella	COL 2005 1663.5669129 66.5143539 4452755
+3 Ceballos Castellanos, Isabela	COL 2004 1634.9736825 70.9265193 4452410
+4 Finley Rosero, Karol Valentina	COL 2004 1550.2985302 74.4995109 4464028
+5 Sanchez Riobo, Emily Dainne	COL 2005 1465.7663351 73.7974582 4441001

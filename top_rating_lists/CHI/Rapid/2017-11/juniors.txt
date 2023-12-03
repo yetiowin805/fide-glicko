@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Vergara Jofre, Felipe	CHI 1998 M 1786.5750083 71.1946335 3416291
+2 Estrada Lavin, Cristian Alexand	CHI 1999 M 1689.6756172 73.1748319 3411710
+3 Nauto Munoz, Isaias	CHI 2004 M 1654.3655585 62.4221711 3431746
+4 Marrujo Pardo, Mauricio Emmanuel	CHI 2010 M 1406.9352082 65.2169763 3943755

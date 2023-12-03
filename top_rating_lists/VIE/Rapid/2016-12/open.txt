@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Nguyen, Huynh Minh Huy	VIE 1987 M 2420.1760420 72.4859146 12401269

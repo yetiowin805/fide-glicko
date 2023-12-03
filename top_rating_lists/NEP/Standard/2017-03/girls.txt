@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Lohani, Sujana	NEP 1999 1569.9819214 66.0655885 12311987
+2 Jaiswal, Bina	NEP 1997 1403.9846325 69.8284343 12301744

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Frattini, Beatriz Maria	BRA 2004 1707.4601620 72.5390230 22715002
+2 Campagnolo, Fabiola	BRA 1999 1685.5122223 66.1752007 2160030
+3 Feller, Gabriela Luisa Vicente	BRA 2004 1673.2550926 74.7187990 2163322

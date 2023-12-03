@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Allam, Mohamed	PLE 2001 M 1790.6106092 73.4790063 11501731
+2 Raji Sayel,Abu Azizah	PLE 2006 M 1475.5924273 68.0450072 11503327

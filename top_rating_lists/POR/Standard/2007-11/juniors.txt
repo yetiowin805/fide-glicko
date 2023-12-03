@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Pereira, Ruben	POR 1991 M 2419.7878237 49.3549633 1903063

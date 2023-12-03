@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Shuqja, Klean	ALB 2006 F 1776.4471523 74.8270442 4701585
+2 Tusha, Ruzhdi	ALB 1965 M 1574.7632738 71.9672394 4701356

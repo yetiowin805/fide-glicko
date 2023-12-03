@@ -1,0 +1,7 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Henriquez Villagra, Cristobal	CHI 1996 M 2142.1971774 72.9728114 3409350
+2 Gutierrez Montes, Sebastian	CHI 1996 M 1802.3438578 63.4568053 3411559
+3 Aguirre Contreras, Cristian	CHI 1996 M 1789.4488149 60.0952964 3412776
+4 Suarez OHiggins, Luis	CHI 1997 M 1722.0274172 65.8440111 3416780
+5 Donoso Diaz, Sebastian	CHI 2001 M 1671.1689759 69.0439443 3416097
+6 Estrada Lavin, Cristian Alexand	CHI 1999 M 1590.2846908 74.0415589 3411710

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Felix, Tobi	GHA 1999 1505.5366218 74.9209277 12600989
+2 Ayiku,Angela Naa Amerley	GHA 1987 1381.5431460 73.6307105 12600423

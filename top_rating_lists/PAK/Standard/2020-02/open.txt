@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Lodhi, Mahmood	PAK 1961 M 2215.9587629 68.2130834 7800010
+2 Wahid, Hussain	PAK 1970 M 1777.7530075 68.8359058 7800509

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ribera Veganzones, Josep Maria	AND 2003 M 1996.6175929 58.2018724 6900763
+2 Ribera Veganzones, Serni	AND 2007 M 1911.4072428 53.0566682 6900860

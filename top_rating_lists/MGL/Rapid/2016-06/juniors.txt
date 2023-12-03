@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Nomin-Erdene, Davaademberel	MGL 2000 F 2164.4759092 61.4155283 4900782
+2 Uuriintuya, Uurtsaikh	MGL 1998 F 1944.7538983 67.7913574 4900227
+3 Baasansuren, Erdene	MGL 2003 M 1934.9489387 70.8850221 4902084

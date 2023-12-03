@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Munguntuul, Batkhuyag	MGL 1987 2216.9547333 72.9945548 4900758
+2 Enkhtuul, Altan-Ulzii	MGL 1994 2068.8400866 64.9027141 4901444
+3 Bayarmaa, Bayarjargal	MGL 1995 2066.6770230 72.8717613 4900260
+4 Otgonjargal, Sengeravdan	MGL 1982 1896.7026038 68.6162069 4900790

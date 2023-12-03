@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Leon Hoyos, Manuel	MEX 1989 M 2496.4061761 44.8161669 5105269
+2 Ibarra Chami, Luis Fernando	MEX 1989 M 2385.3534167 45.9938819 5105048

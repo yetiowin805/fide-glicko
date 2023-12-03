@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Johannsdottir, Johanna Bjorg	ISL 1993 1889.2774693 64.7282726 2303108
+2 Ptacnikova, Lenka	ISL 1976 1887.4996419 57.2918981 305650
+3 Acevedo Mendez, Lisseth	ISL 1993 1788.8425607 74.5890422 6502938
+4 Helgadottir, Idunn	ISL 2007 1430.5224016 50.7108265 2314118

@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Gavarrete, Nahun	HON 1994 M 2121.3975562 73.4209213 8400709
+2 Urbina, Ricardo	HON 1977 M 1985.2889943 74.7309476 8400253
+3 Chinchilla, Alejandro Jose	HON 1991 M 1950.2814605 73.2452806 8401136
+4 Obregon Amador, Jose Francisco	HON 1985 M 1759.9532229 74.1334319 8400857

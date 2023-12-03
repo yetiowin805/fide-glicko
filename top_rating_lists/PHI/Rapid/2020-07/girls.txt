@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 San Diego, Jerlyn Mae	PHI 2005 1792.2230182 70.1827336 5213401
+2 Villa, Ma. Elayza	PHI 2004 1685.6329660 74.8093727 5224292
+3 Racasa, Antonella Berthe	PHI 2007 1591.2086368 68.8232649 5226171

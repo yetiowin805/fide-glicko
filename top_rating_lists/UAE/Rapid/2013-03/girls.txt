@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Kalbani, Wadema	UAE 2000 1547.5911779 71.6803376 9304541
+2 Al Maamari, Wafia Darwish	UAE 2003 1398.5577484 72.5468867 9305734

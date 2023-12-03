@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Cuttoli, Alexandre	MNC 2005 M 1894.3721813 53.1824208 36007293
+2 Berezovsky, Fiorina	MNC 2007 F 1550.3933068 59.7118017 5400651

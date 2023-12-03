@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Papp, Bence	HUN 2003 M 1833.0168268 70.8551927 788384
+2 Daroczi, Donat	HUN 2005 M 1740.5617674 74.7984366 788376

@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Bravo, William	NCA  M 2131.6687537 68.8225969 6100406
+2 Alfaro, William	NCA  M 2126.6870940 72.2736854 6100457
+3 Castillo, Rommel	NCA  M 2012.3780478 72.5647876 6100490
+4 Fonseca Cabrera, Ernesto	NCA  M 1998.4754351 71.9507062 6101046

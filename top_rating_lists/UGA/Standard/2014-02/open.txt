@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Emojong Elijah	UGA 1992 M 2261.3555583 60.2968667 10000402
+2 Luggya, Vianney	UGA 1976 M 1749.9813005 69.7590083 10000410

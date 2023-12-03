@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Giese, Ellen Cristine	BRA 1981 1745.9112289 74.8038256 2115867
+2 Da Cruz, Karoliny Taiane	BRA 1992 1687.0617263 73.7792688 2136910
+3 Reis,Virginia Lagrange M.	BRA 1968 1596.9692390 72.5290968 2134730

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rapport, Richard	HUN 1996 M 2543.1770701 69.7333180 738590
+2 Barcza, Lora	HUN 2005 F 1545.3691907 71.2678402 777749

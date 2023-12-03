@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Arakhamia-Grant, Ketevan	SCO 1968 2277.2078857 49.5115525 13600168
+2 Espinosa Cancino, Monica	SCO 2000 1495.1714338 72.9980404 22253025

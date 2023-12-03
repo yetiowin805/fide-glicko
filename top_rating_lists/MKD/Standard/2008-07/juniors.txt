@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Pancevski, Filip	MKD 1988 M 2418.0510783 55.0806023 15002187
+2 Petrovski, Igor	MKD 1994 M 1834.1957474 71.1416814 15000249

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Arakhamia-Grant, Ketevan	SCO 1968 2144.5511793 67.6482430 13600168
+2 Lampard, Alice	SCO 1996 1676.4523174 71.5723665 2402750

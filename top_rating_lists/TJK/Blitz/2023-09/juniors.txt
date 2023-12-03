@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kodiri, Pairavi	TJK 2011 M 1659.7053313 64.5671693 14701979
+2 Fayzieva, Darina	TJK 2006 F 1512.7400249 61.4813385 14701960

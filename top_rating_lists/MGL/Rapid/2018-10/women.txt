@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Nomin-Erdene, Davaademberel	MGL 2000 2180.5385164 72.6285822 4900782
+2 Tsogzolmaa, Nanjid	MGL 2004 1663.0525651 67.4521174 4903099
+3 Udval, Batkhishig	MGL 2004 1612.7269051 68.0179562 4902505

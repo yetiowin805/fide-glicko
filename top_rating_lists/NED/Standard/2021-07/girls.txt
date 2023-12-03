@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Arnold, Kiri	NED 2004 1602.3305001 72.9720833 1060171
+2 Cordes, Jule	NED 2006 1515.7405252 73.0993785 1060708

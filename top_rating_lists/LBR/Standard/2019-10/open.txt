@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Barcon, Harmon	LBR 1981 M 1831.3381311 66.4807972 22600078
+2 James, Tondo	LBR 1992 M 1728.6884340 67.5182458 22600132

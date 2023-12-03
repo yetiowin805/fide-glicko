@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Dubois, Martine	MNC 1959 1881.5148942 72.9640262 601926
+2 Jose Polanco, Kenia	MNC 1985 1820.1526014 73.3259222 6401074

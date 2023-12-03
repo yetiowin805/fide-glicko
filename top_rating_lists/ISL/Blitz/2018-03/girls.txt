@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Magnusdottir, Veronika Steinunn	ISL 1998 1548.8520504 73.2177583 2309114
+2 Haile, Batel Goitom	ISL 2007 1526.1391848 52.3595778 2315190
+3 Birkisdottir, Freyja	ISL 2006 1401.9321439 73.2187360 2311860
+4 Helgadottir, Idunn	ISL 2007 1318.4630555 65.2006452 2314118

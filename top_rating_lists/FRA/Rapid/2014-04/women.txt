@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Maisuradze, Nino	FRA 1982 2176.5615863 74.9076897 13601717
+2 Bellaiche, Elise	FRA 1997 1938.6756690 73.7381448 696366

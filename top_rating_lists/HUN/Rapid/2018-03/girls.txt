@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Gaal, Zsoka	HUN 2007 1766.7881013 71.8365177 777765
+2 Majoros, Rozsa Evelin	HUN 2004 1740.2444340 62.1166538 767310

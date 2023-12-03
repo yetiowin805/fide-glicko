@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Perez Hernandez, Vicmary C.	VEN 2005 1734.5400481 74.0239970 3930831
+2 Guadalajara Barrios, Jacksilany	VEN 2006 1514.3449111 70.6996132 3931242
+3 Leon De Canha, Yassell Arianne	VEN 2008 1262.3531188 73.7529700 3974898

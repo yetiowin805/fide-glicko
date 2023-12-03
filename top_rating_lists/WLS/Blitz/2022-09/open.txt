@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Jukes, Sam	WLS 1993 M 1817.4717726 65.3115940 1803182
+2 MacDonald, Duncan	WLS 2004 M 1708.5274841 69.9527339 1804758

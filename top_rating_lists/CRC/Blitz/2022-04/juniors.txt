@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Cabezas Solano, David Alejandro	CRC 2004 M 1905.4496700 69.8546760 6507522
+2 Villegas Rodriguez, Jeremy	CRC 2003 M 1789.5348439 69.5369661 6512798
+3 Cartin Aguilar, Luis Javier	CRC 2004 M 1779.3989027 66.0581384 6516858
+4 Meza Vega, Jose Antonio	CRC 2004 M 1580.3796848 62.0169705 6513697
+5 Chaves Olaso, Axel Andrey	CRC 2004 M 1486.7035241 68.3215016 6518095

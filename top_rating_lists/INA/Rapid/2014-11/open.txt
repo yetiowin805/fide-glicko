@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Megaranto, Susanto	INA 1987 M 2493.1842206 70.7342453 7101384
+2 Sean, Winshand Cuhendi	INA 1997 M 2273.7870303 74.1392988 7101554

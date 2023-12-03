@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Smith, Olivia	WLS 1987 1969.9348362 70.9479131 411850
+2 Smith, Lynda	WLS 1968 1681.6327411 73.0807735 1800191

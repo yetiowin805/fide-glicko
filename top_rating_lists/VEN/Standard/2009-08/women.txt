@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Hernandez, Zaida	VEN  2012.2168094 68.9227406 3901041
+2 Han Wong, Ingrid	VEN  1967.5503903 74.5290679 3902064

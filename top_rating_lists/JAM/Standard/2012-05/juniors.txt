@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 James, Stuart	JAM 1993 M 1919.9932171 63.8690152 7400489
+2 Smith, Shreyas	JAM 1996 M 1731.0193362 57.3615536 7400713

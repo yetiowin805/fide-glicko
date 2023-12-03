@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Nylund, Benjamin	NZL 2004 M 1509.4638784 72.2435527 4305019
+2 Nylund, Micah	NZL 2004 M 1302.6759666 72.5599323 4305027

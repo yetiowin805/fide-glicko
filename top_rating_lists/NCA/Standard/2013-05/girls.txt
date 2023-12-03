@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Mendieta, Kathya	NCA 1994 1725.6912084 65.0013350 6101496
+2 Granados, Maria	NCA 1995 1688.5469920 69.8306618 6101488

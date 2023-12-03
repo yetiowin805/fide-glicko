@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Toncheva, Nadya	BUL 2005 1636.3386604 61.8190920 2924056
+2 Chitakova, Galya	BUL 2003 1529.6890058 72.7331320 2920425

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rodriguez Vila, Andres	URU 1973 M 2306.2162681 70.5399245 3000010
+2 Campora, Edgardo	URU 1995 M 1631.7766615 74.9614643 3003612

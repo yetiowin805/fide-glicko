@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Rajapaksa, Miyuni Kavinya	SRI 2000 1623.8000939 68.8346556 9939210
+2 Methmani, Nelunika	SRI 1998 1599.1249294 70.4765381 9910050
+3 Mendis, Dasuni Hansika	SRI 2000 1544.3072085 66.8088131 9907696
+4 Wickramasinghe, Dilhara Ishini	SRI 2000 1542.2120412 64.6844962 9906738

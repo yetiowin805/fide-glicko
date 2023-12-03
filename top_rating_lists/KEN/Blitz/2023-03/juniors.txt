@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mwabu, Timothy	KEN 2003 M 1797.5218298 54.2621577 10805796
+2 Oluka Robert Mcligeyo	KEN 2005 M 1683.3883410 72.6118665 10814647

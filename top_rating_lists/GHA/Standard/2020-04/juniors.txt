@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Benson, Maud	GHA 2001 F 1408.5924462 68.1230583 12600857

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Schweizer, Simon	JPN 1996 M 2105.0902915 74.7522780 1325361
+2 Schweizer, Samuel	JPN 1996 M 2039.3411933 70.8918522 1325353

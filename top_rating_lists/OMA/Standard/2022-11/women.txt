@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Al Bulushi, Rawan	OMA 2005 1454.9362963 70.9065145 22007415
+2 Al Ghafri, Alanoud	OMA 1996 1409.5279842 72.6824787 22000313

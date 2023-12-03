@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Djibtrouhi, Mustapha	ALG 2008 M 1654.3168993 67.7480323 7925123
+2 Aissat, Wail	ALG 2006 M 1593.2917846 72.6236029 7930780
+3 Ghezali,Abdelhalim essddik youcef	ALG 2006 M 1571.9182583 69.2699274 7925166
+4 Oukid,  Aymen EL Bachir	ALG 2005 M 1468.6601348 70.0661838 7906978

@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ramirez Garcia, Jorge Alberto	MEX 1983 M 2049.3971508 71.5007170 5108101
+2 Galaviz Medina, Sion Radam	MEX 2005 M 1713.2943438 74.7320001 5123119
+3 De Dios Suarez, Jorge Emiliano	MEX 1999 M 1674.0960799 73.5066700 5117151
+4 Roque Sola, Andrea	MEX 2001 F 1570.4275412 70.4008565 5119480
+5 Solis Carbajal, Minueth Si	MEX 1998 F 1494.9802694 73.5912356 5118638

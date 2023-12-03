@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Balajayeva, Khanim	AZE 2001 1903.2151680 74.5391189 13406396
+2 Abbasova, Sadagat	AZE 2003 1576.8861381 74.9722260 13410059

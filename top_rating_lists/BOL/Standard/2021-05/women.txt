@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Molina, Jessica	BOL 2000 1710.9726872 71.4774770 3303888
+2 Enriquez Coronel, Gaia Paola	BOL 2003 1591.8365153 73.4628593 3316955

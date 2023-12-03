@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ghanem, Al Shamari	QAT 2001 M 1388.0893015 70.6536537 12100986
+2 Al-Hajri, Hamda	QAT 2002 F 1329.5070544 72.0537047 12100900

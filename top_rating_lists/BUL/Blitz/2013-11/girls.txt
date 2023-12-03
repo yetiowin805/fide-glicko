@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Spasova, Tsvetelina	BUL 1997 1644.6842713 74.6341921 2900270
+2 Grabcheva, Natalia	BUL 2002 1409.4134530 62.5284097 2917815

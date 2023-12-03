@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ragnarsson, Dagur	ISL 1997 M 1879.2601116 72.6554244 2304058
+2 Johannesson, Oliver	ISL 1998 M 1770.7508274 74.0580149 2305623

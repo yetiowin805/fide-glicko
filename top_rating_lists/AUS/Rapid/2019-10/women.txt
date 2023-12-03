@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Chibnall, Alana	AUS 1991 1806.4572092 62.7071735 3208613
+2 Rupasinghe, Chanya	AUS 2011 1396.5957218 72.5055770 3236242

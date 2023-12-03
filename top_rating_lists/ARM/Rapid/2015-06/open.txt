@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Aronian, Levon	ARM 1982 M 2829.8014211 66.7596983 13300474
+2 Abkarian, Suren	ARM 1959 M 1736.5719104 70.2956641 13303406

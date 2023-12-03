@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Arakhamia-Grant, Ketevan	SCO 1968 2281.9604040 74.3711387 13600168
+2 Giulian, Rosemary A	SCO 1964 1759.0564014 68.6121793 2400375

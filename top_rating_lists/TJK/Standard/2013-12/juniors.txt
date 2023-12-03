@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Nasriddinzoda, Marvorii	TJK 1993 F 1956.1036224 57.0405899 14700395
+2 Ilhom, Mootribai	TJK 1997 F 1725.0189443 67.9294236 14700204

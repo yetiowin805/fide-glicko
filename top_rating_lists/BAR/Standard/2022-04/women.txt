@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Wilson, Hannah	BAR 2009 1517.8590393 64.6086619 11104600
+2 Moore, Gaybrianna	BAR 2004 1456.5488696 66.0163870 11103760

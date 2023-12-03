@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Guo, Emma	AUS 1995 1955.6584111 69.1421870 3200795
+2 Simmonds, Leteisha	AUS 1996 1624.4526258 72.4203113 3208699

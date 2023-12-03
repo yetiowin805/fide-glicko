@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Dumkova, Daniela	CZE 1997 1584.7134776 69.0143395 361046
+2 Pribylova, Sofie	CZE 2002 1572.6522781 47.1668038 371726

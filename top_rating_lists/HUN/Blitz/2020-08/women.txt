@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Terbe, Zsuzsanna	HUN 1997 2073.3914499 74.7438530 708801
+2 Terbe, Julianna	HUN 1997 2044.0917762 67.7223134 708780
+3 Majoros, Rozsa Evelin	HUN 2004 1846.8606021 65.9990421 767310

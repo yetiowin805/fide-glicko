@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mahor Jr, Manuel	PLW 1970 M 1758.1493225 74.4479846 16600100
+2 Parrado, Angelica	PLW 1968 F 1610.1599338 70.2679686 16600215

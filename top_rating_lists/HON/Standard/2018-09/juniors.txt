@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Miller, Marlon	HON 2001 M 1854.3965344 62.6761278 8400555
+2 Vasquez Miranda, Lenin Jesed	HON 2001 M 1575.8794109 74.2199658 8403040
+3 Ramos Donaire, Maria Pradi	HON 2002 F 1469.0903663 65.8923835 8402337
+4 Soliz Gabarrete , Luis Fernando	HON 2004 M 1453.8711414 74.5938306 8403031

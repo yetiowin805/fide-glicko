@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Nazarova, Anastasia	FIN 2001 1878.0402088 49.2064928 34101737
+2 Norlamo, Sarabella	FIN 2003 1506.0658716 52.0630479 4505344
+3 Ebeling, Mariela	FIN 2003 1438.3358333 73.8916412 508080

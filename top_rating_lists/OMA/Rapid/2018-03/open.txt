@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Al Mashikhi, Salim Aliyan	OMA 1985 M 1874.3174876 73.8341128 22000046
+2 Al Harasi Saif	OMA 1982 M 1570.8796530 74.0100854 22000208
+3 Al Jahwari, Adnan Mohammed	OMA 1988 M 1564.0874781 63.0284814 22001115

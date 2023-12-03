@@ -1,0 +1,8 @@
+Rank Name Federation BirthYear Rating RD
+1 Patino Garcia, Corals	VEN 1999 1677.1084977 71.9700845 3902781
+2 Alvarado Arcila, Marvia Josefina	VEN 2000 1628.8665687 65.8250311 3909034
+3 Yepez Moreno, Juliet Carolina	VEN 2001 1519.8930908 73.5439625 3905438
+4 Moro Hernandez, Alba Maria	VEN 2001 1437.8777954 69.6210348 3905349
+5 Yepez Moreno, Catherine Celeste	VEN 2003 1306.1146858 69.0985594 3905292
+6 Dumont Peroza, Agnes Coromoto	VEN 2001 1172.3077277 72.6645223 3924254
+7 Hernandez Mora, Nohelia Virginia	VEN 2005 1057.9937497 74.1134928 3915344

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Alcon Llosada, Alex	AND 2003 M 1726.7134570 73.3672444 6900780
+2 Martinez Gamiz, Marc	AND 2005 M 1683.1377306 74.8164132 6900976

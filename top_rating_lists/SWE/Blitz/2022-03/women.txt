@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Agrest, Inna	SWE 1991 2056.5305481 74.6132712 1708830
+2 Ostensson, Julia	SWE 2005 1743.9837352 59.7896841 1747703

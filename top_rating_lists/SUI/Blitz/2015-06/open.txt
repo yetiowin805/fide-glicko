@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Nuri, Kambez	SUI 1992 M 2137.9327538 74.8261234 1311433

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Boric, Elena	BIH 1963 2265.9629914 57.2731317 14400839
+2 Jacimovic, Sara	BIH 1997 1762.4992371 61.9769747 14403668

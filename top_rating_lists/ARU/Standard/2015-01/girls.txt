@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Jacobs, Annelaine	ARU 1996 1583.1484925 62.7347774 15900177
+2 De Mey, Maria Paula	ARU 1997 1350.4420323 72.3902116 15900444

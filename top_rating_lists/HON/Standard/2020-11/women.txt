@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 McDowell, Sharon	HON 1997 1545.4820083 74.4241113 8401489
+2 Ramos Donaire, Maria Pradi	HON 2002 1518.2052947 73.3524464 8402337

@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Tran, Minh Thang	VIE 2000 M 2060.6171654 74.4960185 12401080

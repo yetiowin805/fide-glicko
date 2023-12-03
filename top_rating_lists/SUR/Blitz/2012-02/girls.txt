@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ramos Dos, Rosangela	SUR 1996 1623.8589227 65.0199628 8200521
+2 Frijde, Reyna	SUR 1995 1499.0056676 70.7009161 8200335

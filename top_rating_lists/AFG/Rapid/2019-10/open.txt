@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rahmani, Asef	AFG 1973 M 1819.0988801 53.2102992 12540951
+2 Amir Ali Mahmoodi	AFG 2003 M 1608.7854737 46.7289020 11701773

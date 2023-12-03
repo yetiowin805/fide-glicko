@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Nkhoma, Desiderata	MAW 1993 1518.0532852 71.0640459 20500327
+2 Mpinganjira, Ellen	MAW 1988 1445.4630325 68.8096844 16400100

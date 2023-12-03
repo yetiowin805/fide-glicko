@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Gontcharov, Serguei	BER 1966 M 1758.3345022 63.7176154 8800871
+2 Dacres, Don	BER 1970 M 1679.5199107 72.0639558 8800820

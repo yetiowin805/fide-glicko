@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kock, Hans-Uwe	LIE 1938 M 2137.1524257 69.0854431 4611020
+2 Zier, Oliver	LIE 1995 M 2034.8770643 60.0148519 24631906

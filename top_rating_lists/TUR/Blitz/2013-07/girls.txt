@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Alev, Gonulden Seda	TUR 1995 1622.9885421 68.3486382 6301428
+2 Erece, Ece Alkim	TUR 2001 1503.6202226 73.7309858 6346006

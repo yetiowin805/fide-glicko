@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Gohil, Mehul	KEN 1981 M 1944.3482323 71.6379108 10800999
+2 Ndirangu, Joyce Nyaruai	KEN 1995 F 1713.4711802 74.8564234 10802886

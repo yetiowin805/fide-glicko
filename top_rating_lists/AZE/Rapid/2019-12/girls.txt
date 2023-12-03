@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Beydullayeva, Govhar	AZE 2003 1960.5755040 74.4338433 13413015
+2 Pashayeva, Jamila	AZE 2005 1524.3340646 73.8698914 13417533

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Karelina, Polina	BAH 2001 1725.4262286 52.7811558 10400222
+2 Pride, Chika	BAH 2010 1378.1747486 73.5440288 10401601

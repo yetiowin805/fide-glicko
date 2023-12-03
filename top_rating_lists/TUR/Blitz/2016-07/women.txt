@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Kargaci, Humeyra	TUR 2002 1617.8324515 74.5820142 6360980
+2 Sade, Defne	TUR 2003 1509.6879111 64.8653283 6371884

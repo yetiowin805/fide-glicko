@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Zepeda, Lorena	ESA 1984 1928.7277300 71.9195118 6700233
+2 De Leon, Stephanie	ESA 2000 1554.3519312 74.4842610 6703127

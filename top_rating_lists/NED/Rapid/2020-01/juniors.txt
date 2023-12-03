@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Van Foreest, Lucas	NED 2001 M 2282.0671768 64.1122426 1039792
+2 Han, Yichen	NED 2007 M 2052.4964210 68.0915274 1054430

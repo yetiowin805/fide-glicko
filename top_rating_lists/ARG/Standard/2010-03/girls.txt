@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Martinez, Ayelen	ARG 1993 2017.8882333 66.9147104 118702
+2 Strgacich, Aylen	ARG 1999 1517.1387789 67.0245542 119296

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Moran, Darragh	IRL 2002 M 1652.2382989 74.3100303 2510294
+2 Avetisyan, Gagik	IRL 2005 M 1560.7006198 74.8645040 2512270

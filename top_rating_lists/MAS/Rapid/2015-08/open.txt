@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Wising, Abdul Sahim	MAS 1978 M 1954.7520833 74.3924260 5705177
+2 Erowan, Masrin	MAS 1980 M 1923.1104907 72.4383270 5701775

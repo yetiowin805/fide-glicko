@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Borda Rodas, Anapaola S.	ARG 2004 F 1935.6204511 74.6199325 152781
+2 Scarsi, Anna Laura	ARG 2006 F 1574.2398321 72.7641700 159328

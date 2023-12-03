@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Masrahi, Abdulrahman A	KSA 1991 M 1897.7406076 73.5284799 21501564
+2 Al Mutlaq, Ibrahim A	KSA 1989 M 1573.6235050 73.2484885 21504610

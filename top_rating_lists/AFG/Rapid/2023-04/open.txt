@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rahmani, Asef	AFG 1973 M 1725.1500003 36.2092429 12540951
+2 Hosini, Abdulrahim	AFG 1987 M 1652.9388411 46.4688352 11702133

@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mendez, Andre	PAN 2008 M 1754.1311277 74.3555976 6603793
+2 Batista Rosas, Nicolas Arturo	PAN 2007 M 1701.8886555 71.4159732 6607918
+3 Schnell, Sebastian Narayana	PAN 2006 M 1691.4455276 64.3400906 6605290
+4 Vasquez Jaen, Lourdes Lorena	PAN 2003 F 1494.5056881 71.8924955 6605559

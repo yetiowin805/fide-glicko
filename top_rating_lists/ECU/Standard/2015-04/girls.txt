@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Bermudez Veliz, Josselyn	ECU 1998 1793.5357278 69.7576633 3609499
+2 Ortiz Verdesoto, Anahi	ECU 2001 1666.3139925 67.7667982 3614581
+3 Bohorquez Canizares, Maria	ECU 1995 1581.1212946 69.2063338 3606783
+4 Pincay Coloma, Daniela	ECU 1999 1578.0204339 71.4134647 3617580

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Poliakova, Varvara	FAI 2005 F 1985.4850228 59.9836657 13518313
+2 Petersen, Elias	FAI 2007 M 1487.9773367 73.1282118 7202725

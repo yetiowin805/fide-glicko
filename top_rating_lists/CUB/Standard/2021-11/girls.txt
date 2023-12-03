@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Bosch Valls, Leannet Mariah	CUB 2004 1894.4359462 70.1132130 3523489
+2 Muniz Guevara, Amanda Maria	CUB 2002 1862.6771160 71.6131243 3524299
+3 Manso Lopez, Rosangela	CUB 2005 1610.7475415 73.2546447 3527182

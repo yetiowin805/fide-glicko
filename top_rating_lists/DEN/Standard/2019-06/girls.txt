@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Nilssen, Ellen Fredericia	DEN 2001 1951.4497052 49.0142430 1441230
+2 van den Brink, Nienke	DEN 2004 1708.6264872 61.1918707 1452568
+3 Jensen, Anna Hedelykke	DEN 2001 1575.9117934 67.1098124 1449834
+4 Nielsen-Refs, Ingrid Elmer	DEN 2005 1409.0737152 57.7295511 1455907

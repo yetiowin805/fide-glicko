@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Berend, Elvira	LUX 1965 2294.9974210 53.3331385 4000510
+2 Kremer, Nadine	LUX 1994 1786.8606697 62.4737943 4002970

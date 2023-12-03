@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Dubois, Martine	MNC 1959 1833.6727530 70.9078853 601926
+2 Berezovsky, Fiorina	MNC 2007 1588.8642536 70.9877924 5400651

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Garcia Martin, Marta	ESP 2000 2147.0601236 74.3903223 32084030
+2 Nieto Rego, Ana	ESP 2004 1516.2468783 57.4173104 24537330

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Sharifov, Mekhriddin	TJK 2004 M 1914.0144698 60.9931488 14701545
+2 Ilkhomi, Jaloliddin	TJK 2007 M 1769.7885984 60.6187898 14700948
+3 Fayzieva, Darina	TJK 2006 F 1417.8840599 54.1919091 14701960

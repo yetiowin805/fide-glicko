@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kojima, Shinya	JPN 1988 M 2254.8818671 68.0946807 7000812
+2 Sakai, Hibiki	JPN 1994 M 1923.0420703 74.9262110 7000995

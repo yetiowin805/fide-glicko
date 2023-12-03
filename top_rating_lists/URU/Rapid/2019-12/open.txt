@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Durante, Aurelio	URU 1962 M 1871.5429014 69.9683148 3001270
+2 Calabria, Luis	URU 1973 M 1787.7831170 71.8760341 3005810
+3 Blanco, Rudemar Ernesto	URU 1971 M 1510.0534399 72.3117985 3011321

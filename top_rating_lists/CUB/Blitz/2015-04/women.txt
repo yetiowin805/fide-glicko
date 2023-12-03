@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Hernandez Moya, Yuleisy	CUB 1992 2091.1568106 58.2166696 3511685
+2 Cancio-Bello Ayes, Flavia	CUB 1993 1995.3772708 74.0268356 3512070
+3 Rodriguez Caballero, Mayrelis	CUB 1996 1831.0772005 69.1462637 3514072
+4 Pages Roman, Seidy	CUB 1989 1709.1018084 59.7110427 3510107

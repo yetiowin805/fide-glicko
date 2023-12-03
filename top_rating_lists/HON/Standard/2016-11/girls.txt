@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Fernandez Alacha, Mirna Graciela	HON 1997 1554.0278036 69.5160086 8400482
+2 McDowell, Sharon	HON 1997 1499.3860576 65.1248815 8401489

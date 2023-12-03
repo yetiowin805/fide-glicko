@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Sattarov, Bobir	UZB 1995 M 2090.0066696 74.7499012 14203081

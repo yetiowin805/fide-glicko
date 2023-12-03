@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Putnam, Liam	USA 2008 M 2045.5900142 74.6716317 30938279
+2 Kunnavakkam, Sudarshanagopal Vin	USA 2006 M 1539.2275849 72.6035506 30926580
+3 El-Bittar, John Fadi	USA 2007 M 1425.3862204 68.6585929 30919886

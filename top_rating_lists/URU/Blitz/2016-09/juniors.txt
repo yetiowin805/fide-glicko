@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kimelman, Gabriel	URU 1999 M 1882.2922283 68.3254575 3003035
+2 Vazquez, Facundo	URU 2004 M 1536.0620082 68.1510517 3007669

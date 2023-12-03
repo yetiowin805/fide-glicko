@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Jule, Alexandra	AUS 1989 1927.3478343 62.0517051 3205517
+2 Guo, Emma	AUS 1995 1670.7917631 74.5589758 3200795

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Haussernot, Cecile	FRA 1998 F 2161.2135799 73.9336650 601632
+2 Toulemont, Anouk	FRA 2003 F 1429.2509839 71.8598181 36053759

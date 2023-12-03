@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Granados Ortiz, Fidel	NCA 1998 M 1852.5913976 72.4924171 6103804
+2 Gutierrez, Oscar	NCA 1960 M 1835.3665793 68.2406668 6100147
+3 Castillo, Rommel	NCA 0000 M 1833.0288639 70.0877096 6100490

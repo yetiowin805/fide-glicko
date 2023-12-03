@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Alothman, Salem	KUW 2003 M 1455.2283268 54.8875336 10301186
+2 Alazmi, Ahmad	KUW 1996 M 1308.9830253 74.8324449 10301445

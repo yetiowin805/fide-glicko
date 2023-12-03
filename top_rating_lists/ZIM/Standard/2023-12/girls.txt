@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Mawire, Rumbidzai	ZIM 2005 1550.0290768 74.3557951 14317940
+2 Grace Zvarebwa	ZIM 2011 1439.0694061 74.5693452 11014040

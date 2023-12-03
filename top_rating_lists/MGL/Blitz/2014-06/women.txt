@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Munguntuul, Batkhuyag	MGL 1987 2382.5841826 72.4559280 4900758
+2 Batchimeg, Tuvshintugs	MGL 1986 2220.2224290 57.5364043 4900839
+3 Enkhtuul, Altanulzii	MGL 1994 2058.5612623 74.3482406 4901444
+4 Otgonjargal, Sengeravdan	MGL 1982 1938.8902184 70.3946116 4900790

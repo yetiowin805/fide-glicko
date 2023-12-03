@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Zepeda, Lorena	ESA 1984 2057.7782984 66.3256141 6700233
+2 Sanchez, Ingrid	ESA 1991 1756.4170227 59.4751187 6700217

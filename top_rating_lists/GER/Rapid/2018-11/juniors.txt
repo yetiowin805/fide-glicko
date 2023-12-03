@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Muetsch, Annmarie	GER 2002 F 2000.8684028 72.8517586 12971367
+2 Sereda, Yaroslava	GER 2007 F 1535.0903343 73.1583890 14178940

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Varga, Klara	HUN 1994 2059.4393637 63.2869066 733210
+2 Reisinger, Rita	HUN 1992 1513.8182597 63.3442685 789917

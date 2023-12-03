@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Zatonskih, Anna	USA 1978 2338.0073488 65.2823495 14101572
+2 Derakhshani, Dorsa	USA 1998 2044.0000282 63.6657370 12500330

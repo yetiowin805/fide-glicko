@@ -1,0 +1,8 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Garcia de Dios, Jose Antonio	MEX 2002 M 1950.8245406 71.8652141 5128919
+2 Diaz Espinoza, Axel Alberto	MEX 2001 M 1717.2003713 70.9874489 5128722
+3 Flores Teillery, Alejandro Franci	MEX 2006 M 1620.5858112 72.0124444 5136660
+4 Mendieta, Gallegos Diego Armando	MEX 2004 M 1553.3051885 69.9072723 5159580
+5 Del, Razo Mendoza Andrea Ni	MEX 2003 M 1533.4101874 73.3735497 5137640
+6 Esponosa Miranda, Carlo Guillermo	MEX 2009 M 1456.8598247 73.8134241 5163927
+7 Del Razo Mendoza, Nancy Ai	MEX 2006 M 1317.6891727 72.5574926 5137632

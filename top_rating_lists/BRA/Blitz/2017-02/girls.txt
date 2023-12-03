@@ -1,0 +1,7 @@
+Rank Name Federation BirthYear Rating RD
+1 Feller, Gabriela Luisa Vicente	BRA 2004 1643.4596740 72.5194318 2163322
+2 Santana Freitas, Maria Eduarda	BRA 2005 1515.6727994 58.1224632 2193787
+3 Bartmeyer, Maria Veronica	BRA 1997 1448.7573375 71.1148046 2152614
+4 Quirrenbach, Emanuela Pinheiro	BRA 1998 1426.7295425 70.9271718 2152975
+5 Bartmeyer, Beatriz	BRA 1999 1373.1900275 65.8903011 2152592
+6 Ribeiro, Jessica Maria da Silva	BRA 2000 1175.8710482 65.3947280 22701320

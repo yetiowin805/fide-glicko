@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Frederiksen, Eguil E.	BOL 1964 M 1654.7502025 72.5656128 3303594
+2 Mollo Figueroa, Nicole	BOL 2011 F 1512.5099192 60.1485826 3325687

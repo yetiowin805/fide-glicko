@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Prasad, Calvin	FIJ 1980 M 1955.3856685 71.3047018 11400072
+2 Goundar, Sanmogam	FIJ 1965 M 1866.2521620 67.5688970 11400110

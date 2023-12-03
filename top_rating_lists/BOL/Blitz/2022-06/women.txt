@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Enriquez Coronel, Gaia Paola	BOL 2003 1655.1046749 63.7254599 3316955
+2 Coaquira Chipana, Grisel	BOL 2008 1624.9994553 72.4279633 3324400
+3 Velarde Alarcon, Jhoana	BOL 2007 1567.7733513 68.2521550 3320103
+4 Mollo Figueroa, Nicole	BOL 2011 1509.6849228 39.8912784 3325687

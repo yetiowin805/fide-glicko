@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Balbalosa, Jeffrey	PLW 1979 M 1685.1721163 74.6137780 16600240
+2 Gonzales, Dennis	PLW 1978 M 1576.6309423 72.9074555 16600150

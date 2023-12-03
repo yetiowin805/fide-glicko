@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Song, Raymond	TPE 1994 M 2391.8021010 68.1442629 3203824
+2 Bai, Adelard	TPE 2007 M 2012.3563177 73.5963088 16301188

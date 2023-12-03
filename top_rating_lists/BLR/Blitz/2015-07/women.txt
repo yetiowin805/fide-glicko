@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Badelka, Olga	BLR 2002 1795.6466710 61.9600645 13509926
+2 Mitskevich, Yauheniya	BLR 2002 1651.3546440 67.4432160 13510215

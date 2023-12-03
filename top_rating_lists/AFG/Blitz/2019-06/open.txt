@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mehrad, Ahmad Tamim	AFG 1990 M 1918.7858543 68.1853157 11700491
+2 Rahmani, Asef	AFG 1973 M 1724.1447140 67.0585994 12540951

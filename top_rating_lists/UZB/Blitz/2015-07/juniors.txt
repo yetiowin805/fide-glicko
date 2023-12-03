@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Vakhidov, Jahongir	UZB 1995 M 2454.5149453 62.7260689 14201801
+2 Sindarov, Islombek	UZB 2007 M 1853.4294337 71.4945509 14205475

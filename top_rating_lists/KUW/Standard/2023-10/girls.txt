@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Alhasan, Zainah	KUW 2011 1219.8016022 57.8395248 10303472
+2 Alhasan, Fatemah	KUW 2008 1192.9096432 69.6453824 10301348

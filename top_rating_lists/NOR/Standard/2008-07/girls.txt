@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Tjolsen, Katrine	NOR 1993 2126.1865420 58.0429677 1505793
+2 Jorgensen, Line Jin	NOR 1991 1927.2691048 67.3302024 1505467

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Paehtz, Elisabeth	GER 1985 2469.8337821 56.9062794 4641833
+2 Stangl, Anita, Dr.	GER 1966 1765.1161633 70.6162244 4608801

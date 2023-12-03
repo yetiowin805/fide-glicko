@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Tarigan, Gilbert Elroy	INA 2003 M 2193.0170745 71.6150508 7108133
+2 Arfan, Aditya Bagus	INA 2006 M 2096.7947275 68.4282508 7106041
+3 Reynard Kristopher	INA 2007 M 1708.8609843 74.1987222 7124333

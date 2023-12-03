@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 McCabe, Shane	IRL 1968 M 1718.3925689 56.8478972 2503891
+2 Twomey, Pat	IRL 1950 M 1692.2083259 74.2570133 2501937

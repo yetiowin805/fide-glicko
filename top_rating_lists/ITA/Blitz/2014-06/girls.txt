@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Chiarion, Elisa	ITA 1995 1909.6244143 74.7310032 828653
+2 Di Benedetto, Desiree	ITA 2000 1787.1031380 68.4346928 875813

@@ -1,0 +1,7 @@
+Rank Name Federation BirthYear Rating RD
+1 Lobo Jimenez, Mariana Esther	PAN 2008 1701.2078704 72.4933502 6605516
+2 Vasquez Jaen, Lourdes Lorena	PAN 2003 1671.2426726 66.3533908 6605559
+3 Chavarria Troya, Keytleen Denis	PAN 2011 1642.2660754 59.0410723 6608345
+4 Urriola Torres, Valentina	PAN 2010 1598.9291653 71.6928069 6614787
+5 Mendez Machado, Fatima	PAN 2011 1544.7714017 72.9049808 6606970
+6 Montezuma Camarena, Dayana Cristel	PAN 2009 1531.7081209 52.7658255 6611060

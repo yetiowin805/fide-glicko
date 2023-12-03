@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Righi, Ezio	SMR 1956 M 1745.9071973 72.8728201 11800038
+2 Cilenti, Giuseppe Maria	SMR 1989 M 1235.0894029 68.1781118 11800194

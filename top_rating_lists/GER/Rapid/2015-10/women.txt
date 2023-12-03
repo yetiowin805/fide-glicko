@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Paehtz, Elisabeth	GER 1985 2462.1228204 66.7216573 4641833
+2 Shirov-Michna, Masza	GER 1999 1434.4299810 74.8940083 12921998

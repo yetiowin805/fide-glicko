@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Somasundram, Jayakumar	SRI 1951 M 1822.8390942 72.8584457 9900250
+2 Naotunna, Dineth Nimnaka	SRI 1999 M 1645.4153766 74.3821897 9919228
+3 Methmani, Nelunika	SRI 1998 F 1621.0815867 74.7645795 9910050

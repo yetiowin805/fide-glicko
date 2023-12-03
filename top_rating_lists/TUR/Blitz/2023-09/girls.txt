@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Baloglu, Dila	TUR 2007 1787.6873996 74.7554296 34588515
+2 Aydogan, Arya	TUR 2011 1705.0642122 64.4533152 26390574

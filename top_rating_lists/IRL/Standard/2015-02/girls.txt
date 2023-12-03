@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Mirza, Diana	IRL 2000 1676.0960169 53.9635111 2503999
+2 Kecskemeti, Admira Aida	IRL 2006 1293.1590237 69.0772663 2508559

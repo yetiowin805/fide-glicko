@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Pham, Le Thao Nguyen	VIE 1987 2304.1369075 67.7575574 12401226
+2 Vuong, Quynh Anh	VIE 2005 1728.2132476 68.4007673 12408948

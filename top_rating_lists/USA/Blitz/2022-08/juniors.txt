@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Niemann, Hans Moke	USA 2003 M 2569.2607934 56.8437634 2093596
+2 Chasin, Nico	USA 2006 M 2113.7995768 70.2124957 30908477

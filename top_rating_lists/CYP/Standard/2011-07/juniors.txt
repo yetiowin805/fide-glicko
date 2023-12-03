@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kelires, Andreas	CYP 1999 M 1744.0744808 56.7419929 5900727
+2 Bryan-Vissi, Mark	CYP 1991 M 1642.6842240 73.8338074 5900638

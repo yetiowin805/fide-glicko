@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Fajardo Ramos, Fredy	HON 1975 M 1691.7961228 71.7990436 8401667
+2 Grandes, Rolando	HON 1989 M 1679.2074883 73.4431893 8402108

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Adhikari, Kritisara	NEP 2003 1634.6895126 71.4703141 12315583
+2 Prasain, Punam	NEP 2003 1488.6109586 74.0322952 12307548

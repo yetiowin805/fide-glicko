@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Vecchione, Anna Pia	ITA 2001 1800.3134930 58.4976115 2804706
+2 Raccanello, Marianna	ITA 2003 1748.6608493 66.1065582 897558
+3 Picchi, Darina Francesca	ITA 1997 1651.0845537 72.2701229 880329

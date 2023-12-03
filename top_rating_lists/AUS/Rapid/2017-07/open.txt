@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rodgers, Jack	AUS 1996 M 1968.7174213 65.8820633 3220885

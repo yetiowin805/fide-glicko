@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Bargan, Victoria	MDA 2007 1598.9153823 74.7951888 13908197
+2 Petricenco, Ana	MDA 2006 1532.7130295 69.2039486 13908596

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Haussernot, Cecile	FRA 1998 2260.6223130 64.8934147 601632
+2 Maisuradze, Nino	FRA 1982 2176.5884396 64.3700490 13601717

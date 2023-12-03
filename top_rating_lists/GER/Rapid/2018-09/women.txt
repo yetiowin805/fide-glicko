@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Paehtz, Elisabeth	GER 1985 2454.4625938 60.0701095 4641833
+2 Sereda, Yaroslava	GER 2007 1535.0903343 69.7296708 14178940

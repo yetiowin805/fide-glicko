@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Corrales Jimenez, Zenia	CUB 1989 2118.2236936 63.3479833 3506355
+2 Romero, Nunez Wendy	CUB 1991 2094.3770385 74.8224910 3510174

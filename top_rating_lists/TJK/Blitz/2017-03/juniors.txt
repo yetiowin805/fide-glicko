@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Karimov, Alisher	TJK 1997 M 2073.3053171 74.6729626 14700280
+2 Hotami, Mutriba	TJK 1997 F 1652.1341900 66.0590089 14700204

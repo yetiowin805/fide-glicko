@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Rubinshtein, Kamilla	ITA 2005 1661.3178566 60.4328192 2838708
+2 Cuccu, Maria	ITA 1999 1567.6971941 69.6430707 889083

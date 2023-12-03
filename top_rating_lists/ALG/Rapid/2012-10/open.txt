@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Haddouche, Mohamed	ALG 1984 M 2349.8305769 74.5307485 7900660
+2 Bounehas, Halim	ALG 1953 M 1746.7858921 73.0501557 7901208

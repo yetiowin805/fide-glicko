@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Nazarova, Anastasia	FIN 2001 F 1869.2735100 62.0082301 34101737
+2 Turunen, Tuomo	FIN 1968 M 1776.1656876 65.3950570 508209

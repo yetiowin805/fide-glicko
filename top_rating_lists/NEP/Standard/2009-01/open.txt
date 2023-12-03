@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Lama, Surbir	NEP 1977 M 2084.2818600 69.3118382 5017432
+2 Niraula, Niraj	NEP 1984 M 1939.0813987 63.2183922 12300128

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Paehtz, Elisabeth	GER 1985 2347.9573705 68.2403506 4641833
+2 Muetsch, Annmarie	GER 2002 2153.6290538 73.7803058 12971367

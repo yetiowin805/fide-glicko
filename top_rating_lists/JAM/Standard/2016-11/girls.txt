@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Miller, Rachel	JAM 2000 1741.4972618 55.4821092 7401302
+2 Clarke, Adani	JAM 2003 1521.4140355 66.0701486 7402082

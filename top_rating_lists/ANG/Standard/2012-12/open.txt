@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Alberto, Manuel	ANG 1974 M 2161.9123876 59.8649945 10100148
+2 Soares, Erikson Roberto Mauricio	ANG 1992 M 2110.7102783 71.0334846 10100091

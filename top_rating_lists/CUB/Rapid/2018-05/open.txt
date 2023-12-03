@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Dominguez Perez, Leinier	CUB 1983 M 2809.2085272 68.2447750 3503240
+2 Oliva Castaneda, Kevel	CUB 1994 M 2453.8186366 71.7979764 3500799
+3 Garcia Pantoja, Roberto	CUB 1992 M 2412.7561365 63.7100615 3509265

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Vranova, Zdenka	CZE 1963 1895.1739595 66.8209046 302775
+2 Bartosova, Hana	CZE 2002 1723.0318820 72.5503909 394106

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Bengherabi, Khalil	ALG 1979 M 2053.6860792 72.9396592 7900325
+2 Latreche, Sabrina	ALG 1993 F 1892.9509088 69.9593300 7901798
+3 Boulahouache, Djamel Eddine	ALG 1987 M 1687.2395932 70.7462448 7902166

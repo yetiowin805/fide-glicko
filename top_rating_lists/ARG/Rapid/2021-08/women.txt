@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Scarsi, Anna Laura	ARG 2006 1675.0772633 71.0316186 159328
+2 Bertorello, Constanza	ARG 2006 1523.1258326 74.9569392 163848

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Rania, Sbai	MAR 0000 1738.2836216 74.3598935 9002146
+2 Makhlouf, Ahlam	MAR 2004 1504.7309163 74.8821392 9003380

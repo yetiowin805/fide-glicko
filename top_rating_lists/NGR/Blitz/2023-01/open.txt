@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Osunfuyi , Abimbola	NGR 1994 M 2062.9267344 72.3707221 8502439
+2 OKEKE, Isaac Chukwudalu	NGR 2003 M 2038.3985638 68.5653772 8508526

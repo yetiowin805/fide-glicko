@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Porat, Maya	ISR 1991 2210.1354084 47.8177813 2808072
+2 Efroimski, Marsel	ISR 1995 2096.0896664 47.9402791 2810964

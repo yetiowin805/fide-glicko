@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Keso, Elias	FIN 2005 M 2058.5136040 72.1224701 514942
+2 Nazarova, Anastasia	FIN 2001 F 2048.8507365 52.9881083 34101737

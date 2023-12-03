@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Patino Garcia, Corals	VEN 1999 1851.0727875 55.4443774 3902781
+2 Chghale Perez, Rosmarly Josefina	VEN 1996 1799.9924995 71.9864999 3915360
+3 Hernandez Mora, Nohelia Virginia	VEN 2005 1543.3748293 65.8801435 3915344
+4 Ordaz Diaz, Lourdes Sarahi	VEN 2009 1130.7492282 73.1337138 3950697

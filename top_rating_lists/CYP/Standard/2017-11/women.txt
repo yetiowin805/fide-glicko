@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ioannides Liu, Lian	CYP 2005 1333.9168542 66.2512422 5904366
+2 Ioannides Liu, Alice	CYP 2005 1255.1457965 74.4428626 5904374

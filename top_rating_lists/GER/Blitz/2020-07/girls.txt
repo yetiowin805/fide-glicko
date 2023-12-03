@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Muetsch, Annmarie	GER 2002 2119.3773663 53.3771759 12971367
+2 Fock, Sana	GER 2001 1503.4414322 73.3862642 12981966

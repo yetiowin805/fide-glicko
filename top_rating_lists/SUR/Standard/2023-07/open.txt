@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kalidjo, Imaan	SUR 2004 M 1804.2507224 73.9767903 8202478
+2 Kaslan, Victoria	SUR 2005 F 1612.1764913 73.1852015 8202230

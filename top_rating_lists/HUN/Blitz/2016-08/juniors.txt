@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Horvath, Balazs	HUN 2001 M 1890.5653575 74.5699866 758280

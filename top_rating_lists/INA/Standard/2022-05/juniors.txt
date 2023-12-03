@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Arfan, Aditya Bagus	INA 2006 M 2096.7947275 73.7079792 7106041
+2 Tan, Darren Emmanuel Aprilio	INA 2010 M 1444.3109308 73.2126398 7122039

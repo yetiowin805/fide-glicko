@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Koskela, Niina	FIN 1971 2248.2405109 63.4915701 500755
+2 Rautanen, Sari	FIN 1967 1935.2439021 64.1803443 502332

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Aguilar, Marcela	ESA 1993 1714.7786044 68.8527688 6700322
+2 Aviles, Claudia Maria	ESA 1994 1548.6288673 72.8401061 6701906
+3 Martinez Corpeno, Karla Beatriz	ESA 1994 1417.1341829 73.7632968 6703070

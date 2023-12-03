@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Zhu, Jiner	CHN 2002 F 2228.0044441 72.0742702 8608059

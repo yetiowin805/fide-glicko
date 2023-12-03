@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Hj, Azahari Md Aliuddin	BRU 1991 M 1893.0597073 63.8879997 10500324
+2 Yussof, Pg Abd Rahman	BRU 1951 M 1673.6156430 63.3402139 10500219
+3 Kamarul Arriffin, Bin Hj Kipli	BRU 0000 M 1483.3772634 70.8793102 10501053

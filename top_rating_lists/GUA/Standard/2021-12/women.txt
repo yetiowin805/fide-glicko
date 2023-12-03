@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Juarez Garcia, Daniela	GUA 2006 1566.8548997 62.7611926 7302703
+2 Diaz, Luisa	GUA 1996 1558.0796509 71.0564619 7300948

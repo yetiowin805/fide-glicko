@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Low, Zhen Yu Cyrus	SGP 2002 M 2177.5844113 62.7176878 5804175
+2 Siddharth, Jagadeesh	SGP 2007 M 1973.8335191 57.8523388 5818320
+3 Goh, Sean Christian	SGP 2004 M 1817.7266456 72.1316217 5812488

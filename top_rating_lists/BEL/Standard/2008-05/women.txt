@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Zozulia, Anna	BEL 1980 2385.2790540 42.7544968 14102110
+2 Goossens, Hanne	BEL 1992 1961.6244842 66.8679348 200468

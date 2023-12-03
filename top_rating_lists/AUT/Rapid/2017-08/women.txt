@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Horvath, Reka	AUT 1985 1937.3406386 69.4133005 724971
+2 Polterauer, Chiara	AUT 2000 1918.6822445 66.3887570 1638165

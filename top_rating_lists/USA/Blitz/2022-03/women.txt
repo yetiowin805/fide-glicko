@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Zatonskih, Anna	USA 1978 2263.0867900 64.0256920 14101572
+2 Kaur, Aradh	USA 2007 1492.2318723 73.1818257 30919266

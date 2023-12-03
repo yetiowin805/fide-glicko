@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Fernandez, Maria Florencia	ARG 1991 2090.0007726 72.2163119 116459
+2 Martinez, Ayelen	ARG 1993 2054.2818858 70.1038547 118702
+3 Besso, Guadalupe	ARG 1998 1837.1289230 67.3453049 123161

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Aponte, Oriana Isabel	VEN 1997 1880.8426606 74.5419430 3902439
+2 Millan Gonzalez, Yuneitsy Del Va	VEN 1997 1639.5179170 68.7449125 3906132
+3 Carreno Planas, Manuela	VEN 1996 1491.6957088 66.8955434 3906019

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Khairallah, Ralph	LIB 1998 M 1706.8869421 71.2023806 5302994
+2 Lakhoyan, Hrag	LIB 2004 M 1607.9546479 73.7140533 5302960

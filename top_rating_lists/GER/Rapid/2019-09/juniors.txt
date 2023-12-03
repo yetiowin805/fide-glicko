@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kueck, Artur	GER 2002 M 1732.9993210 73.8542824 12965120

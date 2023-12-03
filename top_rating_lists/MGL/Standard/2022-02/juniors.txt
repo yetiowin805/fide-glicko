@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Baasansuren, Erdene	MGL 2003 M 2052.8157870 67.9208655 4902084
+2 Anand, Batsukh	MGL 2008 M 1997.7392234 61.9936494 4903510

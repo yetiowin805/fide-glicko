@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Li, Joy Ching	HKG 2008 1639.3528159 65.6804010 462462
+2 Eaton, Florence Fai Cheung	HKG 2010 1481.0143120 70.5506254 6007953

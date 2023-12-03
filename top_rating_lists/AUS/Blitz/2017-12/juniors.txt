@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mikkelsen, Max	AUS 2001 M 1871.4581375 60.4416978 3220443
+2 Jia, Frank	AUS 2002 M 1586.3177063 60.8591190 3227782

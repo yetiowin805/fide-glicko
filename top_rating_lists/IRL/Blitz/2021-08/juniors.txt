@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ivanov, Andrey A.	IRL 2011 M 1699.2922022 72.3317372 2514311

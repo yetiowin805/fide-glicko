@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Dlamini, Temahlubi Queen	SWZ 2000 1447.3138811 66.7655561 14318091
+2 Nosimilo, Mkhonto	SWZ 1991 1384.5243137 73.2179147 20700130

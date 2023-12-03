@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Greeff, Melissa	RSA 1994 2055.7443800 55.6915075 14301504
+2 Solomons, Anzel	RSA 1978 1860.2335405 65.3165612 14300800

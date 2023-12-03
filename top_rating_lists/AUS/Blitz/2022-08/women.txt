@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Liu, Joy	AUS 2009 1528.4361786 70.1716085 3245160
+2 Magesh, Devahuti	AUS 2012 1266.5503074 68.7321990 3248097

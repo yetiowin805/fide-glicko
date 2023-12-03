@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Karimov, Alisher	TJK 1997 M 2036.3379400 74.3479721 14700280
+2 Ilhom, Mootribai	TJK 1997 F 1713.0348135 73.1976290 14700204

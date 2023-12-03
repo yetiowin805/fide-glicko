@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Zatonskih, Anna	USA 1978 2186.8647624 63.2648508 14101572
+2 Pourkashiyan, Atousa	USA 1988 2164.3393924 74.6916152 12502014

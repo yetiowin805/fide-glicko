@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Abrorova, Sabrina	TJK 2006 1635.8191767 56.3273808 14701553
+2 Ilhomzoda, Maryam	TJK 2002 1353.9334350 73.1385710 14701146

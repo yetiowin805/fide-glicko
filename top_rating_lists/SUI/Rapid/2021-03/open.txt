@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kuich, Gero	SUI 1942 M 1587.4374207 73.9180590 1322079
+2 Vogelsanger,Nicolas	SUI 2008 M 1578.3572410 66.3422880 1337122

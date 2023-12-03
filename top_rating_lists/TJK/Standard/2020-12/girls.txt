@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Abrorova, Sabrina	TJK 2006 1700.4835060 70.2438145 14701553
+2 Fayzieva, Darina	TJK 2006 1404.7396384 73.1280092 14701960

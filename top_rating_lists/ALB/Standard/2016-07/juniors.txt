@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Shpati, Ted	ALB 1999 M 1865.6675845 73.2643448 4701399
+2 Shuqja, Klean	ALB 2006 F 1545.2148843 57.7753035 4701585

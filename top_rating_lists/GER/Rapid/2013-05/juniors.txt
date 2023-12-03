@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Wagner, Dennis	GER 1997 M 2285.2180457 73.0285747 24650684
+2 Donchenko, Alexander	GER 1998 M 2266.8605796 66.1488780 24603295

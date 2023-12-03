@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Svane, Rasmus	GER 1997 M 2482.3140938 71.8479770 4657101
+2 Shirov-Michna, Masza	GER 1999 F 1475.6632826 73.6150020 12921998

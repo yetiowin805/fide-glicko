@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Martins de Aguiar, Marina	BRA 1999 1754.5393986 74.7714359 2143321
+2 De Ramos, Mitzi Vedan	BRA 2007 1455.8497225 74.3220838 2197677

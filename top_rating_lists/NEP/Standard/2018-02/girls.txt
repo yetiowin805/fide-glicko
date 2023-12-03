@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Adhikari, Kripa	NEP 2003 1488.0350535 71.3786209 12315583
+2 Thapa, Khusbu	NEP 2004 1410.3373981 72.2708757 12315680

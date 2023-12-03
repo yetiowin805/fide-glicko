@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Nomindalai Tumurbaatar	MGL 2002 1966.7314741 71.0730867 4904095
+2 Mandukhai, Myagmarsuren	MGL 2003 1928.4296627 69.1691478 4902246
+3 Amin-Erdene, Bayanmunkh	MGL 2006 1806.2266100 72.1119644 4903161

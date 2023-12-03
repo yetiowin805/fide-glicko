@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Cooke, Suzie G.	WLS 1987 1831.4459103 72.6836147 414930
+2 Smith, Madeleine	WLS 2005 1702.3315960 69.0491742 1804251

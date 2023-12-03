@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Quinones Centeno, Carlos David	GUA 1987 M 2212.8526083 62.8534957 7300530
+2 Lorenzana, Wilson Estuardo	GUA 1978 M 2181.5477784 66.0285553 7300239
+3 Mencos, Claudia	GUA  M 1857.3676043 61.0762901 7300573
+4 Figueroa, Julissa	GUA  M 1641.5951702 74.7482401 7300450

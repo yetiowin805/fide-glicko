@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Jimenez, Maykol	DOM 1992 M 1910.3632750 74.6843645 6405649
+2 Crispin Ferreras, Darvi Abraham	DOM 1993 M 1889.3092785 72.6915248 6402771
+3 Almanzar Vasquez, Jennifer Maria	DOM 1993 F 1640.9069976 71.9156818 6406505
+4 Villar Acevedo, Darlin Rocio	DOM 1996 F 1599.0931126 69.1278147 6405053
+5 Santos Almonte, Carol	DOM 1993 F 1555.7179523 67.9981664 6402348

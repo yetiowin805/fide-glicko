@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Munoz, Carolina	CRC 1980 1898.5992538 65.9209548 6500579
+2 Da Bosco, Carla	CRC  1644.2576996 72.8439600 6500692

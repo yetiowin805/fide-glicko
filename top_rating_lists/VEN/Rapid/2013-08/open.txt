@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Iturrizaga, Eduardo	VEN 1989 M 2640.2737377 70.1582334 3901211
+2 Simoes, John	VEN 1973 M 2028.6737678 73.8421853 3901157

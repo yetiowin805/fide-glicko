@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Fuentes, Adrian	PAN 1998 M 1950.7954799 73.6681188 6600875
+2 Sanchez, Jorge Luis	PAN 1982 M 1862.3797118 72.3626069 6600280

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Hamdouchi, Hichem	MAR 1972 M 2593.6679199 72.4513486 9000011
+2 Karim, Ismael	MAR 1985 M 2351.9560644 67.2632515 625736

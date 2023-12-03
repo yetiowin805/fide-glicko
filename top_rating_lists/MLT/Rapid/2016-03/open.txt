@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Darmanin, Jake	MLT 1994 M 2031.7374350 74.9225263 5601061
+2 Vella, Duncan	MLT 1971 M 1974.4994540 74.5321457 5600243

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Chahrour, Ibrahim	LIB 1997 M 1972.9519051 72.1691064 5301653
+2 Jawhar, Oussama	LIB 0000 M 1536.7981499 72.4926787 5302137

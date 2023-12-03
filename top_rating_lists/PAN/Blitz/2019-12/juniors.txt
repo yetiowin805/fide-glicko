@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mendez, Andre	PAN 2008 M 1665.8514999 53.1290052 6603793
+2 Gonzalez De La Guardia, Luis Emi	PAN 2005 M 1551.0744591 66.3100605 6603831
+3 Briones Espino, Martin Daniel	PAN 2005 M 1547.1797327 69.5121683 6603947

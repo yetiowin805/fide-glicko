@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Gavarrete, Nahun	HON 1994 M 2245.4891653 62.7507793 8400709
+2 Cardenas Carbajal, Nilson	HON 1985 M 1946.7627494 74.5869229 8401128
+3 Solorzano, Andres	HON 1985 M 1875.6262336 68.4353839 8400440

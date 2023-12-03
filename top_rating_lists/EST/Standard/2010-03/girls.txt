@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Narva, Triin	EST 1994 1916.7840650 66.2756291 4502680
+2 Korban, Katrina	EST 1997 1744.1051476 67.6899423 4500130

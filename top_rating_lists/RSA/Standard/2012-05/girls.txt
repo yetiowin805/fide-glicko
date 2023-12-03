@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Greeff, Melissa	RSA 1994 2040.1125447 61.2695230 14301504
+2 Tlale, Tshepang	RSA 1997 1757.2375814 61.8270860 14304503

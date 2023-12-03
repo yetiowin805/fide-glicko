@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Vargas, Gabriela	PAR 1988 2066.9716287 73.8554044 3700860
+2 Mayeregger Gonzalez, Renata	PAR 2007 1639.6075973 63.6980607 3708900
+3 Oviedo Acosta, Paula	PAR 2005 1603.9505165 70.6415596 3704394
+4 Mayeregger Gonzalez, Fiorella	PAR 2009 1493.4040728 65.7100475 3708845

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Vanduyfhuys, Daria	BEL 2003 1696.5568859 57.3989672 246336
+2 Barbier, Astrid	BEL 1996 1653.2188086 65.3433071 200395

@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Lu, Miaoyi	CHN 2010 F 2027.4367858 71.2203259 8618020

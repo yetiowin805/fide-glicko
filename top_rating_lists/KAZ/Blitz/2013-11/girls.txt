@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Abdumalik, Zhansaya	KAZ 2000 2121.9698707 64.2353709 13703544
+2 Ainutdinova, Yekaterina	KAZ 1994 1997.3755930 61.3088104 13705563
+3 Bayzhanova, Zhanar	KAZ 1993 1893.9986485 66.8072959 13706403

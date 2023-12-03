@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Boyarchenko, Vlada	LUX 1997 1658.3148935 68.5123010 4000072
+2 Blond Hanten, Elsa	LUX 2001 1358.8879301 72.3933497 4001516

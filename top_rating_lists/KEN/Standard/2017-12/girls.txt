@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Deshpande, Sanjana Satish	KEN 1997 1541.0683519 63.9131124 10800964
+2 Parikh, Pranjal Ameetkumar	KEN 2002 1460.6884278 56.7707127 10802622
+3 Parikh, Nikita Ameetkumar	KEN 2005 1350.3509440 58.5862606 10802614

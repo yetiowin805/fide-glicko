@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Gronnestad, Anita	NOR 1982 1798.1824640 72.8743980 1502972
+2 Rodsmoen, Maud	NOR 1997 1622.5830639 73.4160092 1510550

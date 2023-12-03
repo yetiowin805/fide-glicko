@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Perez, Dalila	PAR 1997 1641.5506536 66.8969809 3702014
+2 Alderete, Jazmin	PAR 1991 1523.9604336 65.3050742 3701697

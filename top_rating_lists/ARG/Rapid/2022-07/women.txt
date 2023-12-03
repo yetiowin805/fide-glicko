@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Adam, Ernestina	ARG 2009 1563.3866254 74.5510020 165883
+2 Arias, Maria Paula	ARG 1973 1449.9997890 69.8496328 107581

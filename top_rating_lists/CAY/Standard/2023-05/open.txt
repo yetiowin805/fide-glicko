@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Tracey, Shaun M	CAY 1979 M 1565.0593709 64.3321140 419052
+2 Swaminathan, Laia	CAY 2008 F 1425.1351282 73.7243222 33100063

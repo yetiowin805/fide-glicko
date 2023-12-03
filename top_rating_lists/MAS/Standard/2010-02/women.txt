@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Nur, Nabila Azman Hisham	MAS  1750.8009693 56.7058665 5702135
+2 Tan, Li Ting	MAS  1664.7253900 71.1409475 5704820
+3 Haslindah, Ruslan	MAS 1970 1501.2915645 58.5693514 5702658
+4 Nithyalakshmi, Sivanesan	MAS  1437.6737746 69.9593938 5706955

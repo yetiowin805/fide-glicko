@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Boschetti, Claudio	SUI 1957 M 2001.8682392 63.9804727 1300920

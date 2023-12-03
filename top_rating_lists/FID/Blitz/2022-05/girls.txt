@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Maltsevskaya, Aleksandra	FID 2002 2194.4987744 45.5951376 24174041
+2 Putinceva, Marina	FID 2007 1621.8628072 53.4689595 24292443

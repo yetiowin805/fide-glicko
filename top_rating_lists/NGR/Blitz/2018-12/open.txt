@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Adu, Oladapo	NGR 1971 M 2144.4215356 69.5291573 8500258
+2 Olufemi, George	NGR 1971 M 1597.2175296 73.9131953 8501203

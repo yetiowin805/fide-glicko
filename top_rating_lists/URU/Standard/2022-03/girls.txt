@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Roepke, Sofia	URU 2006 1633.7779334 53.3669242 3006360
+2 Cardozo, Camila	URU 2002 1503.6795003 69.5752791 3004457

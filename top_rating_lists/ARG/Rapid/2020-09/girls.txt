@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Borda Rodas, Anapaola S.	ARG 2004 1935.6204511 71.2637602 152781
+2 Scarsi, Anna Laura	ARG 2006 1574.2398321 69.3268262 159328
+3 Bertorello, Constanza	ARG 2006 1517.5350733 74.8419175 163848

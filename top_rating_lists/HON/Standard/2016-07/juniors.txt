@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Gavarrete, Joel	HON 1997 M 1832.8561064 62.4688359 8401160
+2 Miller Matute, Marlon Eduardo	HON 2001 M 1698.9703158 72.3562252 8400555
+3 Fernandez Alacha, Mirna Graciela	HON 1997 F 1501.1056425 73.3047826 8400482

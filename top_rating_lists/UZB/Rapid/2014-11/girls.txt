@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Kurbonboeva, Sarvinoz	UZB 1994 1989.9871056 74.5386346 14201780
+2 Tokhirjonova, Gulrukhbegim	UZB 1999 1912.9212454 66.0784232 14203626
+3 Khegay, Yuliya	UZB 2004 1576.7085428 69.5978239 14205394

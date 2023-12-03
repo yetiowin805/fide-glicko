@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Tokhirjonova, Gulrukhbegim	UZB 1999 2011.7588993 62.1939602 14203626
+2 Saparova, Sitora	UZB 2002 1783.3489815 70.9836653 14206986
+3 Zayniddinova, Sabokhat	UZB 1991 1598.5014685 57.2695268 14204983
+4 Khabibullaeva, Mokhinur	UZB 2006 1501.3964471 66.1953372 14207389

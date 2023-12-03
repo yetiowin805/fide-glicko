@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Campos, Maria Jose	ARG 1999 1945.3300673 65.6000535 146803
+2 Borda Rodas, Anapaola S.	ARG 2004 1941.0415487 70.3518497 152781

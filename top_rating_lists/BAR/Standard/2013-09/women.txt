@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Howard, Corinne	BAR 1990 1620.3509227 71.1135155 11100362
+2 Blackman, Katrina	BAR 1992 1543.3758659 66.1286599 11100540

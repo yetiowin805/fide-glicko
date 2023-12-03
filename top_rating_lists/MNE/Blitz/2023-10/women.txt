@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Koljevic, Nikolina	MNE 2001 1881.1070352 72.9384890 16503945
+2 Blagojevic, Lidija	MNE 1965 1813.8086927 74.8014119 916773

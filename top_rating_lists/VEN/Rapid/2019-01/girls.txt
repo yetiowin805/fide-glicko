@@ -1,0 +1,11 @@
+Rank Name Federation BirthYear Rating RD
+1 Patino Garcia, Corals	VEN 1999 1760.4213373 67.8967214 3902781
+2 Alvarado Arcila, Marvia Josefina	VEN 2000 1745.0796295 73.9847028 3909034
+3 Pena Gonzalez, Clara Isabel	VEN 2004 1624.0406552 71.2517533 3924203
+4 Ubertin Gomez, Katherin Rossmary	VEN 2002 1602.5237219 67.6017814 3916391
+5 Gonzalez Gomez, Daniela Carolina	VEN 2003 1565.0663685 69.6143175 3915417
+6 Acuna Castillo, Yohalis del Valle	VEN 2007 1536.4998039 64.0659837 3943674
+7 Guadalajara Barrios, Jacksilany	VEN 2006 1487.8669508 60.2448818 3931242
+8 Marin Murguey, Valentina Jatniel	VEN 2005 1446.1289691 54.7616274 3955478
+9 Hernandez Mora, Nohelia Virginia	VEN 2005 1419.0629435 51.2494350 3915344
+10 Araujo Briceno, Gilary Ahilyn	VEN 2007 1319.4777338 66.3216033 3935841

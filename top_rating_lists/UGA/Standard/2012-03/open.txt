@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Emojong Elijah	UGA 1992 M 2039.4350307 58.1581368 10000402
+2 Amoko, Ivy Claire	UGA 1987 F 1641.0464111 71.3967899 10000291

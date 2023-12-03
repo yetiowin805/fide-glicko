@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Issa, Rafat	JOR 1975 M 2197.2210736 61.5974280 7600437
+2 Loay, Sameer	JOR 2002 M 2021.0418785 74.7421086 8104239

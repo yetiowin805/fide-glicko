@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Calvete Gimenez, Johaslyn Aymer	VEN 1995 1719.5874672 69.1544591 3905578
+2 Duran Reina, Luisa Elena	VEN 1982 1705.3142766 70.7997074 3900940
+3 Yepez Moreno, Juliet Carolina	VEN 2001 1657.5640332 69.8302780 3905438
+4 Manaure Rodriguez, Cristina	VEN 1999 1308.2155053 72.8203011 3915557

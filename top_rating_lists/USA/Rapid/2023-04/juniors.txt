@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ayyappan, Santhosh	USA 2014 M 1872.8721870 68.9080633 30979870
+2 Lebedenka, Alexander	USA 2012 M 1143.5453831 61.2931272 30965055

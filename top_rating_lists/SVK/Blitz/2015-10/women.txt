@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Briestenska, Andrea	SVK 1993 1835.5122188 71.9494568 14902885
+2 Kahancova, Jana	SVK 1996 1583.0149712 74.8612878 14915987

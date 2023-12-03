@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Thorgeirsson, Sverrir	ISL 1991 M 2173.1197470 66.5073823 2302462
+2 Thorsteinsdottir, Hallgerdur	ISL 1992 F 1840.1086974 69.2466945 2302454
+3 Palsson, Svanberg Mar	ISL 1993 M 1703.6874939 64.2896873 2302721
+4 Fridgeirsson, Dagur Andri	ISL 1995 M 1673.9766521 65.7131831 2303124

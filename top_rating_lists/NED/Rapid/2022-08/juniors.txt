@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Han, Yichen	NED 2007 M 2186.5384231 54.8885239 1054430
+2 Lalkota, Sai	NED 2012 M 1459.1581164 69.9987788 1087690

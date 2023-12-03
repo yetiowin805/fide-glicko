@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Perera Alfonso, Rene Humberto	CUB 1994 M 2152.3748299 71.2913347 3514722
+2 Vitier Vazquez, Cristian	CUB 1993 M 2149.8133509 71.0565087 3513157
+3 Ochoa de la Rosa, Manuel Dario	CUB 1994 M 2106.3289647 67.8056083 3509540
+4 Fernandez Rivero, Karla July	CUB 1997 F 1709.8225228 73.3972551 3517489

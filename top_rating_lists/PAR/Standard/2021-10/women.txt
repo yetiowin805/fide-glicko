@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Rating RD
+1 Montiel Caceres, Helen	PAR 2006 1628.0388538 61.6385171 3707121
+2 Oviedo Acosta, Paula	PAR 2005 1593.4947692 62.4230474 3704394
+3 Perez Canete, Dora Romina	PAR 2004 1413.7481393 74.6807396 3704890
+4 Mayeregger Gonzalez, Renata	PAR 2007 1412.2065960 70.1447513 3708900
+5 Mayeregger Gonzalez, Fiorella	PAR 2009 1327.3524909 70.2776405 3708845

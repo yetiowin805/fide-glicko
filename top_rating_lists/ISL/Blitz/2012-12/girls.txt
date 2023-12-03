@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Johannsdottir, Johanna Bjorg	ISL 1993 1848.7754720 73.0392475 2303108
+2 Hauksdottir, Hrund	ISL 1996 1566.3916406 74.1805513 2302608

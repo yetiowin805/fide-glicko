@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ainscow, Faye	ENG 1942 1328.2260902 71.7817614 428698
+2 Rizvi, Zara	ENG 2009 1314.0161942 74.1234928 457035

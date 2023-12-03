@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Dull, Amanda Paul	BRA 1994 1735.0314603 74.6174811 2128586
+2 Da Cruz, Karoliny Taiane	BRA 1992 1628.9191783 60.1827296 2136910

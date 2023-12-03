@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Stojanovic, Andjelija	SRB 1987 2283.1823466 72.9560153 928682
+2 Manakova, Maria	SRB 1974 2259.9969333 51.8661562 927007

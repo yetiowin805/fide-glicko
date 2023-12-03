@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Hairapetian, Anna	ARM 1989 2200.5270077 68.4218300 13303554
+2 Kalashyan, Varduhi	ARM 1990 2096.6746718 59.4913119 13302620

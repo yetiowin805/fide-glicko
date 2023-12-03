@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Feliz Dotel, Dewar Bienvenido	DOM 1986 M 2009.4745590 69.5055616 6402801
+2 Ramirez Reyes, Braulio Fernando	DOM 1980 M 1998.7891243 74.9316048 6401007

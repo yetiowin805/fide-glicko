@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Magai, Vladimir	KGZ  M 2521.0000000 72.0336629 13800124
+2 Yurtaev, Leonid	KGZ 1959 M 2493.8102557 67.2831909 13800019
+3 Tologontegin, Semetey	KGZ 1990 M 2377.1762722 51.9153204 13800574

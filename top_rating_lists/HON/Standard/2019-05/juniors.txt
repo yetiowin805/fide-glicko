@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Miller, Marlon	HON 2001 M 1887.2566244 67.5482207 8400555
+2 Ramos Donaire, Maria Pradi	HON 2002 F 1491.6550280 71.7664440 8402337

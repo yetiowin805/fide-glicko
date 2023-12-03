@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Erece, Ece Alkim	TUR 2001 1657.0713277 68.9676236 6346006
+2 Kargaci, Humeyra	TUR 2002 1598.9834901 63.3781230 6360980

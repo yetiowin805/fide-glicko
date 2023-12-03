@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Efroimski, Marsel	ISR 1995 2205.9270455 62.8415960 2810964
+2 Sadevich, Rachel	ISR 1995 1810.8158820 72.0803787 2804247

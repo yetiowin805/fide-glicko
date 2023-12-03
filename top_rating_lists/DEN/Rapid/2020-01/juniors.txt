@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Jaques, Hannibal Valeur	DEN 2005 M 1744.2365230 66.2742990 1454188

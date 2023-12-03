@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Efroimski, Marsel	ISR 1995 2083.8626184 71.7821001 2810964
+2 Katkov, Michelle	ISR 2003 1808.9288620 69.8991897 2816393

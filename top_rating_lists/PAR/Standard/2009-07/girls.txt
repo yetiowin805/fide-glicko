@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Avalos, Leticia	PAR 1993 1522.8532395 68.1439370 3702073
+2 Alderete, Jazmin	PAR 1991 1505.5144263 64.0604880 3701697

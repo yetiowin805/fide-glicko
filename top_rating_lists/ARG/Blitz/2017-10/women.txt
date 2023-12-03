@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Flores, Nancy	ARG 1993 1885.4355587 71.2289364 109339
+2 Scarsi, Anna Laura	ARG 2006 1394.8291524 65.6374235 159328

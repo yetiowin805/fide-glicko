@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Bellaiche, Elise	FRA 1997 1886.0020127 74.1559553 696366
+2 Afraoui, Anaelle	FRA 1999 1582.9230730 74.2633377 20654383

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Durante, Aurelio	URU 1962 M 1863.2455363 70.9700800 3001270
+2 Manteiga, Franco	URU 2004 M 1824.5111095 73.7701422 3009785

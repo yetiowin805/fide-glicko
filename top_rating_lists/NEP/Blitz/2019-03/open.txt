@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Thing, Bibek	NEP 1995 M 2038.0231316 67.9439270 12303135
+2 Jaiswal, Rupesh	NEP 1998 M 2013.7212900 72.6532722 12300870

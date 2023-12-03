@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Ortiz, Katherine Berenice	HON 1995 1703.4870189 74.4978622 8400474
+2 McDowell, Sharon	HON 1997 1542.3098633 67.7753605 8401489
+3 Ortiz, Rosa Daniela	HON 1999 1480.9068106 73.9457415 8400547

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Hoare, Amy B	ENG 1996 1844.0864689 73.7753416 418366
+2 Foster, Chantelle L	ENG 1996 1691.0245676 70.8855780 408476

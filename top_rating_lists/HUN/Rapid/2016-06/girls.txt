@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Marjanovics, Annamaria	HUN 2001 2056.6193088 74.9398790 750930
+2 Barcza, Lora	HUN 2005 1626.9406772 58.2009154 777749
+3 Kacsandi, Lili Fruzsina	HUN 2003 1494.9878561 74.4127296 778559

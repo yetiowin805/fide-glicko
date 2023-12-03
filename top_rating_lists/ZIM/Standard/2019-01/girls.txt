@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Mawire, Rumbidzai	ZIM 2005 1501.5729601 74.8545336 14317940
+2 Murinda, Anashe	ZIM 2006 1396.7994937 72.0735522 11003049

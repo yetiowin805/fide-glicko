@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Amrayeva, Aytan	AZE 1997 1939.9539034 63.3302386 13405101
+2 Balajayeva, Khanim	AZE 2001 1889.2775106 64.1780330 13406396

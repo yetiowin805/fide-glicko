@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Chapman, Nigel	SCO 1979 M 1778.3098497 66.5262626 2401800
+2 Allan, Brian	SCO 1934 M 1563.9714186 69.3002910 2402050

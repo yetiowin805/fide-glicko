@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Elnaami, Hashem A.k.	LBA 1994 M 1674.1812279 69.9168767 9201262
+2 Al Sori, Mohamed	LBA 1997 M 1601.7729266 70.7670089 9200711

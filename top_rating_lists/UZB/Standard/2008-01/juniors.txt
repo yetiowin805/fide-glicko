@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Gareev, Timur	UZB 1988 M 2557.0000000 56.8623103 14200937
+2 Khamrakulov, Dzhurabek	UZB 1988 M 2553.0434761 52.0694314 14201143

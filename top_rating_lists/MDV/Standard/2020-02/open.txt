@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Muhammed, Shuaau	MDV 1994 M 1912.4430093 60.2872626 16700406
+2 Yameen, Yooshau Mohamed	MDV 2003 M 1390.4689202 74.5182137 16700910

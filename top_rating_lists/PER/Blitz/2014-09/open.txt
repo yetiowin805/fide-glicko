@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Granda Zuniga, Julio E	PER 1967 M 2639.7846367 73.6762147 3800024
+2 Castaneda, Georgui	PER 1976 M 2536.3604132 73.5175782 3800954
+3 Caballero Quijano, Mitzy Mishell	PER 2001 F 1897.6710670 69.4558590 3807223

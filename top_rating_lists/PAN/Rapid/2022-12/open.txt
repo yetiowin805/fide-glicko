@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Batista Rosas, Nicolas Arturo	PAN 2007 M 1891.7700732 64.1098756 6607918
+2 Carrera Saldana, Rommel Abdiel	PAN 2003 M 1610.8285637 68.9095046 6606369
+3 Castillo Miranda, Mario Anel	PAN 2009 M 1601.5877614 59.2406166 6606296
+4 Chavarria Troya, Keytleen Denis	PAN 2011 F 1589.3679701 62.0483794 6608345
+5 Miranda, Mynor Enrique	PAN 2005 M 1532.7667350 68.7866292 6606377

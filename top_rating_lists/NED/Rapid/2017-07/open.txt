@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Bok, Benjamin	NED 1995 M 2556.9584689 66.4310465 1017063
+2 Slomczewski, Michal	NED 2000 M 1833.0719482 71.9794557 1040650

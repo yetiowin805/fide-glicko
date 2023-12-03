@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 de Leon, Patricia	URU 1994 1742.2097207 56.6279044 3000273
+2 de Leon, Veronica	URU 1997 1468.8021551 63.4290782 3000290

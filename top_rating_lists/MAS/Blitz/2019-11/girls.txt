@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Nithyalakshmi, Sivanesan	MAS 2000 1810.9385497 73.6828495 5706955
+2 Chua, Jia-Tien	MAS 2003 1582.7324352 71.1550070 5710006

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Gitu, Paula-Alexandra	MDA 1999 1817.5196362 73.5255027 13904620
+2 Daicu, Diana	MDA 1999 1559.7290724 69.1556355 13905163

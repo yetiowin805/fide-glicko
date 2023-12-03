@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Kanyamarala, Trisha	IRL 2005 2054.0884130 52.6183407 45004722
+2 O`Gorman, Alice	IRL 2000 1818.9849487 69.7933561 2508214

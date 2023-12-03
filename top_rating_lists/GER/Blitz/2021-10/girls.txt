@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Muetsch, Annmarie	GER 2002 2164.4870750 65.4288195 12971367
+2 Brunner, Sophia	GER 2004 1841.9535997 72.2815329 12960683

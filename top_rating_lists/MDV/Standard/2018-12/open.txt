@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ahmed, Fuad	MDV 1975 M 1699.9551308 72.6849817 16700023
+2 Yameen, Yooshau Mohamed	MDV 2003 M 1400.1111931 73.2848374 16700910

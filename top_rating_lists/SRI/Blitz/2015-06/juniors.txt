@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Methmani, Nelunika	SRI 1998 F 1599.1018012 73.5671927 9910050
+2 Mendis, Dasuni Hansika	SRI 2000 F 1567.7815750 73.5722379 9907696
+3 Wickramasinghe, Dilhara Ishini	SRI 2000 F 1553.2889102 70.2617902 9906738

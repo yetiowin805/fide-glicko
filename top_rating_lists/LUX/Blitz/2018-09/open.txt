@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Berend, Elvira	LUX 1965 F 2300.3789454 65.5241508 4000510
+2 Maltezeanu, Stefan	LUX 1999 M 1874.6547707 64.3810654 4004655

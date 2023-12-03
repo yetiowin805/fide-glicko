@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Lim, Hakyung	KOR  1497.2608852 66.5869001 13200615
+2 You, Garam	KOR 1986 1330.4580960 68.9922820 13200208

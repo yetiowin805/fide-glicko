@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Stetsko, Lanita	BLR 1993 2122.6784927 71.0833887 13505300
+2 Badelka, Olga	BLR 2002 1837.8018718 64.2038272 13509926

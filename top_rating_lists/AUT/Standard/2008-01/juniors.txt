@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ragger, Markus	AUT 1988 M 2535.9503427 42.6271812 1610856

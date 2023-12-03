@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Minzer, Claudio Javier	ARG 1968 M 2398.6395405 63.5014962 103055
+2 Lazarte Anello, David Emiliano	ARG 1988 M 1775.2712297 63.4931659 140775
+3 Brizzi, Milagros Tatiana	ARG 1996 F 1769.2430140 73.3012865 128350

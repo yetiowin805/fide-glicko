@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Sukandar, Irine Kharisma	INA 1992 2301.6598374 65.3565118 7101937
+2 Singgih, Diajeng Theresa	INA 2004 1896.0925389 72.5552701 7104391
+3 Elisabeth, Christine	INA 2002 1722.7124956 73.7481383 7106165
+4 Febriana, Nita Nurmala	INA 1992 1696.0641017 74.6456789 7101325

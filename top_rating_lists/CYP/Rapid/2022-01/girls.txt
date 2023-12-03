@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Anant, Aditi	CYP 2006 1586.2074519 67.9288951 336104997
+2 Sokolova, Victoria	CYP 2009 1508.0206053 71.6541340 5905460

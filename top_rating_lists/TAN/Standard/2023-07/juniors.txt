@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Saveliy Yakolev	TAN 2005 M 1714.2663438 72.7248870 21601194
+2 Mahi R. Shah	TAN 2008 F 1430.2299541 74.5552030 21601283

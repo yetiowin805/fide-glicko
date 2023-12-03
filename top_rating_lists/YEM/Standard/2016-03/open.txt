@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Al-Hadarani, Hatim	YEM 1959 M 2198.8045787 59.8831480 9400273
+2 Gameel, Mohamed	YEM 1994 M 2126.2723177 73.4264512 9401440

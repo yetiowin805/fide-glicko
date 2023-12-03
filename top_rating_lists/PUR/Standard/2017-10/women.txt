@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Vazquez Maccarini, Danitza	PUR 2000 2010.0960498 46.8487476 3101193
+2 Morales Santos, Natasha	PUR 1998 1768.6433768 61.2252006 3101703
+3 Vega Jimenez, Keyshla M.	PUR 1992 1554.3534444 61.7321436 3101851
+4 Morales Hernandez, Yaime	PUR 2003 1351.0570339 70.9179671 3105180

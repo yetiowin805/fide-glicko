@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Gerena Rivas, Eliam	PUR 2002 M 2103.4829325 74.4954448 3103790
+2 Zilleruelo Irizarry, Diego	PUR 1990 M 2012.2113921 67.0507601 3101460
+3 Almedina Ortiz, Edgardo J.	PUR 1988 M 1975.7474451 66.4382579 3100197
+4 Boggiano Pereira, Miguel A.	PUR 1999 M 1922.9100763 55.8468663 3102750

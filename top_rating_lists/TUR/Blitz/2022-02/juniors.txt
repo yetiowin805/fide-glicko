@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Dargali, Hakan	TUR 2005 M 1850.3982288 74.4812910 44545207
+2 Demirkol, Kerim Calvelo	TUR 2009 M 1594.3972043 57.3460604 26396815

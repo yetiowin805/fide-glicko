@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Asgarizadeh, Ahmad	IRI 1998 M 2221.8271422 73.3480806 12505684
+2 Tabatabaei, M.amin	IRI 2001 M 1973.1660679 74.6144413 12521213

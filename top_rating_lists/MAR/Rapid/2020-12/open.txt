@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Iraqui, Youssef	MAR 0000 M 1927.9588634 65.5378856 9000666
+2 Guedira, Aimen	MAR 1995 M 1887.6690546 62.1954706 9011633

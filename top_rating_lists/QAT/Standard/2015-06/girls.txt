@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Al-Hajri, Hamda	QAT 2002 1329.5070544 73.7313530 12100900
+2 Hussain, Alla	QAT 2001 1228.2114021 72.9908288 12100951

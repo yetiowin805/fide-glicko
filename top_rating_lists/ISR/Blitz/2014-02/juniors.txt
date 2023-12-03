@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Efroimski, Marsel	ISR 1995 F 2201.4604402 71.9343753 2810964
+2 Reshef, Omer	ISR 1997 M 2155.1612312 68.2404384 2804336

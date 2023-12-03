@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Vuong, Quynh Anh	VIE 2005 1728.2132476 64.7046021 12408948
+2 Nguyen, Thien Ngan	VIE 2005 1683.2788622 74.4252924 12414816

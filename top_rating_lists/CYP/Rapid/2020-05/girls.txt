@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Sarkisian, Aikaterina	CYP 2011 1490.8560613 62.5070939 5905265
+2 Sokolova, Victoria	CYP 2009 1462.2338874 60.4744564 5905460
+3 Bouzana, Christina	CYP 2009 1292.5403919 74.8818304 5905508

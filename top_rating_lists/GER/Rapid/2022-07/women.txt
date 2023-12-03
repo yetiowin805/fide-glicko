@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Paehtz, Elisabeth	GER 1985 2316.0681306 68.4240469 4641833
+2 Wang, Minqing	GER 2004 1917.1583166 73.6853860 34613218

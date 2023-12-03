@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Maksimovic, Bojan	BIH 2002 M 1917.2480135 67.1748247 14408120
+2 Pistalovic, Slobodan	BIH 2007 M 1420.2970353 73.9249080 14550202

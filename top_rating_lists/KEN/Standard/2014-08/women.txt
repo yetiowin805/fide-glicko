@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Deshpande, Sanjana Satish	KEN 1997 1435.2670576 68.8877627 10800964
+2 Asiema, Isabella	KEN 1993 1423.4062261 72.3670879 10800565

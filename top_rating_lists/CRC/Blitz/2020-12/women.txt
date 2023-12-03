@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Rating RD
+1 Salazar Gould, Melanie	CRC 2003 1790.2919420 69.3979870 6505090
+2 Acevedo Mendez, Jennifer	CRC 1999 1672.9469507 74.0589992 6504442
+3 Rosales Gonzalez, Jessica	CRC 2001 1550.5435354 73.2147057 6512062
+4 Arguedas Bolanos, Sharline	CRC 2001 1477.9623040 73.2116631 6507301
+5 Sierra Berrocal, Gabriela	CRC 2003 1473.0563752 71.5946386 6507271

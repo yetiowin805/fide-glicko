@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Bachmann, Axel	PAR 1989 M 2628.0569235 55.6073518 3700488
+2 Delgado Ramirez, Neuris	PAR 1981 M 2527.4977000 70.3105310 3503631

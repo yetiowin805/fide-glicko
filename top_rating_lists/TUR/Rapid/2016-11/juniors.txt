@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Baglan, Esat	TUR 1996 M 2126.1157845 69.5558768 6309216
+2 Salman, Ilhan Serhat	TUR 2001 M 1861.2400435 73.8017230 6361579

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Dangol, Bijaya	NEP 1997 M 1809.8364657 69.5585267 12303038
+2 Lama, Bibek	NEP 1995 M 1716.9499387 73.8923784 12303135

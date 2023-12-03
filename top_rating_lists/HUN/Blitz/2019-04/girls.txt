@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Marjanovic, Annamaria	HUN 2001 2166.7481694 68.8606183 750930
+2 Demeter, Dorina	HUN 2005 1886.4618166 70.9856999 778079

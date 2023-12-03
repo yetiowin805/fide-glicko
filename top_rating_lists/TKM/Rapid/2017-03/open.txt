@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Atabayev, Yusup	TKM 1994 M 2491.9921333 74.6619655 14001128

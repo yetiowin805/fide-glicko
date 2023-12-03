@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Froewis, Annika	AUT 1994 1941.4613425 57.6326415 1621432
+2 Hapala, Lisa	AUT 1994 1821.4366776 59.0653314 1622080

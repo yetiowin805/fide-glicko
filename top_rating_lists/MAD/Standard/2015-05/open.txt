@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rakotomaharo, Fy Antenaina	MAD 1999 M 2250.5001436 48.8015973 13100050
+2 Rakotoniaina, Antsiva	MAD 1989 M 1845.4196765 74.5550491 13100173
+3 Randriamahefa, Fenitra Anthony	MAD 1991 M 1842.9898800 73.3265102 13100742
+4 Rabe andrianandrasana, Haingo	MAD 1974 M 1736.0725545 68.3675227 13100181
+5 Rajaonasy, Tolotra	MAD 1980 M 1669.6438815 74.0631350 13100629

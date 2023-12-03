@@ -1,0 +1,7 @@
+Rank Name Federation BirthYear Rating RD
+1 Villar Acevedo, Darlin Rocio	DOM 1996 1704.5010378 65.7781821 6405053
+2 Coronado Paulino, Katerine E.	DOM 1999 1575.6793949 67.2275170 6405029
+3 Rosario Almanzar, Raydili	DOM 1998 1566.7560705 65.7854626 6403573
+4 Alfau Sencion, Lisbeth	DOM 1996 1558.8443557 64.3139711 6416845
+5 Quiroz Farias, Yelibeth	DOM 1999 1529.5782782 69.9248012 6408958
+6 Rodriguez Espaillat, Escarlet M.	DOM 1997 1421.2543584 72.3440422 6412149

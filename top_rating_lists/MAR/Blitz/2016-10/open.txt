@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Arif, Mouad	MAR 1995 M 1712.6019821 72.0722536 9000151
+2 Rania, Sbai	MAR 0000 F 1601.9133239 74.3095455 9002146

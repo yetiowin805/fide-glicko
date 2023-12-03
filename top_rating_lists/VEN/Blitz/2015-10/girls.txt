@@ -1,0 +1,9 @@
+Rank Name Federation BirthYear Rating RD
+1 Millan Gonzalez, Yuneitsy Del Va	VEN 1997 1611.4007117 68.9831774 3906132
+2 Yepez Moreno, Juliet Carolina	VEN 2001 1574.8268945 51.2560620 3905438
+3 Carreno Planas, Manuela	VEN 1996 1567.4069161 63.3703493 3906019
+4 Yepez Moreno, Catherine Celeste	VEN 2003 1316.4970602 55.8666210 3905292
+5 Mustafa Suarez, Nadia Veruska	VEN 1998 1251.7087525 66.8241652 3915638
+6 Manaure Rodriguez, Cristina	VEN 1999 1227.5079570 68.5056091 3915557
+7 Dumont Peroza, Agnes Coromoto	VEN 2001 1172.4152233 62.4277392 3924254
+8 Lopez Romero, Virginia Del Valle	VEN 2000 1047.7828827 73.5388053 3915549

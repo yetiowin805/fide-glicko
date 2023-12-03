@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Bartmeyer, Maria Veronica	BRA 1997 1483.8750624 64.3965785 2152614
+2 Quirrenbach, Emanuela Pinheiro	BRA 1998 1413.7049781 73.7988728 2152975
+3 Bartmeyer, Beatriz	BRA 1999 1382.7736752 64.7041479 2152592
+4 Bartmeyer, Susana Maria	BRA 1997 1318.5521926 62.5777878 2152258

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Lama, Surbir	NEP 1977 M 2058.3620993 72.5767522 5017432
+2 Jaiswal, Rupesh	NEP 1998 M 1906.1460758 74.6560901 12300870

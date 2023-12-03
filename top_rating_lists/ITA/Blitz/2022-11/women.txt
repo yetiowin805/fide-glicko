@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Proietti Tocca, Tosca	ITA 1979 1723.8775284 69.1487114 837245
+2 Gabbani, Sara	ITA 2004 1687.6246909 63.0669133 2842853
+3 Rubinshtein, Kamilla	ITA 2005 1641.7196819 63.6189996 2838708

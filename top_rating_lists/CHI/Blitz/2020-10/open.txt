@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Abarca Gonzalez, Nicolas	CHI 1993 M 2269.8412137 72.8299311 3409422
+2 Olivares Olivares, Claudio	CHI 1992 M 2015.5538340 73.2270461 3400786
+3 Reyes Mendoza, Tomas	CHI 2007 M 1735.4180612 74.8140373 3439216
+4 Roman Alvarez, Oscar	CHI 1944 M 1621.5795476 73.8379447 3400867

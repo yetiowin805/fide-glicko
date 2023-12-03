@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Santos Almonte, Carol	DOM 1993 1577.2758126 66.6904754 6402348
+2 Almanzar Vasquez, Jennifer Maria	DOM 1993 1562.0276287 62.8727273 6406505

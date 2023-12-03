@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Vang, Finnbjorn	FAI 1978 M 2110.9662751 74.8426993 7200463
+2 Joensen, John	FAI 1978 M 1676.4454960 61.5674738 7200684

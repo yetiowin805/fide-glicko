@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Omonova, Umida	UZB 2006 2120.0492346 59.4551136 14210363
+2 Khamdamova, Afruza	UZB 2009 2005.4321093 72.4927496 14210444
+3 Bakhodirjonova, Khadichabon	UZB 2004 1699.8128238 74.8829606 14210673

@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Tandukar, Nabin	NEP 1960 M 1899.3525861 74.2230322 5021189

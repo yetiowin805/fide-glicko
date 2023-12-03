@@ -1,0 +1,7 @@
+Rank Name Federation BirthYear Rating RD
+1 Montiel Caceres, Helen	PAR 2006 1750.0734501 67.1312209 3707121
+2 Oviedo Acosta, Paula	PAR 2005 1719.2812115 57.7647784 3704394
+3 Mayeregger Gonzalez, Renata	PAR 2007 1677.4857713 52.3824026 3708900
+4 Sanchez Bobadilla, Valeria Belen	PAR 2006 1588.6654241 71.0889219 3712206
+5 Mayeregger Gonzalez, Fiorella	PAR 2009 1557.8130950 54.7469780 3708845
+6 Lugo Martinez, Jimena Sofia	PAR 2012 1458.3571577 69.1456917 3710793

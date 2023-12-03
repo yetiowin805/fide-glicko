@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Al Kharusi, Mohammed	OMA 2003 M 1479.2144736 67.4023658 22003509
+2 Al Busaidi, Hamood	OMA 2005 M 1446.7122627 67.2896473 22006230

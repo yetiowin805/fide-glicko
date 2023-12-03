@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Kagramanov, Dalia	CAN 1993 1808.8981705 73.1613093 2604728
+2 Kalaydina, Regina Veronicka	CAN 1996 1641.5311350 71.5236860 2600129

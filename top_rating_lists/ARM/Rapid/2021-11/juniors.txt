@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Sargsyan, Shant	ARM 2002 M 2377.9588665 68.7574690 13306766

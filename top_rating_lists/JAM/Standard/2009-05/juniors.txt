@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 James, Stuart	JAM 1993 M 1814.9022149 72.5586027 7400489
+2 Ramsay, Zachary	JAM 1990 M 1803.9941546 69.3743886 7400314

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Duygulu, Ugur	TUR 2008 M 1588.0625197 70.6448492 34573976
+2 Yilmaz, Mehmet	TUR 2009 M 1404.7479702 63.6979224 44542860

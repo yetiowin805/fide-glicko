@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Henriquez Villagra, Cristobal	CHI 1996 M 2084.0005961 66.3627230 3409350
+2 Abarca Gonzalez, Nicolas	CHI 1993 M 1915.8408435 72.4032579 3409422
+3 Perez Gormaz, Matias	CHI 1993 M 1891.8753636 71.6478641 3406342

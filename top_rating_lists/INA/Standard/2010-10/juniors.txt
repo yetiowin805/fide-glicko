@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Masruri, Rahman	INA 1996 M 2051.9854380 73.5858908 7101163
+2 Dewi, Aa Citra	INA 1994 F 1987.0949025 65.2013751 7101244

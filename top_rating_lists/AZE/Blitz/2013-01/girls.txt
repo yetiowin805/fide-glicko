@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Kazimova, Narmin	AZE 1993 2229.0477709 73.2393084 13402951
+2 Fataliyeva, Ulviyya	AZE 1996 2102.8211287 74.5643746 13403052

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Wisdom, Daren	JAM 1983 M 1874.4251836 74.5372805 7400438
+2 Blackwood, Ryan	JAM 1985 M 1851.6656177 70.1477025 7400640

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Nepali, Badrilal	NEP 1964 M 2012.7480228 72.0679099 12300020
+2 Tandukar, Nabin	NEP 1960 M 1877.0026088 74.4684167 5021189

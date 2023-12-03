@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Vanduyfhuys, Daria	BEL 2003 1908.0202475 67.0757282 246336
+2 Musabayeva, Diana	BEL 2007 1848.1077111 69.6916807 254720
+3 Decraene, Lotus	BEL 2010 1540.7092477 68.8455847 258512

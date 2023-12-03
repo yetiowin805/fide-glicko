@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Constantinou, Pavlos	CYP 1982 M 1982.0296475 70.7897125 5900328
+2 Kelires, Andreas	CYP 1999 M 1948.9739545 72.2231694 5900727
+3 Georgiou, Andreas	CYP 1973 M 1579.8726557 66.0831981 5900360

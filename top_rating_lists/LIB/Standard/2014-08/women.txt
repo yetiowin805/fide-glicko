@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Jalloul, Maya M.	LIB 1990 1845.8546975 60.5591806 5300800
+2 Bedrosian, Danielle	LIB 0000 1564.7351288 69.6848710 5300479

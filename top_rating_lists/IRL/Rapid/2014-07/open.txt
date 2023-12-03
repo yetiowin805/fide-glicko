@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 McCabe, Shane	IRL 1968 M 1714.7478849 54.7685619 2503891
+2 Brady, Vince	IRL 1948 M 1296.9968167 74.9574216 416525

@@ -1,0 +1,10 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Escalona Landi, Samid Eduardo	VEN 2002 M 2047.5640722 73.1062471 3937437
+2 Jaramillo Lopez, Ali Aaron	VEN 2006 M 1815.4577084 73.1086590 3943275
+3 Cabeza Marquez, Josue Alejandro	VEN 2005 M 1669.6674910 74.1722419 3934446
+4 Roa Romero, Miguelangel Alberto	VEN 2005 M 1659.5290852 74.3459816 3934551
+5 Silva Mago, Alvaro Francisco	VEN 2005 M 1544.7608010 74.3904509 3966623
+6 Antequera Guadalajara, Franco Josue	VEN 2004 M 1536.4486414 73.4688401 3953432
+7 Guadalajara Barrios, Jacksilany	VEN 2006 F 1528.4442594 73.9035065 3931242
+8 Hernandez Mora, Nohelia Virginia	VEN 2005 F 1495.8237485 73.9529661 3915344
+9 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 F 1302.3933579 74.3909781 3964051

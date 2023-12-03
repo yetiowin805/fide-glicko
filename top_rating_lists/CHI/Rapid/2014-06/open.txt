@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Barria Zuniga, Daniel	CHI 1974 M 2418.6597677 69.8416543 3400816
+2 Cortes Moyano, Julio	CHI 1951 M 1780.4625830 74.5088496 3400395
+3 Squella Lavin, Carlos Felipe	CHI 1996 M 1771.8615317 71.4048110 3406792
+4 Aguirre Contreras, Cristian	CHI 1996 M 1698.6007085 73.8240971 3412776
+5 Estrada Lavin, Cristian Alexand	CHI 1999 M 1580.0175697 73.5804962 3411710

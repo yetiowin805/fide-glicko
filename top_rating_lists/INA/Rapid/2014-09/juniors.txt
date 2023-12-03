@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Sean, Winshand Cuhendi	INA 1997 M 2273.7870303 70.7479914 7101554
+2 Hanik, Dwi Nurlaili	INA 1994 M 1624.0785355 74.5671101 7104243
+3 Elisabeth, Christine	INA 2002 F 1500.8607741 71.8066120 7106165

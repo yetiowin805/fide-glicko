@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Milligan, Helen	NZL 1962 1863.3606390 57.7879389 2401312
+2 Smith, Vivian J	NZL 1951 1643.2786591 67.0584267 4301935

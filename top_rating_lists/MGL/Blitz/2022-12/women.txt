@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Nomin-Erdene, Davaademberel	MGL 2000 2140.6143974 72.2774575 4900782
+2 Munkhzul, Davaakhuu	MGL 2006 1990.1091952 69.6083504 4902815
+3 Enkhtuul, Altan-Ulzii	MGL 1994 1876.3166081 67.5192035 4901444

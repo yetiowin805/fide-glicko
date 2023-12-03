@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Terubea, Cydel	FIJ 1998 1649.0623261 62.6845653 11400455
+2 Sukhu, Gloria	FIJ 1954 1492.7287340 65.3000670 11400099

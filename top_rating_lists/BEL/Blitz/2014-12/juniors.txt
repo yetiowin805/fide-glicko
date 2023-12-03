@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ringoir, Tanguy	BEL 1994 M 2561.2508430 74.0708880 208027
+2 Godart, Francois	BEL 1994 M 2312.3257497 73.0349418 208078

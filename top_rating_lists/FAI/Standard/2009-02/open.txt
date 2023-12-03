@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ziska, Helgi Dam	FAI 1990 M 2437.0599636 64.1958015 7200595
+2 Olsen, Heini	FAI 1969 M 2392.4241377 74.3650232 7200056

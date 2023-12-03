@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Nomin-Erdene, Davaademberel	MGL 2000 F 2006.6530261 70.3199658 4900782
+2 Bayarmaa, Bayarjargal	MGL 1995 F 1977.7434501 74.6616132 4900260

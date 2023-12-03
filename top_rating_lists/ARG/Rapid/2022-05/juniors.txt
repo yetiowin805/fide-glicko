@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Frutos, Leandro Jose	ARG 2009 M 1718.0860959 74.6710335 181358
+2 Fournel, Bautista	ARG 2009 M 1620.9695777 72.7568666 20000421

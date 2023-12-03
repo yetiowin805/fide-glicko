@@ -1,0 +1,7 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Leon Hoyos, Manuel	MEX 1989 M 2537.9947316 42.1040487 5105269
+2 Ibarra Chami, Luis Fernando	MEX 1989 M 2395.4455586 45.3176373 5105048
+3 Sanchez Enriquez, Oscar Gerardo	MEX 1989 M 2325.5192444 70.8915839 5106311
+4 Tapie Amione, Pablo Adib	MEX 1988 M 2248.6110017 57.3683472 5107180
+5 Alvarez Ramirez, Miguel Angel	MEX 1989 M 2155.0407266 69.9914040 5107687
+6 Gutierrez Mancillas, Alicia Abig	MEX 1990 F 1977.6057557 68.6358299 5108926

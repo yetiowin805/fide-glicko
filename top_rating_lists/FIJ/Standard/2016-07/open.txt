@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Sukhu, Gloria	FIJ 1954 F 1403.5962174 73.3579357 11400099

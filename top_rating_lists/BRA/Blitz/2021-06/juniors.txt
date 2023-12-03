@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Do Valle Cardoso, Lucas	BRA 2002 M 2263.8713665 72.1458356 2163144

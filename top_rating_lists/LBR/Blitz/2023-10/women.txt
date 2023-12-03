@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Abigail Karyah	LBR 2008 1539.5993702 54.4325459 22601147
+2 Georgina Sackie	LBR 2005 1492.5189626 55.9489113 22601708

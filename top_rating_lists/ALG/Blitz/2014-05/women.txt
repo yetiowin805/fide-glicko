@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Latreche, Sabrina	ALG 1993 1945.8501538 74.1887389 7901798
+2 Nouali, Djouher	ALG 1987 1766.9079659 74.8318013 7900414

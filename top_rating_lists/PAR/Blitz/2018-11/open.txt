@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Benitez Galeano, Alejandro	PAR 2002 M 1977.5513745 67.5588790 3703568
+2 Cantero, Rodolfo	PAR 1999 M 1915.2303244 72.9078242 3703762
+3 Melian, Juan Sebastian	PAR 2006 M 1587.5723155 72.5046217 3706575

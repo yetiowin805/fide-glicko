@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Anton Guijarro, David	ESP 1995 M 2608.2656070 53.9854320 2285525
+2 Sanz Wawer, Daniel	ESP 2003 M 1724.6286552 61.4084707 1185543

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ramirez, Alejandro	CRC 1988 M 2554.2444323 44.7213048 6500617
+2 Ruiz Blais, Sebastian	CRC 1989 M 2262.3956282 71.0909996 6501249

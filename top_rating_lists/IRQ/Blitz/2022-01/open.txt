@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mohammed Tareq Abbood Al-Latoof	IRQ 1990 M 1946.5127018 74.8934018 4805283
+2 Hussein Kadhim Hasan	IRQ 1968 M 1834.5473106 70.1079561 4802098

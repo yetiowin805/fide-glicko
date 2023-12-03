@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Wan Abd Rahim, Wan Mohd Azmie	MAS 1994 M 1878.3340192 74.4225661 5715857
+2 Khomisajie, Muhd Ismakhaizuran	MAS 2012 M 1621.2919018 73.8165476 5794005

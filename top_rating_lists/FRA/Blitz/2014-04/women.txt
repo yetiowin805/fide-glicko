@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Sebag, Marie	FRA 1986 2502.4255505 60.6906594 617822
+2 Maisuradze, Nino	FRA 1982 2181.7728082 74.2098552 13601717

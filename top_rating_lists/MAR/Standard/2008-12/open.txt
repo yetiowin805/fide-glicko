@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Tissir, Mohamed	MAR 1976 M 2492.0043226 51.5909924 9000240
+2 Karim, Ismael	MAR 1985 M 2427.4934863 56.2402256 625736

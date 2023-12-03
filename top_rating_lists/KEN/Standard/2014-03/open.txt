@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Pendyala, Ritvik	KEN 2002 M 1414.4042498 69.2030139 10800743
+2 Deshpande, Sanjana Satish	KEN 1997 F 1335.7781337 67.0400750 10800964

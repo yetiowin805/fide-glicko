@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Karelina, Polina	BAH 2001 1712.6633453 52.6690733 10400222
+2 Pinder, Trinity	BAH 2003 1249.1436044 72.0731002 10400818

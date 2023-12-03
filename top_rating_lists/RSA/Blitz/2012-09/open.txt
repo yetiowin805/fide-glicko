@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Solomon, Kenny	RSA 1979 M 2411.9411319 66.3883122 14300192
+2 Du Plessis, Heinco	RSA 1994 M 2030.4053950 74.7318300 14306263

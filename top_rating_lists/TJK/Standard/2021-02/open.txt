@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Khusenkhojaev, Muhammad	TJK 1987 M 2281.7937184 66.0169292 14700247
+2 Abrorova, Sabrina	TJK 2006 F 1700.4835060 73.6535196 14701553
+3 Fayzieva, Darina	TJK 2006 F 1429.4501212 62.9241507 14701960

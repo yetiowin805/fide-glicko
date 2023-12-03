@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Nurse, Lydia	BAR 1996 1360.8965104 70.4374330 11101261
+2 Cumberbatch, Gabriela	BAR 1999 1280.0436822 68.0339332 11102330

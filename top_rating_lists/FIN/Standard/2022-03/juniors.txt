@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Keinanen, Toivo	FIN 2002 M 2385.0579760 73.6072477 509825
+2 Jaakkola, Niklas	FIN 2010 M 1710.0868880 69.3171360 514977
+3 Velagapudi, Vihan	FIN 2011 M 1431.9796026 71.8029708 515604

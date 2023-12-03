@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Machin Rivera, Mark	PUR 1989 M 2094.8084380 73.7835663 3101126
+2 Vazquez Maccarini, Danitza	PUR 2000 F 1782.2899463 74.3661255 3101193

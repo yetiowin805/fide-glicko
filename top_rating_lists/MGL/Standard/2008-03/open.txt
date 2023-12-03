@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Gundavaa, Bayarsaihan	MGL 1989 M 2444.8766078 61.4060720 4901045
+2 Sharavdorj, Dashzegve	MGL 1974 M 2444.3392125 57.4430690 4900340
+3 Mongontuul, Bathuyag	MGL 1987 F 2439.0008735 60.3960451 4900758
+4 Batchuluun, Cegmed	MGL 1987 M 2419.2113193 49.4242251 4900847

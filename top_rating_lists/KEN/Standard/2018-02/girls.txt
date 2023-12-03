@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Parikh, Pranjal Ameetkumar	KEN 2002 1485.4686058 58.4321290 10802622
+2 Mohideen, Fathima Mohamed	KEN 2006 1467.3350458 73.9904803 10802606
+3 Parikh, Nikita Ameetkumar	KEN 2005 1331.7880891 59.7254969 10802614

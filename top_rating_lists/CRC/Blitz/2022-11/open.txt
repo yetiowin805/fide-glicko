@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Cabezas Solano, David Alejandro	CRC 2004 M 1926.4402170 66.5121715 6507522
+2 Avendano Porras, Rodrigo	CRC 1999 M 1874.1551625 61.2404699 6503357
+3 Bejarano Sandoval, Allan	CRC 1988 M 1687.7109874 72.1743040 6501478
+4 Meza Vega, Jose Antonio	CRC 2004 M 1580.3796848 74.5520214 6513697
+5 Baum Gutierrez, Ismael	CRC 1991 M 1508.3224264 68.3262752 6505392

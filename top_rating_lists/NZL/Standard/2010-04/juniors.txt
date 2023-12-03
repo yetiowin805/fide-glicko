@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Wang, Puchen	NZL 1990 M 2488.1745661 57.2372790 4300904
+2 Shen, Daniel	NZL 1995 M 2134.1011763 56.5781643 4302079

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Miljkovic, Jovana	SRB 1999 1668.1589193 51.6869077 958336
+2 Vujcic, Milena	SRB 2001 1482.1816251 63.9648649 954748

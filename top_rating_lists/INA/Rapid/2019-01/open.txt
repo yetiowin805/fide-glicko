@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Cahyadi	INA 1987 M 1679.3588833 63.2174839 7106068
+2 Agung, Rinaldi Santoso	INA 1987 M 1609.7454168 68.7202906 7105185

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mateo, Ramon	DOM 1958 M 2493.9113597 43.9438538 6400019
+2 Liao, Yuan Eu	DOM 1963 M 2425.0000000 61.0098672 6400027

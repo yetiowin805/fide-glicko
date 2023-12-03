@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ivekovic, Tihana	CRO 1995 1969.7595317 72.4221335 14517825
+2 Turk, Tajana	CRO 1996 1827.3409135 67.9425717 14500027

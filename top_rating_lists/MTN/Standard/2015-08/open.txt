@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Boydia, Sidi	MTN 1986 M 1990.0293669 66.4659956 19600100
+2 Taleb Mohamed, Ahmed	MTN 1973 M 1843.2261308 65.0650973 19600038

@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Rosario Almanzar, Raydily	DOM 1998 1764.6453016 72.8180926 6403573
+2 Castillo Pena, Patricia Evarista	DOM 1991 1745.1463632 65.4096999 6412106
+3 Ramirez Luzon, Franchesca	DOM 2004 1633.9098333 60.1405399 6421792
+4 Moronta Ramos, Dianelva Altagracia	DOM 1980 1535.2603520 74.6484007 6408109

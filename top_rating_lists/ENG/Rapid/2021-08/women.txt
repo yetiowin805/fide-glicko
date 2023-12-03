@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ainscow, Faye	ENG 1942 1522.6295018 72.8683028 428698
+2 Tree, Djuna	ENG 1991 1447.4205975 68.5864657 468738

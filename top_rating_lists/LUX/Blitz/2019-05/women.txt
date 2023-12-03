@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Berend, Elvira	LUX 1965 2238.7210650 59.2292002 4000510
+2 Steil-Antoni, Fiona	LUX 1989 1921.1886926 66.5161328 4001249

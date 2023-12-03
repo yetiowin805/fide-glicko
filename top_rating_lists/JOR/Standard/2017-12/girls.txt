@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Dalya, Abdelrahim	JOR 2006 1255.8060200 74.1234799 8108161
+2 Dana, Al-Mosa	JOR 2005 1146.3854618 66.5196460 8108170

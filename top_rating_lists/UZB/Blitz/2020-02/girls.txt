@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Omonova, Umida	UZB 2006 1876.9073047 68.2718523 14210363
+2 Bobomurodova, Maftuna	UZB 2006 1666.0370824 74.1606587 14207400
+3 Mansurova, Mumtozbegim	UZB 2009 1484.1663680 68.5938565 14215780

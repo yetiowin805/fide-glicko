@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Rating RD
+1 Kim, Yubin	KOR 2004 1718.0998685 74.3534748 13202316

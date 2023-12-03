@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ziaziulkina, Nastassia	BLR 1995 2198.3586272 73.2692063 13505211
+2 Badelka, Olga	BLR 2002 1759.0275697 73.5085642 13509926

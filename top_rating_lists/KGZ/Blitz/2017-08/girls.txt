@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Omurbekova, Diana	KGZ 1999 1688.3639956 68.5500151 13800752
+2 Lee, Dariya	KGZ 2003 1517.2616602 73.9410059 13801651

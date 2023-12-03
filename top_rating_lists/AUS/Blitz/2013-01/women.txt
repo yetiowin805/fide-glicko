@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Guo, Emma	AUS 1995 1955.6584111 74.2529680 3200795
+2 Chibnall, Alana	AUS 1991 1819.9595572 61.8628637 3208613

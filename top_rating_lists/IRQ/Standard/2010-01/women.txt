@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Mushin, Dhuha M	IRQ 1990 1829.9072595 70.4322478 4803159
+2 Mohammed Qane,Jannar Worya	IRQ 1977 1772.8067943 70.9961903 4802144

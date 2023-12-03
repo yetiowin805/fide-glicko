@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Forgas Moreno, Yaniela	CUB 1992 2074.6131671 64.3686446 3508072
+2 Miranda Llanes, Yerisbel	CUB 1987 2050.5713924 69.6269825 3507700
+3 Fonte Sanchez, Paula	CUB 1997 1863.7549727 72.6116413 3509729

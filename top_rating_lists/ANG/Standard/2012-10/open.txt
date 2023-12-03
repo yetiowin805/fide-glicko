@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Alberto, Manuel	ANG 1974 M 2170.3769486 68.4430004 10100148
+2 Soares, Erikson Roberto Mauricio	ANG 1992 M 2110.7102783 67.5031682 10100091
+3 Rosalina, Sonia	ANG 0000 F 1600.8684904 73.4761411 10100164

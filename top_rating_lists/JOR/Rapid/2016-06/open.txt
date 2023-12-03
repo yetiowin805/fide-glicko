@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ababneh, Ghayth	JOR 1982 M 1874.4703831 64.6206367 8101043
+2 Khalid Abu Warda	JOR 1984 M 1390.2053406 74.8685444 8109265

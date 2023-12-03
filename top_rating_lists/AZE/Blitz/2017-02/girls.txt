@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Mammadova, Narmin	AZE 1999 1885.0440407 68.1265144 13403710
+2 Abbasova, Sadagat	AZE 2003 1659.8275762 67.4610548 13410059

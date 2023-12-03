@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Paehtz, Elisabeth	GER 1985 2371.3315883 55.9940239 4641833
+2 Troyke, Doreen	GER 1975 1790.0248731 74.5017575 4634187

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Craciun, Paula-Iulia	ROU 1989 2124.0100025 68.9952298 1214926
+2 Visanescu, Daria-Ioana	ROU 1996 1863.7395875 65.7176858 1200518
+3 Vericeanu, Ilinca	ROU 1993 1745.3241020 74.6504115 1216970

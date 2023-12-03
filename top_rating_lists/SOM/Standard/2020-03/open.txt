@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Miskin, Mohamed Abdi	SOM 1996 M 1698.4391982 67.0566264 10808370
+2 Islam Sh.Nour, Kassim	SOM 1997 M 1575.9793323 72.8049180 16100360

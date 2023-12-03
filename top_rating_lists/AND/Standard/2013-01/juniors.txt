@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Torrent Casado, Marc	AND 1996 M 1669.0904574 73.3465631 6900623
+2 Casanovas Cantarero, Eric	AND 1997 M 1647.6094186 69.9014915 6900445

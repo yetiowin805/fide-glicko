@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Hamrakulova, Yulduz	UZB 1989 F 2219.3682749 54.6837467 14201151
+2 Rahimov, Rahmatjon	UZB 1993 M 2218.6224736 57.4462216 14202050
+3 Esonboeva, Gulruhsor	UZB 1991 M 1999.9398869 73.0187829 14202085

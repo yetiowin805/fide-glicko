@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Marape,Naledi	BOT 2006 1440.7273523 66.7134802 11310880
+2 Sriram, Srikaveri	BOT 2001 1404.1152009 69.0571198 11303140

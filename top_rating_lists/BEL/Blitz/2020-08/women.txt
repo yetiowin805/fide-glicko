@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Vanhuyse, Nele	BEL 1991 1887.8314799 69.4342735 228818
+2 Souweine, Edwige	BEL 1980 1107.4621997 72.8251919 249793

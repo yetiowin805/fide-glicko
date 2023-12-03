@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Giri, Anish	NED 1994 M 2754.7857485 60.5871514 24116068
+2 Van Wely, Loek	NED 1972 M 2612.2809077 67.1716404 1000268

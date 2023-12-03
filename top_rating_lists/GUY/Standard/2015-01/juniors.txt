@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Su, Haifeng	GUY 1995 M 1704.6098171 73.5041399 19700202

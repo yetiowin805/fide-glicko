@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mesfin, Leykun	ETH 1976 M 2036.0970866 73.7502233 15700097
+2 Fekadu, Desalegn Jimma	ETH 1976 M 1902.1214496 73.5578695 15700070

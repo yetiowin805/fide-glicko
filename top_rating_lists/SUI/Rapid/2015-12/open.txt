@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Paleologu, Vladimir	SUI 1971 M 2206.2482075 74.5015498 1305573
+2 Boschetti, Claudio	SUI 1957 M 2017.1602105 70.3100684 1300920

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Diaz, Luisa	GUA 1996 1667.4375196 70.5053350 7300948
+2 Cruz Lima, Kimberly Esmeralda	GUA 2001 1607.4402517 58.3320146 7301480

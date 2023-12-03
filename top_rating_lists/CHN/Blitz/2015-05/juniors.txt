@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Lu, Shanglei	CHN 1995 M 2736.1924117 55.1845212 8603332

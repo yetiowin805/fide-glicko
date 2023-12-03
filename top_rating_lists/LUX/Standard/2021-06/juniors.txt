@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Burdot, Louis	LUX 2006 M 1632.6120810 72.9544601 4004760
+2 Burdot, Yvan	LUX 2009 M 1307.3875734 74.8929134 4005147

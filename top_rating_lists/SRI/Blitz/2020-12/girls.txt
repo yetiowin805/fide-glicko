@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Sandeepani, M Tharushi	SRI 2005 1790.4863240 73.7145792 9948139
+2 Alwis, Jenuki	SRI 2010 1574.0215299 73.4737901 29908302
+3 Ranganath, Tharuli Vihasna	SRI 2009 1572.0606551 72.6771961 9997865
+4 Bandara, Prathibha Nethsarani	SRI 2010 1497.4886607 72.4711162 29921511

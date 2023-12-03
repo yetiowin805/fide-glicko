@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Emojong Elijah	UGA 1992 M 2001.9196291 69.6108563 10000402

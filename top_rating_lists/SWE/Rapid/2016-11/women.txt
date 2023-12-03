@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Cramling, Pia	SWE 1963 2382.9962426 64.2601388 1700030
+2 Cramling Bellon, Anna	SWE 2002 1701.5427284 65.4958906 32009232

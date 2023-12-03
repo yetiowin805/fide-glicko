@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Sapozhnikov, Roman	CAN 1994 M 2269.2729444 73.6864655 2601842
+2 Kleinman, Michael	CAN 1994 M 2169.6925844 74.5503268 2609479

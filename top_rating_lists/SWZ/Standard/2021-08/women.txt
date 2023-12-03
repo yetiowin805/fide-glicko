@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Dlamini, Temahlubi Queen	SWZ 2000 1449.2001786 70.0885070 14318091
+2 Nomcebo, Sibisi	SWZ 2000 1290.0169227 72.0970220 20701152

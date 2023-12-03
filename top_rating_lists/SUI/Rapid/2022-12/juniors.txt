@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Gemelli,Romain	SUI 2006 M 1911.0337300 68.4838028 1336401
+2 Vulliez, Ivan	SUI 2008 M 1644.4752729 67.5698637 1339044

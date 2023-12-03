@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Lopez, Juste	ARU 1990 M 1850.2601899 72.4508271 15900150

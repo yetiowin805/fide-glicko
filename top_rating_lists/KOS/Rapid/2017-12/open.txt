@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Sadiku, Bedri	KOS 1953 M 2056.2343581 74.6610886 915998
+2 Rukovci, Shemsi	KOS 1963 M 1799.4374114 61.8987655 1528629

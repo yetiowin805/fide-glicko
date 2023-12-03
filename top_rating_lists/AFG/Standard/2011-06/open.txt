@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Asefi, Zaheeruddeen	AFG 1965 M 1932.7094798 73.3145709 11700025
+2 Mohseni, Neik	AFG 1985 M 1588.3869485 71.7745491 11700360

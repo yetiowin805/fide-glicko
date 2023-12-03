@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Baasansuren, Erdene	MGL 2003 M 2115.7974762 70.7122801 4902084
+2 Chinguun, Sumiya	MGL 2005 M 1905.7440711 69.9196570 4902572

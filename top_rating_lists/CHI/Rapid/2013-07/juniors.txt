@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Henriquez Villagra, Cristobal	CHI 1996 M 2084.0005961 69.9635705 3409350
+2 Perez Gormaz, Matias	CHI 1993 M 1907.5506643 71.0034430 3406342
+3 Squella Lavin, Carlos Felipe	CHI 1996 M 1759.2024104 74.0930970 3406792
+4 Aguirre Contreras, Cristian	CHI 1996 M 1608.8966501 73.3026943 3412776

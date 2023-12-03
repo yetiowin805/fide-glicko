@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Sukandar, Irine Kharisma	INA  2289.0452444 53.3922976 7101937
+2 Medina, Warda Aulia	INA  2022.8834130 63.7850112 7101570
+3 Sihite, Chelsie Monica	INA 1995 1939.3568902 72.4781801 7101198

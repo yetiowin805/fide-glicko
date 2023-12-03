@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Schut, Lisa	NED 1994 2215.1804236 69.2715458 1019481
+2 Osinga, Angelique	NED 1995 1750.4319710 74.3351895 1035347

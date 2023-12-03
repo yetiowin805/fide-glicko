@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rakotomaharo, Fy Antenaina	MAD 1999 M 2323.5594422 47.0280532 13100050
+2 Ralison, Milanto Harifidy	MAD 2001 M 2098.8360503 64.6479127 13100351
+3 Razanadrakotoarisoa, Toavina	MAD 2003 M 1884.9968199 72.9431622 13101439

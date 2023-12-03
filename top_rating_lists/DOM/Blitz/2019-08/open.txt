@@ -1,0 +1,8 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Castillo Rivera, Nelson Javier	DOM 1992 M 2040.8728119 71.2619253 6402747
+2 Ramirez Reyes, Braulio Fernando	DOM 1980 M 2005.6615564 70.3470846 6401007
+3 Feliz Dotel, Dewar Bienvenido	DOM 1986 M 2000.2597773 64.9725623 6402801
+4 Reyes Acevedo, Ismael	DOM 1961 M 1935.4102528 71.7979999 6403697
+5 Camacho Campusano, David Daniel	DOM 1993 M 1883.8676333 70.6639152 6408885
+6 Castillo Vasquez, Adgart Miguel	DOM 1986 M 1874.0664810 73.8778478 6403735
+7 Arias, William Alfredo	DOM 1968 M 1763.6797290 71.9654689 6400655

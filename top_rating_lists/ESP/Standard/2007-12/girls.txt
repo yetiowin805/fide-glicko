@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Vega Gutierrez, Sabrina	ESP 1987 2347.7877679 52.3565366 2219026
+2 Clopes Llahi, Judit	ESP 1991 2094.0807419 67.7594794 2269244

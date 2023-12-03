@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Adel, Sara	EGY 2003 1827.7579727 61.5280015 10616764
+2 Mohamed Zaki, Jana	EGY 2009 1492.5096450 74.6016080 10683089

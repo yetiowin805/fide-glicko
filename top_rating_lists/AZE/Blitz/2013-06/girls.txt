@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Abdulla, Khayala	AZE 1993 2125.1697626 73.1094936 13401807
+2 Ibrahimova, Sabina	AZE 1995 2056.0151015 74.7469217 13403893

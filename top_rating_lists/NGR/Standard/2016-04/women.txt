@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ofowino, Toritsemuwa	NGR 1989 1687.6973997 70.8931763 8504377
+2 Coker, Omolabake	NGR 0000 1595.0266773 70.3852756 8503869

@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Aminuddin, Nur Faiqah	MAS 2004 1629.6200376 74.1209231 5711860
+2 Mohsen, Nur Batrisya Wafa	MAS 2005 1465.1900328 71.5250140 5733901
+3 Mohd Azamanizam, Azraa Adeline Azman	MAS 2008 1427.1613601 73.2006670 5755328
+4 Rizal, Haibatul Hannan	MAS 2005 1418.9416750 71.8444253 5718660

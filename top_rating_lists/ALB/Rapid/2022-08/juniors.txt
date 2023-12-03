@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ramaj, Ergit	ALB 2008 M 1830.1458715 61.0327880 4703669
+2 Xhembulla, Aleksander	ALB 2006 M 1802.6344996 74.9740382 4705114

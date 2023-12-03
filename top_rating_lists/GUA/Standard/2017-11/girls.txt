@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Natareno, Elvia	GUA 1997 1553.2248879 66.0625719 7301251
+2 Cruz Lima, Kimberly Esmeralda	GUA 2001 1532.7738785 65.3550354 7301480
+3 Samayoa Gomez, Maria Rene	GUA 2002 1413.8236325 70.0444920 7302800

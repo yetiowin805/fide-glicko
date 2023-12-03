@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rakotomaharo, Fy Antenaina	MAD 1999 M 2312.9389124 47.8165758 13100050
+2 Razanadrakotoarisoa, Toavina	MAD 2003 M 1788.2352618 64.7852927 13101439
+3 Andriatsiferana, Irina	MAD 2000 F 1504.8011335 74.9829808 13100220
+4 Rabezaka Olertan	MAD 1997 M 1358.5805061 73.9849591 13101862

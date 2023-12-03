@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Barria Zuniga, Daniel	CHI 1974 M 2474.3221673 74.9222024 3400816
+2 Rojas Keim, Luis	CHI 1975 M 2286.5549083 74.2676641 3400646
+3 Aguirre Contreras, Cristian	CHI 1996 M 1836.7049929 71.5271106 3412776
+4 Estrada Lavin, Cristian Alexand	CHI 1999 M 1697.1250931 69.5380456 3411710

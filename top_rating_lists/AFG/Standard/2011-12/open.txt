@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Aria, Kamos	AFG 1985 M 1565.3789658 72.5506691 11700203
+2 Mohseni, Neik	AFG 1985 M 1532.2140774 60.3120706 11700360

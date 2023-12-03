@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Felix, Tobi	GHA 1999 1478.2776125 69.3275668 12600989
+2 Ayiku,Angela Naa Amerley	GHA 1987 1356.1041716 67.0152317 12600423
+3 Ashley, Christiana Naa Merley	GHA 1984 1182.6491300 67.3779926 12600474

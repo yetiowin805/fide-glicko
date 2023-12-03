@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Nguyen, Ngoc Truong Son	VIE 1990 M 2594.1519592 44.2754023 12401110
+2 Le, Quang Liem	VIE 1991 M 2586.1708581 45.3981525 12401137

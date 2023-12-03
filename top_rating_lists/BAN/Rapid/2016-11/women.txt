@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Hamid, Rani	BAN 1944 1996.5489947 73.6313172 10200096
+2 Jannatul, Ferdous	BAN 2005 1578.3435030 70.5515992 10212590

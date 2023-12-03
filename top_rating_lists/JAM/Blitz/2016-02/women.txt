@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Richards, Deborah	JAM 1985 1858.6844289 70.4819347 7400446
+2 Smith, Annesha	JAM 1988 1610.4065736 70.5548613 7400683

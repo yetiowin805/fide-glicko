@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Nauto Munoz, Isaias	CHI 2004 M 1707.3416606 63.2499475 3431746
+2 Greau Carreno, Rodrigo Alberto	CHI 2001 M 1666.9618465 73.2758498 3418260

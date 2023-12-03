@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Luna Javier, Edgar Froylan	MEX 2001 M 1867.7339860 74.5423422 5120101
+2 Baltazar Ibanez, Diego	MEX 2001 M 1831.0915802 72.7772583 5120586
+3 Roque Sola, Maria Fernanda	MEX 2000 F 1634.6444684 73.0906325 5115833
+4 Velazquez Quirarte, Santiago	MEX 2006 M 1452.7990407 63.6305776 5124859

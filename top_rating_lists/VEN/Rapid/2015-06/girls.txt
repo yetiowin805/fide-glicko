@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Aponte, Oriana Isabel	VEN 1997 1812.8872756 72.9869054 3902439
+2 Giraldo Segovia, Angely	VEN 1998 1671.5076214 73.9655507 3900606
+3 Aumaitre Rojas, Nairymar Nazaret	VEN 1998 1497.7439301 68.0648050 3915603

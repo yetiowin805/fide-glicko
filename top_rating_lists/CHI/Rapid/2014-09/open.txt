@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Barria Zuniga, Daniel	CHI 1974 M 2416.8674344 66.7194490 3400816
+2 Squella Lavin, Carlos Felipe	CHI 1996 M 1801.4135600 71.6169085 3406792
+3 Tapia Fuentes, Jaime	CHI 1992 M 1795.1893431 71.2982727 3403025
+4 Castillo Rivera, Carlos Alberto	CHI 1998 M 1649.8437173 68.1809794 3413322
+5 Estrada Lavin, Cristian Alexand	CHI 1999 M 1611.9340644 71.1532906 3411710

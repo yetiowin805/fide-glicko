@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Belkhodja, Slim	TUN 1962 M 2420.5382102 68.1813355 600229
+2 Njili, Kamel	TUN 1982 M 2190.8563211 74.1999294 5500869

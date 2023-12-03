@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Greeff, Melissa	RSA 1994 2051.2414801 58.4205080 14301504
+2 Hattingh, Angelique	RSA 1992 1759.6722908 74.1246483 14301920

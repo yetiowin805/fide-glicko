@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Vuilleumier, Alexandre	SUI 1982 M 2269.0589566 67.3355684 1305662

@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Swaminathan, Laia	CAY 2008 F 1425.1351282 73.7243222 33100063

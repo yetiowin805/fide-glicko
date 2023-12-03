@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ramaiya, Arushi	ENG 2004 1521.0922659 66.5986345 440035
+2 Jina, Asha	ENG 2001 1472.4758088 62.6488702 425737

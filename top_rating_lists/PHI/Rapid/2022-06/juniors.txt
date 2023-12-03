@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Reyes, Chester Neil	PHI 2005 M 2062.2707972 74.9385879 5225400
+2 Cuizon, Richily Evans	PHI 2008 F 1558.4999707 73.5794411 5230306
+3 Calacday, Jericho	PHI 2007 M 1481.5013850 69.9627624 5219507

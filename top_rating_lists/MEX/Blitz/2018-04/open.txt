@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Dominguez Aguilar, Guillermo	MEX 1980 M 2232.8283850 68.4256946 5105439
+2 Benitez Lozano, Javier	MEX 1993 M 2223.2547187 69.2358168 5102472
+3 Vega Garcia, Jorge Arturo	MEX 1960 M 2137.5576561 65.4976757 5100453
+4 Baltazar Ibanez, Diego	MEX 2001 M 1853.8051394 74.8718993 5120586
+5 Roque Sola, Maria Fernanda	MEX 2000 F 1656.1216626 71.3175564 5115833

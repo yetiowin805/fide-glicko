@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Rodsmoen, Maud	NOR 1997 1614.0475697 63.7254870 1510550
+2 Suntharalingam, Jarani	NOR 1997 1532.5373259 65.9208133 1509527

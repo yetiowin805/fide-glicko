@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Bania, Eleni	GRE 2003 1693.9401515 67.2115010 4291824
+2 Maniati, Konstantina	GRE 2009 1569.9757976 67.9413359 25858289

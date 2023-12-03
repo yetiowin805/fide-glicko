@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Adhikari, Kritisara	NEP 2003 1571.7223423 70.1556278 12315583
+2 Tamang, Marshal	NEP 2006 1364.5350244 74.4264014 12319910

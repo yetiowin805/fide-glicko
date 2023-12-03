@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Pichot, Alan	ARG 1998 M 2503.2652995 60.9327244 110973
+2 Gando, Ignacio	ARG 2004 M 1545.8514364 69.9047480 160857
+3 Lagares Rodriguez, Santiago Inak	ARG 2003 M 1430.8637727 70.0327926 149560
+4 Lagares Rodriguez, Eloy Emilio	ARG 2003 M 1416.1456171 74.9299516 149551

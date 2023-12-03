@@ -1,0 +1,7 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Cabezas Solano, David Alejandro	CRC 2004 M 1847.7953437 69.7660568 6507522
+2 Ramirez Madrid, Gerardo Alfonso	CRC 2002 M 1822.9829284 73.0970030 6505945
+3 Salazar Gould, Melanie	CRC 2003 F 1764.8993684 70.1060171 6505090
+4 Diaz Charpentier, Kristel Meliss	CRC 2004 F 1724.6622749 67.4881434 6511708
+5 Meza Vega, Jose Antonio	CRC 2004 M 1486.4750675 71.5275079 6513697
+6 Salazar Gould, Kristy Valeria	CRC 2008 F 1467.2071557 73.0164389 6511643

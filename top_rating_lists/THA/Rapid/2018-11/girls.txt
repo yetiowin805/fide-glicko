@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Prommuang, Araya	THA 2007 1706.4026991 74.9773820 6204996
+2 Singsomroj, Sornsawan	THA 2003 1599.9479818 69.8659731 6204767
+3 Mekarapiruk, Nathasha	THA 2009 1415.8883975 71.1912126 6208487

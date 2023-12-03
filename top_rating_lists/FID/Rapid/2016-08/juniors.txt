@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Nanthalathu, Ebin	FID 2002 M 1502.6073426 73.7299601 10301860
+2 Surya, Jaya	FID 2003 M 1401.8178819 69.4332661 11202920

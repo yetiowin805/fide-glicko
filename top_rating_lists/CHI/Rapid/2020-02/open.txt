@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rojas Keim, Luis	CHI 1975 M 2310.0638735 60.8992131 3400646
+2 Valenzuela Gomez, Fernando	CHI 1991 M 2288.4481401 50.7600653 3409392
+3 Hernandez Aguirre, Isaac	CHI 1982 M 2002.7457646 70.0875195 3410714

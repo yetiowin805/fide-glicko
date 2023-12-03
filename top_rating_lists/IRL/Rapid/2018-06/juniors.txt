@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Tarun Kanyamarala	IRL 2004 M 1963.2491635 71.8369845 45004714
+2 Trisha Kanyamarala	IRL 2005 F 1864.4670219 66.6212577 45004722

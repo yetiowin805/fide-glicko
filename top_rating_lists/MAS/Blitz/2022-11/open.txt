@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Poh, Yu Tian	MAS 2009 M 2019.1178227 73.3125790 5734088
+2 Wong, Damian Anthony	MAS 2001 M 1474.4205892 64.1954275 5782627

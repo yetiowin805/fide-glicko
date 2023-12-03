@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Skinke, Katrina	LAT 1991 2245.6640318 62.1460990 11602260
+2 Ni, Viktorija	LAT 1991 2145.1840693 57.5489509 11602252

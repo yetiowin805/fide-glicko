@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Chong, Chor Yuen	HKG 1958 M 1948.7174785 73.6381524 6000320
+2 Lee, T H Bryan	HKG 1995 M 1871.8992399 73.0268073 6000584

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Milligan, Helen	NZL 1962 1937.1068470 57.8047645 2401312
+2 Gao, Judy	NZL 1994 1760.0988813 68.4787787 4302257

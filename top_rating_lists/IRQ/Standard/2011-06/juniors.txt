@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Jwad, Waleed Aziz	IRQ 1991 M 1951.9031740 74.6195639 4802284
+2 Hayder Farhan Al- Hasnawi	IRQ 1992 M 1755.6936210 65.0632454 4803728
+3 kareen,K.Jalaluldeen	IRQ 1993 F 1644.1694875 67.6131935 4801776

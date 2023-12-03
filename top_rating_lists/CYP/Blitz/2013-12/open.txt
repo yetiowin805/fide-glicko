@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Klerides, Paris	CYP 1970 M 2181.3437916 72.9924642 5900158
+2 Constantinou, Pavlos	CYP 1982 M 1982.0296475 74.1702716 5900328
+3 Georgiou, Andreas	CYP 1973 M 1579.8726557 69.6890600 5900360

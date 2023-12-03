@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kurbonboeva, Sarvinoz	UZB 1994 F 2100.0380843 73.4062216 14201780
+2 Sattarov, Bobir	UZB 1995 M 2090.0066696 73.0898974 14203081

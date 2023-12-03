@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kovalev, Vladislav	BLR 1994 M 2514.7109014 55.3816564 13504398
+2 Badelka, Olga	BLR 2002 F 1759.0275697 71.8064218 13509926

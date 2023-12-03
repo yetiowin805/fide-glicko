@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Sipila, Vilka	FIN 1987 M 2329.8190271 67.6377927 505455
+2 Luukkonen, Tommi	FIN 1977 M 2242.8260316 73.3029148 501808

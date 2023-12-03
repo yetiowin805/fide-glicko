@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Krush, Irina	USA 1983 2442.5438291 64.2898501 2012782
+2 Nemcova, Katerina	USA 1990 2319.2969095 73.8373906 322750

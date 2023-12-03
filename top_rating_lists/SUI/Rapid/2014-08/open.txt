@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Milov, Vadim	SUI 1972 M 2626.4554553 71.5123407 1304364
+2 De Seroux, Camille	SUI 1993 F 1978.2182556 73.2407284 1305620

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Machlik, Monika	NOR 1997 1666.8782183 71.8180455 1513621
+2 Machlik, Edit	NOR 1997 1613.8376370 74.4608754 1513591

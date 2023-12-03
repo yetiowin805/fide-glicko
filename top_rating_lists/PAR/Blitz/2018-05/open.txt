@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Delgado Ramirez, Neuris	PAR 1981 M 2544.4441095 74.7430473 3503631
+2 Heinechen, John	PAR 1993 M 1978.2941897 74.7584813 3700976
+3 Cantero, Rodolfo	PAR 1999 M 1911.9967708 72.8443719 3703762

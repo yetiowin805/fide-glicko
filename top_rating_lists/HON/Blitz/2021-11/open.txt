@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Colindres, Daniel	HON 1960 M 1847.5310595 68.2176442 8400040
+2 Alonzo, Jose	HON 1993 M 1787.2366126 63.8733172 8402361
+3 Obregon Amador, Jose Francisco	HON 1985 M 1638.3436109 63.3826096 8400857

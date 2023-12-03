@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Madrigal, Ana Daniela	NCA 1990 1889.2255822 56.2541595 6101097
+2 Mendieta, Kathya	NCA 1994 1686.9860729 67.1654340 6101496

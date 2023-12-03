@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Madrigal, Mariano	NCA 1994 M 2038.4126278 56.4616367 6100961
+2 Mendieta, Kathya	NCA 1994 F 1686.9860729 70.7090111 6101496

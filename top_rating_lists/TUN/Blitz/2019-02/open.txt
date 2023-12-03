@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Njili, Kamel	TUN 1982 M 2162.0816185 57.5087807 5500869
+2 Boudriga, Mohamed Ali	TUN 1985 M 2151.4395487 74.1644835 5500460

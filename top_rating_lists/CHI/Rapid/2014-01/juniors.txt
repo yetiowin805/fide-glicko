@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Henriquez Villagra, Cristobal	CHI 1996 M 2105.6947204 73.6562522 3409350
+2 Squella Lavin, Carlos Felipe	CHI 1996 M 1767.4394223 74.6771963 3406792
+3 Aguirre Contreras, Cristian	CHI 1996 M 1661.3507179 73.0824651 3412776

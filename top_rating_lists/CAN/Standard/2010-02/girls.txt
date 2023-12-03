@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Yuan, Yuanling	CAN 1994 2154.0853983 73.0058859 8604541
+2 Kagramanov, Dalia	CAN 1993 1825.3325681 74.8661414 2604728
+3 Kalaydina, Regina Veronicka	CAN 1996 1632.6696571 73.6042009 2600129

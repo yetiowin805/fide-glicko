@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Lukac, Alina	FID 2005 1434.0864973 62.7229742 73001015
+2 Zagar, Kristina	FID 2006 1296.5717809 67.6882737 73009822

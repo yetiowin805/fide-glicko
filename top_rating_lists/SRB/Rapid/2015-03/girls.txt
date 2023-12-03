@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Injac, Teodora	SRB 2000 1675.1525544 71.6497422 932400
+2 Miljkovic, Jovana	SRB 1999 1639.1651592 61.3108180 958336
+3 Dimitrijevic, Andjela	SRB 2004 1310.3308118 72.3204795 970425

@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Flores Rios, Mauricio	CHI 1990 M 2430.8752206 63.1256065 3408027

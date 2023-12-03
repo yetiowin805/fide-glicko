@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Martinez, Ayelen	ARG 1993 2054.2818858 68.3369047 118702
+2 Besso, Guadalupe	ARG 1998 1837.1289230 65.4781342 123161

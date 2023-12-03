@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Vasquez Schroeder, Rodrigo	CHI 1969 M 2535.5828351 71.4258725 3400042
+2 Rojas Keim, Luis	CHI 1975 M 2276.5673680 73.0739158 3400646
+3 Valenzuela Gomez, Fernando	CHI 1991 M 2276.1242370 45.8107224 3409392

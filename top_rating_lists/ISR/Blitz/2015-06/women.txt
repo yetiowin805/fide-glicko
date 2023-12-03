@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Toporkova, Sofia	ISR 1999 1832.9826356 50.0267640 4169930
+2 Bejashvili, Irma	ISR 1967 1541.0171736 72.4841219 2810662

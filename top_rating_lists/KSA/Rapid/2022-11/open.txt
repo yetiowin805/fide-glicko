@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Al Abdali, Zeyad Saleh	KSA 1985 M 1766.6382946 66.5064855 21501505
+2 Bukhari, Mohammed	KSA 1959 M 1656.4521355 66.1484748 21502277

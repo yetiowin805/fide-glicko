@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Somasundram, Jayakumar	SRI 1951 M 1783.1481089 73.1945805 9900250
+2 Kuruppu, Supun Dasantha	SRI 1999 M 1677.8862075 74.4354496 9902805

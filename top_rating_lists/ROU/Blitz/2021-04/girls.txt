@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Badica, Ariana	ROU 2011 1452.8462111 73.2114779 1283820
+2 Calugareanu, Ioana-Denisa	ROU 2009 1422.3023733 65.7485235 1294032
+3 Gheorghe, Raisa-Maria	ROU 2009 1294.7394152 71.0923907 1265890

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Sang, Ricky	KEN 1983 M 1746.8745310 70.6977682 10802185
+2 Juma, Maxwell	KEN 1993 M 1641.3895978 74.4661496 10802983

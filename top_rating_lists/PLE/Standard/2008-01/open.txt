@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Sammour-Hasbun, Jorge E.	PLE 1979 M 2460.0000000 56.8623103 5300363
+2 Ermenkov, Evgenij	PLE 1949 M 2450.3074014 45.3633437 2900106

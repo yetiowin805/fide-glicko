@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Meza, Anahi	ARG 1985 1794.4574649 71.8171277 111325
+2 Scarsi, Anna Laura	ARG 2006 1478.1058669 51.2995200 159328

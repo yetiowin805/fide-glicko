@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Lahav, Michal	ISR 1999 1966.0373779 47.6718816 2813742
+2 Reprun, Nadejda	ISR 1970 1686.6342517 73.8615939 2806843

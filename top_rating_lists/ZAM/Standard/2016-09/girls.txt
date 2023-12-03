@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Lubuuto Bwalya Mulwale	ZAM 2001 1466.6979117 69.5192152 8706964
+2 Banda Maria	ZAM 2003 1358.5836526 74.5614224 8705755

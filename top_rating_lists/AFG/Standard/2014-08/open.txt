@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Asefi, Zaheeruddeen	AFG 1965 M 1879.1956618 60.1274485 11700025
+2 Noor, Jan	AFG 0000 M 1535.6448727 61.5273304 11700882

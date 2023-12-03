@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Hernandez, Roberto	PLW 1956 M 1706.6043788 73.9449117 16600010
+2 Balbalosa, Jeffrey	PLW 1979 M 1685.1721163 72.9290310 16600240

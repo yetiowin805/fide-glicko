@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Grobbelaar, Jacqui	RSA 1994 1623.2186476 72.5780174 14307650
+2 Strong, Davida	RSA 2008 1458.7466981 70.3994703 14333082

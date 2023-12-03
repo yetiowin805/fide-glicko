@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Vavrinkova, Anna	CZE 2004 1616.4050035 74.0109398 372080
+2 Kralova, Gabriela	CZE 2002 1608.4946346 72.7923546 23706570

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Nepali, Badrilal	NEP 1964 M 1985.2403043 73.0961108 12300020
+2 Thapa, Krishna	NEP 1975 M 1967.4121959 72.9086654 12300217

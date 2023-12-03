@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Skigelstrand, Live Jorgensen	NOR 2004 1624.2679285 73.6831537 1528874
+2 Young, Anna Ovidia	NOR 2008 1365.4083609 71.0877795 1539949

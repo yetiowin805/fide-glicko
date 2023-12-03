@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Bravo Mallco, Kate Azumi	PER 2007 1889.0761208 74.8668230 3836509
+2 Vega Paucar, Emely Bachellet	PER 2006 1801.4834728 71.3651513 3836550
+3 Garcia Andrada, Heidy Nicole	PER 2004 1777.0740278 69.5649438 3831779
+4 Rojas Salas, Rihanna Irina	PER 2012 1313.9238098 72.7218697 3839850

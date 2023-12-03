@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 KHASCHULUU, Sergelenbaatar	MGL 2006 M 1553.4685772 74.5689389 4920929
+2 Tsogt-Erdene, Bayarjavkhlan	MGL 2009 M 1490.1662305 61.5465370 4922255

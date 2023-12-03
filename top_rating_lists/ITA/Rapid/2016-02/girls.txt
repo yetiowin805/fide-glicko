@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Lazzarini, Sabrina	ITA 1997 1800.5592376 74.4142846 871630
+2 Vecchione, Anna Pia	ITA 2001 1783.0562247 57.3188580 2804706
+3 Picchi, Darina Francesca	ITA 1997 1627.8332967 71.8340498 880329

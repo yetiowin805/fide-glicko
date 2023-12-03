@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Akyuz, Muhammet	TUR 1995 M 1747.8491372 71.8015669 6349439
+2 Coban, Suleyman	TUR 1996 M 1601.5351165 65.1532978 6375413

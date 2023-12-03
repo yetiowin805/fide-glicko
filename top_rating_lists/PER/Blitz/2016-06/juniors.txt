@@ -1,0 +1,7 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Escalante Ramirez, Brian Sebasti	PER 1999 M 2007.9743020 74.8872140 3819566
+2 Puppi Lazo, Jorge Luis	PER 1996 M 1944.7759775 74.8828755 3807363
+3 Landa Medrano, Gabriel	PER 2003 M 1800.3916525 73.4482357 3819809
+4 Rengifo Blancas, Renzo Jhonathan	PER 2000 M 1794.8347921 71.4605038 3807185
+5 Correa Atucsa, Breinerrosiel	PER 1999 M 1770.8540248 72.3606434 3822346
+6 Flores Quillas, Diego Saul Rodri	PER 2006 M 1662.6127313 73.5265658 3822508

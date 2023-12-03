@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ivanov, Elizabeth	ENG 2001 1511.1946759 73.7297033 427284
+2 Boztas, Lana	ENG 1947 1476.9058329 62.3454510 422002

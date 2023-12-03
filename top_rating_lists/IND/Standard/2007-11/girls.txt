@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Koneru, Humpy	IND 1987 2618.3062793 48.8004662 5008123
+2 Harika, Dronavalli	IND 1991 2474.4557616 46.2843819 5015197

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Al Maamari, Wafia Darwish	UAE 2003 1497.6623768 65.7364665 9305734
+2 Al-Moaamari, Mozah	UAE 1999 1454.6689439 68.3069081 9307010
+3 Alshamsi , Amal Fadel	UAE 2003 1323.3690692 70.9065442 9309527

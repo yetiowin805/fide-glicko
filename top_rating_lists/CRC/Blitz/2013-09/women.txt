@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Hernandez Alvarez, Tania Regla	CRC 1963 1839.5684730 74.0113462 3501442
+2 Gamboa Alvarado, Olga Leticia	CRC 0000 1806.3205860 54.5910790 6502270
+3 Acevedo Mendez, Lisseth	CRC 1993 1784.5412222 68.5107404 6502938
+4 Salas Torres, Pamela	CRC 0000 1692.3416572 70.3273650 6505716

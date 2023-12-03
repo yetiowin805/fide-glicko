@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rizvi, Nasir	WLS 1977 M 1893.9539415 50.9836931 1800540
+2 Rizzi, Volfango	WLS 1972 M 1693.7489001 69.9154306 851310

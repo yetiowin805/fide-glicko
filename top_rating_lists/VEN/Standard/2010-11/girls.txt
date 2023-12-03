@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Gutierrez, Leonela	VEN 1992 1961.3975629 50.4394673 3900401
+2 Herrera Sosa, Jessica	VEN 1993 1899.7556246 60.2267660 3900479
+3 Rincon Gonzalez, Liliam Esther	VEN 1994 1865.1899750 62.3637169 3901963
+4 Aponte, Oriana Isabel	VEN 1997 1629.3891316 73.5611231 3902439

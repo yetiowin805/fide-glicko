@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Granda Zuniga, Julio E	PER 1967 M 2666.5092138 72.7883325 3800024
+2 Caballero Quijano, Mitzy Mishell	PER 2001 F 1799.5578159 70.5294338 3807223
+3 Barrera Ricra, Victor Hugo	PER 1971 M 1761.7387057 72.9437887 3811611
+4 Egoavil Jump, Giannfranco	PER 1979 M 1700.7872154 74.7530036 3811000
+5 Vergara Pastor, Jorge Luis Braul	PER 1999 M 1446.1921401 74.8910761 3816869

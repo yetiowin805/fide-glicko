@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Yang Robert Michael	HKG 2000 M 1891.5523338 67.3770955 6002072
+2 Masters, Christopher	HKG 1995 M 1810.9610051 68.5322300 6000681

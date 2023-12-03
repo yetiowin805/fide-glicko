@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mendez, Andre	PAN 2008 M 1713.4321240 72.8043021 6603793
+2 Vasquez Jaen, Lourdes Lorena	PAN 2003 F 1594.8429577 56.3198636 6605559
+3 Alvarez Chang, Claudia Mercedes	PAN 2004 F 1560.7764869 68.6372210 6604374

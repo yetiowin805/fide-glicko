@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kulpruthanon, Thanadon	THA 1994 M 1836.2167339 70.3341065 6201610
+2 Wiwarin, Piyapon	THA 1991 M 1748.7982751 74.7495921 6201075
+3 Tachaplalert, Suvich	THA 1997 M 1624.6178520 71.4660161 6201652

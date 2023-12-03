@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Amoko, Ivy Claire	UGA 1987 1761.1622576 73.4777743 10000291
+2 Mutesi, Phiona	UGA 1993 1610.7531583 72.6129780 10000399

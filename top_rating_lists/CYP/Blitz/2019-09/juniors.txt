@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Michaelides, Konstantinos	CYP 2002 M 2113.3790088 68.8849319 5901871
+2 Lavrishchev, Matvei	CYP 2010 M 1338.9613044 61.0611739 34390146

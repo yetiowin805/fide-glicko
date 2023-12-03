@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Carlsen, Magnus	NOR 1990 M 2723.3993121 42.8474144 1503014
+2 Hammer, Jon Ludvig	NOR 1990 M 2447.4910483 45.6058732 1503707

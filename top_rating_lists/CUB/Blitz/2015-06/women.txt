@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Hernandez Moya, Yuleisy	CUB 1992 2091.1568106 62.2611975 3511685
+2 Gonzalez Ochoa, Yoana	CUB 1992 1942.0646426 70.4392345 3507629
+3 Rodriguez Caballero, Mayrelis	CUB 1996 1831.0772005 72.6061275 3514072
+4 Pages Roman, Seidy	CUB 1989 1709.1018084 63.7208440 3510107

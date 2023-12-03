@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rojas Keim, Luis	CHI 1975 M 2435.0297965 49.5452457 3400646
+2 Flores Rios, Mauricio	CHI 1990 M 2430.8752206 63.1256065 3408027
+3 Barria Zuniga, Daniel	CHI 1974 M 2424.5271355 62.1550463 3400816

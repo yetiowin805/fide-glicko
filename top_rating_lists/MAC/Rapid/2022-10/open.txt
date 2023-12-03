@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Li, Hui	MAC 1993 M 1981.2024429 56.5927841 15400310

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Mihailova, Alina	MDA 2004 1872.1810606 72.5733756 13907018
+2 Bargan, Victoria	MDA 2007 1764.4907725 67.1554344 13908197

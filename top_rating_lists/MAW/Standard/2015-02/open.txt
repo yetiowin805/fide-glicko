@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mwale Joseph	MAW 1993 M 1922.1537790 69.2118192 16400135
+2 Chipanga, Chiletso	MAW 1987 M 1843.6334239 66.4324603 16400119

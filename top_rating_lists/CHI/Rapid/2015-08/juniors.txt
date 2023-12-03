@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Squella Lavin, Carlos Felipe	CHI 1996 M 1840.4269372 74.5251959 3406792
+2 Aguirre Contreras, Cristian	CHI 1996 M 1828.7421081 73.5978074 3412776
+3 Estrada Lavin, Cristian Alexand	CHI 1999 M 1702.2479269 69.6581347 3411710

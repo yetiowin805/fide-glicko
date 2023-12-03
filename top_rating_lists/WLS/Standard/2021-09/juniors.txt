@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Davies, Milo	WLS 2007 M 1477.8935326 70.6165499 1804871
+2 Davies, Tom	WLS 2009 M 1471.9423263 70.3349722 1804880

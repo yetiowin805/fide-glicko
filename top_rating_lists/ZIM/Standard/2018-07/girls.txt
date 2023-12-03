@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Shaba, Linda	ZIM 1998 1566.3458733 74.0633906 11001631
+2 Mawire, Rumbidzai	ZIM 2005 1501.5729601 64.2626730 14317940

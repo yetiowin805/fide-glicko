@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Froewis, Annika	AUT 1994 2020.9801758 72.8760182 1621432
+2 Bauer, Valentina	AUT 1995 1702.2736318 74.0174714 1616935

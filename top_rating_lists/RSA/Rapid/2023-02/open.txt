@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Basson, Heinrich	RSA 1990 M 1790.5649951 62.5195147 14301440
+2 Leslie-Smith, Lance	RSA 2002 M 1627.3949619 73.6506362 14326906

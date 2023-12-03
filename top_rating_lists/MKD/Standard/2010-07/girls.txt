@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Stojkovska, Monika	MKD 1993 1850.5216531 69.7431708 15002594
+2 Nikolovska, Dragana	MKD 1996 1652.1412918 67.4823752 15000133

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Berezovsky, Fiorina	MNC 2007 1549.6730473 52.4185863 5400651
+2 Dinoni Attali, Myriam	MNC 2010 1205.8893135 71.5007708 5400996

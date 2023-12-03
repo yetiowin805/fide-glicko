@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Diaz Cesar, Wilsaida Pieranlly	DOM 1991 F 1532.1657251 74.9999789 6403557
+2 Villar Acevedo, Darlin Rocio	DOM 1996 F 1519.4021110 72.4032712 6405053

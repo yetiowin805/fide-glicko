@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Lamard, Guillaume	FRA 1997 M 2296.2986283 74.5067516 600261

@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Aranaz Murillo, Amalia	ESP 1995 F 2178.1300552 74.1800997 22200371
+2 Villasenor Rubio, Emilio Jose	ESP 1995 M 2096.0734188 70.9002944 22237470
+3 Buendia Pinar, Alvaro	ESP 1997 M 2027.7270421 71.6083668 2281937
+4 Villasenor Rubio, Rosana	ESP 1998 F 1529.8442065 74.7043335 22243330

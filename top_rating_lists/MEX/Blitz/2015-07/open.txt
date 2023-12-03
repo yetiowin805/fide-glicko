@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Benitez Lozano, Javier	MEX 1993 M 2198.8594903 72.0124984 5102472
+2 Vega Garcia, Jorge Arturo	MEX 1960 M 2043.7172782 73.8139356 5100453
+3 Ramirez Garcia, Jorge Alberto	MEX 1983 M 2000.1631267 73.7515544 5108101

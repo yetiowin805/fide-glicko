@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Meisch, Tanguy	LUX 1996 M 1759.9873305 73.9241903 4002407
+2 Biryukov, Alice	LUX 1998 F 1721.6796206 66.8005878 4002440

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Galera Serra, Maria	AND 1998 1415.4135606 72.0459066 6900283
+2 Da Rocha Soares, Diana	AND 1996 1397.6016652 70.7940452 22268820

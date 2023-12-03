@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Maltsevskaya, Aleksandra	FID 2002 2255.8813563 45.5244930 24174041
+2 Dordzhieva, Dinara	FID 1999 2182.9345025 62.1852897 24157570

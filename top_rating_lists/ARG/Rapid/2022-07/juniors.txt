@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Zanel, Laureano	ARG 2010 M 1649.6865463 74.3371942 196878
+2 Adam, Ernestina	ARG 2009 F 1563.3866254 74.5510020 165883

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Fawaz, Nadia	LBN 2010 1657.5573229 67.3049544 5309743
+2 Ayoub, Auriane	LBN 2011 1487.8064892 54.0369763 5305233

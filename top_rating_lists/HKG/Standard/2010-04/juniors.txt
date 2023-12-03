@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Lee, T H Bryan	HKG 1995 M 1856.0241988 74.7880858 6000584
+2 Masters, Christopher	HKG 1995 M 1653.2884731 70.5382835 6000681

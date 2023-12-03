@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Vasquez Jaen, Lourdes Lorena	PAN 2003 1439.8163979 69.1926641 6605559
+2 Alvarez, Claudia	PAN 2004 1373.9442339 70.2140478 6604374

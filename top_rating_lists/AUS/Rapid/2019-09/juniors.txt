@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Li, Yuze	AUS 2006 M 1526.7167533 73.8213862 3232930
+2 Anup Kumar, Vihaan	AUS 2010 M 1368.8131784 70.6771922 3234517

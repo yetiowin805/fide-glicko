@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Santa Torres, Juan	PUR 1963 M 2205.1274307 70.7189440 3100120
+2 Santana-Alvarado, Miguel	PUR  M 2203.1517215 71.0814912 3101282
+3 Bermudez Adams, William	PUR  M 2128.6888677 64.4451467 3100251
+4 Rivera, Edwardo	PUR 1992 M 2066.1220964 72.5758897 3100464

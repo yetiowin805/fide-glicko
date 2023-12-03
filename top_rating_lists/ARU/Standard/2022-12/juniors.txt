@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Stetsenko, Ilya	ARU 2004 M 1738.3069489 74.0335560 15900762
+2 Sagastegui, Thamara	ARU 2006 F 1542.0284194 70.0475979 15900770

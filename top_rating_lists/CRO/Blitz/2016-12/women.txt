@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Mican, Karmela	CRO 2000 1686.4033588 69.3245277 14541270
+2 Radikovic, Anamarija	CRO 2003 1620.7314690 66.1477743 14546264

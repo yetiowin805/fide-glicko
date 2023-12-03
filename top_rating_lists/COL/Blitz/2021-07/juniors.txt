@@ -1,0 +1,7 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Londono Lopez, Donaldo	COL 2003 M 1740.5128392 72.2194648 4462009
+2 Echeverry Betancur, Jorge Andres	COL 2004 M 1687.4414875 74.2216766 4474562
+3 Rativa Jimenez, Cesar Daniel	COL 2001 M 1682.6652833 72.7477308 4437349
+4 Hernandez Bermudez, Manuela	COL 2004 F 1658.8076422 64.7819224 4483103
+5 Rojas Castillo, Leibnitz Edison	COL 2004 M 1603.0161799 71.2178392 4430611
+6 Rativa Jimenez, Laura Milena	COL 2001 F 1549.5695389 69.1193877 4437357

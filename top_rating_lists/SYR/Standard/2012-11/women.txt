@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Algildah, Nibal	SYR 1987 1759.0724718 73.8029645 7600950
+2 Al-Hamoud, Sham	SYR 2001 1448.2418854 58.5738257 7604157

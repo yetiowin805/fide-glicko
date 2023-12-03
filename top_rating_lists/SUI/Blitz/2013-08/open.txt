@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Grandadam, Patrik	SUI 1996 M 2248.9157631 74.1012881 682438
+2 Rindlisbacher, Lars	SUI 1996 M 2207.8218863 73.1299790 1304178

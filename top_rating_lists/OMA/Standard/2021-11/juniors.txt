@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Al Zadjali, Abdul Rahman	OMA 2006 M 1688.8032749 70.0822423 22008144
+2 Al Busaidi, Hamood	OMA 2005 M 1679.3016734 67.7357603 22006230

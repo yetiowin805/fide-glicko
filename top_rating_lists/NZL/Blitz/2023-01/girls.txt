@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Gan, Emily Cathay	NZL 2010 1716.3398070 72.1349533 4310608
+2 Thurner, Anya	NZL 2008 1675.2795691 72.2932178 4307780

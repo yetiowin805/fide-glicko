@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Vojinovic, Jovana	MNE 1992 2340.4657202 53.1687522 937266
+2 Misovic, Sanja	MNE 1991 1936.3686984 66.1435623 900575

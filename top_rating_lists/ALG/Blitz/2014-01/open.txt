@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Haddouche, Mohamed	ALG 1984 M 2376.7138855 63.1384016 7900660
+2 Mezioud, Amina	ALG 1988 F 1909.0200925 72.1313299 7900970

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Gumpo, Thabo	BOT 1990 M 1846.2277080 71.6924485 11300353
+2 Letshwenyo, Onkgopotse	BOT 1990 M 1632.6872983 73.8894337 11300884

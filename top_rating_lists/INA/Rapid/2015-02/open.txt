@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Sukandar, Irine Kharisma	INA 1992 F 2364.8899053 74.6559342 7101937
+2 Limono, Handjojo	INA 1963 M 1723.3213045 67.6542112 7102909

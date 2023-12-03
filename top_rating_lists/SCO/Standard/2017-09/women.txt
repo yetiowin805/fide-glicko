@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Arakhamia-Grant, Ketevan	SCO 1968 2294.0597093 49.8508985 13600168
+2 Giulian, Rosemary A	SCO 1964 1762.5213773 65.2150689 2400375
+3 Smith, Rachel Lorna	SCO 2002 1467.4258326 64.2750047 2405520

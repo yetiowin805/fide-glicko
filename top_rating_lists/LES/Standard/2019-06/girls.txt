@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Malillo, Phera	LES 2005 1516.5660787 54.7806878 21300763
+2 Malehloa, Likhomo	LES 1999 1487.0328574 55.7296120 21301255

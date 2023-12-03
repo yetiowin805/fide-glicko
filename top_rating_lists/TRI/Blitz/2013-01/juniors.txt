@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Singh, Vishnu	TRI 1995 M 1847.3432225 68.6107582 7700946
+2 Smith, Javanna	TRI 1997 F 1476.4868576 68.7338341 7700466

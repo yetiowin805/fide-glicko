@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Nyback, Tomi	FIN 1985 M 2564.8464399 73.2442410 503142

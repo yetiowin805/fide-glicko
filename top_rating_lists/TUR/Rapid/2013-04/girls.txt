@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ozturk, Hilal	TUR 1997 1737.0074645 71.6292559 6315330
+2 Alev, Gonulden Seda	TUR 1995 1611.5470431 74.6067529 6301428

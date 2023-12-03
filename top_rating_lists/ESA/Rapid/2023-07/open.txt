@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Giron, Jorge Ernesto	ESA 1997 M 2162.7057460 73.0819354 6702309
+2 Arias, Lemnys A.	ESA 1978 M 2153.5410429 74.1095822 6700284

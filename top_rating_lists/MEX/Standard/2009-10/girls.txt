@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Rating RD
+1 Mendoza Velazquez, Lorena Alejan	MEX 1994 1934.9534501 60.2442780 5101794
+2 Esquivel De Leon, Aurora	MEX 1990 1923.1291770 62.8835989 5110432
+3 Gutierrez Mancillas, Alicia Abig	MEX 1990 1917.8335232 74.7055545 5108926
+4 Real Pereyra, Diana Carime	MEX 1995 1869.1454322 70.4770458 5104106
+5 De La Parra Hurtado, Daniela	MEX 1993 1763.4108066 69.4427325 5107369

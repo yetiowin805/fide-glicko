@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Jacimovic, Sara	BIH 1997 1845.9998374 70.5394452 14403668
+2 Mahmutbegovic, Nadina	BIH 1995 1577.5257122 73.7384298 14401550

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kasipour Azbari, Seyed Arvin	SUI 2006 M 1841.3570951 72.4803140 22501657
+2 Avilova, Yulia	SUI 2004 F 1608.8170316 71.0889643 34166073

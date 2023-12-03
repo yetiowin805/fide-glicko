@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Matnadze, Ana	ESP 1983 2432.0557809 73.5946280 13601377
+2 Nieto Rego, Ana	ESP 2004 1510.5528208 59.6244406 24537330

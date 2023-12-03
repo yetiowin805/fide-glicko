@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Diaz Leon, Richard Josue	MEX 1977 M 1938.4141509 61.1178081 5104696
+2 Avila Miguel, David	MEX 1991 M 1916.9840753 74.5852099 5117291
+3 Diaz Espinoza, Axel Alberto	MEX 2001 M 1717.2003713 74.3541933 5128722
+4 Mendieta, Gallegos Diego Armando	MEX 2004 M 1553.3051885 73.3279683 5159580

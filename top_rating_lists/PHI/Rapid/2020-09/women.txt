@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 San Diego, Jerlyn Mae	PHI 2005 1792.2230182 73.5848576 5213401
+2 Racasa, Antonella Berthe	PHI 2007 1591.2086368 72.2914945 5226171
+3 Cuizon, Richily Evans	PHI 2008 1406.0652465 73.4974215 5230306

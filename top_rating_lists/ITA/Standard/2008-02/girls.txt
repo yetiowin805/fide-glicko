@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Messina, Roberta	ITA 1993 1869.8589796 70.7894391 819018
+2 Chiarion, Elisa	ITA 1995 1730.6203440 71.2113904 828653

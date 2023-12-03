@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Do Valle Cardoso, Lucas	BRA 2002 M 2281.5500826 67.8949450 2163144
+2 Haraguchi, Diego Sashaki	BRA 2008 M 1808.7748817 69.7026662 22729925
+3 De Carvalho, Vitor Augusto Ponciano	BRA 2008 M 1587.1899179 72.7281476 22768556
+4 Haraguchi, Matheus Sashaki	BRA 2006 M 1583.4551460 74.3060104 22729933

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Alattar, Ghayda M.	JOR 1991 1919.5105886 72.4033291 8101531
+2 Dahdal, Lougain	JOR 1990 1715.6633058 70.3020294 8102880

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Ortez, Andrea	ESA 2001 1801.5567196 71.7622064 6702392
+2 Perez, Damaris Nicole	ESA 2005 1637.6429439 74.1992460 6705324
+3 Barahona, Dalila Yamileth	ESA 2005 1617.3327781 73.2220988 6705740

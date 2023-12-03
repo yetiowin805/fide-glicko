@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Dominguez Perez, Leinier	CUB 1983 M 2731.6481769 73.9723901 3503240
+2 Martinez Duany, Lelys Stanley	CUB 1985 M 2542.8640569 65.9178879 3504727
+3 Hevia Alejano, Carlos Antonio	CUB 1991 M 2398.9623014 63.5084307 3508811
+4 Fernandez Guillen, Ernesto J.	CUB 1994 M 2121.4853945 74.3754154 3512428

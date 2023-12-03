@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Shriyan santosh Priyasha	MAW 2006 F 1664.4080741 63.5415737 20505353
+2 Dutt Lakshita	MAW 2008 F 1555.1091396 60.8483960 20505329

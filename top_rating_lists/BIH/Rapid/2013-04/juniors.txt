@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kadric, Denis	BIH 1995 M 2323.9496646 73.5691560 14403803
+2 Marjanovic, Dejan	BIH 1996 M 2124.6633899 71.3594975 14402661

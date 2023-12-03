@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Al-Zendani, Zendan	YEM 1982 M 2335.4889746 69.4927761 9400249
+2 Al-Hadarani, Hatim	YEM 1959 M 2217.7706477 68.9172719 9400273
+3 Abdulsalam, Nadhmia	YEM 1975 F 1556.4831846 73.3276769 9400877

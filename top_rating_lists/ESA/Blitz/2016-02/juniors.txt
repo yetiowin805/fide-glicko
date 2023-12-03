@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Arias, Daniel	ESA 1997 M 1993.4405781 74.2900050 6700640
+2 Garcia Mendez, Alcira Guadalupe	ESA 1998 F 1557.1306584 68.5073686 6702945
+3 De Leon, Stephanie	ESA 2000 F 1554.3519312 67.6028094 6703127

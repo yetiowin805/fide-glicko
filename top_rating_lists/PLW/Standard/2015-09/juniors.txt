@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Sisior, Destiny	PLW 2004 F 1514.0255861 67.0482031 16600444
+2 Sisior, Angelil	PLW 2003 F 1474.6598473 66.4917256 16600436

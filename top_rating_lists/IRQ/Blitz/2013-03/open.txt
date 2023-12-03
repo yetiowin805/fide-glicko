@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Al-Ali, Hussein Ali Hussein	IRQ 1968 M 2258.4531283 70.2703972 4800192
+2 Ismael, Namir Mohammed Ismael	IRQ 1971 M 2163.9679360 71.0134968 4800800
+3 Abdulwahhab, Ahmed Abdulsattar A	IRQ 1975 M 2163.1973320 68.1444439 4801849

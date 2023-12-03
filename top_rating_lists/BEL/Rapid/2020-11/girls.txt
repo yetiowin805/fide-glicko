@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Vanduyfhuys, Daria	BEL 2003 1837.8044450 71.8022773 246336
+2 Navez, Alice	BEL 2005 1566.0132925 73.1610559 252336

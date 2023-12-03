@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Galvan Cipriani, Viviana	ESP 2004 1936.4657514 64.8638017 32041144
+2 Nieto Rego, Ana	ESP 2004 1603.2507500 64.8620074 24537330

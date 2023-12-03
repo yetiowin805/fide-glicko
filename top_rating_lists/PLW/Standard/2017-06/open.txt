@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Hernandez, Roberto	PLW 1956 M 1689.9103418 74.4608437 16600010
+2 Cabunagan, Tito	PLW 1959 M 1644.7260429 71.6496979 16600169

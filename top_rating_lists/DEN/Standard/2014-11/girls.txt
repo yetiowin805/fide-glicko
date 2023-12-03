@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Vangsgaard, Freja	DEN 1998 1693.6027899 44.9574312 1436589
+2 Kakulidis, Ellen	DEN 1997 1591.0952944 56.1615467 1444972
+3 Nilssen, Ellen Fredericia	DEN 2001 1563.4304561 53.6338404 1441230

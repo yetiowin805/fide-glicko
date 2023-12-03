@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Keinanen, Toivo	FIN 2002 M 2469.6409787 68.8193975 509825
+2 Polkki, Eino	FIN 2006 M 1840.4633511 73.5474123 515779

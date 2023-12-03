@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Galera Serra, Maria	AND 1998 F 1443.6593116 74.6915076 6900283

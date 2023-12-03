@@ -1,0 +1,12 @@
+Rank Name Federation BirthYear Rating RD
+1 Varela La Madrid, Tilsia Carolina	VEN 1994 1950.2818840 73.9254590 3903001
+2 Perez Hernandez, Vicmary C.	VEN 2005 1721.0903031 72.4602424 3930831
+3 Pena Gonzalez, Clara Isabel	VEN 2004 1689.7367413 71.2929507 3924203
+4 Vargas Ortiz, Grecia Valentina	VEN 2003 1636.6756552 72.9322888 3941990
+5 Ubertin Gomez, Katherin Rossmary	VEN 2002 1610.2703156 70.3932831 3916391
+6 Guadalajara Barrios, Jacksilany	VEN 2006 1513.0120031 74.6251613 3931242
+7 Marin Murguey, Valentina Jatniel	VEN 2005 1377.6651791 74.9723921 3955478
+8 Hernandez Mora, Nohelia Virginia	VEN 2005 1336.4707027 73.1770760 3915344
+9 Quijada Delgado, Eliana Paola	VEN 2005 1293.0857213 72.8065755 3955494
+10 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1179.4359290 72.6455704 3964051
+11 Cabeza Marquez, Mariangel Alejandra	VEN 2007 1144.6124989 73.1531894 3934527

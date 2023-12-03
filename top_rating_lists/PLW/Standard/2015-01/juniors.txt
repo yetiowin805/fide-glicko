@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Whipps, Ksau Anthony Flores	PLW 2001 M 1622.2336652 72.0919029 16600320
+2 Sisior, Destiny	PLW 2004 F 1567.2704020 74.2294391 16600444

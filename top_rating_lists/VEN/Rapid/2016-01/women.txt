@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Rating RD
+1 Aponte, Oriana Isabel	VEN 1997 1800.3727657 63.4942355 3902439
+2 Calvete Gimenez, Johaslyn Aymer	VEN 1995 1707.2184696 69.5974289 3905578
+3 Duran Reina, Luisa Elena	VEN 1982 1703.7981459 67.8836355 3900940
+4 Yepez Moreno, Juliet Carolina	VEN 2001 1657.5640332 71.5614191 3905438
+5 Manaure Rodriguez, Cristina	VEN 1999 1308.2155053 74.4828004 3915557

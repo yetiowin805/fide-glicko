@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Vargas, Gabriela	PAR 1988 2082.4148326 60.1208885 3700860
+2 Alderete, Jazmin	PAR 1991 1480.5037596 69.1814887 3701697

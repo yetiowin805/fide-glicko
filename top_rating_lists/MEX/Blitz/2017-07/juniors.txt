@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Roque Sola, Jose Luis	MEX 1999 M 1915.4712796 74.8789041 5120390
+2 Luna Javier, Edgar Froylan	MEX 2001 M 1867.7339860 72.8744165 5120101
+3 Roque Sola, Maria Fernanda	MEX 2000 F 1634.6444684 71.4004791 5115833
+4 Velazquez Quirarte, Santiago	MEX 2006 M 1392.4994937 68.3723623 5124859

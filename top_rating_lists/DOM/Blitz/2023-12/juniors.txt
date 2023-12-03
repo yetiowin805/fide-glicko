@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mesa Cruz, Juan Carlos	DOM 2003 M 1966.8840394 59.1778206 6423400
+2 Lara Santos, Angel Sebastian	DOM 2012 M 1669.4129663 72.4149883 6430910
+3 Polanco Fernandez, Sahiean	DOM 2011 M 1662.9195513 70.5061845 6425240
+4 Polanco Fernandez, Reynie	DOM 2009 M 1592.8234054 69.7234053 6424821
+5 Fondeur Fernandez, Adrian Francisco	DOM 2003 M 1577.2763061 70.8243637 6426271

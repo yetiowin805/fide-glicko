@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Allan, Brian	SCO 1934 M 1635.1656094 72.4957565 2402050
+2 Torrance, John	SCO 1946 M 1517.0295043 74.3737291 418099

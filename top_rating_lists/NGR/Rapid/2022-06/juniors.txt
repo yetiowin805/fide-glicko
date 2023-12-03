@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Afolabi Emmanuel	NGR 2004 M 1683.3553047 71.9573162 8511470

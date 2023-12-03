@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rojas Salas, Steven	PER 2004 M 1949.3813126 69.9942948 3819434
+2 Reyes Zavaleta, Fabian Ricardo	PER 2006 M 1665.0368234 74.8389298 3844153
+3 Reyes Zavaleta, Diego Alexander	PER 2005 M 1622.1876921 74.7300632 3844145

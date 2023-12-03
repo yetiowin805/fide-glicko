@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 De Seroux, Camille	SUI 1993 2006.5373244 71.0660184 1305620
+2 Stoeri, Laura	SUI 1996 1892.2543883 58.9407726 1304313

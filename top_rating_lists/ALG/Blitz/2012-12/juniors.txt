@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Nassr, Ali	ALG 1996 M 1947.2271471 72.9448882 7900520

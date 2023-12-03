@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Szente Varga, Fruzsina	HUN 1996 1893.0617264 73.0960221 712264
+2 Majoros, Rozsa Evelin	HUN 2004 1825.3220680 70.4151968 767310

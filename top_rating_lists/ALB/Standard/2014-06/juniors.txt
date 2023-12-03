@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mirimanian, Hayk	ALB 1996 M 2140.1750924 53.8389305 4700180
+2 Tuzi, Bruna	ALB 1995 F 1757.3767725 65.4970948 4701100

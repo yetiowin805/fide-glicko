@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Nabeel, Aziz youkhana	IRQ 1976 M 1879.3737409 71.9832127 4806980
+2 Abdullah , Layth Ahmed	IRQ 1991 M 1777.0444712 72.2004348 4812433
+3 Dlsoz Omer Sedeeq	IRQ 1972 M 1701.0430416 74.5291973 4805780

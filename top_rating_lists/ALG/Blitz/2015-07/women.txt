@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Latreche, Sabrina	ALG 1993 1905.3479239 71.1206187 7901798
+2 Hamza, Amira	ALG 1991 1783.4896216 74.0971351 7901160

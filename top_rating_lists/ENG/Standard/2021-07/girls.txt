@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Karas, Eugenia	ENG 2008 1504.3751865 70.9292405 463485
+2 Chaban, Roxolana	ENG 2008 1398.8160582 73.4939476 465380

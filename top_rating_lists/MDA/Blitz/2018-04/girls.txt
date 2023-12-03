@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Verbin, Valentina	MDA 2002 1715.6245020 68.2797352 13905910
+2 Mihailova, Alina	MDA 2004 1605.3600742 73.5932524 13907018

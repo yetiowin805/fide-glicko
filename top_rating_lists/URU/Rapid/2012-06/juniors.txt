@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Arcos Facio, Mateo	URU 1992 M 2085.0131740 73.8133933 3001199
+2 Coppola, Claudio	URU 1992 M 1993.0168075 70.3633978 3001717

@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Banat, Rizlene	ALG 1998 F 1594.3738937 59.1565684 602825

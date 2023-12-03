@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Fernandes, Beatriz	BRA 2009 1520.8076507 73.4286407 22744193
+2 Soares, Suyane	BRA 2005 1509.0399677 68.2174665 22728600

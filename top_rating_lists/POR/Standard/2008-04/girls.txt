@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Pintor, Ariana	POR 1988 2275.9523617 69.8076848 1902806
+2 Ribau, Nidia Salvador	POR 1995 1544.8259877 67.7536959 1908855
+3 Vieira, Albina Isabel Dos Santo	POR 1994 1418.1677948 66.7042094 1900340

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Varga, Klara	HUN 1994 2216.1543415 68.0152568 733210
+2 Gal, Hanna Krisztina	HUN 1998 1973.2848698 60.3991142 711861
+3 Marjanovics, Annamaria	HUN 2001 1687.3112212 74.7525635 750930

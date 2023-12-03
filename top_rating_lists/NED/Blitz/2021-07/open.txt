@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Giri, Anish	NED 1994 M 2692.3037413 74.9754759 24116068
+2 Kevlishvili, Robby	NED 2001 M 2517.0566402 71.8352211 1040634

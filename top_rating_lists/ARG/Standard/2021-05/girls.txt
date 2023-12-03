@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Borda Rodas, Anapaola S.	ARG 2004 1941.0415487 66.7604157 152781
+2 Francisco Guecamburu, Candela Be	ARG 2006 1800.3785522 74.5347271 160911
+3 Scarsi, Anna Laura	ARG 2006 1536.0124100 74.8132632 159328

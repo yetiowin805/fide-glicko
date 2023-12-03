@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Nikolovska, Dragana	MKD 1996 1844.2325959 57.0784525 15000133
+2 Lakinska, Simona	MKD 1999 1599.9035555 63.5444968 15001695

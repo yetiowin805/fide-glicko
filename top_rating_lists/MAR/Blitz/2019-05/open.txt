@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 El Adnani, Mokliss	MAR 1983 M 2305.4933719 70.8892838 9000410
+2 Tissir, Mohamed	MAR 1976 M 2255.0221547 58.1839048 9000240

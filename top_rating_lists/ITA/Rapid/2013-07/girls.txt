@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Guerini, Silvia jr	ITA 1997 1728.8587274 73.4369678 852520
+2 Miracola, Giorgia	ITA 1997 1652.0392770 72.6530817 878359

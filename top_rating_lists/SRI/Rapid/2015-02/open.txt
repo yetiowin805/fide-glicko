@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Somasundram, Jayakumar	SRI 1951 M 1801.0469728 73.4556890 9900250
+2 Kuruppu, Supun Dasantha	SRI 1999 M 1633.7779187 74.9655592 9902805
+3 Rajapaksa, Miyuni Kavinya	SRI 2000 F 1618.2993089 54.4801130 9939210
+4 Wickramasinghe, Dilhara Ishini	SRI 2000 F 1522.3745482 73.3692156 9906738
+5 Rajapaksa, Inura	SRI 2003 M 1509.1502296 60.8487383 34178365

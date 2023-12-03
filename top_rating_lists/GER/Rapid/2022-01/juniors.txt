@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Muetsch, Annmarie	GER 2002 F 2160.9389267 66.1756060 12971367
+2 Kopylov, Daniel	GER 2003 M 2127.7055124 61.9139555 12921971

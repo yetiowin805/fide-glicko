@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Flores Rios, Mauricio	CHI 1990 M 2420.9832865 61.6955554 3408027
+2 Valdes Escobar, Alvaro	CHI 1989 M 2188.9331623 59.4302774 3405451
+3 Hernandez Riera, Jose	CHI 1990 M 1847.7859585 62.9702528 3408230
+4 Henriquez Villagra, Cristobal	CHI 1996 M 1630.7734657 71.8124037 3409350
+5 Olivares Olivares, Claudio	CHI 1992 M 1548.5553806 65.6673542 3400786

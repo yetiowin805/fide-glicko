@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Al Busaidi, Hamood	OMA 2005 M 1709.1669047 74.0200925 22006230
+2 Al Mamari, Said Ahmed	OMA 1995 M 1589.0761954 69.2853326 22008772

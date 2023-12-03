@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Fonte Sanchez, Paula	CUB 1997 F 1854.4272755 64.8773210 3509729
+2 Julien Casteleiro, Ariel	CUB 1972 M 1586.5713803 73.8924228 3516628

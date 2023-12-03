@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Cobb, James	WLS 1977 M 2476.5284348 54.5488491 1800949
+2 Jones, Richard S.	WLS 1983 M 2285.2994188 72.3691437 1800833

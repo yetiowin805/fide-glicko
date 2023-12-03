@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Belenkaya, Dina	ISR 1993 2109.0182785 67.6236492 24142654
+2 Katkov, Michelle	ISR 2003 1808.9288620 74.9637768 2816393

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Chiarion, Elisa	ITA 1995 1774.8766523 62.9573617 828653
+2 Beltrami, Chiara	ITA 1991 1657.0500125 65.9437387 834130

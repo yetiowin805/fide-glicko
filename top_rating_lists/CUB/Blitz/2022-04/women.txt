@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Palmero Martinez, Rachel	CUB 1997 1916.2264739 64.2329560 3516466
+2 Catala Matienzo, Ivette	CUB 1986 1850.8605833 73.6751077 3506819

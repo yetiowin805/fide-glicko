@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Guach Rodriguez, Marcos Antonio	CUB 2009 M 1684.9523556 72.1429526 3530221

@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Gamboa Alvarado, Olga Leticia	CRC 1990 1775.0646569 65.7093371 6502270
+2 Ramirez Gonzalez, Maria Jose	CRC 1997 1679.2189604 70.0713655 6503349
+3 Salas Torres, Pamela	CRC 1998 1649.1855000 66.1749154 6505716
+4 Salazar Gould, Melanie	CRC 2003 1474.0826032 68.7462726 6505090

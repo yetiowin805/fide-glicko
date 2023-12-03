@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Cabezas Calero, Abigail Carolina	NCA 2008 1503.8464588 63.2468451 6105971
+2 Martinez Orozco, Cristiana Yorlene	NCA 2005 1501.4087997 67.9855104 6107079
+3 Munoz Cortez, Anahi Alexandra	NCA 2006 1428.2875993 69.9724055 6109527
+4 Pena Baltodano, Yaddolly	NCA 2007 1194.5379474 73.1512354 6111599

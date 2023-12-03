@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Bjorkly, Sara Marie Skaug	NOR 1992 1392.9534107 66.7456916 1545825
+2 Young, Anna Ovidia	NOR 2008 1365.4083609 67.5516657 1539949
+3 Odegaard, Eli Marit	NOR 1948 1126.8183381 63.0702234 1519263

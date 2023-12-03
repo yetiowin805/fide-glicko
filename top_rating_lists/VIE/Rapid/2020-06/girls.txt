@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Bach, Ngoc Thuy Duong	VIE 2003 1860.2463791 74.1437412 12408956
+2 Nguyen, Thien Ngan	VIE 2005 1821.2105627 69.4555507 12414816

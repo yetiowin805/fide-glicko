@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Dauletova, Gulmira	KAZ 1988 2301.9391199 72.4391180 13702971
+2 Rysbayeva, Aigerim	KAZ  2223.3102904 67.1228924 13704567
+3 Shangarayeva, Daiana	KAZ 1993 1833.2835602 74.2027859 13703510

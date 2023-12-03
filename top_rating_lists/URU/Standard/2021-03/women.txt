@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 De Leon, Daiana	URU 1993 1548.8906122 74.8455249 3002527
+2 Roepke, Sofia	URU 2006 1483.3264152 72.7300498 3006360

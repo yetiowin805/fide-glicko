@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Perez Gormaz, Matias	CHI 1993 M 1961.2754988 73.5681308 3406342
+2 Cuevas Araya, Walter	CHI 1981 M 1865.0743483 73.6445045 3405028
+3 Aguirre Contreras, Cristian	CHI 1996 M 1661.3507179 74.7425720 3412776

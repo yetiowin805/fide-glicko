@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Khachatryan, Samvel S.	ARM 2003 M 2100.2845150 73.9945647 13309048

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ozen, Deniz	TUR 2001 M 2089.1676115 67.2493951 6349196
+2 Turan, Asim	TUR 2001 M 1902.8111469 74.6863041 6363881

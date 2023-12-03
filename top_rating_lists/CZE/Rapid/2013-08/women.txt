@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Miturova, Magdalena	CZE 1993 2106.2041931 73.5570313 330221
+2 Novosadova, Kristyna	CZE 1990 2011.3636775 70.5602067 328065
+3 Richterova, Natasa	CZE 1996 1748.1171831 74.8433322 350591

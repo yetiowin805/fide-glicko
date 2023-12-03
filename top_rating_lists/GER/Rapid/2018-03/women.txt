@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Paehtz, Elisabeth	GER 1985 2429.6490891 53.0886067 4641833
+2 Michna, Marta	GER 1978 2262.0453731 66.4836476 1106686

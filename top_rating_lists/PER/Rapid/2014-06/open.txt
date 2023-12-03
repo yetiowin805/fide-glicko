@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Granda Zuniga, Julio E	PER 1967 M 2670.8905469 67.6674061 3800024
+2 Reyes, Juan	PER 1963 M 2455.9969883 70.9553427 3800040
+3 Caballero Quijano, Mitzy Mishell	PER 2001 F 1799.5578159 73.9434037 3807223

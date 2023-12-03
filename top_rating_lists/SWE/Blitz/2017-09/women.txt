@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Cramling, Pia	SWE 1963 2228.5867100 66.2508829 1700030
+2 Hellmer, Helena	SWE 1952 1495.4647110 64.3874707 1719874

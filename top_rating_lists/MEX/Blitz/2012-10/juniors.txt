@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Diaz Rosas, Julio Cesar	MEX 1994 M 2062.1936459 64.9563218 5105099
+2 Aleman Hernandez, Andres	MEX 1995 M 1975.7055528 74.8654612 5111935
+3 Mendoza Velazquez, Lorena Alejan	MEX 1994 F 1913.8326556 70.6547528 5101794
+4 Garcia Morales, Ivette Ale	MEX 1994 F 1861.5651215 71.1642397 5105994

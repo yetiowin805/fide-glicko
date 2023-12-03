@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Lee, T H Bryan	HKG 1995 M 1947.1535056 69.0657111 6000584

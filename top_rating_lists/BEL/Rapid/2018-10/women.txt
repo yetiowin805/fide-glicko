@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Vanduyfhuys, Daria	BEL 2003 1816.9496798 55.2733176 246336
+2 Peeters, Simonne	BEL 1959 1606.9615578 73.3396989 207420
+3 Souweine, Edwige	BEL 1980 1165.0952071 71.8146061 249793

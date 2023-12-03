@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Keinanen, Toivo	FIN 2002 M 2458.9474269 64.1717636 509825
+2 Velagapudi, Vihan	FIN 2011 M 1581.9573147 73.6352945 515604

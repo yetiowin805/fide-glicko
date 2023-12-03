@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Espinoza Solano, Jose Nahum	NCA 2003 M 2085.7403589 72.6589270 6104428
+2 Castillo, Rommel	NCA 0000 M 1807.5973663 74.1309703 6100490
+3 Salinas Barrera, Jovani Enrique	NCA 1967 M 1592.9707257 72.1602591 6106757

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Tissir, Mohamed	MAR 1976 M 2247.7232584 64.5282655 9000240
+2 Ben Yahya, Larbi	MAR 1978 M 1950.8763271 66.8885848 9005153

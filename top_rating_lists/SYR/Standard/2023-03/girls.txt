@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Yaghi,leen	SYR 2007 1694.2470585 52.8151702 7607580
+2 Alsabbagh Eman	SYR 2008 1381.5787331 74.1570046 7608004

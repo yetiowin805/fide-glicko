@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Comas Colon, Rinelly	PUR 1995 F 1753.2115193 73.8027030 3101576
+2 Vazquez Maccarini, Danitza	PUR 2000 F 1723.9239739 68.5241203 3101193
+3 Rodriguez Labrador, Marco	PUR 1993 M 1598.7161180 74.3548228 3101444

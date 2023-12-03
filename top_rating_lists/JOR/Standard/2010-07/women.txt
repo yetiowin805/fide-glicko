@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Dahdal, Lougain	JOR 1990 1747.8315054 58.5445971 8102880
+2 Boshra, Alshaeby	JOR 1995 1697.3458793 69.1914288 8102937

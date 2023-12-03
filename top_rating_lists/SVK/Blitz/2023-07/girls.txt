@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Sosovickova, Jana	SVK 2005 1773.7057836 71.4959302 14944596
+2 Kapicakova, Lucia	SVK 2007 1711.3518288 70.6571875 73612251

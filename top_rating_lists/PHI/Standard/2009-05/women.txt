@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Perena, Catherine	PHI 1985 2138.4780224 66.7989522 5202744
+2 Cua, Shercila	PHI  2059.0116492 72.2272024 5202620
+3 Bernales, Christy Lamiel	PHI  1963.1266416 60.7202672 5204534

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Golban, Liudmila	MDA 1967 1768.0433791 71.1369684 13904663
+2 Manitcaia, Alina	MDA 2000 1572.7701701 70.5374250 13907433

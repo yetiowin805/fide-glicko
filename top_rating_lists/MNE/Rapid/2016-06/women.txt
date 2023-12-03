@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Blagojevic, Tijana	MNE 1997 2149.7368879 70.5611761 16500270
+2 Milovic, Aleksandra	MNE 1986 2074.6079206 73.2263333 933988
+3 Blagojevic, Lidija	MNE 1965 1910.7067436 68.9974051 916773

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Bosco, Giuliana	ARG 2004 1663.6028803 72.8096970 142611
+2 Scarsi, Anna Laura	ARG 2006 1443.0207346 61.0196225 159328

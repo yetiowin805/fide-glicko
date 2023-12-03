@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 De Filomeno, Elisa	ITA 1999 1346.7530111 72.5861619 875805
+2 Marseglia, Serena	ITA 2001 1241.1388404 61.1493385 2827048

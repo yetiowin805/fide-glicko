@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Alhejab, Meshal	KUW 2007 M 1680.5557856 68.7228235 10302603
+2 Aladsani, Samer	KUW 2002 M 1559.2596320 70.8800250 10303162

@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kremer, Nadine	LUX 1994 F 1887.8951947 64.0582137 4002970

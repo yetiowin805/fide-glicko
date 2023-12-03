@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Tabatadze, Erekle	GEO 2010 M 1769.8468847 74.1612090 13630024
+2 Gabadadze, Gabriel	GEO 2012 M 1727.0485754 74.8594532 13628364
+3 Gogolashvili, Giorgi	GEO 2009 M 1680.7241815 72.5440039 13619152

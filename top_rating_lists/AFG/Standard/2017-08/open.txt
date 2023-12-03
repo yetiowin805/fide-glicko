@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mehrad, Ahmad Tamim	AFG 1990 M 1916.3945595 73.6674471 11700491
+2 Asefi, Zaheeruddeen	AFG 1965 M 1825.5595466 49.8941370 11700025
+3 Sarwari, Hamidullah	AFG 1989 M 1707.8890610 72.7024224 11700580

@@ -1,0 +1,15 @@
+Rank Name Federation BirthYear Rating RD
+1 Velasquez Marin, Glaycell Daniela	VEN 2007 1744.9532699 71.9393122 3946762
+2 Brito Marquez, Sophia Valentina	VEN 2008 1672.5734191 72.0057918 3951529
+3 Perez Hernandez, Vicmary C.	VEN 2005 1666.2651343 71.5252936 3930831
+4 Ortiz Avila, Samantha Carolina	VEN 2005 1585.1334911 70.5861795 3947548
+5 Gonzalez Gonzalez, Maria Alejandra	VEN 2005 1582.5006701 69.1418453 3936040
+6 Gonzalez Gomez, Daniela Carolina	VEN 2003 1576.4216663 65.3036113 3915417
+7 Guadalajara Barrios, Jacksilany	VEN 2006 1528.4442594 59.2409877 3931242
+8 Marin Murguey, Valentina Jatniel	VEN 2005 1523.5403394 66.2430177 3955478
+9 Acuna Castillo, Yohalis del Valle	VEN 2007 1511.7169436 63.7630481 3943674
+10 Hernandez Mora, Nohelia Virginia	VEN 2005 1495.8237485 59.1965038 3915344
+11 Araujo Briceno, Gilary Ahilyn	VEN 2007 1376.3210123 62.6303944 3935841
+12 Quijada Delgado, Eliana Paola	VEN 2005 1364.9970532 64.6988023 3955494
+13 Cabeza Marquez, Mariangel Alejandra	VEN 2007 1312.6227242 63.7754620 3934527
+14 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1302.3933579 59.7772619 3964051

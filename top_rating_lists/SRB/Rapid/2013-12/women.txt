@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Manakova, Maria	SRB 1974 2206.9051890 53.2385595 927007
+2 Injac, Teodora	SRB 2000 1593.5946973 70.9330003 932400

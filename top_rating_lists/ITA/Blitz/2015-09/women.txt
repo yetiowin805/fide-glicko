@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Zimina, Olga	ITA 1982 2290.5476158 61.6556504 4132190
+2 Marinelli, Sofia	ITA 2005 1424.4407301 68.0577611 899836

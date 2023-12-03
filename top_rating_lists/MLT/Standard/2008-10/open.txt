@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Pace, Colin	MLT 1979 M 2096.2970887 71.2486420 5600189
+2 Richards, John	MLT  M 1756.1941187 73.7126254 5600030

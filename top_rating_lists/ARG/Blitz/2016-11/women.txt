@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Carraro, Denise	ARG 1988 2029.7936736 69.6892274 111791
+2 Fernandez, Maria Florencia	ARG 1991 2013.2985719 73.7110799 116459
+3 Flores, Nancy	ARG 1993 1936.8828083 74.2868145 109339

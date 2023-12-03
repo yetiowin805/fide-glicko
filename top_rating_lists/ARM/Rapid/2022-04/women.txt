@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Sargsyan, Anna M.	ARM 2001 2223.4966538 71.8142470 13308130
+2 Gevorgyan, Maria	ARM 1994 2095.0232808 71.7707538 13300270

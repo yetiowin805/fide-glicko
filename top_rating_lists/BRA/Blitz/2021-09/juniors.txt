@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Do Valle Cardoso, Lucas	BRA 2002 M 2281.5500826 71.4463130 2163144
+2 Tomiello, Mateus Costamilan	BRA 2003 M 1976.0381170 74.6753914 22701958
+3 Haraguchi, Diego Sashaki	BRA 2008 M 1808.7748817 73.1589445 22729925
+4 Lima, Stefan Moisei VIeira	BRA 2007 M 1762.6126129 67.2995708 22782273

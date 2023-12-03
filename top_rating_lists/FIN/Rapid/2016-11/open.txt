@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Parkkinen, Jyrki	FIN 1968 M 2016.8448148 73.7444560 502375
+2 Turunen, Tuomo	FIN 1968 M 1748.6712016 70.0795911 508209

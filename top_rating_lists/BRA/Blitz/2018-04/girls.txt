@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Lisboa, Joana Cunha	BRA 2001 1663.0286985 56.8478603 2179628
+2 Feller, Gabriela Luisa Vicente	BRA 2004 1616.4908999 68.5418116 2163322
+3 Santana Freitas, Maria Eduarda	BRA 2005 1563.5167433 66.7034288 2193787
+4 Ribeiro, Jessica Maria da Silva	BRA 2000 1282.0794906 66.8433164 22701320

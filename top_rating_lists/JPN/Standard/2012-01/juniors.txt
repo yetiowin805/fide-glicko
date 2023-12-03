@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Sakai, Hibiki	JPN 1994 M 1906.8200611 59.1485507 7000995
+2 Abe, Mahiro	JPN 1997 M 1703.3445057 70.7478338 7000235

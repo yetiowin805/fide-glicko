@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Marko, Helmut	PNG 1954 M 1724.2454140 74.3318464 9100032
+2 Tia, Rudy Jr.	PNG 1964 M 1653.0088220 69.7814179 9100067

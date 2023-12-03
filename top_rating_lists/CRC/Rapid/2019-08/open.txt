@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Chaves Sanchez, Gabriel A	CRC 1995 M 1995.6335061 74.3549576 6502180
+2 Urbina Quiroz, Edwin	CRC 1989 M 1929.6193325 72.0568550 6500650

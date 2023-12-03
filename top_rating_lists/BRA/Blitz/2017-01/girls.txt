@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Rating RD
+1 Santana Freitas, Maria Eduarda	BRA 2005 1493.6505091 61.0250538 2193787
+2 Bartmeyer, Maria Veronica	BRA 1997 1448.7573375 69.3691053 2152614
+3 Quirrenbach, Emanuela Pinheiro	BRA 1998 1426.7295425 69.1841229 2152975
+4 Bartmeyer, Beatriz	BRA 1999 1373.1900275 64.0064431 2152592
+5 Ribeiro, Jessica Maria da Silva	BRA 2000 1175.8710482 63.4591761 22701320

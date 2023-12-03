@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Stetsko, Lanita	BLR 1993 2118.7545444 70.1102872 13505300
+2 Stsepkina, Katsiaryna	BLR 1999 1661.9080483 74.4128901 13507575

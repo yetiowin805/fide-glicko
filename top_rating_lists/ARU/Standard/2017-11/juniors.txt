@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Diaz, Brian	ARU 2001 M 1599.6018172 59.1725345 15900509
+2 Stetsenko, Ilya	ARU 2004 M 1423.2821417 71.2995027 15900762

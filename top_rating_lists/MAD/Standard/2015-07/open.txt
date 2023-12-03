@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rakotomaharo, Fy Antenaina	MAD 1999 M 2245.2363407 49.6085925 13100050
+2 Rabe andrianandrasana, Haingo	MAD 1974 M 1736.0725545 71.8578883 13100181

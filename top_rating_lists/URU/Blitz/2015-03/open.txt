@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Augoustis Funti, Alexis	URU 1993 M 1809.4154585 74.4770957 3001423
+2 Solari, Pablo	URU 1972 M 1577.5130797 70.6534879 3000753

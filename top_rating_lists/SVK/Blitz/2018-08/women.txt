@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Motycakova, Monika	SVK 1992 1979.6088820 66.0353186 14909626
+2 Sevcikova, Lucia	SVK 2006 1732.1923482 72.3572837 14940744

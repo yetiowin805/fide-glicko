@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Studer, Noel	SUI 1996 M 2370.2400433 72.5129758 1319620
+2 Budisin, Stanislav	SUI 1972 M 2073.7568215 56.8822747 1304470

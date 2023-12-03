@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Boudriga, Med Ali	TUN 1985 M 2113.8694533 71.9319282 5500460
+2 Bouzidi, Ahmed	TUN 1986 M 2017.7177012 73.5655638 5501733

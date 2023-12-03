@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Nansubuga , Gloria	UGA 2001 1588.0744407 65.3318417 10000887
+2 Nakanyike, Maria	UGA 2006 1566.4161982 72.3325088 10004386

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Papp, Petra	HUN 1993 2180.5897390 69.5538426 739049
+2 Varga, Klara	HUN 1994 2138.0395806 71.8050205 733210

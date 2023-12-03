@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Masters, Christopher	HKG 1995 M 1653.2884731 66.9865752 6000681
+2 Law, Mark	HKG 1994 M 1638.4624759 72.2853622 6000592

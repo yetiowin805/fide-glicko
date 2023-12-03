@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Smith, Madeleine	WLS 2005 1694.9219013 72.8515130 1804251
+2 Chong, Kimberly	WLS 1996 1553.3186921 68.5468721 1804723

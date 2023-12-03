@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Benitez Galeano, Alejandro	PAR 2002 M 1896.4336695 68.6977637 3703568
+2 Melian, Juan Sebastian	PAR 2006 M 1706.6483705 68.0844475 3706575

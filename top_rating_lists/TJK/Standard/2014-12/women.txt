@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Nasriddinzoda, Marvorii	TJK 1993 1972.0493775 67.3441615 14700395
+2 Antonova, Nadezhda	TJK 1988 1920.2334495 56.4899086 14700182
+3 Ilhom, Mootribai	TJK 1997 1713.0348135 64.2733380 14700204

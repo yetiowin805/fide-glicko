@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Efroimski, Marsel	ISR 1995 2201.4604402 64.7893857 2810964
+2 Shvayger, Yuliya	ISR 1994 2194.1347487 73.0494930 14100126

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Hamza, Amira	ALG  1776.3719642 69.5461843 7901160
+2 Banat, Rizlene	ALG 1998 1613.3495145 58.2456276 602825

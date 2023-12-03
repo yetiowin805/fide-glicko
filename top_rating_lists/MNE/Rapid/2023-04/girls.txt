@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Popovic, Mateja	MNE 2005 1726.9026406 67.4023929 16504518
+2 Mosurovic, Milena	MNE 2007 1601.1859555 67.5732211 16505514

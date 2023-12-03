@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Vazquez Maccarini, Danitza	PUR 2000 F 2029.8980116 74.7560297 3101193
+2 Zilleruelo Irizarry, Diego	PUR 1990 M 2017.8164690 66.9564663 3101460
+3 Almedina Ortiz, Edgardo J.	PUR 1988 M 1968.2708256 66.6719419 3100197
+4 Morales Santos, Natasha	PUR 1998 F 1912.7328063 72.6112799 3101703
+5 Boggiano Pereira, Miguel A.	PUR 1999 M 1900.6584310 55.9889686 3102750

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Sipila, Vilka	FIN 1987 M 2371.9866885 73.5508343 505455
+2 Westerinen, Heikki M.J.	FIN 1944 M 2299.4279284 74.0922246 500020
+3 Luukkonen, Tommi	FIN 1977 M 2241.6020342 73.9987244 501808

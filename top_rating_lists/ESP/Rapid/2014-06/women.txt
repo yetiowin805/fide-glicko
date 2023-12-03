@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Perera Borrego, Mariela	ESP 1994 2165.6449651 66.4843533 22238255
+2 Redondo Benavente, Ana	ESP 2001 1503.8249377 70.2509899 32021674

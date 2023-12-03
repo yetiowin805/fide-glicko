@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Cahyadi	INA 1987 M 1694.2330054 52.7356718 7106068
+2 Agung, Rinaldi Santoso	INA 1987 M 1566.3959470 74.2147305 7105185
+3 Azzam, Muhammad Siddiq Idris	INA 2003 M 1516.1005392 74.9900225 7122934

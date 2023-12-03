@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mesfin, Leykun	ETH 1976 M 1990.4689157 69.7709848 15700097
+2 Tadese, Estube Haileselassie	ETH 1991 M 1988.7945164 69.5772992 15700330
+3 Fekadu, Desalegn Jimma	ETH 1976 M 1823.2779097 69.6846287 15700070

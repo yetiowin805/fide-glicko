@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Nadzamova, Viktoria	SVK 2006 1674.6154086 72.6151266 14943999
+2 Kovarikova, Maria	SVK 2007 1568.5523461 68.6766147 14955040

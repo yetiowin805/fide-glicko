@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Turunen, Tuomo	FIN 1968 M 1816.7458189 49.5033795 508209
+2 Jarnstrom, Henrik	FIN 1952 M 1708.3639795 70.5998592 510572

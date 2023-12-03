@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Anquandah, Francis Eric	GHA 1965 M 1849.2947123 60.4112513 12600148
+2 Ameku, Philip Elikem	GHA 1989 M 1627.2116417 70.9847868 12600326

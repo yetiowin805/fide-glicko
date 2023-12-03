@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Antonova, Nadezhda	TJK 1988 F 1853.3984930 68.2005513 14700182
+2 Fayzieva, Darina	TJK 2006 F 1373.3331799 54.0035142 14701960

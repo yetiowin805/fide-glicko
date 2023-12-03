@@ -1,0 +1,7 @@
+Rank Name Federation BirthYear Rating RD
+1 Delgado Rosas, Fatima Alexandra	PAN 2001 1545.6469237 74.1895445 6603963
+2 Vasquez Jaen, Lourdes Lorena	PAN 2003 1520.3180912 56.4600732 6605559
+3 Alvarez Chang, Claudia Mercedes	PAN 2004 1462.2669913 59.3688010 6604374
+4 Gomez Morales, Salma Patricia	PAN 2005 1342.4210910 71.2171144 6606598
+5 Lobo Jimenez, Mariana	PAN 2008 1264.2617573 68.3826147 6605516
+6 Mendez Machado, Fatima	PAN 2011 1197.6191252 73.7512571 6606970

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Al-khulaifi, Ghada	QAT 1995 F 1614.9611048 74.5245891 12100633
+2 Al-khelaifi, Aisha	QAT 1992 F 1610.1898905 71.1591711 12100625

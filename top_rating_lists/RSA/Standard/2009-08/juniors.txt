@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Dole, Anant	RSA 1993 M 2137.7933731 71.5229436 14301490
+2 Greeff, Melissa	RSA 1994 F 2048.0660788 63.4287576 14301504

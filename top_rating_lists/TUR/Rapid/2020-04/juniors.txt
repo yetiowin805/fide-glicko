@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Sarikavak, Serdar Ihsan	TUR 2003 M 1846.5575110 74.7886223 6390323
+2 Pasa, Ahmet	TUR 2006 M 1806.8253929 68.0532028 44561237

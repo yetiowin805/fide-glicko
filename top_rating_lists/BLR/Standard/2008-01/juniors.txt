@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Zhigalko, Sergei	BLR 1989 M 2567.5334932 48.5595762 13502956
+2 Stupak, Kirill	BLR 1990 M 2433.2598410 48.5995307 13503758

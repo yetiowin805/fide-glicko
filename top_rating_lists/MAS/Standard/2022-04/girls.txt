@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Rating RD
+1 Mohsen, Nur Batrisya Wafa	MAS 2005 1465.1900328 73.2168823 5733901
+2 Mohd Azamanizam, Azraa Adeline Azman	MAS 2008 1427.1613601 74.8529544 5755328
+3 Rizal, Haibatul Hannan	MAS 2005 1418.9416750 73.5273292 5718660
+4 Ainul Fikri, Aqilah Husna	MAS 2011 1368.0832735 71.2458588 35805110
+5 Satiaseelan, Lokkavya	MAS 2008 1326.8287123 69.6987664 5748070

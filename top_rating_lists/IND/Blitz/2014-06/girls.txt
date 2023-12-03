@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Savant, Riya	IND 2000 1823.2322299 66.8223078 5067359
+2 Bhagyashree Patil	IND 2005 1629.6479601 72.4870753 25053256

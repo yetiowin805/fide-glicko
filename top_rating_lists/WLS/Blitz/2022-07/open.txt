@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Jukes, Sam	WLS 1993 M 1849.1035480 72.6829945 1803182
+2 Corrigan, James	WLS 1993 M 1756.8499092 74.9980925 1804006

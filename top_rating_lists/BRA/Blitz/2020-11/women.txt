@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Martins de Aguiar, Marina	BRA 1999 1754.5393986 73.1185101 2143321
+2 Jardim, Tamiris Salvador	BRA 1999 1512.6335591 74.5339755 22744258
+3 De Ramos, Mitzi Vedan	BRA 2007 1455.8497225 72.6603117 2197677

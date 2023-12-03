@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Espinoza Solano, Jose Nahum	NCA 2003 M 1977.8447494 74.9859633 6104428
+2 Castillo Sevilla, Ian Eiffel	NCA 2002 M 1909.0626025 73.2830702 6104207

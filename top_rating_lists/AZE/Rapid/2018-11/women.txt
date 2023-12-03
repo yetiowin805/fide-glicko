@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Fataliyeva, Ulviyya	AZE 1996 2234.2181389 58.4543214 13403052
+2 Ibrahimova, Sabina	AZE 1995 1962.1687929 72.8985916 13403893
+3 Beydullayeva, Govhar	AZE 2003 1875.9857570 67.1296202 13413015

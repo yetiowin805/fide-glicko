@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Durante, Aurelio	URU 1962 M 1863.2455363 72.6716080 3001270
+2 Manteiga, Franco	URU 2004 M 1825.6916414 68.4533031 3009785
+3 Rodriguez Farias, Eduardo	URU 1974 M 1803.2783542 73.7768431 3005062

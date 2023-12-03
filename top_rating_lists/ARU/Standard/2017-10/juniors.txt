@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Diaz, Brian	ARU 2001 M 1599.6018172 57.0684587 15900509

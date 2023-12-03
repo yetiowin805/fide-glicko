@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Munkhzul, Turmunkh	MGL 2002 2139.4737317 72.5083448 4901878
+2 Bayasgalan, Khishigbaatar	MGL 2007 1859.6779379 68.0991617 4904311
+3 Margad, Munkhpurev	MGL 2011 1637.0661225 72.0333408 4910222
+4 Uyangalyankhua, Batzaya	MGL 2011 1542.0388276 72.1582456 4918959

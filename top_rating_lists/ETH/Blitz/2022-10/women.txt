@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Haile , Lidet Abate	ETH 1996 1570.0560016 59.8088965 15702073
+2 Bantiwalu , Aster Melake	ETH 1997 1493.0942327 64.3521203 15702081

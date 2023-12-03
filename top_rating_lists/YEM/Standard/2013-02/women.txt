@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Awad, Omaima	YEM 1990 1554.8802537 73.3404523 9400117
+2 Elshereif, Mada	YEM 1982 1530.8309461 72.8414319 9400125

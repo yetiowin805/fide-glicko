@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Bilguun, Sumiya	MGL 1997 M 2369.5678364 73.5709378 4901541
+2 Nomin-Erdene, Davaademberel	MGL 2000 F 2240.1032794 70.9905311 4900782
+3 Chinguun, Sumiya	MGL 2005 M 2045.3559959 73.0764250 4902572
+4 Davaademberel, Purevdorj	MGL 1981 M 1978.1093730 74.7306109 4902335

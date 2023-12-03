@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Razanadrakotoarisoa, Toavina	MAD 2003 M 2031.8800984 66.1155137 13101439
+2 Rajoarimanana, Fanahy Fortunat	MAD 2003 M 1715.6020034 62.3315989 13104365
+3 Nomenjanahary, Fanilo	MAD 2006 M 1669.9612784 64.9052554 13104101

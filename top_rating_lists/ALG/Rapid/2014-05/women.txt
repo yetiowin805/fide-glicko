@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Nouali, Djouher	ALG 1987 1693.7431367 72.3029651 7900414
+2 Benaissa, Imane	ALG 1983 1504.3006121 69.2251999 7902140

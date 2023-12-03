@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Mammadova, Gulnar	AZE 1991 2249.3356892 74.3390946 13403508
+2 Fataliyeva, Ulviyya	AZE 1996 2131.1901380 73.0673743 13403052
+3 Allahverdiyeva, Ayan	AZE 2005 1900.5878917 73.5659747 13412590

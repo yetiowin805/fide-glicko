@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Miracola, Giorgia	ITA 1997 1652.0392770 74.3137735 878359
+2 Bizzarro, Sofia	ITA 1999 1540.9582289 71.7027431 871559

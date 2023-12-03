@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Guerra Mendez, Jose Angel	CUB 1988 M 2472.0000000 52.3874105 3508129

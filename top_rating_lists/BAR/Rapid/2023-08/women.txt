@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Figueroa, Julissa	BAR 1989 1593.8730832 71.1210466 7300450
+2 Wilson, Hannah	BAR 2009 1532.9146974 74.9511965 11104600

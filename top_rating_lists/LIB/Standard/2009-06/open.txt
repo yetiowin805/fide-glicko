@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Khairallah, Faisal	LIB 1975 M 2304.9853721 66.7919218 4628250
+2 Mouradian, Knarik	LIB 1983 F 2186.3206160 69.9979138 5300517

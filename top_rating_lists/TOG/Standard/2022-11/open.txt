@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Tchouka, Yakini	TOG 1996 M 1852.6565375 59.2207880 21201382
+2 Egbe, Kossi Thierry	TOG 2002 M 1636.7316497 67.3210387 21201510
+3 Ballebako, Kokou Difendramakada Jacques	TOG 1995 M 1521.5131403 72.7274754 21201390
+4 De Souza, Ivana Claudia Eyram	TOG 2003 F 1404.1707490 73.3001841 21201200

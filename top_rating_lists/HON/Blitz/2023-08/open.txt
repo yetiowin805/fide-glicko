@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Gavarrete, Nahun	HON 1994 M 2158.3773195 68.9744339 8400709
+2 Moreno Bulnes, Jose Manuel	HON 1986 M 1654.2587904 73.2394683 8400849
+3 Obregon Amador, Jose Francisco	HON 1985 M 1649.2868038 72.4104743 8400857

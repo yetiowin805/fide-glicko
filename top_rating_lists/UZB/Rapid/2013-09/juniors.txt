@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Igonin, Temur	UZB 2000 M 1939.0023851 73.3966409 14203049
+2 Saydaliev, Saidakbar	UZB 2001 M 1668.7640469 71.5614201 14203693

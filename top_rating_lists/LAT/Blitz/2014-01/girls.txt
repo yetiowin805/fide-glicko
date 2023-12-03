@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Djogteva, Jekaterina	LAT 1996 1742.7936096 65.2181232 11603020
+2 Limanovska, Elizabete	LAT 2000 1618.0785396 58.3760529 11603542
+3 Parhomenko, Margarita	LAT 1999 1533.9784855 71.7954697 11603216

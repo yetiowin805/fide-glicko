@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Salem, A.R. Saleh	UAE  M 2436.6649981 49.0309078 9301348
+2 Saeed, Saeed-Ahmed	UAE 1967 M 2435.0000000 66.7497284 9300015
+3 Hassan, Abdullah	UAE  M 2290.8215123 69.1424115 9300481

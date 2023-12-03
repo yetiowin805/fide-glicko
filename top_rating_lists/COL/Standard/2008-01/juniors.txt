@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Gallego, Andres	COL 1989 M 2287.1383689 66.0365357 4402669
+2 Rodriguez Rueda, Paula Andrea	COL 1996 M 1642.2133688 73.8333899 4404564

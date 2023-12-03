@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Samudin, Elina	KGZ 1998 1695.1108848 65.8320047 13801147
+2 Usupbekova, Zarina	KGZ 2001 1517.8296896 73.1360191 13803140

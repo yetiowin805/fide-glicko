@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Dgebuadze, Alexandre	BEL 1971 M 2548.0131100 72.4975815 203882
+2 Malakhatko, Vadim	BEL 1977 M 2537.2743555 74.0966199 14104202

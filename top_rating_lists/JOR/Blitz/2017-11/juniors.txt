@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Loay, Sameer	JOR 2002 M 2011.3844265 73.7540377 8104239
+2 Thaer, Abu Alhaija	JOR 2004 M 1755.4009050 71.4568687 8106215

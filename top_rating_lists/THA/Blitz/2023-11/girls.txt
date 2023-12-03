@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Chuemsakul, Sarocha	THA 2004 1841.4515106 72.3120310 6203710
+2 Kaewwattha, Natrada	THA 2007 1588.3221931 54.0243338 6212174
+3 Tawankanjana, Sasinat	THA 2011 1391.4824283 72.7893072 6208894

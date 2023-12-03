@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Dos Santos, Lucas Aparecido	BRA 1995 M 1991.9673216 72.2749658 2138409
+2 Sztokbant, Bernardo Vainzoff	BRA 1993 M 1971.1176256 69.5435971 2115956
+3 Barbosa, Jefferson Lucas Munhoz	BRA 1995 M 1872.3594908 68.2931782 2130793
+4 Ribeiro, Alef Miranda	BRA 1995 M 1678.7213782 72.4500034 2146568
+5 Souza, Gustavo Horokoski De	BRA 1997 M 1619.4256373 71.5672432 2146584

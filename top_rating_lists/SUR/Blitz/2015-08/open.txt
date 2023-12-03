@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Sanches, Romario	SUR 1990 M 1898.0491719 73.6730795 8200211
+2 Tjong Tjin Joe, Calvin	SUR 1998 M 1882.6379454 72.4424356 8200580
+3 Kromosoeto, Immanuel	SUR 1995 M 1712.4775180 72.6447536 8200750

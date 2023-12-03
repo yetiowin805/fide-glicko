@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Vaishali R	IND 2001 2379.6589851 69.1454493 5091756
+2 Vishwa Vasnawala	IND 2006 1624.2977593 66.8636217 46658467

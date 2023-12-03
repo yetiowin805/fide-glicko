@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kulpruthanon, Thanadon	THA 1994 M 1936.0647185 60.0036973 6201610
+2 Thanarotrung, Ratchaphon	THA 1994 M 1801.4548539 68.4070107 6201059
+3 Tachaplalert, Suvich	THA 1997 M 1660.2626688 62.3390359 6201652
+4 Atthaworadej, Woradej	THA 1998 M 1554.5964005 66.5814376 6201555

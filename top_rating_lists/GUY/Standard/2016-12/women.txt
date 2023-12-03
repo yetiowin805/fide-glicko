@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Varona-Thomas, Maria	GUY 1967 1699.7109332 74.0141443 19700288
+2 Clementson, Jessica	GUY 1995 1249.7133393 73.8581853 19700210

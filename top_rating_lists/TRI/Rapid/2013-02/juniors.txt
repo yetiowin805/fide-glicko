@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Johnson, Joshua	TRI 1999 M 1780.1656659 73.4187976 7700768
+2 Smith, Javanna	TRI 1997 F 1568.2042863 70.1193198 7700466

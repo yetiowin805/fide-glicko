@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rodgers, Jack	AUS 1996 M 1963.2972846 62.4831561 3220885
+2 Attwood, James	AUS 1966 M 1783.8296224 71.7094966 3206688

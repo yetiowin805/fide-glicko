@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Landim, Humberto	CPV 2005 M 1509.0398285 74.5162517 23600454
+2 Spinola, Divania	CPV 2005 F 1458.4804993 72.3512200 23600551

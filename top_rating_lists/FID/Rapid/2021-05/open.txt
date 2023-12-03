@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Vebic, Kasem	FID 1958 M 1974.4427241 73.8635472 906832
+2 Tavcar, Jaka	FID 2005 M 1575.5594248 74.3223273 73001279

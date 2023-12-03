@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Jalloul, Maya M.	LIB 1990 1904.0294212 68.5931967 5300800
+2 El Saleh, Riham	LIB 1998 1491.4220777 68.9300254 5302927

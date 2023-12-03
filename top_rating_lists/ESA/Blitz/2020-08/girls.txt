@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Vasquez Vasquez, Marielos	ESA 2007 1558.8005639 74.1816078 6705723
+2 Perez, Damaris Nicole	ESA 2005 1550.7985661 70.3666950 6705324
+3 Hernandez Sofia	ESA 2008 1517.9254050 70.5019541 6706460

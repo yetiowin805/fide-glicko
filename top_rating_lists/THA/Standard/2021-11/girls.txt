@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Burbach, Anya Belle	THA 2006 1350.0461648 67.4754684 6205690
+2 Buhagiar, Melita Sunan	THA 2007 1340.0474474 72.9073653 6205640
+3 Chinkulkitniwat, Purichaya	THA 2011 1256.1535892 74.7059857 6209343
+4 Kaewwattha, Natrada	THA 2007 1253.9796742 74.8448487 6212174

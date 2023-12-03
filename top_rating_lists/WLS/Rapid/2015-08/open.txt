@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rizvi, Nasir	WLS 1977 M 1936.1908138 72.2226609 1800540
+2 Davies, Cledwyn	WLS 1959 M 1467.7904867 63.1464986 1803212

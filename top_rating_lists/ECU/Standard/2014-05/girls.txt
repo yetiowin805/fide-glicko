@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Jaramillo Arce, Katherine	ECU 1995 1793.8216979 66.7850692 3600661
+2 Ortiz Verdesoto, Anahi	ECU 2001 1701.7386973 69.2832219 3614581
+3 Bermudez Veliz, Josselyn	ECU 1998 1670.0942297 69.9490711 3609499
+4 Bohorquez Canizares, Maria	ECU 1995 1617.1940421 70.5255518 3606783

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Markidou, Christianna	CYP 1977 1634.5789982 65.8943134 5900433
+2 Sokolova, Victoria	CYP 2009 1372.9878107 73.3647247 5905460
+3 Bouzana, Christina	CYP 2009 1349.6309393 68.4969107 5905508

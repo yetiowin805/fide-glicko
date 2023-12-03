@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rapport, Richard	HUN 1996 M 2543.1770701 74.8141917 738590
+2 Grimm, Gyorgy	HUN 1997 M 2135.9164288 72.3835756 740098

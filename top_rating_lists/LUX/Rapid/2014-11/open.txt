@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mossong, Hubert	LUX 1950 M 2057.3053295 67.7578057 4000030

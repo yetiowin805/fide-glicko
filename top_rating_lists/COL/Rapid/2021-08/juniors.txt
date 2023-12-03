@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Salazar Grisales, Juan Jose	COL 2004 M 1816.6528427 71.4298080 4454588
+2 Hernandez Bermudez, Manuela	COL 2004 F 1729.3411048 64.3473890 4483103
+3 Ceballos Castellanos, Isabela	COL 2004 F 1564.2056149 69.8980389 4452410

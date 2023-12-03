@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Sara Masood Abdullah	IRQ 2002 1586.8360423 70.4250986 4809610
+2 Roziya, Fakhraddin Awdl	IRQ 2007 1320.3309185 69.5119041 4814720

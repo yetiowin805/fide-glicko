@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Rating RD
+1 Munoz, Carolina	CRC 1980 1851.2580025 54.2562765 6500579
+2 Gamboa Alvarado, Leticia	CRC  1767.9267531 54.2640825 6502270
+3 Rodriguez Arrieta, Maria Elena	CRC 1990 1693.0619595 68.1490437 6502911
+4 Acevedo Mendez, Lisseth	CRC 1993 1679.6814322 56.4454116 6502938
+5 Nunez Gonzalez, Neeshmy	CRC  1618.6995508 70.7840936 6504396

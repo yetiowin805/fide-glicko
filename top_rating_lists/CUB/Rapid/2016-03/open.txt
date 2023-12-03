@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Dominguez Perez, Leinier	CUB 1983 M 2768.5277116 64.3626823 3503240
+2 Bruzon Batista, Lazaro	CUB 1982 M 2611.9579145 73.5667848 3503739
+3 Martinez Duany, Lelys Stanley	CUB 1985 M 2575.3397000 64.3974879 3504727

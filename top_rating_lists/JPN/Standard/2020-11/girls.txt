@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Hoshino, Karen	JPN 2001 1760.3223941 74.5610973 2137984
+2 Mitsuyama, Rikka	JPN 2009 1456.9384036 61.9925747 7002815

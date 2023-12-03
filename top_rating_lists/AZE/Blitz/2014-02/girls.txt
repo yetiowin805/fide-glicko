@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ibrahimova, Sabina	AZE 1995 2039.2211118 70.2672283 13403893
+2 Soyunlu, Narmin	AZE 1996 1908.7365619 71.9493095 13400843

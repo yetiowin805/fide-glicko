@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Avelino, Camila Biscaya	POR 2004 1756.4797593 73.5904432 1938975
+2 Sismeiro, Sofia	POR 2008 1368.2620690 74.7432479 1952587
+3 Maissa, Susana Flora Cesana	POR 1968 1348.6963624 69.5186163 1954202

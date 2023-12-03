@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Golban, Liudmila	MDA 1967 1748.5679552 74.3884818 13904663
+2 Daicu, Diana	MDA 1999 1559.7290724 72.6019599 13905163

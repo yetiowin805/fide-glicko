@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Arakhamia-Grant, Ketevan	SCO 1968 2527.0081962 48.7213879 13600168
+2 Roy, Ali	SCO 1995 1649.9103653 72.8672170 2400456

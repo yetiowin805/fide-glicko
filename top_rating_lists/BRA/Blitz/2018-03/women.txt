@@ -1,0 +1,7 @@
+Rank Name Federation BirthYear Rating RD
+1 Fernandez, Tatiane Cristina Coelho	BRA 1984 1680.9918300 62.4624961 2107775
+2 Lisboa, Joana Cunha	BRA 2001 1663.0286985 54.6540793 2179628
+3 Feller, Gabriela Luisa Vicente	BRA 2004 1616.4908999 66.7320328 2163322
+4 Da Cruz, Karoliny Taiane	BRA 1992 1578.1468088 71.4533680 2136910
+5 Santana Freitas, Maria Eduarda	BRA 2005 1563.5167433 64.8370116 2193787
+6 Ribeiro, Jessica Maria da Silva	BRA 2000 1282.0794906 64.9496839 22701320

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Karam , Adel	SYR 2000 1358.1385433 64.2929407 7604351
+2 Al Argha, Fatima	SYR 2004 1345.1517825 72.5510916 7603053

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Terubea, Cydel	FIJ 1998 F 1450.9478107 73.2069701 11400455
+2 Goswami, Sugandha	FIJ 1991 F 1090.1621140 74.0184443 11400510

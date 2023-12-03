@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ephoevi-Ga, Adama Mawulikplimi	TOG 1986 M 1683.4216974 73.3002353 21200149
+2 Amewounou, Komlan Kouessan	TOG 1983 M 1627.1270584 63.9528700 21200017
+3 Botsoe, Koffi	TOG 1974 M 1565.1919307 68.4087040 21200025
+4 Ajavon, Ayayi Jean Le Clair	TOG 1984 M 1508.4781139 66.6404600 21200394

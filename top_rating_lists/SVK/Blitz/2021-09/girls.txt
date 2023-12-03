@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Nadzamova, Viktoria	SVK 2006 1875.2765429 56.8940209 14943999
+2 Sevcikova, Lucia	SVK 2006 1829.6731356 67.2887377 14940744

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 D`Amico, Nicola	SMR 1999 M 1642.9863713 69.9786867 11800437
+2 Cilenti, Giuseppe Maria	SMR 1989 M 1256.6055500 63.3530375 11800194

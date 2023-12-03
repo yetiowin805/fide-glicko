@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Gabbani, Sara	ITA 2004 1687.3815951 71.5663325 2842853
+2 Galli, Maria Vittoria	ITA 2006 1473.7130342 74.5155275 2853219

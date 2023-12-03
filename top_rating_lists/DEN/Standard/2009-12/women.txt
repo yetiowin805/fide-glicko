@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Fredericia, Louise	DEN 1970 2074.9650692 72.3043120 1404113
+2 Nielsen, Marianne Izaura	DEN 1985 1804.8838535 73.7603979 1413040

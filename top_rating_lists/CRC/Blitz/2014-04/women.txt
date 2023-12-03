@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Gamboa Alvarado, Olga Leticia	CRC 1990 1806.3205860 68.5110419 6502270
+2 Acevedo Mendez, Lisseth	CRC 1993 1747.5298426 73.7122175 6502938
+3 Salas Torres, Pamela	CRC 1998 1727.3643408 71.9610121 6505716
+4 Rodriguez Arrieta, Maria Elena	CRC 1990 1689.4079672 73.9615605 6502911

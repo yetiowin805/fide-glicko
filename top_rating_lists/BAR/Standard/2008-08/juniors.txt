@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Del Castilho, Martyn	BAR 1989 M 2172.1792256 69.0094988 11100400
+2 Cox, Akeem	BAR 1991 M 1650.2317725 73.6363109 11100087

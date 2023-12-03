@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Martinez Duany, Lelys Stanley	CUB 1985 M 2521.5892174 72.1985071 3504727
+2 Almeida Quintana, Omar	CUB 1981 M 2479.5867892 72.2714491 3503313

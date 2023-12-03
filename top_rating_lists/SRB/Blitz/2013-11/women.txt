@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Djukic, Sandra	SRB 1988 2182.9399435 62.7870918 931390
+2 Velickovski-Nejkovic, Maja	SRB 1973 2160.6409487 49.8052783 913618
+3 Miljkovic, Jovana	SRB 1999 1457.3031127 68.1489873 958336

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Karas, Eugenia	ENG 2008 1573.8616581 74.2847193 463485
+2 Rizvi, Zara	ENG 2009 1370.3562923 74.4038692 457035

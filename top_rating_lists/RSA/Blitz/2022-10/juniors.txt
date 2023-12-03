@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Smit, Devon	RSA 2005 M 1962.9573559 74.8992668 14330849
+2 Kruger, Neeke	RSA 2007 M 1560.9403413 73.5776896 14351633

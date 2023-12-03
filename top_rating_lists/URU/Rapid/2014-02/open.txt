@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Dominguez, Facundo	URU 1998 M 1701.5001873 70.7241667 3005178
+2 Dominguez Orono, Walter	URU 1963 M 1501.4781220 71.9983815 3004600

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Bjerre, Jonas Buhl	DEN 2004 M 2450.7707955 72.7546724 1444948
+2 Bekmukhanov, Sauran	DEN 2012 M 1683.1406488 67.4958766 1472844

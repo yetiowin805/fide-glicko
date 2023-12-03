@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Corke, Anya	ENG 1990 2298.7232606 48.5368478 6000347
+2 Thilaganathan, Jessica	ENG 1992 1791.3544115 69.5281320 414565

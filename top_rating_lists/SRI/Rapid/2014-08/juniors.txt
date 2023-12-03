@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Thilakarathne, G M H	SRI 2003 M 1670.6854975 74.3976310 9912053
+2 Rajapaksa, Miyuni Kavinya	SRI 2000 F 1615.7885355 51.1840217 9939210
+3 Rajapaksa, Inura	SRI 2005 M 1503.2709966 52.5461167 34178365

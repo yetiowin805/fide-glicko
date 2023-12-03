@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Terbe, Julianna	HUN 1997 2088.5867402 74.9100702 708780
+2 Simon, Lili	HUN 2000 1936.4453777 74.7109547 712159

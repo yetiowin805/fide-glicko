@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Londono Lopez, Donaldo	COL 2003 M 1834.1883507 72.2281100 4462009
+2 Salazar Grisales, Juan Jose	COL 2004 M 1816.6528427 74.7726786 4454588
+3 Hernandez Bermudez, Manuela	COL 2004 F 1729.3411048 68.0394758 4483103
+4 Ceballos Castellanos, Isabela	COL 2004 F 1564.2056149 73.3159474 4452410

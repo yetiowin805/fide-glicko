@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Lama, Surbir	NEP 1977 M 2004.1273609 74.3343274 5017432
+2 Dangol, Bijaya	NEP 1997 M 1880.1700534 72.6145410 12303038

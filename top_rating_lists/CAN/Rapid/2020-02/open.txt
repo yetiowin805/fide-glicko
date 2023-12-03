@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Hansen, Eric	CAN 1992 M 2493.2407210 73.1976272 2606771
+2 Spraggett, Kevin	CAN 1954 M 2411.8260110 61.9323653 2600013

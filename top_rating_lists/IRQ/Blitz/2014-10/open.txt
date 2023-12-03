@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Muhsen, Abdulla.mohmmed	IRQ 1989 M 2075.9487186 70.4299152 4801695
+2 Mohammed, Zozek Salah Mohammed	IRQ 1986 M 2067.6636309 71.1205571 4803361
+3 Rabeea, Sabah Nori	IRQ 2002 M 1588.4202497 74.6641188 4806212
+4 Ameer Dhafer Abdulameer	IRQ 2005 M 1454.5258887 71.3493239 4807537

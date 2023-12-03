@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Berezovsky, Fiorina	MNC 2007 1726.6627249 62.2557092 5400651
+2 Thoreux-Josso, Ambre	MNC 2009 1486.8797597 73.5172204 5400813

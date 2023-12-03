@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Menkinoski, Riste	MKD 1978 M 2251.9729021 55.9431727 15001261
+2 Ugrinovski, Kiro	MKD 1965 M 1810.6757877 47.1558118 15003507

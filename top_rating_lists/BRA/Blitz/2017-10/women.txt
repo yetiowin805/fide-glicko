@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Rating RD
+1 Da Cruz, Karoliny Taiane	BRA 1992 1621.5809802 72.8479698 2136910
+2 Santana Freitas, Maria Eduarda	BRA 2005 1596.8194690 63.1019146 2193787
+3 De Carvalho, Thais Ferreira Mont	BRA 2004 1594.0390869 74.0833368 2177773
+4 De Oliveira, Rafaela Farias	BRA 1997 1527.4262825 70.3284126 22713930
+5 Ribeiro, Jessica Maria da Silva	BRA 2000 1235.2015556 66.5740901 22701320

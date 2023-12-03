@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Miswadah, Baha	PLE 1981 M 1869.1576468 66.8881305 11502118
+2 Hashlmoun, Amjad	PLE 0000 M 1836.4128876 73.1474704 11502592

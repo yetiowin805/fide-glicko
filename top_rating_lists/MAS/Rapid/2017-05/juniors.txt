@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Chua, Jia-Tien	MAS 2003 F 1661.7484842 73.7141525 5710006

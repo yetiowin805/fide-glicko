@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Zhou, Jianchao	CHN 1988 M 2403.1807448 74.2667482 8603537
+2 Lu, Miaoyi	CHN 2010 F 1983.3601071 37.8748502 8618020

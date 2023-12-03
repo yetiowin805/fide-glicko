@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Studer, Noel	SUI 1996 M 2341.3053761 60.9789613 1319620

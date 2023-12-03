@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Baratosi, Daniel	ROU 1988 M 2443.9170987 48.0923000 1210351
+2 Chirila, Ioan Cristian	ROU 1991 M 2434.3187216 47.3908820 1211668

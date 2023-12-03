@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Spraggett, Kevin	CAN 1954 M 2389.0600615 68.1786274 2600013
+2 Soberov, Emil	CAN 2010 M 1845.7116774 59.4832931 34344217

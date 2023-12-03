@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Morales Flores, Monserrat	CHI 1994 1885.2814881 59.1127778 3412016
+2 Gomez Barrera, Javiera Belen	CHI 2002 1806.3414950 71.7933990 3418723
+3 Zuniga Lara, Catalina Paz	CHI 2000 1559.7101112 72.6181180 3423433
+4 Figueroa Bernal, Julia Dennis	CHI 2005 1525.9682665 73.3532030 3435300

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Arias, Daniel	ESA 1997 M 1852.6815238 74.8283497 6700640
+2 Sanchez, David	ESA 1997 M 1600.8220447 74.5498552 6701493

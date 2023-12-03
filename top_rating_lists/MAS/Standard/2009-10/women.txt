@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Nur, Nabila Azman Hisham	MAS  1729.3699395 64.0720824 5702135
+2 Haslindah, Ruslan	MAS 1970 1566.3812783 66.2271462 5702658

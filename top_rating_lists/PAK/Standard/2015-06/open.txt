@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Lodhi, Mahmood	PAK 1961 M 2272.4411191 62.7423954 7800010
+2 Siddiqui, Nida Mishraz	PAK 1987 F 1552.6322821 72.5970084 7800495

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Smith, Annesha	JAM 1988 1608.3113725 68.8599300 7400683
+2 Smith, Melisha	JAM 1987 1573.3538983 73.4550114 7400691

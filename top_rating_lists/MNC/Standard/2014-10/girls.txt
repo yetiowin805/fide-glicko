@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Chung, Mathilde	MNC 1999 1914.4805943 46.8968264 676446
+2 Lomandong Noela-Joyce	MNC 2001 1674.0710299 49.0938608 5400384

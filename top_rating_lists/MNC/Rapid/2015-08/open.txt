@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Villegas, Pierre	MNC 1992 M 2243.4962389 74.8414736 654183
+2 Aronin, Pavel	MNC 1979 M 2090.4349680 68.8771985 2810115
+3 Tortorella, Giancarlo	MNC 1968 M 1847.1877995 68.5948946 824909

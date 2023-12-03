@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Vovk, Oksana	DEN 1982 2097.2887492 70.3244443 1404695
+2 Frank-Nielsen, Marie	DEN 1986 1954.9853940 67.3501534 1409344

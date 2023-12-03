@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Mencos, Claudia	GUA 1991 1939.0653542 55.0524396 7300573
+2 Figueroa, Julissa	GUA 1989 1694.1665386 72.4389521 7300450

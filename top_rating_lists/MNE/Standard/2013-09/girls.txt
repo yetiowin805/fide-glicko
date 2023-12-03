@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Blagojevic, Tijana	MNE 1997 1967.8053081 54.0340296 16500270
+2 Bacic, Kristina	MNE 1995 1699.9320068 70.6805652 16500245

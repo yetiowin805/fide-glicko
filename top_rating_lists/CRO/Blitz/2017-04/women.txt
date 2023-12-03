@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Radikovic, Anamarija	CRO 2003 1620.7314690 73.2057927 14546264
+2 Bogdanic, Antonela	CRO 1998 1607.7797908 67.9404792 14538750

@@ -1,0 +1,12 @@
+Rank Name Federation BirthYear Rating RD
+1 Patino Garcia, Corals	VEN 1999 1851.0727875 74.2695562 3902781
+2 Brito Marquez, Sophia Valentina	VEN 2008 1620.2045104 67.6864273 3951529
+3 Velasquez Marin, Glaycell Daniela	VEN 2007 1598.0458900 71.4023124 3946762
+4 Ortiz Avila, Samantha Carolina	VEN 2005 1502.1483081 73.8349372 3947548
+5 Marin Murguey, Valentina Jatniel	VEN 2005 1488.7330312 58.7780779 3955478
+6 Hernandez Mora, Nohelia Virginia	VEN 2005 1475.6783554 51.9620125 3915344
+7 Luzardo Lopez, Aranza Victoria	VEN 2011 1400.1697158 56.7213800 3956733
+8 Quijada Delgado, Eliana Paola	VEN 2005 1381.4846542 60.7797228 3955494
+9 Rivera Salazar, Anmarie Giorgina	VEN 2007 1321.5403698 60.0855176 3974251
+10 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1309.9056851 61.2969844 3964051
+11 Larez Grinstein, Katherine Sofia	VEN 2007 1257.2934974 74.4681496 3965295

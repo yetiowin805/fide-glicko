@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kholikov, Kakhramon	UZB 1985 M 2019.3201997 46.3407198 14208989
+2 Akhmedjanov, Shavkat	UZB 1965 M 1834.4384778 58.8268557 14211955

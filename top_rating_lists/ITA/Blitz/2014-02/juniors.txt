@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Caprio, Guido	ITA 1994 M 2407.3933041 74.5877232 834580
+2 Miracola, Massimiliano	ITA 1995 M 1965.2545010 73.1673252 872423

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ribera Veganzones, Josep Maria	AND 2003 M 1898.8922974 72.6870373 6900763
+2 Ribera Veganzones, Serni	AND 2007 M 1810.3423923 69.3273662 6900860
+3 Martinez Gamiz, Marc	AND 2005 M 1725.5399023 74.4050194 6900976

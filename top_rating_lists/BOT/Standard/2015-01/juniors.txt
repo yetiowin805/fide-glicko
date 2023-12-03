@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Sasitharan, Abhiram	BOT 1999 M 1725.6763341 59.0214072 11301155
+2 Kathiresan, Amaresh	BOT 2002 M 1301.8032973 67.3463114 11301961

@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Cruz Lima, Kimberly Esmeralda	GUA 2001 1571.9629109 59.1701006 7301480
+2 Lopez L., Dairyn D.	GUA 2000 1462.3816045 67.0465943 7301502
+3 Rodriguez G., Adriana M.	GUA 2002 1394.1001119 73.8482344 7301642
+4 Santiago Sontay, Melanie Charlizze	GUA 2004 1360.1351619 74.4426671 7303157

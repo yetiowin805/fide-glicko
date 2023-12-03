@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Paehtz, Elisabeth	GER 1985 2498.4941811 54.5320295 4641833
+2 Osmanodja, Filiz	GER 1996 2060.3311478 69.7909688 24633569
+3 von Keyserlingk, Chanda	GER 1971 1530.9570951 74.3182580 1270299

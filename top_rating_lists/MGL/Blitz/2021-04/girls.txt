@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Munkhzul, Turmunkh	MGL 2002 2159.7790700 65.0141779 4901878
+2 Tsogzolmaa, Nanjid	MGL 2004 1939.4532877 73.4234299 4903099

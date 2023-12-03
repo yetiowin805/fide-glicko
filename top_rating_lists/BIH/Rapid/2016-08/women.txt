@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Hadziselimovic, Bernardina	BIH 1960 1790.9074145 69.9416737 14403455
+2 Maksimovic, Masa	BIH 2001 1751.6487031 69.8272932 14408902

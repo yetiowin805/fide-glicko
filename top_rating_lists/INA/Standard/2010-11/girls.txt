@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Sukandar, Irine Kharisma	INA 1992 2349.4069349 47.7791816 7101937
+2 Sihite, Chelsie Monica	INA 1995 1990.7087926 70.8004512 7101198
+3 Dewi, Aa Citra	INA 1994 1983.6512116 61.8880732 7101244

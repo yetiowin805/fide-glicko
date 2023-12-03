@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Khusenkhojaev, Muhammad	TJK 1987 M 2241.3605674 63.5124838 14700247
+2 Khusenkhojaev, Mustafokhuja	TJK 1998 M 2170.3046569 59.4380943 14700727
+3 Antonova, Nadezhda	TJK 1988 F 1849.7129715 66.2080011 14700182
+4 Fayzieva, Darina	TJK 2006 F 1453.4951806 46.4053825 14701960

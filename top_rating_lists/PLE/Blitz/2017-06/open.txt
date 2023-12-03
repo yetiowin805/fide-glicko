@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Raji Sayel,Abu Azizah	PLE 2006 M 1574.5520980 74.4028854 11503327
+2 Alqwasma, Mohamed	PLE 1980 M 1569.7434795 74.8407425 11501227

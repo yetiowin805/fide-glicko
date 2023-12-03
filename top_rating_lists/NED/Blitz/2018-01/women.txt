@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Haast, Anne	NED 1993 2251.2325325 61.4097767 1017292
+2 Harder, Cindy	NED 1971 1113.1154917 69.3862933 1053914

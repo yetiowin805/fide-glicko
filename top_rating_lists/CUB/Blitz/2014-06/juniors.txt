@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Lopez Gonzalez, Abel Fabian	CUB 1997 M 2021.1458886 73.1482847 3512673
+2 Bueno Perez, Jesus Angel	CUB 1997 M 1980.4824273 74.5188224 3515400

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Campos Astorga, Priscila	CRC 1999 1562.4376369 74.1951068 6515720
+2 Sierra Berrocal, Gabriela	CRC 2003 1486.1053359 74.6019447 6507271

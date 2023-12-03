@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Walta, Paivi	FIN 1955 1662.3237230 70.3002503 504513
+2 Tumanova, Irina	FIN 1996 1580.7949176 59.0290436 505102

@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Silva, Luis Neves Da	POR 1995 M 2176.1537997 70.0889534 1919121
+2 Cadeirinhas, David Eduardo Louro	POR 1994 M 1915.4997436 65.3131035 1905899
+3 Ferreira, Luis Pedro	POR 1998 M 1881.3229877 74.3709412 1925393
+4 Oliveira, Maria Ines	POR 1996 F 1831.0330374 74.5039313 1909436

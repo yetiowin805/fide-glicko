@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Avendano Porras, Rodrigo	CRC 1999 M 1880.4590483 61.0823669 6503357
+2 Cartin Aguilar, Luis Javier	CRC 2004 M 1779.3989027 73.1139350 6516858
+3 Meza Vega, Jose Antonio	CRC 2004 M 1580.3796848 69.4574171 6513697
+4 Baum Gutierrez, Ismael	CRC 1991 M 1498.3689718 69.4257387 6505392

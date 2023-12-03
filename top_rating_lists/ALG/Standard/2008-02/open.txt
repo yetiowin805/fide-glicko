@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rizouk, Aimen	ALG 1979 M 2512.6567078 42.3501347 7900309
+2 Arab, Adlane	ALG 1980 M 2379.6159646 55.0763351 7900872

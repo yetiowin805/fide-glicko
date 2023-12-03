@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Muhammed, Shuaau	MDV 1994 M 1894.8519907 74.6259830 16700406
+2 Ahmed, Fuad	MDV 1975 M 1699.9551308 70.9827640 16700023

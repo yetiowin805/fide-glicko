@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Urbina, Ricardo	HON 1977 M 2165.8110888 73.4080243 8400253
+2 Huguet, Sergio	HON 1970 M 2098.5608171 61.5003964 2212552

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Mencos, Claudia	GUA 1991 1927.1797339 68.3910389 7300573
+2 Sotomayor Villatoro, Silvi	GUA 1989 1713.8387774 74.4428006 7301057
+3 Mencos Castillo, Maria	GUA 1996 1684.4216838 69.8402342 7300867

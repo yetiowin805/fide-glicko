@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Alnami, Salaheddin	LBA 1993 M 1756.2006018 68.4778547 9200959
+2 El Mashaili, Khalil	LBA 1994 M 1741.9352194 74.0891125 9200525

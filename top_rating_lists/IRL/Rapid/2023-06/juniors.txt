@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 O`cuilleanain, Oisin	IRL 2004 M 1817.9851514 69.9510548 2514249
+2 Cole, Ethan	IRL 2012 M 1640.7100387 59.4902460 2514818
+3 Rolston, Daniel Haruma	IRL 2009 M 1616.4650227 65.4986942 2511258

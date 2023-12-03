@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Zohar, Iddo	USA 2002 M 1457.7462292 64.3904900 2080923
+2 El-Bittar, John Fadi	USA 2007 M 1350.5181266 73.8304902 30919886
+3 Kunnavakkam, Sudarshanagopal Vin	USA 2006 M 1337.8083647 69.2869118 30926580

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Kobak, Polina	ARM 2008 1677.8467998 66.7342068 24269727
+2 Nadanyan, Kiti	ARM 2004 1664.8503520 50.4033059 13316710

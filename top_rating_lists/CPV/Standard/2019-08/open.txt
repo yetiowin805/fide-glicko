@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Moes Joaquim, Carlos	CPV 1953 M 1619.8784100 66.8849448 1928104
+2 Gomes Reis, Marcello	CPV 2002 M 1571.5494900 73.9048436 23600217

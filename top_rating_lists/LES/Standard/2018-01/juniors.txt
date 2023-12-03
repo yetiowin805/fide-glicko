@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Malillo Phera	LES 2005 F 1401.8499526 70.2996580 21300763
+2 Naleli Mcpherson	LES 1998 F 1266.3010606 72.9873289 21300178

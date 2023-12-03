@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Giri, Anish	NED 1994 M 2693.2424334 74.8771090 24116068
+2 Tiviakov, Sergei	NED 1973 M 2592.1605539 74.7796931 1008013

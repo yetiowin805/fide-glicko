@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mateu Guiu, Esteve	AND 1992 M 2004.3730604 72.7929547 22270728
+2 Casanovas Cantarero, Eric	AND 1997 M 1637.6983314 70.1036558 6900445

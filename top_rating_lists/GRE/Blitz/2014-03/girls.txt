@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Tsolakidou, Stavroula	GRE 2000 1950.0789857 69.4857745 4264312
+2 Pasoglou, Ekaterini	GRE 2000 1565.2280425 67.6479624 4247663
+3 Kalyva, Kyriaki	GRE 2002 1521.2584223 56.4010717 4271181
+4 Hrysogelou, Athanasia-Panagiota	GRE 2002 1444.4741648 70.3454975 4270410

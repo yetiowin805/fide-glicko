@@ -1,0 +1,9 @@
+Rank Name Federation BirthYear Rating RD
+1 Gomez Barrera, Javiera Belen	CHI 2002 1923.8275354 72.3833802 3418723
+2 Sanchez Tobar, Francisca Valenti	CHI 2004 1649.9083232 65.8362443 3431304
+3 Hormazabal Figueroa, Constanza Valentina	CHI 2004 1583.4431331 70.2785046 3435679
+4 Aguilera Merlet, Melisa Paz	CHI 2002 1554.7256584 74.4822984 3431215
+5 Abdala Cancino, Patricia Anastas	CHI 2006 1530.1354777 70.1912176 3424634
+6 Mundaca Bermedo, Pia	CHI 2007 1457.8739757 73.4764066 3430170
+7 Rozas Lazcano, Valeska	CHI 2003 1370.6471085 70.3931684 3438910
+8 Villegas Ampuero, Consuelo	CHI 2008 1301.8142153 71.5296723 3433129

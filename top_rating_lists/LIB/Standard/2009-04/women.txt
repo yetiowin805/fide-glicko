@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Mouradian, Knarik	LIB 1983 2181.0156359 74.7536126 5300517
+2 Jalloul, Maya M.	LIB 1990 1820.5016239 72.9541958 5300800

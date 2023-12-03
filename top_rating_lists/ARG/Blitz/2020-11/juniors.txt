@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Borda Rodas, Anapaola S.	ARG 2004 F 1767.1743343 74.2036328 152781
+2 Goldwasser, Jonathan	ARG 2006 M 1760.0959621 69.9449874 176214
+3 Minvielle, Nehuen Alexis	ARG 2003 M 1704.5671065 70.1260910 181749
+4 Scarsi, Anna Laura	ARG 2006 F 1588.5574487 74.4530929 159328

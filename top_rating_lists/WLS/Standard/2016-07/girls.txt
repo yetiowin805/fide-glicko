@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Camp, Imogen A L	WLS 2001 1592.4112885 61.6926488 1802240
+2 Sivarajasingam, Venetia	WLS 2005 1556.4927100 59.8059189 1802895
+3 Sivarajasingam, Shayanna	WLS 2002 1514.4986657 58.0021646 1802887
+4 Lutchman Singh, Aishwarya	WLS 2003 1295.4856024 70.4411858 1803077

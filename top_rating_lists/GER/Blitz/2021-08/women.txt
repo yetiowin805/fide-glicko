@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Muetsch, Annmarie	GER 2002 2149.7662501 73.8558122 12971367
+2 Roesler, Hannah Clara	GER 1999 1604.1043138 73.3870097 12983500

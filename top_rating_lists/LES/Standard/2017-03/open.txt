@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Latela, Kananelo	LES 1996 M 1750.2611338 67.0283899 14317206
+2 Khalema, Sechaba	LES 1996 M 1655.2093039 68.9497107 14317176

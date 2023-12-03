@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Saraci, Rinesa	KOS 2005 1462.4113797 56.6885510 4701976
+2 Recica, Jona	KOS 2008 1335.2375104 65.6232416 22105239

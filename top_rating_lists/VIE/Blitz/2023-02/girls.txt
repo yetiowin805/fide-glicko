@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Nguyen, Thien Ngan	VIE 2005 1879.8988431 71.0158316 12414816
+2 Vu, Bui Thi Thanh Van	VIE 2005 1869.6752079 73.3953416 12408921

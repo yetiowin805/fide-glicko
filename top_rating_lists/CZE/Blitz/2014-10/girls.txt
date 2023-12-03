@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Zpevakova, Jana	CZE 1994 1902.9077466 71.8927491 334030
+2 Sabolova, Kristyna	CZE 1995 1712.1306329 74.0058269 332305

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Esadze, Tamari	GEO 2003 F 1998.9691785 71.3701404 13611186
+2 Tsotsonava, Elene	GEO 2005 F 1847.4175146 74.1963857 13615939

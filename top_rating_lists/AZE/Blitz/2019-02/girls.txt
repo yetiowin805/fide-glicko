@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Beydullayeva, Govhar	AZE 2003 1983.5280045 65.3359114 13413015
+2 Heydarova, Aytaj	AZE 2002 1737.2938019 73.7034847 13409999

@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Vaglio Mattey, Emanuel	CRC 1997 M 2104.0087346 71.9778393 6504167
+2 Jimenez Garcia, Emmanuel	CRC 1997 M 2090.1938609 74.8003392 6504779
+3 Solano Cuya, Bryan	CRC 1996 M 1984.5018899 72.7619318 6504299
+4 Murillo Gonzalez, Carlos E	CRC 1998 M 1834.5916157 69.2952785 6504892

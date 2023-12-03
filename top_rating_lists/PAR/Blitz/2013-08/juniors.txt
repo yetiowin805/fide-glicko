@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Villalba, Marcelo	PAR 1994 M 2155.7933031 74.6309835 3701859
+2 Roman, Rodrigo	PAR 1994 M 2060.4355375 73.2336954 3701220

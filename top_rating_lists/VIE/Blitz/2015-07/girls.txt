@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Pham, Tran Gia Thu	VIE 2004 1619.5937212 74.2150423 12404802
+2 Nguyen, Ngan Ha	VIE 2005 1588.1491319 74.8740182 12411779

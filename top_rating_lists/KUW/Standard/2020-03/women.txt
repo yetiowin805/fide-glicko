@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Alawadhi, Amenah	KUW 1980 1427.3273409 58.3863423 10301100
+2 Alazmi, Aeshah	KUW 2004 1231.6451805 72.1293056 10302875

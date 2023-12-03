@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Savant, Riya	IND 2000 1823.2322299 72.0919088 5067359
+2 Rakshitta Ravi	IND 2005 1524.3811042 74.3697346 25073230

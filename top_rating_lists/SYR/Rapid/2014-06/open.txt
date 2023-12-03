@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Haj-Bakkor, Mohamed	SYR 1980 M 2121.4282203 72.0978504 7601611
+2 Al Jabri, Mohammed Ali	SYR 0000 M 1854.0096593 73.6549230 7604734

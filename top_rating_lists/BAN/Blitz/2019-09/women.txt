@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Noshin, Anjum	BAN 2004 1653.0348816 70.8831489 10218564
+2 Warsia, Khusbu	BAN 2012 1510.2081393 73.5864943 10231668

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Antonova, Nadezhda	TJK 1988 F 1824.1267085 51.4036414 14700182
+2 Ashurov, Ibrokhim	TJK 2009 M 1616.8981626 72.7806028 14701715

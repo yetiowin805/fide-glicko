@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Cramling, Pia	SWE 1963 2526.2174650 51.4709296 1700030
+2 Agrest, Inna	SWE 1991 2281.2334189 70.6929315 1708830

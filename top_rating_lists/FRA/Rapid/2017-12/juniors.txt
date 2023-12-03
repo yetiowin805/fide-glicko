@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Haussernot, Cecile	FRA 1998 F 2161.2135799 70.5256035 601632
+2 Volkov, Andreiy	FRA 2007 M 1388.7321330 71.6965501 45144079

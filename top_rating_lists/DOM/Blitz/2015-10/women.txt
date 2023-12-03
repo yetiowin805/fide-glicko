@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Diaz Cesar, Wilsaida Pieranlly	DOM 1991 1744.9471289 74.0644614 6403557
+2 Moronta Ramos, Dianelva	DOM 1980 1257.7651443 72.6511799 6408109

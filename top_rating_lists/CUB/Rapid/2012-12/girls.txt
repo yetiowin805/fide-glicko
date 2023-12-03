@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Cancio-Bello Ayes, Flavia	CUB 1993 1985.1487223 74.8485062 3512070
+2 Fonte Sanchez, Paula	CUB 1997 1920.1868315 70.6619107 3509729
+3 Rodriguez Caballero, Mayrelis	CUB 1996 1826.1839121 72.7283334 3514072

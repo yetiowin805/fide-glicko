@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Zimina, Olga	ITA 1982 2215.4251298 73.8132407 4132190
+2 De Filomeno, Elisa	ITA 1999 1346.7530111 69.1392778 875805

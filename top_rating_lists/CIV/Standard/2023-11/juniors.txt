@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ayemou Mazan Emmanuela Esther	CIV 2008 F 1675.1594572 63.4969551 20803036
+2 Yavo Tchetche, Marie	CIV 2005 F 1491.3460224 72.8716901 20800266
+3 Ayemou Akissi Victoire Sinchie	CIV 2013 F 1397.0678998 65.7694780 20803044

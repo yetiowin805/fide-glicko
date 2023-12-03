@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mlawa, Hemed	TAN 0000 M 1688.2834349 68.0861468 10002251
+2 Hassuji, Nurdin	TAN 1976 M 1640.1821615 70.3714047 10001670

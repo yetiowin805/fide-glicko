@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Karas, Marek	SVK 1999 M 2042.4451498 70.7595252 14928558
+2 Druska, Robert	SVK 1998 M 1655.2527684 73.0223273 14932504

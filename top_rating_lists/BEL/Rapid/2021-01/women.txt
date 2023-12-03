@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Navez, Alice	BEL 2005 1600.1003094 70.7513902 252336
+2 Peeters, Simonne	BEL 1959 1552.8655049 69.5583410 207420

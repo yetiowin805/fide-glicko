@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Charles, Cleophas	TAN 2002 M 1579.0886937 72.4686500 21600511
+2 Taher, Hassuji	TAN 2003 M 1466.0729566 71.8745242 21600546

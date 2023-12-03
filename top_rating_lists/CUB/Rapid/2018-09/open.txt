@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Dominguez Perez, Leinier	CUB 1983 M 2797.4418477 63.4028744 3503240
+2 Martinez Duany, Lelys Stanley	CUB 1985 M 2531.7566406 72.0308331 3504727
+3 Arencibia Rodriguez, Walter	CUB 1967 M 2462.7820359 73.5563151 3500012
+4 Garcia Pantoja, Roberto	CUB 1992 M 2406.1134102 66.6899984 3509265
+5 Alonso Bouza, Julio Javier	CUB 1989 M 2238.3502240 70.7795413 3508889

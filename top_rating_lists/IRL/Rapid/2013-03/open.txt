@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Twomey, Pat	IRL 1950 M 1692.2083259 70.8892709 2501937
+2 Breen, Anthony	IRL 1975 M 1584.8408398 74.4504122 2503174

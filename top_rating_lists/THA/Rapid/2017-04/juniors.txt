@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Prasitsoonthorn, Teerachoti	THA 2003 M 1735.4225155 63.7008843 6204422
+2 Asavasaetakul, Chawit	THA 2003 M 1505.6274734 69.7436327 6204856

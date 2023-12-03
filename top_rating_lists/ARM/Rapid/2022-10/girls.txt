@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Abajyan, Lika	ARM 2007 1701.7235195 73.6509065 13316745
+2 Kobak, Polina	ARM 2008 1657.1653874 74.3584185 24269727

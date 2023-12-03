@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Takali Milly	UGA 1994 1504.3574476 66.8159736 10010173
+2 Nabacwa Allen Kyolaba	UGA 1999 1412.7639153 74.9351404 10012257

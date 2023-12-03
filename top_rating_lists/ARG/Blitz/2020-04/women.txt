@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Semprevivo, Florencia	ARG 1990 1916.9960826 73.3685128 173649
+2 Francisco Guecamburu, Candela Be	ARG 2006 1770.7970398 71.4756745 160911
+3 Borda Rodas, Anapaola S.	ARG 2004 1767.1743343 61.5814495 152781
+4 Scarsi, Anna Laura	ARG 2006 1588.5574487 61.8787383 159328

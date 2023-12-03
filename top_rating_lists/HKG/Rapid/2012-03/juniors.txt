@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Lee, T H Bryan	HKG 1995 M 1871.8992399 69.5896996 6000584
+2 Wong, Enoch Yat-long	HKG 1995 M 1573.4836338 73.9446784 6001246

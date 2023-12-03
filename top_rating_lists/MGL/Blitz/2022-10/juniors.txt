@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Batbold, Nyamsuren	MGL 2005 M 2054.1222045 57.1671753 4903331
+2 Tumur-Ochir, Duluu	MGL 2006 M 1817.7989384 51.3734522 4918657

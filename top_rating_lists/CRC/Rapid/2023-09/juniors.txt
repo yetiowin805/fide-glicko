@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Diaz Charpentier, Kristel Meliss	CRC 2004 F 1861.1747834 73.2820219 6511708
+2 Ramos Rodriguez, Daniel	CRC 2009 M 1644.5966023 67.5548493 6511635

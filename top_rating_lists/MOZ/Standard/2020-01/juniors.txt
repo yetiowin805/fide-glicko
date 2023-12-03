@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Vasco Mateus Felizardo Viageiro	MOZ 2003 M 1779.6490840 60.5681713 14800403
+2 Celso Andre Manjate	MOZ 2001 M 1725.0684769 74.1667866 14800802

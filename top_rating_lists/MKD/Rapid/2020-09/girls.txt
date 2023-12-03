@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ajradinoska, Indzi	MKD 2006 1419.0246591 71.7702867 15006247
+2 Zhezhovska, Monika	MKD 2008 1402.9956253 74.6290450 15007588

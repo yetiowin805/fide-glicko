@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Tate, Alan	SCO 1979 M 2336.3170697 69.3317188 2401878

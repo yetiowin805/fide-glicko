@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mihailovs, Jurijs	LAT 1989 M 2429.5410205 73.8795673 11601531
+2 Skinke, Katrina	LAT 1991 F 2291.9224826 67.3263212 11602260

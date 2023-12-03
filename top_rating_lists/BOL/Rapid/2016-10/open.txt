@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Quiroga, Walter Gonzalo	BOL 1956 M 1467.6973482 72.6340945 3308103

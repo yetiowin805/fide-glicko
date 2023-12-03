@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Heidenfeld, Mark	IRL 1968 M 2367.1891068 54.2879200 2500990
+2 Bennett, Eric	IRL 1977 M 1855.9647613 68.0186082 2501384

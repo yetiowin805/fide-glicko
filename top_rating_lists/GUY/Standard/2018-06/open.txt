@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Drayton, Anthony	GUY 1994 M 1922.3311171 66.2819790 19700261
+2 Varona-Thomas, Maria	GUY 1967 F 1693.0652509 74.2097352 19700288

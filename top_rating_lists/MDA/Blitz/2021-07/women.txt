@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Manitcaia, Alina	MDA 2000 1672.3934397 55.7036681 13907433
+2 Bargan, Victoria	MDA 2007 1598.9153823 73.1409277 13908197

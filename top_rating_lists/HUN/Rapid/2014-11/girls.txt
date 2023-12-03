@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Varga, Klara	HUN 1994 2100.4437003 70.4831733 733210
+2 Terbe, Zsuzsanna	HUN 1997 1844.7695788 74.5564316 708801

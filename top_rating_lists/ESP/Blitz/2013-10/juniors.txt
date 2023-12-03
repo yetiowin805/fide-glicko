@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Martinez Ramirez, Erik	ESP 1994 M 2187.4964290 73.5130834 22202366
+2 Ortega Lopez, Mikel	ESP 1999 M 1885.8835458 73.5427425 22252878
+3 Santos Martinez, Guillermo	ESP 1998 M 1810.9801924 67.1891278 22287825

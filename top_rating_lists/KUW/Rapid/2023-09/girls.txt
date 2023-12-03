@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Alazmi, Aeshah	KUW 2004 1446.5333269 74.1318260 10302875
+2 Alhasan, Zainah	KUW 2011 1430.0166490 56.2009294 10303472

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Tipter, Napoleon	FID  M 2010.5036957 65.7028432 1209019
+2 Mysik, Natalia	FID 1966 F 1677.6999184 73.0914967 13505084

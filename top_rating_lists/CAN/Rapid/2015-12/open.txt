@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Hansen, Eric	CAN 1992 M 2548.4135017 66.9397954 2606771
+2 Krnan, Tomas	CAN 1988 M 2456.9042184 71.1058684 14905361

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Khademalsharieh, Sarasadat	IRI 1997 F 2177.2242319 73.3180412 12512214
+2 Fendereski, Nima	IRI 2001 M 1875.2836960 72.6428836 12533807
+3 Derakhshani, Borna	IRI 2002 M 1762.7431895 66.4324360 12518450

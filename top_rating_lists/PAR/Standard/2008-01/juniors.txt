@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Bachmann, Axel	PAR 1989 M 2538.0558798 49.4229134 3700488
+2 Zacarias, M Ruben D	PAR 1988 M 2150.6345756 73.5399564 3700755

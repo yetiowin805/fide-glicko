@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Dull, Amanda Paul	BRA 1994 1729.5274882 73.6705400 2128586
+2 Da Cruz, Karoliny Taiane	BRA 1992 1635.5097946 57.3609083 2136910
+3 Santana Freitas, Maria Eduarda	BRA 2005 1496.5472260 64.8656369 2193787
+4 Balbys, Fernanda Santoro Boscard	BRA 2002 1330.1058348 71.9371997 2172950

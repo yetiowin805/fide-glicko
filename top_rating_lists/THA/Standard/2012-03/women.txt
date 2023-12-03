@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Taweesupmun, Chanida	THA 1984 1616.2301466 68.4317021 6200117
+2 Atthaworadej, Worasuda	THA 1999 1443.0235074 61.3309590 6201563

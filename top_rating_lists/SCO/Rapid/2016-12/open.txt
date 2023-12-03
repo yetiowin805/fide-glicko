@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Turner, Matthew J	SCO 1975 M 2498.6155333 74.7633030 402893
+2 Torrance, John	SCO 1946 M 1463.7765063 74.2046061 418099

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Hoshino, Karen	JPN 2001 1659.0196842 54.7525661 2137984
+2 Hoshino, Meilin	JPN 2005 1330.5290129 56.6858776 7001690

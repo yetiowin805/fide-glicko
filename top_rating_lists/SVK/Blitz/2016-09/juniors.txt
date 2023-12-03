@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Karas, Marek	SVK 1999 M 2074.8609780 54.1584286 14928558
+2 Jablonicky, Martin	SVK 1999 M 1988.2913169 70.0038003 14925621
+3 Kostolansky, Sebastian Lukas	SVK 2006 M 1858.8274583 68.5013766 14950596

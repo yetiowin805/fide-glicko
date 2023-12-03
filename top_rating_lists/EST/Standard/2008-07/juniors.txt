@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Volodin, Aleksandr	EST 1990 M 2428.9282387 63.0863968 4501950
+2 Vovk, Ilja	EST 1988 M 2161.0912075 73.3703990 4501764

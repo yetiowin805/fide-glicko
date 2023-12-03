@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mesfin, Leykun	ETH 1976 M 1951.2531566 74.2569793 15700097
+2 Haile , Lidet Abate	ETH 1996 F 1654.9015165 74.8083158 15702073

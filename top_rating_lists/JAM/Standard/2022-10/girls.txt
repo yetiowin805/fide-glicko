@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Brown, Raehanna	JAM 2005 1693.7631450 70.3647430 7402740
+2 Watson, Gabriella	JAM 2007 1523.5513015 65.2760714 7402538

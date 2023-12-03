@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rodriguez Vila, Andres	URU 1973 M 2581.5975933 44.8935640 3000010
+2 Roselli Mailhe, Bernardo	URU 1965 M 2447.6389450 48.3617771 3000028
+3 Granara Barreto, Sebastian A.	URU 1978 M 2315.7303462 73.1815905 3000494
+4 Guerrero, Alvaro	URU 1975 M 2275.4926150 65.7474473 3000478

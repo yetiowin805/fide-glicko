@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Corrales Jimenez, Zenia	CUB 1989 2143.3745409 60.1918770 3506355
+2 Cancio-Bello, Flavia	CUB 1993 1989.0452368 74.3672582 3512070

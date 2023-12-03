@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Del Castilho, Martyn	BAR 1989 M 2079.1807432 71.6375268 11100400
+2 Figueroa, Julissa	BAR 1989 F 1593.8730832 72.8206102 7300450

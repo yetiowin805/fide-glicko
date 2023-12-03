@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Amina, Battsooj	MGL 2001 1760.9319659 66.8107145 4902661
+2 Tsogzolmaa, Nanjid	MGL 2004 1683.5972649 70.1172356 4903099

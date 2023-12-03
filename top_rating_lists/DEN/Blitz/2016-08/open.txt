@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Jensen, Thore Nyboe	DEN 1961 M 1876.5803927 70.9401333 1405349

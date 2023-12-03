@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Varga, Klara	HUN 1994 2189.8314541 67.4726069 733210
+2 Juhasz, Barbara	HUN 1995 2003.9247167 73.8522748 743585

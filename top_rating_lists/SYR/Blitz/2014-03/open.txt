@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Iyti, Basher	SYR 1995 M 2176.4246343 74.3081504 7601875
+2 Rafee, Mohd Hayel	SYR 0000 M 1856.0408916 74.7581378 7603126

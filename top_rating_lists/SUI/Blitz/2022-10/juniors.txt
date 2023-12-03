@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Frey,Fabian	SUI 2003 M 1886.4827806 74.4385598 1336487
+2 Avilova, Yulia	SUI 2004 F 1656.5956532 69.7988020 34166073

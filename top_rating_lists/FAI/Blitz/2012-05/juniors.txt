@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Nielsen, Rogvi Egilstoft	FAI 1992 M 2118.3747271 71.4173404 7200447

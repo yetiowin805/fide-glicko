@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Schitco, Ivan	MDA 2003 M 2335.2505426 59.9898335 13905465
+2 Martinovici, Ilie	MDA 2003 M 2216.0730551 72.0803530 13907034

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Hartman, James	SCO 2005 M 1555.4797433 74.1289179 2405466
+2 Connolly Sams, Dietah	SCO 2005 M 1486.6274338 72.7625331 2405075

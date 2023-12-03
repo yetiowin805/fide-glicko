@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Al-Tarbosh, Ward	SYR 1995 M 2171.9731279 64.4373143 7601450
+2 Iyti, Basher	SYR 1995 M 2138.6231135 60.2574313 7601875

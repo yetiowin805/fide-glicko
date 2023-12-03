@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Khalil, Manar	SYR 2000 1723.8822286 73.9423430 7604661
+2 Rafea, Dalaa	SYR 2003 1449.8814373 71.8575323 7604165

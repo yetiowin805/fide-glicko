@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kannappan, Thanneermalai	HKG 2008 M 1528.0976838 74.3649984 6003648
+2 Lam, Chun Yung Samuel	HKG 2010 M 1479.5038041 74.7948076 6004431
