@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Polanco Fernandez, Sahiean	DOM 2011 M 1695.9223168 62.9271300 6425240
+2 Lara Santos, Angel Sebastian	DOM 2012 M 1669.4129663 74.0857468 6430910
+3 Polanco Fernandez, Reynie	DOM 2009 M 1593.5577171 62.8466506 6424821

@@ -56,6 +56,6 @@ countries = [
 ]
 
 for country in countries:
-    for year in range(2023,2024):
-        for month in range(12,13):
+    for year in range(2024,2025):
+        for month in range(1,2):
             scrape_fide_data(country,month,year)

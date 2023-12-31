@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Wang, Yushin Andrea	TPE 2009 1380.4330402 69.3686819 16303580
+2 Wu, Pei-Xuan	TPE 2010 1365.8270638 74.7771993 16304268

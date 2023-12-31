@@ -119,9 +119,9 @@ if __name__ == "__main__":
     #     for month in range(1,13):
     #         for country in countries:
     #             tasks.append((country, month, year))
-    for month in range(12,13):
+    for month in range(1,2):
         for country in countries:
-            tasks.append((country, month, 2023))
+            tasks.append((country, month, 2024))
 
     # Number of processes to use
     num_processes = 6 # Adjust this as necessary

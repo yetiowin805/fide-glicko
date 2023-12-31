@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Alharthi, Ahmed Mohammed A	KSA 2005 M 1891.9863432 67.0250524 21522642
+2 Aljameel, Sultan Anwar	KSA 2005 M 1677.5902921 67.6457815 21525692

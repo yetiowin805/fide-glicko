@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Huang, Huan-Ting	TPE 2005 M 1598.9767406 65.1594829 16301714
+2 Sun, Chang-Jyu	TPE 2010 M 1555.9692888 67.6363270 16303466

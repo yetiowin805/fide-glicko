@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ribera Veganzones, Serni	AND 2007 M 2082.6193890 57.5691040 6900860
+2 Ercoli, Andria	AND 2010 M 1652.5194433 71.6296081 45166412

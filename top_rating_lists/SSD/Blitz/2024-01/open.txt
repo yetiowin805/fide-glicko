@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Panchol, James Madol	SSD 1995 M 1965.8946210 56.8044737 10806253
+2 Adol Makuach Dau	SSD 2003 M 1827.9934213 68.5560549 32501145
