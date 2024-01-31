@@ -1,0 +1,9 @@
+Rank Name Federation BirthYear Rating RD
+1 Lobo Jimenez, Mariana Esther	PAN 2008 1755.4041093 61.5628456 6605516
+2 Chavarria Troya, Keytleen Denis	PAN 2011 1716.6842962 58.7691270 6608345
+3 Lobo Jimenez, Marielys Judith	PAN 2007 1621.3867344 68.1846254 6605508
+4 Cruz Quintanilla, Marianela	PAN 2010 1621.0385233 72.9774757 6616208
+5 Urriola Torres, Valentina	PAN 2010 1610.6835895 68.5615695 6614787
+6 Mendez Machado, Fatima	PAN 2011 1591.9836794 74.2023589 6606970
+7 Montezuma Camarena, Dayana Cristel	PAN 2009 1571.0234716 60.3735761 6611060
+8 Almengor De Gracia, Danahe Renee	PAN 2009 1484.6685578 67.8508111 6612741

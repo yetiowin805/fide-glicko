@@ -104,9 +104,9 @@ if __name__ == "__main__":
     progress_bar = tqdm(total=total_iterations, desc="Generating tasks")
 
     for year, month, time_control in itertools.product(
-        range(2023, 2025), range(1, 13), ["Standard", "Rapid", "Blitz"]
+        range(2024, 2025), range(1, 13), ["Standard", "Rapid", "Blitz"]
     ):
-        if (year == 2024 and (month > 1)) or (year == 2007 and month < 9):
+        if (year == 2024 and (month > 2)) or (year == 2007 and month < 9):
             progress_bar.update(1)
             continue
 

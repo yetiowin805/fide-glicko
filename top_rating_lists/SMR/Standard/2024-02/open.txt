@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Leardini, Mirko	SMR 1984 M 1541.0885644 64.0842806 11800470
+2 Cilenti, Giuseppe Maria	SMR 1989 M 1316.2046006 68.9368518 11800194

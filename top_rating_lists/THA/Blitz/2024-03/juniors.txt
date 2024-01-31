@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Laohawirapap, Prin	THA 2006 M 2096.4764755 59.4930552 6205003
+2 Jiroajvanichakorn, Rathasart	THA 2009 M 1698.2504951 72.0736139 6208924
+3 Kaewwattha, Natrada	THA 2007 F 1579.7942459 53.1145208 6212174
+4 Leksukhum, Torne	THA 2011 M 1531.8502143 64.5165902 6214681

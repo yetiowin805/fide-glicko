@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Callender, Jessica	GUY 2002 1437.8510946 73.0390053 19700547
+2 Shariff, Sasha Christina	GUY 2003 1416.9203865 71.4947290 19700687
+3 Clement, Ciel Desiree	GUY 2009 1394.5092821 71.8334931 19702124

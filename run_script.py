@@ -3,11 +3,11 @@ import shutil
 
 def run_glicko(folder, start_year, start_month):
 
-    for year in range(start_year, 2024):
+    for year in range(start_year, 2025):
         # For the start year, use the provided start month. For other years, start from January.
         start_m = start_month if year == start_year else 1
         
-        end_m = 1 if year == 2024 else 12
+        end_m = 2 if year == 2024 else 12
 
         for month in range(start_m, end_m + 1):
             player_info_path = f"./player_info/{year:04d}-{month:02d}.txt"
@@ -55,9 +55,9 @@ def main():
     # run_glicko("Rapid", 2011, 12)
     # run_glicko("Blitz", 2011, 12)
 
-    run_glicko("Standard", 2023, 12)
-    run_glicko("Rapid", 2023, 12)
-    run_glicko("Blitz", 2023, 12)
+    run_glicko("Standard", 2024, 1)
+    run_glicko("Rapid", 2024, 1)
+    run_glicko("Blitz", 2024, 1)
 
 if __name__ == "__main__":
     main()

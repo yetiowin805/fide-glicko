@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Acuna Nunez, Ignacio	CRC 2008 M 1768.6304199 73.0939155 6513824
+2 Campos Munoz, Valentina	CRC 2010 F 1665.1921932 73.4877533 6534961
+3 Ramos Rodriguez, Daniel	CRC 2009 M 1658.3082130 64.8040028 6511635

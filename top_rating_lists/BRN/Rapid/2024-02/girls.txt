@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Almusawi, Maram	BRN 2008 1503.4031287 72.1540523 11205458
+2 Obaid, Sondos	BRN 2007 1251.6867645 68.1713622 11205377

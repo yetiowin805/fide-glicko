@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Espinoza, Jose	NCA 0000 M 1975.2195172 74.7270794 6100511
+2 Vanegas Lopez, Natanael Emanuel	NCA 2006 M 1851.9751236 73.4332064 6108326
+3 Espinoza Guerrero, Felix Alberto	NCA 2009 M 1675.5711133 73.6773086 6104762
+4 Granados Ortiz, Maria Jose	NCA 2001 F 1623.1913446 70.6887050 6103812

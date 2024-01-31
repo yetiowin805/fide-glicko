@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Heron, Andrew	LIE 2007 M 1712.5768970 53.3211873 12000213
+2 Sele, Timea	LIE 2005 F 1457.2349594 67.5602564 1343424

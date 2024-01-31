@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Gurung, Purnima	NEP 2009 1612.1383703 73.9403156 12329754
+2 Maharjan, Angel	NEP 2011 1528.8138692 74.2105007 12334340

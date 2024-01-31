@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Kosteniuk, Alexandra	SUI 1984 2385.2232574 54.6959606 4128125
+2 Hryzlova, Sofiia	SUI 2004 1978.3604819 66.6639183 14174669

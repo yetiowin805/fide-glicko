@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Baba, Masahiro	JPN 1984 M 2115.1970122 72.2545331 7000766
+2 Rolston, Daniel Haruma	JPN 2009 M 1687.7826986 62.5617339 2511258

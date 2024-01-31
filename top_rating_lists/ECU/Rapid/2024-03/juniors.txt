@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Romero Acevedo, Jozef Isaac	ECU 2012 M 1661.8854628 64.5678820 3647048
+2 Melena Salvador, Alan Jesus	ECU 2009 M 1541.8228256 74.6305840 3650731
