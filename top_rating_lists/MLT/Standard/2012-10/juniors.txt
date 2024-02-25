@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Darmanin, Jake	MLT 1994 M 1764.4830993 67.7815255 5601061
+1 Darmanin, Jake	MLT 1994 M 1732.9786892 67.3184782 5601061

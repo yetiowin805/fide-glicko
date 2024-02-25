@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ahmed Holi Ali, Moawia	SUD 1980 M 1910.9410642 72.2432768 12200328
+1 Tagelsir , Abubaker	SUD 1982 M 1946.2123331 74.8081273 12200875
+2 Ahmed Holi Ali, Moawia	SUD 1980 M 1890.9601888 71.1337498 12200328

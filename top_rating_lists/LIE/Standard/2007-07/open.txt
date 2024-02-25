@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Atlas, Dimitry	LIE 1968 M 2230.2360899 70.6646815 12000051

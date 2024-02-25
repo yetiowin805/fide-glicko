@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Santos Martinez, Guillermo	ESP 1998 M 1810.9801924 69.0056188 22287825
+1 Ortega Lopez, Mikel	ESP 1999 M 1852.5762731 74.7052794 22252878
+2 Santos Martinez, Guillermo	ESP 1998 M 1797.4735303 68.8537371 22287825

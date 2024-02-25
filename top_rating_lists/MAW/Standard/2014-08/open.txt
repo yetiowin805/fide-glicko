@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mbedza, Richard	MAW 1973 M 1826.6583562 73.5715586 16400143
+1 Mbedza, Richard	MAW 1973 M 1811.8123976 73.0002852 16400143

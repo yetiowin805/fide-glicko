@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Benitez Galeano, Alejandro	PAR 2002 M 1884.4531815 68.2574524 3703568
+1 Cantero, Rodolfo	PAR 1999 M 1840.3017388 73.6607274 3703762
+2 Benitez Galeano, Alejandro	PAR 2002 M 1816.7135689 66.0268927 3703568

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Sergeeva, Maria	KAZ  2349.7189353 67.0310561 13701037
+2 Duisenova, M	KAZ  2058.7724062 72.3503935 13702122

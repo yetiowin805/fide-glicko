@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mena, Ailen Oriana	AHO 1999 F 1745.2855943 65.7969481 3902773
+1 Mena, Ailen Oriana	AHO 1999 F 1744.3703948 65.7188873 3902773

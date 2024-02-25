@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Savushkina, Evgenia	BLR 1988 2129.6267647 63.6716511 13503898
+2 Savurko, Alexandra	BLR 1987 2074.6640309 67.5965176 13503324

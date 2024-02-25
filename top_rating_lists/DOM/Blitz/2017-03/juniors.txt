@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Jimenez Matos, Jimmy	DOM 2001 M 1762.8719772 73.1267632 6411126
+1 Jimenez Matos, Jimmy	DOM 2001 M 1772.9856412 73.1098553 6411126

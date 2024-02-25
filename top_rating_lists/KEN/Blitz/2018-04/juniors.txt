@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nyaga, James Kabui	KEN 1998 M 1585.5840445 70.3344916 10808353
+1 Nyaga, James Kabui	KEN 1998 M 1582.1550863 70.2107700 10808353

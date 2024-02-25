@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mukumbya, Benjamin	UGA 1998 M 1785.6014145 73.6824886 10001115
+1 Mukumbya, Benjamin	UGA 1998 M 1784.2058240 73.5550293 10001115

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Stefanova, Antoaneta (IM)	BUL 79 2483.0024586 60.3954968 2902257
+2 Djingarova, Emilia	BUL 78 2351.3568993 66.7035077 2903229
+3 Voiska, Margarita	BUL 63 2302.4040618 67.3711137 2900602

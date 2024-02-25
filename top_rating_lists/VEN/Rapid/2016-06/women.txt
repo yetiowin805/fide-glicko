@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Aponte, Oriana Isabel	VEN 1997 1800.3727657 72.4982871 3902439
-2 Pena Gonzalez, Clara Isabel	VEN 2004 1498.3856761 73.2862312 3924203
+1 Aponte, Oriana Isabel	VEN 1997 1777.2539091 71.7925186 3902439
+2 Pena Gonzalez, Clara Isabel	VEN 2004 1494.2852232 73.1201183 3924203

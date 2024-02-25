@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Amewounou, Komlan Kouessan	TOG 1983 M 1581.1970731 71.3816906 21200017
+1 Ephoevi-Ga, Adama Mawulikplimi	TOG 1986 M 1693.7178119 74.9116347 21200149
+2 Amewounou, Komlan Kouessan	TOG 1983 M 1569.8962483 71.1882574 21200017

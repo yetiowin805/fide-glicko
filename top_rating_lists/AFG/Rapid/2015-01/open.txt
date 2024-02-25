@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Asefi, Zaheeruddeen	AFG 1965 M 1822.8861245 62.6966171 11700025
+1 Asefi, Zaheeruddeen	AFG 1965 M 1775.5480200 62.0731782 11700025

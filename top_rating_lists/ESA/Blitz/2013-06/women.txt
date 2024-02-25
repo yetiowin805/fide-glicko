@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Sanchez, Ingrid	ESA 1991 1722.1380618 67.1482256 6700217
+1 Sanchez, Ingrid	ESA 1991 1718.5329983 66.8327452 6700217

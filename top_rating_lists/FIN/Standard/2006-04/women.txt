@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Sammalvuo, Niina	FIN 1971 2201.0793994 72.6532247 500755
+2 Rautanen, Sari	FIN 1967 1868.9387035 63.9554567 502332

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Mendoza, Beverly	PHI 1981 2124.9362795 66.3476971 5201250
+2 Lomibao, Sheerie Joy	PHI 1975 2124.9081448 66.5066984 5201217

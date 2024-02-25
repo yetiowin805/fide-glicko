@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Huguet, Sergio	HON 1970 M 2075.9554364 74.5645670 2212552
+1 Huguet, Sergio	HON 1970 M 2026.6943992 73.4906924 2212552

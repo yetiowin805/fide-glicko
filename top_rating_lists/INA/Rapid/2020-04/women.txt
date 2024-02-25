@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Sukandar, Irine Kharisma	INA 1992 2323.4196047 74.8871273 7101937
-2 Legowo Parahita Millyena	INA 2000 1948.8566472 73.6999788 7105851
+1 Sukandar, Irine Kharisma	INA 1992 2272.2790039 74.3246379 7101937
+2 Legowo Parahita Millyena	INA 2000 1933.0370420 73.3038809 7105851

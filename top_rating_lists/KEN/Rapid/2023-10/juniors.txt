@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mwashe Yvonne Adego	KEN 2010 F 1517.6070022 72.8978987 10812679
+1 Mwashe Yvonne Adego	KEN 2010 F 1517.5065168 72.8998615 10812679

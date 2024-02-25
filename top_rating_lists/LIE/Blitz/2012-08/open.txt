@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kock, Hans-Uwe	LIE 1938 M 2028.6908387 67.8870076 4611020
+1 Kock, Hans-Uwe	LIE 1938 M 2004.6529933 67.2257102 4611020

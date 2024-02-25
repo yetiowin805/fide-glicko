@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Saleh, Nora Mohd	UAE 1989 1774.4434506 66.5985090 9301607
+2 Abdulaziz, Amal	UAE  1549.2636087 62.7924228 9302484

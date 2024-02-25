@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Shrestha, Keshav	NEP  M 2158.9988322 74.0076656 12300055
+2 Shresta, Bilam Lal	NEP  M 2114.4360363 72.8281350 12300047
+3 Niraj, Niraula	NEP  M 2044.5020859 68.8956308 12300128

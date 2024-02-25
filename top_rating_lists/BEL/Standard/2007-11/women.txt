@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Zozulia, Anna	BEL 1980 2296.5281893 43.4406748 14102110
+2 Baekelant, Eva	BEL 1995 1785.4318930 61.4944774 210030

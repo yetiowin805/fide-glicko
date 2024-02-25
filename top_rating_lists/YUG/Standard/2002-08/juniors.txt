@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Markus, Robert	YUG 1983 M 2471.7792167 53.0177932 921637
+2 Predojevic, Borki	YUG 1987 M 2408.4886265 72.5154605 930849

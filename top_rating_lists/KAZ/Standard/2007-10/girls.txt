@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Dauletova, Gulmira	KAZ 1988 2151.1350039 56.6991569 13702971
+2 Nakhbayeva, Guliskhan	KAZ 1991 2089.1168830 71.6861285 13704788

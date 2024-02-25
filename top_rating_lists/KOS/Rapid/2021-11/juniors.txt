@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Saraci, Korab	KOS 2003 M 2082.8319826 67.3600680 4701968
+1 Saraci, Korab	KOS 2003 M 2060.2524450 67.0060635 4701968

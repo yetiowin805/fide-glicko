@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Hernandez, Gilberto	MEX  M 2573.0315964 53.5952538 5100011
+2 Baltazar, Rafael	MEX  M 2295.3018433 70.8840801 5100631
+3 Villanueva, Manuel	MEX  M 1994.2105904 72.4216144 5103908

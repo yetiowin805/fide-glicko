@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Leite, Catarina	POR 83 2191.9183825 60.7030918 1901222
+2 Pintor, Ariana	POR 88 1850.3687129 66.0838175 1902806

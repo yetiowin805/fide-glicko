@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Alexandrova, Olga (IM)	UKR 78 2370.2326062 69.6993643 14102463
+2 Arutyunova, Diana	UKR 88 2197.9465168 60.3960618 14107244

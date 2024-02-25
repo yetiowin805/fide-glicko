@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Aronian, Levon	ARM 1982 M 2829.8014211 73.6699531 13300474
+1 Aronian, Levon	ARM 1982 M 2766.4216201 73.6140557 13300474

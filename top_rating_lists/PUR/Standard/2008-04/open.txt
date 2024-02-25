@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Montalvo, Alejandro	PUR  M 2194.3944329 70.5725289 3100260
+2 Santa Torres, Juan	PUR 1963 M 2169.4585315 64.5385410 3100120
+3 Bermudez Adams, William	PUR  M 2150.9456763 68.2367610 3100251
+4 Campiz, Leonardo	PUR  M 1989.3741200 72.9392580 3100243

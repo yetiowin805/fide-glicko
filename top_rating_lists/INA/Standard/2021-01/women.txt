@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Sukandar, Irine Kharisma	INA 1992 2301.6598374 67.1937374 7101937
-2 Singgih, Diajeng Theresa	INA 2004 1896.0925389 74.2290391 7104391
+1 Sukandar, Irine Kharisma	INA 1992 2263.9642258 67.0674693 7101937
+2 Singgih, Diajeng Theresa	INA 2004 1868.5612282 73.9452906 7104391

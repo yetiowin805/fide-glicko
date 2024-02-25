@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Muhsen, Abdulla.mohmmed	IRQ 1989 M 2173.6881136 71.7396836 4801695
+1 Muhsen, Abdulla.mohmmed	IRQ 1989 M 2155.1364970 65.2165553 4801695

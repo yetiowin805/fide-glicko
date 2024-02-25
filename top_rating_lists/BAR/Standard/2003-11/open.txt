@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Szmetan, Ricardo	BAR 52 M 2322.3046771 61.1611236 101028
+2 Warner, Delisle	BAR  M 2315.9320358 73.7275454 11100109
+3 Corbin, Philip	BAR  M 2241.2905209 71.4278353 11100036

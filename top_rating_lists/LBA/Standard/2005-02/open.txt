@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Chahrani, Ibrahim	LBA 72 M 2260.2636879 57.2183283 9200215
+2 Elarbi, Abobker	LBA 73 M 2229.9675683 71.5555742 9200355
+3 Asabri, Hussien	LBA 67 M 2142.0125123 61.1192421 9200177

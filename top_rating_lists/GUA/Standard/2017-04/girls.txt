@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Cruz Lima, Kimberly Esmeralda	GUA 2001 1546.7968401 61.1029123 7301480
-2 Arango Perez, Lilian Rubi	GUA 2000 1482.3760646 74.5663124 7301766
+1 Cruz Lima, Kimberly Esmeralda	GUA 2001 1535.2667686 60.8186131 7301480
+2 Arango Perez, Lilian Rubi	GUA 2000 1472.6218220 74.2942196 7301766

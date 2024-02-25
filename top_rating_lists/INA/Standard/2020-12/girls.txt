@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Singgih, Diajeng Theresa	INA 2004 1896.0925389 72.5552701 7104391
-2 Elisabeth, Christine	INA 2002 1722.7124956 73.7481383 7106165
+1 Singgih, Diajeng Theresa	INA 2004 1868.5612282 72.2662910 7104391
+2 Elisabeth, Christine	INA 2002 1703.5575514 73.5866396 7106165

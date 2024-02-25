@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lorenzana, Wilson Estuardo	GUA 1978 M 2126.0857779 73.1206969 7300239
+1 Lorenzana, Wilson Estuardo	GUA 1978 M 2081.9657179 71.9976355 7300239

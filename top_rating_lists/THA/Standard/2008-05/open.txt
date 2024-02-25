@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Pongkiettisak, Sant	THA 1969 M 2001.6248572 74.0522443 6200354
+2 Campi, William	THA 1979 M 1828.7357536 74.0143109 6200850

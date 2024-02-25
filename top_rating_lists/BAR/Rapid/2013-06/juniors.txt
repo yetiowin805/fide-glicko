@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Richards, Allon	BAR 1998 M 1619.2298500 72.9970798 11101423
+1 Richards, Allon	BAR 1998 M 1618.2664521 73.0731008 11101423

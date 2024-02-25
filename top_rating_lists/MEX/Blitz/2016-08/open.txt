@@ -1,2 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Roque Sola, Maria Fernanda	MEX 2000 F 1569.7153575 71.8393637 5115833
+1 Ramirez Garcia, Jorge Alberto	MEX 1983 M 2021.0261649 74.7256122 5108101
+2 Fuentes Godoy, Lilia Ivonne	MEX 1998 F 1720.5559001 74.7138558 5104130
+3 Roque Sola, Maria Fernanda	MEX 2000 F 1557.8159177 71.6571973 5115833

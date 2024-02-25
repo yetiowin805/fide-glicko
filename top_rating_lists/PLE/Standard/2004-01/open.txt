@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ermenkov, Evgenij	PLE 49 M 2437.2628765 52.8148942 2900106
+2 Kayle, Charles	PLE 64 M 1984.7312088 62.6552651 11500140

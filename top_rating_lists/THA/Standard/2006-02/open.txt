@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Theerapabpaisit, Wisuwat	THA 1971 M 2241.4503639 72.8700905 6200176
+2 Thamtavatvorn, Taweechai	THA 1977 M 2237.0080109 69.9207149 6200206
+3 Srivachirawat, Kannapon	THA 1967 M 2186.3924997 64.8935814 6200230
+4 Tuorila, Kai	THA 1965 M 2063.1872292 67.3492524 6200214

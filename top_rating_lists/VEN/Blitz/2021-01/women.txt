@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Rating RD
-1 Guadalajara Barrios, Jacksilany	VEN 2006 1497.6632278 71.7494960 3931242
-2 Sanchez Salas, Estefani Alejandra	VEN 2007 1497.2961892 67.1406032 3965759
-3 Velasquez Marin, Glaycell Daniela	VEN 2007 1462.0141375 74.0221219 3946762
-4 Marin Murguey, Valentina Jatniel	VEN 2005 1288.8517595 74.3215270 3955478
+1 Sanchez Salas, Estefani Alejandra	VEN 2007 1492.5621734 67.1011169 3965759
+2 Guadalajara Barrios, Jacksilany	VEN 2006 1491.7290959 71.7066215 3931242
+3 Velasquez Marin, Glaycell Daniela	VEN 2007 1458.4620868 74.0121373 3946762
+4 Marin Murguey, Valentina Jatniel	VEN 2005 1285.7021327 74.3289402 3955478

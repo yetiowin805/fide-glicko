@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ortiz, Nadya Karolina	COL  2136.7536299 45.4501058 4401778
+2 Palao, Maricela	COL 65 2086.4514008 74.6129716 4401662

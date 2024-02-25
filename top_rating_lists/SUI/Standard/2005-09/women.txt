@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Heinatz, Dr. Gundula	SUI 1969 2245.9633537 63.9934418 4612434
+2 Hund, Barbara	SUI 1959 2241.8622862 70.0413181 1301446

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bourg, Nicolas	LUX 2008 M 1925.3654298 69.5948999 4006160
+1 Bourg, Nicolas	LUX 2008 M 1907.9066921 69.0786744 4006160

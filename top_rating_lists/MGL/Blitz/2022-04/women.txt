@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Nomin-Erdene, Davaademberel	MGL 2000 2143.9673756 72.7492620 4900782
-2 Enkhtuul, Altan-Ulzii	MGL 1994 1969.9759948 74.8444155 4901444
+1 Nomin-Erdene, Davaademberel	MGL 2000 2102.6696513 72.3269940 4900782
+2 Enkhtuul, Altan-Ulzii	MGL 1994 1936.6779767 74.3507479 4901444

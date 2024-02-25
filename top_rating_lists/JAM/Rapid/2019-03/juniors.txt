@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Brown, Raehanna	JAM 2005 F 1638.4024745 74.4810020 7402740
+1 Brown, Raehanna	JAM 2005 F 1634.3946015 74.2909733 7402740

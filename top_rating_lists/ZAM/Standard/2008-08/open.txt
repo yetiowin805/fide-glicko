@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Simutowe, Amon	ZAM 1982 M 2476.3678616 47.5810994 8700168
+1 Simutowe, Amon	ZAM 1982 M 2409.8911103 47.3520035 8700168
+2 Castillo, Christian	ZAM  M 1900.1459600 60.2742548 8700427

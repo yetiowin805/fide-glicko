@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mohammad Fahad, Rahman	BAN 2003 M 2084.5830027 68.3143254 10207791
+1 Mohammad Fahad, Rahman	BAN 2003 M 2002.8841169 67.3011166 10207791

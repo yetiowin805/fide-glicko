@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mlawa, Hemed	TAN 0000 M 1697.2120439 63.5902930 10002251
+1 Mlawa, Hemed	TAN 0000 M 1688.6287213 63.7073897 10002251

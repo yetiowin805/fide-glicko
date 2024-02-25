@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Francisco Guecamburu, Candela Be	ARG 2006 2104.2728035 67.4607124 160911
-2 Fernandez, Maria Florencia	ARG 1991 2090.6805318 58.6943278 116459
-3 Bosco, Giuliana	ARG 2004 1873.9006088 68.4209530 142611
+1 Francisco Guecamburu, Candela Be	ARG 2006 2079.3933110 67.1683906 160911
+2 Fernandez, Maria Florencia	ARG 1991 2062.1247463 58.0909424 116459
+3 Bosco, Giuliana	ARG 2004 1858.8471364 68.0995801 142611

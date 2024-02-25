@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Fernandez, Maria Florencia	ARG 1991 2096.2933218 70.9727734 116459
-2 Martinez, Ayelen	ARG 1993 2027.2078884 72.5887019 118702
+1 Fernandez, Maria Florencia	ARG 1991 2038.5614794 70.6045424 116459
+2 Martinez, Ayelen	ARG 1993 1973.3375460 72.0916872 118702

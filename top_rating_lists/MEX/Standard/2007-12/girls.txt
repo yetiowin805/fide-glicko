@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Gutierrez Mancillas, Alicia Abig	MEX 1990 1975.6602864 61.2590247 5108926
+1 Estrada Gaspar, Nelly Massiel	MEX 1987 1982.5587528 66.5739305 5106320
+2 Gutierrez Mancillas, Alicia Abig	MEX 1990 1927.7825351 60.7605682 5108926

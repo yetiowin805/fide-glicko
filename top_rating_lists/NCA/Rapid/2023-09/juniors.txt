@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Vanegas Lopez, Natanael Emanuel	NCA 2006 M 1844.9624208 70.1484479 6108326
-2 Espinoza Guerrero, Felix Alberto	NCA 2009 M 1636.6120256 74.0018716 6104762
+1 Vanegas Lopez, Natanael Emanuel	NCA 2006 M 1827.9277006 69.6608264 6108326
+2 Espinoza Guerrero, Felix Alberto	NCA 2009 M 1626.9943151 73.6891460 6104762

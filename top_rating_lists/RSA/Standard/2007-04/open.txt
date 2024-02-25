@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kobese, Watu	RSA 1973 M 2346.7206636 70.1493054 14300141
+2 Solomon, Kenny	RSA  M 2290.1745274 70.4866011 14300192

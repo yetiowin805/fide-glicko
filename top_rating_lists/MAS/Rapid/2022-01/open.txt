@@ -1,3 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Wan Abd Rahim, Wan Mohd Azmie	MAS 1994 M 1878.3340192 74.4225661 5715857
-2 Khomisajie, Muhd Ismakhaizuran	MAS 2012 M 1621.2919018 73.8165476 5794005
+1 Wan Abd Rahim, Wan Mohd Azmie	MAS 1994 M 1865.3663409 74.1130586 5715857
+2 Tharation, Prem Kumar	MAS 1974 M 1753.5774264 74.9615555 5750784
+3 Khomisajie, Muhd Ismakhaizuran	MAS 2012 M 1618.3188076 73.7643121 5794005

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Shpati, Ted	ALB 1999 M 1981.8650433 66.8372102 4701399
+1 Shpati, Ted	ALB 1999 M 1973.4804784 65.7571552 4701399

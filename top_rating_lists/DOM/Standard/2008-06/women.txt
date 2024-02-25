@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 De La Cruz, Mercedes	DOM 1982 1917.1587158 67.9396752 6400914
+2 Jose Polanco, Kenia	DOM 1985 1810.7041280 73.7988246 6401074
+3 Hazim, Elizabeth	DOM  1715.9214274 69.5706323 6400183

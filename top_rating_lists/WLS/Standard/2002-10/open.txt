@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Jones, Richard S.	WLS 83 M 2258.8190331 64.8772494 1800833
+2 Zeidler, Sven P.	WLS  M 2255.3560392 74.6465771 1800604

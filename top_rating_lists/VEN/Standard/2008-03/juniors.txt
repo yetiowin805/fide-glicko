@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Iturrizaga, Eduardo	VEN 1989 M 2539.7491831 41.8783676 3901211
+1 Iturrizaga, Eduardo	VEN 1989 M 2469.2786304 45.3232439 3901211
+2 Rincon Gonzalez, Drina	VEN 1990 F 1861.2558666 64.8868315 3900380

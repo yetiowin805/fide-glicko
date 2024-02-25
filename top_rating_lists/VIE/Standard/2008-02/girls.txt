@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Pham, Bich Ngoc	VIE 1990 2018.1553227 74.4448201 12401285
+2 Nguyen, Thi Mai Hung	VIE 1994 1999.3573898 59.1091932 12401676

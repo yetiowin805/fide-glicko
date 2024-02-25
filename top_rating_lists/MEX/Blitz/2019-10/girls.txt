@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Martinez Mares, Genesis Alejandra	MEX 2005 1469.4059747 72.5597826 5144264
-2 Gonzalez, Herrera Karen Regina	MEX 2002 1176.9813194 72.6543988 5150310
+1 Martinez Mares, Genesis Alejandra	MEX 2005 1471.6926070 72.5033819 5144264
+2 Gonzalez, Herrera Karen Regina	MEX 2002 1175.5487573 72.6372931 5150310

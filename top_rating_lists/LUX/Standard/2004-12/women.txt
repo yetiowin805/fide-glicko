@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Berend, Elvira S.	LUX 65 2307.1070988 69.9345736 4000510
+2 Bakalarz, Grazyna	LUX 64 2001.8867034 54.6678313 4000730

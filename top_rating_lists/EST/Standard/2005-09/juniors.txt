@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Soskov, Vjatsheslav	EST 1987 M 2197.9291127 64.5506405 4501918
+2 Volodin, Aleksandr	EST 1990 M 2165.2411699 52.1000419 4501950

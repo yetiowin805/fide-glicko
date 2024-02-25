@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Sorokina, Anastasia	AUS 80 2172.7872571 56.2896468 13501151
+2 Caoili, Arianne	AUS 86 2148.7114313 74.0176167 5201179

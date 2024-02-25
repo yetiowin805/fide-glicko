@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Hakki, Imad	SYR 57 M 2460.6100108 64.9571527 7600038
+2 Husari, Satea	SYR 68 M 2371.1542041 62.7587180 7600135

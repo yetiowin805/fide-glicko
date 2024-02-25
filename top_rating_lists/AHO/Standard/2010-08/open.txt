@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Richardson, Quirino	AHO  M 1461.7557039 74.6541012 7500343
+1 Richardson, Quirino	AHO  M 1507.9710397 74.3310352 7500343

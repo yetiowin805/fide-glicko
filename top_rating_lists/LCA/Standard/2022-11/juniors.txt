@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mathurin, Nathaniel	LCA 2004 M 1790.2582051 70.6593152 23000139
+1 Mathurin, Nathaniel	LCA 2004 M 1784.2050418 70.5505998 23000139

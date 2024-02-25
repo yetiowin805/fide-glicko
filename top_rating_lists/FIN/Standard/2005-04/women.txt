@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Sammalvuo, Niina	FIN 71 2250.2276525 59.0956307 500755
+2 Rantanen, Tanja	FIN 79 2076.7376257 65.0223009 502340
+3 Puuska, Heini	FIN 73 1991.0178544 72.2578735 502324

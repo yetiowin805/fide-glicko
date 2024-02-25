@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hotami, Mutriba	TJK 1997 F 1698.6622726 67.1327217 14700204
+1 Hotami, Mutriba	TJK 1997 F 1680.5905996 66.7852824 14700204

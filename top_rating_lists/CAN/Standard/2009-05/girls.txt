@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Yuan, Yuanling	CAN 1994 2203.7429184 63.1181772 8604541
-2 Kalaydina, Regina Veronicka	CAN 1996 1577.0854793 74.3376755 2600129
+1 Yuan, Yuanling	CAN 1994 2129.0903831 59.6004799 8604541

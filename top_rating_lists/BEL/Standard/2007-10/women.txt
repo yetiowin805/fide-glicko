@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Zozulia, Anna	BEL 1980 2306.3341545 45.3868987 14102110
+2 Jonckers, Marie-Jeanne	BEL 1952 1537.3808757 73.9998712 207403

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Luukkonen, Tommi	FIN 1977 M 2242.8260316 69.8877823 501808
+1 Luukkonen, Tommi	FIN 1977 M 2187.3548476 69.2622548 501808

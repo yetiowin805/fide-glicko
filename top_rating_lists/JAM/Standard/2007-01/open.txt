@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Elliott, Warren	JAM 1979 M 2229.8801336 68.4188820 7400179
+2 Porter, Russel	JAM 1970 M 2181.2850240 74.8897331 7400195

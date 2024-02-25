@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Munoz Pantoja, Miguel	PER  M 2431.7816259 62.8331608 3800229
+2 Vidarte Morales, Arturo	PER 1967 M 2415.2573219 62.6382485 3800253
+3 Pacheco, Marco	PER  M 2325.4825957 73.4853664 3800989

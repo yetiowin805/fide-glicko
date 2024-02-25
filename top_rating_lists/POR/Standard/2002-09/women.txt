@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Leite, Catarina	POR 83 2155.8966777 61.2005889 1901222
+2 Carvalho, Alda	POR 76 1999.0670594 72.9319918 1900994

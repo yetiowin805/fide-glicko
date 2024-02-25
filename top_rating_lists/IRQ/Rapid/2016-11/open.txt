@@ -1,4 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ameer,Dhafer Abdulameer	IRQ 2005 M 1571.9027864 71.7216963 4807537
-2 Aseel, Dhafer Abdulameer	IRQ 2003 M 1411.9250060 74.8916888 4808142
-3 Al Falahi, Ziad Tarik Mohammad	IRQ 1973 M 1391.6318690 66.7159758 4807235
+1 Ameer,Dhafer Abdulameer	IRQ 2005 M 1573.9840927 72.0587575 4807537
+2 Al Falahi, Ziad Tarik Mohammad	IRQ 1973 M 1382.6270970 66.6121031 4807235

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Azzam, Muhammad Siddiq Idris	INA 2003 M 1516.1005392 69.9305641 7122934
+1 Azzam, Muhammad Siddiq Idris	INA 2003 M 1510.7880531 69.6558455 7122934

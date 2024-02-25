@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Aguilar, Luis Miguel	BOL 1999 M 1727.9458788 71.9706348 3303187
+1 Aguilar, Luis Miguel	BOL 1999 M 1725.6335401 71.8495210 3303187

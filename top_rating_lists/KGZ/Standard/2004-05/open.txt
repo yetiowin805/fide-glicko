@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Yurtaev, Leonid	KGZ 59 M 2485.2809891 66.7751112 13800019
+2 Arishin, Sergei	KGZ 62 M 2184.5056390 59.8284868 13800191

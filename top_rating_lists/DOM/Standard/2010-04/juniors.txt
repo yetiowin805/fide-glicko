@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Guzman, Christopher	DOM 1990 M 1924.8843306 73.7032266 6405096
+1 Guzman, Christopher	DOM 1990 M 1933.5131685 73.2023923 6405096

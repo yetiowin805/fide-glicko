@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ochoa de la Rosa, Manuel Dario	CUB 1994 M 2042.5723933 74.6704225 3509540

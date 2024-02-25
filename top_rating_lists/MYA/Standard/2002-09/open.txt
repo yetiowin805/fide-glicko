@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Zaw, Win Lay	MYA 63 M 2516.2218355 63.0049666 13000098
+2 Nay, Oo Kyaw Tun	MYA 75 M 2444.8490963 63.2499984 13000110

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ermenkov, Evgenij	PLE 49 M 2435.3976594 52.9912855 2900106
+2 Moussa, Alaa-Eddine	PLE  M 2147.7426618 66.7567188 11500042
+3 Kayle, Charles	PLE 64 M 1984.7312088 66.4414318 11500140

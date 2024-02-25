@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Sean, Winshand Cuhendi	INA 1997 M 2201.3896996 73.1240007 7101554
+1 Sean, Winshand Cuhendi	INA 1997 M 2149.0174808 72.1483772 7101554

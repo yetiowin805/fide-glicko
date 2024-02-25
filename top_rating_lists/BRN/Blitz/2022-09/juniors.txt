@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Almusawi, Maram	BRN 2008 F 1351.3367687 44.7753835 11205458
+1 Almusawi, Maram	BRN 2008 F 1345.7824089 44.7869405 11205458

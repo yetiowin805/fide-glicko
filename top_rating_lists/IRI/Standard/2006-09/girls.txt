@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Paridar, Shadi	IRI 1986 2152.0345689 50.8969965 12500666
+2 Bayat, Shohreh	IRI 1987 2005.9813446 71.3020440 12501018

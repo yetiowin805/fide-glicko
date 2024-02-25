@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Mamedjarova, Zeinab	AZE  2300.6913850 54.7483025 13401521
+2 Velikhanli, Firuza	AZE  2283.1139491 59.6723250 13400029
+3 Shukurova, Meihriban	AZE  2225.7493003 56.3986948 13401360
+4 Mammadova, Nargiz	AZE 83 2126.3885849 72.5887406 13401483

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Goldwasser, Jonathan	ARG 2006 M 1760.0959621 73.3628650 176214
-2 Minvielle, Nehuen Alexis	ARG 2003 M 1704.5671065 73.5306362 181749
+1 Goldwasser, Jonathan	ARG 2006 M 1742.9445436 73.1944467 176214
+2 Minvielle, Nehuen Alexis	ARG 2003 M 1684.1880228 72.9737774 181749

@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rolston, Daniel Haruma	IRL 2009 M 1475.3928997 72.0618076 2511258
+1 Tarun Kanyamarala	IRL 2004 M 1945.4423185 74.4806640 45004714
+2 Rolston, Daniel Haruma	IRL 2009 M 1473.3397792 71.9772945 2511258

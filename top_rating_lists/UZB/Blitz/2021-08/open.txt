@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kholikov, Kakhramon	UZB 1985 M 1808.1286456 55.1641905 14208989
+1 Kholikov, Kakhramon	UZB 1985 M 1771.7823646 54.7663844 14208989

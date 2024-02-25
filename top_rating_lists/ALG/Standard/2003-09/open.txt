@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rizouk, Aimen	ALG 79 M 2504.7392779 41.0322873 7900309
+2 Belouadah, Saad	ALG  M 2271.9402468 72.3931161 7900856
+3 Henni, Mohamed	ALG  M 2200.7204688 65.2048395 7900171

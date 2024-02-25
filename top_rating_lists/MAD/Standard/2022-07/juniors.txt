@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rajoarimanana, Fanahy Fortunat	MAD 2003 M 1669.6524672 73.6696742 13104365
+1 Rajoarimanana, Fanahy Fortunat	MAD 2003 M 1650.1966154 72.1884473 13104365
+2 Nomenjanahary, Fanilo	MAD 2006 M 1584.9936075 74.9838878 13104101

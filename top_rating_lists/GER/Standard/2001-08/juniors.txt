@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Naiditsch, Arkadij	GER 1985 M 2524.0000000 52.3874105 4650891
+2 Bunzmann, Dimitrij	GER 1982 M 2509.0000000 52.3874105 4634284

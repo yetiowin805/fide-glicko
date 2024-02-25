@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Calugar, Arthur	CAN 1994 M 2182.0947293 74.3888601 2606933

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Santa Torres, Juan	PUR 63 M 2220.8490307 71.5844537 3100120
+2 Montalvo, Alejandro	PUR  M 2219.7773312 55.2509612 3100260

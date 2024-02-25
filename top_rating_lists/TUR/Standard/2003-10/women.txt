@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Yildiz, Betul Cemre	TUR 89 2075.6236027 55.5472445 6302920
+2 Cinar, Nilufer	TUR  1990.1990969 66.7364780 6300243
+3 Topel, Zehra	TUR  1961.1852826 50.5156878 6302661

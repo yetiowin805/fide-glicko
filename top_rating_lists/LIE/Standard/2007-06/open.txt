@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Atlas, Dimitry	LIE 1968 M 2230.2360899 68.9158171 12000051
+2 Frick, Renato	LIE 1952 M 2089.6081790 73.6139394 12000027

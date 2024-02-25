@@ -1,4 +1,5 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rojas Alarcon, Julian Antonio	MEX 1992 M 2260.6184631 74.6386258 5107407
-2 Torres Rosas, Luis Carlos	MEX 1995 M 2143.7434892 73.6562824 5111080
-3 Mendoza Velazquez, Lorena Alejan	MEX 1994 F 1913.8326556 68.9035954 5101794
+1 Rojas Alarcon, Julian Antonio	MEX 1992 M 2181.0123727 74.3625799 5107407
+2 Torres Rosas, Luis Carlos	MEX 1995 M 2066.3533394 73.2284441 5111080
+3 Mendoza Velazquez, Lorena Alejan	MEX 1994 F 1862.8212473 68.3451046 5101794
+4 Duran Juarez, Citlali	MEX 1992 F 1828.6977258 74.3193004 5104084

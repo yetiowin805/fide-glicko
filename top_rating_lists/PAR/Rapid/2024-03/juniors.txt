@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Amarilla Ettiene, Ezequiel	PAR 2009 M 1732.8472075 73.4375367 3708403
-2 Veloso Tintel, Emmanuel Ian	PAR 2016 M 1487.8000240 67.2747291 3713202
+1 Amarilla Ettiene, Ezequiel	PAR 2009 M 1711.5301214 73.0569613 3708403
+2 Veloso Tintel, Emmanuel Ian	PAR 2016 M 1479.9476363 67.0364495 3713202

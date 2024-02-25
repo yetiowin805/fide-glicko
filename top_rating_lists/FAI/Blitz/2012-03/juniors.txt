@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nielsen, Rogvi Egilstoft	FAI 1992 M 2118.3747271 67.9016199 7200447
-2 Nielsen, Hogni Egilstoft	FAI 1997 M 1961.9530176 72.2055359 7200404
+1 Nielsen, Rogvi Egilstoft	FAI 1992 M 2061.9350344 67.3419569 7200447
+2 Nielsen, Hogni Egilstoft	FAI 1997 M 1909.5751396 71.5860312 7200404

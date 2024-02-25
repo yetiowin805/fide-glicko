@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Klinova, Masha (IM)	ISR 68 2345.4470082 51.7632409 2802015
+2 Igla, Bella	ISR  2134.4303793 63.2263499 2806819

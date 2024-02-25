@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Starr, Nava	CAN 49 2133.8286068 71.0483914 2600838
+2 Khaziyeva, Dinara	CAN 86 2038.1130851 67.1226203 2603888
+3 Charbonneau, Anne Marie	CAN 85 1926.3059979 67.2834476 2603934

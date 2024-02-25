@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Johannsdottir, Johanna Bjorg	ISL 1993 1929.3650111 64.0984933 2303108
-2 Kristinardottir, Elsa Maria	ISL 1989 1799.1570407 74.1116622 2300370
-3 Palsdottir, Soley Lind	ISL 1999 1401.8329827 72.2620863 2306824
+1 Johannsdottir, Johanna Bjorg	ISL 1993 1915.5025201 63.7423911 2303108
+2 Kristinardottir, Elsa Maria	ISL 1989 1791.6878663 73.6948000 2300370
+3 Palsdottir, Soley Lind	ISL 1999 1398.3097853 72.2127381 2306824

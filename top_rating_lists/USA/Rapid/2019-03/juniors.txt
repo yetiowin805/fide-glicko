@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kunnavakkam, Sudarshanagopal Vin	USA 2006 M 1539.2275849 67.3512113 30926580
-2 El-Bittar, John Fadi	USA 2007 M 1426.2300637 69.2448217 30919886
+1 Kunnavakkam, Sudarshanagopal Vin	USA 2006 M 1532.3269443 67.1737142 30926580
+2 El-Bittar, John Fadi	USA 2007 M 1425.9917310 69.2328764 30919886

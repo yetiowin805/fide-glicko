@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Perez Molina, Robinson	CHI 1985 M 2263.9051975 59.7869359 3403882
+2 Diaz, Robert	CHI 1986 M 2229.4841613 65.2132265 3404056
+3 Valdes Escobar, Alvaro	CHI 1989 M 2184.4738927 54.9572765 3405451

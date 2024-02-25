@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Habu, Yoshiharu	JPN 70 M 2318.2647144 71.9000886 7000537
+2 Katsuhara, Osamu	JPN 76 M 2008.3845030 47.9765490 2022656

@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Ramirez Toledo, Ayleen Maribel	MEX 2001 1678.6909596 68.1244787 5127459
-2 Salas Estrada, Ana Valeria	MEX 2001 1662.5550201 71.8938277 5127475
-3 Martinez Mares, Genesis Alejandra	MEX 2005 1462.3240558 74.9864614 5144264
+1 Ramirez Toledo, Ayleen Maribel	MEX 2001 1666.5555889 67.9671290 5127459
+2 Salas Estrada, Ana Valeria	MEX 2001 1649.2283596 71.6812351 5127475
+3 Martinez Mares, Genesis Alejandra	MEX 2005 1455.8963779 74.8507152 5144264

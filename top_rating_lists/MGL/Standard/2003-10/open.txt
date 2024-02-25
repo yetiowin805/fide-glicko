@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Sharavdorj, Dashzeveg	MGL 74 M 2400.1596877 59.8617639 4900340
+2 Mongontuul, Bathuyag	MGL 87 F 2271.9869031 51.1975833 4900758
+3 Altanoch, Genden	MGL 61 M 2259.1357129 73.5330859 4900278
+4 Anhchimeg, Bayanmonh	MGL 83 F 2181.1203907 67.7462634 4900600

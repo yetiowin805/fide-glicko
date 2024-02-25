@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Moser, Eva	AUT 1982 F 2298.8376554 64.9345037 1607456

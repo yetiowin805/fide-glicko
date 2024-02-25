@@ -1,3 +1,5 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Martins, David Pires Tavares	POR 1997 M 2075.7192381 74.9924652 1909991
-2 Martins, Guilherme Pires Tavare	POR 1998 M 1685.9584641 74.6341185 1910000
+1 Martins, David Pires Tavares	POR 1997 M 2004.4570908 74.6364772 1909991
+2 Silva, Luis Neves Da	POR 1995 M 1956.8143110 74.9375177 1919121
+3 Aguiar, Henrique Rui Neves	POR 1998 M 1952.6173840 74.8481700 1908545
+4 Martins, Guilherme Pires Tavare	POR 1998 M 1630.9318357 74.4878275 1910000

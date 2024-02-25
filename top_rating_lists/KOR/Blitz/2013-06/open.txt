@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Camacho Collados, Jose	KOR 1988 M 2275.6654471 67.2671329 2265427
+1 Camacho Collados, Jose	KOR 1988 M 2208.0846327 66.8443983 2265427

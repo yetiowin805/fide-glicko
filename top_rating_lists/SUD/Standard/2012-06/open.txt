@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Boshara, Mohammed Ahmed	SUD 1980 M 1777.8975816 72.3239959 12200727
+1 Boshara, Mohammed Ahmed	SUD 1980 M 1741.0321626 70.7088507 12200727

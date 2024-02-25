@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Niraj, Niraula	NEP  M 2044.5020859 72.3559168 12300128

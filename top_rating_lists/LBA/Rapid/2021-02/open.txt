@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gahfer, Khaled	LBA 1968 M 1777.5965316 67.8182775 9201750
+1 Gahfer, Khaled	LBA 1968 M 1780.2552839 67.8552087 9201750

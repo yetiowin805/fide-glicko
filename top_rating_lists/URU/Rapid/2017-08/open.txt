@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rodriguez Vila, Andres	URU 1973 M 2373.4638552 69.5869047 3000010
+1 Rodriguez Vila, Andres	URU 1973 M 2319.8689592 68.2806480 3000010

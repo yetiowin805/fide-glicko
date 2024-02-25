@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Francis, Thapelo	BOT 1994 1670.5779646 63.1882547 11301317
+1 Francis, Thapelo	BOT 1994 1664.8656316 63.1590883 11301317

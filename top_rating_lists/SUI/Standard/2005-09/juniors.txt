@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Papa, Severin	SUI 1985 M 2418.3183199 56.7689865 1305891

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Sakai, Hibiki	JPN 1994 M 1923.0420703 71.5830631 7000995
+1 Sakai, Hibiki	JPN 1994 M 1909.9550061 70.9110071 7000995

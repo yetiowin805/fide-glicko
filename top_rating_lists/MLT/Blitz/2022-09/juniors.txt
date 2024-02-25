@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bilunov, Ignat	MLT 2004 M 1460.0096877 73.9687237 5602238
+1 Bilunov, Ignat	MLT 2004 M 1450.9648366 73.8635902 5602238

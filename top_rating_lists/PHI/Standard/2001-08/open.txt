@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Villamayor, Buenaventura	PHI  M 2560.0000000 52.3874105 5200393
+2 Torre, Eugenio	PHI 1951 M 2541.0000000 52.3874105 5200016
+3 Antonio, Rogelio Jr	PHI 1962 M 2535.0000000 52.3874105 5200032

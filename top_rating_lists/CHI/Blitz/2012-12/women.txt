@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Abarca Gonzalez, Damaris	CHI 1990 1776.1849744 66.9723427 3409414
+1 Toro Pradenas, Maria Jose	CHI 1991 1934.7366998 73.8624263 3412610
+2 Abarca Gonzalez, Damaris	CHI 1990 1921.4328056 67.8462318 3409414

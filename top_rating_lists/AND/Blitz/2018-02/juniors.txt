@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Martinez Gamiz, Marc	AND 2005 M 1511.3206407 70.0590069 6900976
+1 Martinez Gamiz, Marc	AND 2005 M 1487.8880986 69.4433580 6900976
+2 Ribera Veganzones, Serni	AND 2007 M 1367.2198715 74.5636506 6900860

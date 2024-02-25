@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mudangi Isaac	UGA 1999 M 1623.5329126 69.0449523 10008179
+1 Mudangi Isaac	UGA 1999 M 1627.8886502 69.4261870 10008179

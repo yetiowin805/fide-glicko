@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Hoang, Thi Bao Tram	VIE 1987 2187.1469184 61.6000363 12401102
+2 Pham, Bich Ngoc	VIE 1990 2018.1553227 69.3407297 12401285

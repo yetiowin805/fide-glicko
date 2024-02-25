@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Duque, Raquel Dos Santos	POR 2004 1749.5893277 61.0280516 1945890
-2 Maissa, Susana Flora Cesana	POR 1968 1384.4482258 66.7362351 1954202
+1 Duque, Raquel Dos Santos	POR 2004 1705.0995642 60.7634100 1945890
+2 Maissa, Susana Flora Cesana	POR 1968 1348.1868705 66.7182742 1954202

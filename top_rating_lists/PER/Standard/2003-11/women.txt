@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Zapata, Karen	PER 82 2223.6268804 65.9158920 3801144
+2 Morales Mendoza, Luciana	PER 87 2026.4264263 62.8832049 3801403

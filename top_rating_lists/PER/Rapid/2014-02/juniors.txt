@@ -1,4 +1,5 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Caballero Quijano, Mitzy Mishell	PER 2001 F 1799.5578159 66.9415799 3807223
-2 Camarena Meza, Jackeline Edy	PER 1996 F 1542.7616020 73.9418274 3814971
-3 Vergara Pastor, Jorge Luis Braul	PER 1999 M 1446.1921401 71.5530084 3816869
+1 Caballero Quijano, Mitzy Mishell	PER 2001 F 1769.1039499 66.0276205 3807223
+2 Camarena Meza, Jackeline Edy	PER 1996 F 1545.7257363 73.9682343 3814971
+3 Rojas Zamora, Luis Moises	PER 1994 M 1539.3670268 74.9771444 3820750
+4 Vergara Pastor, Jorge Luis Braul	PER 1999 M 1448.6408061 71.5496919 3816869

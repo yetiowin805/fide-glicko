@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Smith, Robert W	NZL 63 M 2250.9512043 67.0073295 4300190
+2 Wastney, Scott	NZL  M 2214.9777640 74.9650151 4300513

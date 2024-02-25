@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Frick, Renato	LIE 1952 M 2083.0446790 73.7229683 12000027

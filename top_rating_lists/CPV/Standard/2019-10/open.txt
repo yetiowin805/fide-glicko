@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Moes Joaquim, Carlos	CPV 1953 M 1614.4515845 63.2853788 1928104
+1 Moes Joaquim, Carlos	CPV 1953 M 1595.0518517 63.2580861 1928104

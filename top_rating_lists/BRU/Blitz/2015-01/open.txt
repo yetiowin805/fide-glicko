@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hj, Azahari Md Aliuddin	BRU 1991 M 1990.9679059 68.2556302 10500324
+1 Hj, Azahari Md Aliuddin	BRU 1991 M 1916.5601024 68.4952997 10500324
+2 Hj, Azahari Siti Nur Fatimah	BRU 1992 F 1789.3817010 74.6034319 10500359

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Bjelobrk, Igor	NZL  M 2370.5394242 63.6946029 4300726
+2 Smith, Robert W	NZL 63 M 2250.9512043 68.8058805 4300190
+3 Wastney, Scott	NZL  M 2226.8495798 62.1598545 4300513

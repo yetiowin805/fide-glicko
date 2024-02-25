@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rafea, Dalaa	SYR 2003 F 1404.4041463 74.1124591 7604165
+1 Rafea, Dalaa	SYR 2003 F 1392.7427466 73.9370669 7604165

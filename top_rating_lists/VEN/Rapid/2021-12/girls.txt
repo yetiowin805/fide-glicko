@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Hernandez Mora, Nohelia Virginia	VEN 2005 1523.8472890 59.5746698 3915344
-2 Ordaz Diaz, Lourdes Sarahi	VEN 2009 1151.3450630 69.7364906 3950697
+1 Hernandez Mora, Nohelia Virginia	VEN 2005 1522.4170975 59.5470925 3915344
+2 Ordaz Diaz, Lourdes Sarahi	VEN 2009 1150.5744300 69.7276607 3950697

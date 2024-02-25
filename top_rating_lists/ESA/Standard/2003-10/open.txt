@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Arias, Lemmys A.	ESA 78 M 2240.1410416 71.2924046 6700284
+2 Burgos Figueroa, Carlos E.	ESA 79 M 2203.0692193 69.1221425 6700187
+3 Pineda, Boris	ESA 58 M 2202.3713942 69.1919499 6700047

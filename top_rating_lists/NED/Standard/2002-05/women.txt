@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Peng, Zhaoqin (IM)	NED 1968 2505.6306318 54.0454720 1004786
+2 Schuurman, Petra	NED 1968 2292.7304069 73.5977238 1003259

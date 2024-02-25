@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Zaksaite, Salomeja	LTU 1985 2186.6032907 64.6620256 12801496
+2 Daulyte, Deimante	LTU 1989 2162.4363033 51.5237156 12802859

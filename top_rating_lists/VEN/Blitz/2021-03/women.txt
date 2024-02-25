@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Rating RD
-1 Sanchez Salas, Estefani Alejandra	VEN 2007 1497.2961892 70.6785064 3965759
-2 Hernandez Mora, Nohelia Virginia	VEN 2005 1351.8658932 70.0407727 3915344
-3 Marin Murguey, Valentina Jatniel	VEN 2005 1286.2424174 70.1619623 3955478
-4 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1189.6362607 71.0899522 3964051
+1 Sanchez Salas, Estefani Alejandra	VEN 2007 1492.5621734 70.6409287 3965759
+2 Hernandez Mora, Nohelia Virginia	VEN 2005 1348.3236881 70.0338183 3915344
+3 Marin Murguey, Valentina Jatniel	VEN 2005 1283.1280227 70.1676888 3955478
+4 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1186.4220870 71.1067210 3964051

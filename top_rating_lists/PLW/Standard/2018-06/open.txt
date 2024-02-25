@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Escapatoria, Gonzalo	PLW 1967 M 1607.5231803 74.8889375 16600177
+1 Escapatoria, Gonzalo	PLW 1967 M 1575.9276904 74.6733130 16600177

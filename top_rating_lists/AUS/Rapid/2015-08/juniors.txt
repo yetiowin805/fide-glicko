@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Crowley, Regan	AUS 2000 M 1686.0871404 73.3462766 3218465
+1 Crowley, Regan	AUS 2000 M 1658.3713012 72.9524761 3218465

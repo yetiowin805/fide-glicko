@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Papa, Severin	SUI 1985 M 2290.0093113 63.3605720 1305891
+2 Ferrari, Nicola	SUI 1984 M 2179.3775922 74.5424783 1307185

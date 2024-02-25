@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 De La Cruz, Mercedes	DOM 1982 1917.1587158 69.7166351 6400914
+2 Hazim, Elizabeth	DOM  1715.9214274 71.3077455 6400183

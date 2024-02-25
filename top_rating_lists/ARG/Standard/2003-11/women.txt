@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Burijovich, Liliana	ARG 65 2183.2866160 61.8316554 102652
+2 Zuriel, Marisa	ARG 82 2161.6902066 62.6426888 109142
+3 Meza, Anahi	ARG 85 1952.1335374 69.5505877 111325

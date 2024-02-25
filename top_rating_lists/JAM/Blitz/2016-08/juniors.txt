@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Smith, Shreyas	JAM 1996 M 1994.7561896 67.2932099 7400713
+1 Smith, Shreyas	JAM 1996 M 1986.2331954 67.2165958 7400713

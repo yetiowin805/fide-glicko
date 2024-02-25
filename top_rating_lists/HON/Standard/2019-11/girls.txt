@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Rating RD
-1 Ramos Donaire, Maria Pradi	HON 2002 1511.3860537 54.7231789 8402337
-2 Garcia Reyes, Alejandra Nicolle	HON 2003 1460.0925302 69.1336301 8403023
-3 Caballero Sanabria, Margie	HON 2004 1357.3980493 62.6344342 8405433
-4 Mejia Castellanos, Miha Cecilia	HON 2009 1209.5909765 74.9307014 8404720
+1 Ramos Donaire, Maria Pradi	HON 2002 1505.5870706 54.6449178 8402337
+2 Garcia Reyes, Alejandra Nicolle	HON 2003 1458.0011922 69.0540997 8403023
+3 Caballero Sanabria, Margie	HON 2004 1354.6341869 62.5039757 8405433
+4 Mejia Castellanos, Miha Cecilia	HON 2009 1210.3281177 74.7500136 8404720

@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Diaz Rosas, Julio Cesar	MEX 1994 M 2018.9589659 74.1498895 5105099

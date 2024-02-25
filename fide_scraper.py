@@ -1,13 +1,33 @@
 import os
 import requests
 from bs4 import BeautifulSoup
+import argparse
+from countries import countries
+import re
+
+# Second command in pipeline
 
 def scrape_fide_data(country, month, year):
-
+    if year < 2009 and month%3 != 1:
+        return
+    if year == 2009 and month < 7 and month%3 != 1:
+        return
+    if year == 2009 and month >= 7 and month%2 != 1:
+        return
+    if year > 2009 and year < 2012 and month%2 != 1:
+        return
+    if year == 2012 and month < 7 and month%2 != 1:
+        return
     # Pad the month with a leading zero if it's less than 10
     month_str = f"{month:02d}"
     # Create the formatted string
     formatted_str = f"country={country}&rating_period={year}-{month_str}-01"
+
+    dir_path = os.path.join("raw_tournament_data", country, f"{year}-{month_str}")
+
+    # Check if the directory path exists
+    if os.path.exists(os.path.join(dir_path, 'tournaments.txt')):
+        return
 
     # Generate the URL for the specific month and year
     url = f"https://ratings.fide.com/tournament_list.phtml?moder=ev_code&{formatted_str}"
@@ -18,44 +38,49 @@ def scrape_fide_data(country, month, year):
     # Parse the HTML content
     soup = BeautifulSoup(response.text, 'html.parser')
 
-    # Find all 'a' elements with a href attribute that contains 'view_source.phtml'
-    a_elements = soup.find_all('a', href=lambda href: href and 'view_source.phtml' in href)
+    # Use a set to store unique hrefs
+    unique_codes = set()
 
-    if len(a_elements):
+    # Find all <a> elements
+    a_elements = soup.find_all('a', href=True)
+
+    # Filter and add unique hrefs to the set
+    for a in a_elements:
+        if 'tournament_report.phtml' in a['href']:
+            unique_codes.add(a['href'].split('=')[-1])
+
+    if unique_codes:
         # Create the directory path
-        dir_path = os.path.join("raw_tournament_data", country, f"{year}-{month_str}")
         os.makedirs(dir_path, exist_ok=True)
 
-        # Save the 'a_elements' contents to a text file
         with open(os.path.join(dir_path, 'tournaments.txt'), 'w') as file:
-            for element in a_elements:
+            for element in unique_codes:
                 file.write(str(element) + "\n")
 
-countries = [
-    'AFG', 'ALB', 'ALG', 'AND', 'ANG', 'ANT', 'ARG', 'ARM', 'ARU', 'AUS', 
-    'AUT', 'AZE', 'BAH', 'BRN', 'BAN', 'BAR', 'BLR', 'BEL', 'BIZ', 'BER', 
-    'BHU', 'BOL', 'BIH', 'BOT', 'BRA', 'IVB', 'BRU', 'BUL', 'BUR', 'BDI', 
-    'CAM', 'CMR', 'CAN', 'CPV', 'CAY', 'CAF', 'CHA', 'CHI', 'CHN', 'TPE', 
-    'COL', 'COM', 'CGO', 'CRC', 'CRO', 'CUB', 'CYP', 'CZE', 'COD', 'DEN', 
-    'DJI', 'DMA', 'DOM', 'ECU', 'EGY', 'ESA', 'ENG', 'GEQ', 'ERI', 'EST', 
-    'SWZ', 'ETH', 'FAI', 'FIJ', 'FIN', 'FRA', 'GAB', 'GAM', 'GEO', 'GER', 
-    'GHA', 'GRE', 'GRN', 'GUM', 'GUA', 'GCI', 'GUY', 'HAI', 'HON', 'HKG', 
-    'HUN', 'ISL', 'IND', 'INA', 'IRI', 'IRQ', 'IRL', 'IOM', 'ISR', 'ITA', 
-    'CIV', 'JAM', 'JPN', 'JCI', 'JOR', 'KAZ', 'KEN', 'KOS', 'KUW', 'KGZ', 
-    'LAO', 'LAT', 'LBN', 'LES', 'LBR', 'LBA', 'LIE', 'LTU', 'LUX', 'MAC', 
-    'MAD', 'MAW', 'MAS', 'MDV', 'MLI', 'MLT', 'MTN', 'MRI', 'MEX', 'MDA', 
-    'MNC', 'MGL', 'MNE', 'MAR', 'MOZ', 'MYA', 'NAM', 'NRU', 'NEP', 'NED', 
-    'AHO', 'NZL', 'NCA', 'NIG', 'NGR', 'MKD', 'NOR', 'OMA', 'PAK', 'PLW', 
-    'PLE', 'PAN', 'PNG', 'PAR', 'PER', 'PHI', 'POL', 'POR', 'PUR', 'QAT', 
-    'ROU', 'RUS', 'RWA', 'SKN', 'LCA', 'SMR', 'STP', 'KSA', 'SCO', 'SEN', 
-    'SRB', 'SEY', 'SLE', 'SGP', 'SVK', 'SLO', 'SOL', 'SOM', 'RSA', 'KOR', 
-    'SSD', 'ESP', 'SRI', 'VIN', 'SUD', 'SUR', 'SWE', 'SUI', 'SYR', 'TJK', 
-    'TAN', 'THA', 'TLS', 'TOG', 'TTO', 'TUN', 'TUR', 'TKM', 'UGA', 'UKR', 
-    'UAE', 'USA', 'URU', 'ISV', 'UZB', 'VEN', 'VIE', 'WLS', 'YEM', 'ZAM', 
-    'ZIM'
-]
+if __name__ == "__main__":
+    # Set up argument parser
+    parser = argparse.ArgumentParser(description='Get FIDE tournaments from a certain month range.')
+    parser.add_argument('--start_month', type=str, help='Start month for the download in YYYY-MM format', required=True)
+    parser.add_argument('--end_month', type=str, help='End month for the download in YYYY-MM format', required=True)
 
-for country in countries:
-    for year in range(2024,2025):
-        for month in range(2,3):
-            scrape_fide_data(country,month,year)
+    # Parse arguments
+    args = parser.parse_args()
+
+    # Parse start and end month/year
+    start_year, start_month = map(int, args.start_month.split('-'))
+    end_year, end_month = map(int, args.end_month.split('-'))
+
+    for country in countries:
+        for year in range(start_year,end_year+1):
+            if start_year == end_year:
+                for month in range(start_month,end_month+1):
+                    scrape_fide_data(country,month,year)
+            elif year == start_year:
+                for month in range(start_month,13):
+                    scrape_fide_data(country,month,year)
+            elif year == end_year:
+                for month in range(1,end_month+1):
+                    scrape_fide_data(country,month,year)
+            else:
+                for month in range(1,13):
+                    scrape_fide_data(country,month,year)

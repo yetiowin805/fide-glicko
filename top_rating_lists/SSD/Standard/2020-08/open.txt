@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Panchol, James Madol	SSD 1995 M 1959.8269120 59.4736244 10806253
+1 Panchol, James Madol	SSD 1995 M 1953.8270390 59.4021973 10806253

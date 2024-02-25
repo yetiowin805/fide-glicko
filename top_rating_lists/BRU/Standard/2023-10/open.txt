@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hasnul, Hashim	BRU 1978 M 1550.0907085 59.8309760 10502670
+1 Hasnul, Hashim	BRU 1978 M 1537.9254535 59.6544559 10502670

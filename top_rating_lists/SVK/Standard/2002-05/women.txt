@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Pokorna, Regina	SVK 1982 2356.6607467 66.5231215 14902052
+2 Hagarova, Zuzana	SVK 1977 2303.8623941 68.5228000 14900866

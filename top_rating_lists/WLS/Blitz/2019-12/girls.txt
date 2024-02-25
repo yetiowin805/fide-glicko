@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Smith, Madeleine	WLS 2005 1690.8044299 58.9507414 1804251
+1 Smith, Madeleine	WLS 2005 1679.8027387 58.6374143 1804251

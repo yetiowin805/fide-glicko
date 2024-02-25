@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ringoir, Tanguy	BEL 1994 M 2520.0970224 71.8810347 208027
+1 Ringoir, Tanguy	BEL 1994 M 2455.5351822 71.4238807 208027

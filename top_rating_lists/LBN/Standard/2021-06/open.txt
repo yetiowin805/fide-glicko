@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ayoub, Auriane	LBN 2011 F 1210.8346047 71.8478829 5305233
+1 Ayoub, Auriane	LBN 2011 F 1204.7399873 71.8464706 5305233

@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Daly, Colm	FID 67 M 2332.3787823 65.1804308 2500434

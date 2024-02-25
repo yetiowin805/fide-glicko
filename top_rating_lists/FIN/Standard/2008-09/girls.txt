@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Savola, Laura	FIN 1992 1974.4743650 66.0651894 506168
+2 Uusitupa, Erika	FIN 1993 1639.6499315 74.3746971 507261

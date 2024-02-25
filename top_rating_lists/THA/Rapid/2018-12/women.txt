@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Singsomroj, Sornsawan	THA 2003 1599.9479818 71.6000834 6204767
-2 Mekarapiruk, Nathasha	THA 2009 1415.8883975 72.8928624 6208487
+1 Singsomroj, Sornsawan	THA 2003 1595.2670658 71.5726090 6204767
+2 Mekarapiruk, Nathasha	THA 2009 1413.3576465 72.9721884 6208487

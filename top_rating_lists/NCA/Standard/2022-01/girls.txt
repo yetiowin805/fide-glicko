@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Alvarez Gutierrez, Patricia	NCA 2002 1597.2714145 54.8518207 6105548
-2 Martinez Orozco, Cristiana Yorlene	NCA 2005 1418.0573096 73.9769083 6107079
+1 Alvarez Gutierrez, Patricia	NCA 2002 1584.8557877 54.7254985 6105548
+2 Martinez Orozco, Cristiana Yorlene	NCA 2005 1408.8136412 73.8406314 6107079

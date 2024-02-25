@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Yurtaev, Leonid	KGZ 1959 M 2478.6763378 62.9096072 13800019
+2 Tologontegin, Semetey	KGZ 0 M 2207.0221932 56.1426926 13800574

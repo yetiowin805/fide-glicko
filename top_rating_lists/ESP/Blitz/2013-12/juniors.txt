@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Santos Martinez, Guillermo	ESP 1998 M 1810.9801924 70.7755039 22287825
+1 Santos Martinez, Guillermo	ESP 1998 M 1797.4735303 70.6270957 22287825

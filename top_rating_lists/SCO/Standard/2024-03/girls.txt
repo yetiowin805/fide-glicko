@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Bhatia, Kanishka	SCO 2010 1635.0244881 66.9286303 2410095
+1 Bhatia, Kanishka	SCO 2010 1625.6882932 66.7959923 2410095

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rivera, Eduardo	PUR 1992 M 2047.0346157 67.6883894 3100464
+2 Raul, Vazquez-Reyes	PUR 1991 M 2035.2362049 67.6345893 3100235

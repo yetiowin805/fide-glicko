@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Zepeda, Sonia	ESA 1981 1965.6338093 69.0253123 6700241
+2 Melendez, Gabriela	ESA  1843.0940587 68.7361076 6700705

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Al Ghamdi, Ahmed M	KSA 1970 M 1857.5798128 74.3441091 21500150
+2 Al Habeeb, Emad	KSA 1975 M 1735.9112647 72.4808139 21500029

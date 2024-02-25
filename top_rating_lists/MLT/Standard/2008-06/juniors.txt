@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Zerafa, Patrick	MLT 1988 M 1974.9737035 73.3314596 5600375
+2 Zerafa, Robert	MLT 1989 M 1932.4701435 72.7775259 5600618

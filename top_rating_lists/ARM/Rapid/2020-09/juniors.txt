@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Khachatryan, Samvel S.	ARM 2003 M 2100.2845150 72.3220530 13309048
+1 Khachatryan, Samvel S.	ARM 2003 M 2084.8094132 71.9135370 13309048

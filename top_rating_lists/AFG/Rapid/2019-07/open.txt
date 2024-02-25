@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rahmani, Asef	AFG 1973 M 1797.9715499 53.2641362 12540951
+1 Rahmani, Asef	AFG 1973 M 1785.5479689 52.9653227 12540951

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al Jowder, Isa	BRN 2003 M 1298.6923066 71.1637872 11201851
+1 Al Jowder, Isa	BRN 2003 M 1292.0324313 71.1315804 11201851

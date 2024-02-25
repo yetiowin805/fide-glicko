@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Tan, Zhongyi	CHN 1991 2474.4568430 64.6579388 8603642
+1 Tan, Zhongyi	CHN 1991 2403.2146710 64.6408003 8603642

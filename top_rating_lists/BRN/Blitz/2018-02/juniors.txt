@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al Mahmood, Salman	BRN 2004 M 1612.5474003 69.9652507 11201517
+1 Al Mahmood, Salman	BRN 2004 M 1603.1295720 69.8783769 11201517

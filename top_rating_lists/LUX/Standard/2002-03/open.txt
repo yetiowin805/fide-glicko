@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 David, Alberto	LUX 1970 M 2517.1878756 61.5552894 4000013
+2 Feller, Joseph	LUX 1944 M 2166.6836764 73.6785265 4000439

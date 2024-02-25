@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 San Diego, Marie Antoinette	PHI 1999 1865.9338168 73.0550994 5205204
+1 San Diego, Marie Antoinette	PHI 1999 1818.8322557 71.8518939 5205204

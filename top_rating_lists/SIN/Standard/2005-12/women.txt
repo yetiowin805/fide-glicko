@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Tay, Li-Jin Jeslin	SIN 1990 1893.1585116 70.5199221 5800927
+2 Hui, Sau-Mun Dawn	SIN 1988 1823.4470476 65.7642902 5801036

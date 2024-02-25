@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Zapata, Alonso	COL 58 M 2538.3542872 53.0421743 4400011
+2 Gonzalez Rodriguez, Jorge A.	COL 54 M 2411.7960803 51.4523751 4400240

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Terao, Juliana Sayumi	BRA 1991 1994.9249428 61.6507314 2109220
+2 Pereira, Amanda Marques	BRA 1994 1737.7175920 63.3319477 2114003

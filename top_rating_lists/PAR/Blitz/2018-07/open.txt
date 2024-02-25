@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ramirez, Jorge Guillermo	PAR 1999 M 1845.9984456 73.4498511 3705099
+1 Cantero, Rodolfo	PAR 1999 M 1851.9414982 74.5812664 3703762
+2 Ramirez, Jorge Guillermo	PAR 1999 M 1796.7226345 72.2916056 3705099

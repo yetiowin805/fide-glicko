@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ovezova, Maisa	TKM 81 2140.9498356 74.9864618 14000393
+2 Hallaeva, Bahar	TKM 88 2041.7505173 72.2499607 14000679

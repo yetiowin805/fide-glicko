@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Shrestha, Keshav	NEP  M 1998.0245209 67.2899275 12300055
+2 Niraj, Niraula	NEP  M 1822.2650600 73.6893184 12300128
+3 Prem, Krishna Maharjan	NEP  M 1817.2189964 71.2687736 12300152

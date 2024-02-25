@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Zuriel, Marisa	ARG 82 2161.6902066 58.6113662 109142
+2 Meza, Anahi	ARG 85 1961.2643647 70.6907374 111325

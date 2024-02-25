@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Sedina, Elena (IM)	ITA 68 2446.6064601 47.6197185 812153
+2 Costantini, Laura	ITA 85 2061.0439439 69.6141407 812587
+3 Ambrosi, Eleonora	ITA 88 2030.8207354 62.2914805 812099

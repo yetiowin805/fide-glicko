@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Peng, Zhaoqin (IM)	NED 68 2498.6217398 68.4484832 1004786
+2 Muhren, Bianca	NED 86 2080.8500789 74.6722016 1008498

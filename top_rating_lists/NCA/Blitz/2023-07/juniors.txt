@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Espinoza Solano, Jose Nahum	NCA 2003 M 2073.5822702 59.4313883 6104428
-2 Vanegas Lopez, Natanael Emanuel	NCA 2006 M 1810.9642341 63.3026542 6108326
-3 Cantero Turcios, Randy Jose	NCA 2007 M 1654.4921502 72.8234390 6108792
-4 Espinoza Guerrero, Felix Alberto	NCA 2009 M 1533.0883008 69.0520538 6104762
+1 Espinoza Solano, Jose Nahum	NCA 2003 M 2052.6736348 59.0034897 6104428
+2 Vanegas Lopez, Natanael Emanuel	NCA 2006 M 1796.3683163 63.0321432 6108326
+3 Cantero Turcios, Randy Jose	NCA 2007 M 1644.7595613 72.5106684 6108792
+4 Espinoza Guerrero, Felix Alberto	NCA 2009 M 1525.2635664 68.7553049 6104762

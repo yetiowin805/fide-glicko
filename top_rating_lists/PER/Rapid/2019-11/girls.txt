@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Bravo Mallco, Kate Azumi	PER 2007 1871.9856414 73.0978118 3836509
-2 Garcia Andrada, Heidy Nicole	PER 2004 1750.0963536 69.4380065 3831779
+1 Bravo Mallco, Kate Azumi	PER 2007 1874.8348504 72.2346567 3836509
+2 Garcia Andrada, Heidy Nicole	PER 2004 1748.6096432 69.4074073 3831779

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Feras, Alharash	SYR 1979 M 1705.9348050 74.9635373 7604645
+1 Feras, Alharash	SYR 1979 M 1695.5125790 74.7913436 7604645

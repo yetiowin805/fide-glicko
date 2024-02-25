@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kholikov, Kakhramon	UZB 1985 M 1841.6713330 58.4992724 14208989
+1 Vokhidov, Shamsiddin	UZB 2002 M 2407.1367988 74.9542319 14204223
+2 Kholikov, Kakhramon	UZB 1985 M 1803.2477989 58.0671088 14208989

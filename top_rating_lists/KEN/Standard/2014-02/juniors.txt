@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Pendyala, Ritvik	KEN 2002 M 1414.4042498 67.4100491 10800743
+1 Pendyala, Ritvik	KEN 2002 M 1400.0077092 67.1946768 10800743

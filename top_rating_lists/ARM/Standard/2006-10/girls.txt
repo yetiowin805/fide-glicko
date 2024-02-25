@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Andriasian, Siranush	ARM 1986 2189.8987450 47.4012889 13301926
+2 Aghabekian, Liana	ARM 1986 2122.3979672 74.0665470 13302540

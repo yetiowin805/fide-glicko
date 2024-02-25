@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Sadaga, Salah	LBA 1964 M 1669.3925938 63.1185174 9202030
+1 Sadaga, Salah	LBA 1964 M 1666.8776669 63.2070558 9202030

@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Alberto, Manuel	ANG  M 2148.5654628 70.5404542 10100148
+1 Sousa, Armindo	ANG  M 2114.2588310 71.5699968 10100075
+2 Alberto, Manuel	ANG  M 2082.5383575 65.5738406 10100148

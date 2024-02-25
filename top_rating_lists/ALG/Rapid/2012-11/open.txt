@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bounehas, Halim	ALG 1953 M 1746.7858921 74.7067360 7901208
+1 Bounehas, Halim	ALG 1953 M 1726.4645435 74.0784287 7901208

@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bayasgalan, Khishigbaatar	MGL 2007 F 1859.6779379 71.6000677 4904311
+1 Batsuren, Dambasuren	MGL 2004 M 2233.6012305 74.8344496 4902920
+2 Bayasgalan, Khishigbaatar	MGL 2007 F 1838.2690540 70.9794613 4904311

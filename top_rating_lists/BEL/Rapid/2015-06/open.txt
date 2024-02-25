@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Herman, Jean	BEL 1991 M 2025.0683206 74.3331568 263036
+1 Herman, Jean	BEL 1991 M 1992.4990373 73.5535101 263036

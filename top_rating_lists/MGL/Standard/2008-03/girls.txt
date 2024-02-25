@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Yanjindulam, Dulamsuren	MGL 1988 2134.0739169 66.0888662 4900952
+2 Batzaya, Yanjav	MGL 1989 1900.0789295 66.6469158 4901088

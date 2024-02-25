@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Duygulu, Ugur	TUR 2008 M 1588.0625197 68.8947170 34573976
+1 Duygulu, Ugur	TUR 2008 M 1586.1239703 68.8756696 34573976

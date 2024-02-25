@@ -1,4 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Aguirre Contreras, Cristian	CHI 1996 M 1686.1443943 73.2814903 3412776
-2 Garmendia Vega, Gabriel	CHI 1995 M 1637.1621994 74.9118033 3414361
-3 Nunez Donaire, Elias Rodrigo	CHI 1998 M 1397.7707593 73.1756489 3418030
+1 Aguirre Contreras, Cristian	CHI 1996 M 1862.4039477 74.9929121 3412776

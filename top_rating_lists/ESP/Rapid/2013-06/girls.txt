@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Perera Borrego, Mariela	ESP 1994 2079.5850094 66.7546476 22238255
+1 Perera Borrego, Mariela	ESP 1994 2024.7457943 65.9845537 22238255
+2 Perez Perez, Elena	ESP 1997 1578.0597461 74.7245559 22209522

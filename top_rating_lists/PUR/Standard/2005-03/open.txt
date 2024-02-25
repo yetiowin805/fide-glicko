@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Montalvo, Alejandro	PUR  M 2189.8219830 66.4351177 3100260
+2 Santa Torres, Juan	PUR 63 M 2174.6009103 65.8817414 3100120
+3 Lamastus-Candal, Jean P.	PUR  M 2074.5177466 65.5352459 3100448

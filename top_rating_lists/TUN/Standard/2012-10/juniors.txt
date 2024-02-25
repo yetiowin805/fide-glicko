@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Krifa, Najla	TUN 1992 F 1662.7463191 70.2785300 5501040
+1 Krifa, Najla	TUN 1992 F 1658.8039338 69.2964371 5501040

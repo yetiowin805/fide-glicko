@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Yurtaev, Leonid	KGZ 1959 M 2544.0215071 61.3686643 13800019
+2 Magai, Vladimir	KGZ  M 2533.4520680 63.5426840 13800124

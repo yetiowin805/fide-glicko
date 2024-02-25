@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Pourkashiyan, Atousa	IRI 1988 2252.2084871 50.3437980 12502014
+2 Bayat, Shohreh	IRI 1987 1992.7403480 72.7029151 12501018

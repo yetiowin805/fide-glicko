@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mencos Castillo, Maria	GUA 1996 F 1668.0483449 67.9235343 7300867
+1 Mencos Castillo, Maria	GUA 1996 F 1649.1894111 67.5110695 7300867

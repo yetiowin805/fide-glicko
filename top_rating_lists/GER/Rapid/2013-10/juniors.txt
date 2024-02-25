@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Donchenko, Alexander	GER 1998 M 2266.8605796 74.8595192 24603295
+1 Donchenko, Alexander	GER 1998 M 2220.6935966 74.2126730 24603295

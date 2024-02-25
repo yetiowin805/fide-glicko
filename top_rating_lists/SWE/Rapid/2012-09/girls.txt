@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Fransson, Angelina	SWE 1994 1857.8457020 70.8864029 1712632
+1 Fransson, Angelina	SWE 1994 1829.0282744 70.2545060 1712632
+2 Bengtsson, Jessica	SWE 1995 1818.3955293 74.9567121 1711083

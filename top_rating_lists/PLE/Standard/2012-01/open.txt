@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Wajdy, Shebetah	PLE  M 1834.0945562 71.2739241 11500131
+1 Michel Yunis, Christian D.	PLE 1968 M 2291.5534376 74.0523594 3400085
+2 Wajdy, Shebetah	PLE  M 1849.8323380 70.2670913 11500131

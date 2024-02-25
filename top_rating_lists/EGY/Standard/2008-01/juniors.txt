@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Amin, Bassem	EGY 1988 M 2540.3656018 45.4892862 10601457
+1 Amin, Bassem	EGY 1988 M 2490.7795585 50.9185995 10601457

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Megaranto, Susanto	INA 1987 M 2478.3815454 57.8684196 7101384
+2 Halay, Taufik	INA 1987 M 2329.5122144 71.5780289 7101392

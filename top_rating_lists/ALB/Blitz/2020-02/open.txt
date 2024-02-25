@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Tusha, Ruzhdi	ALB 1965 M 1574.7632738 73.6470935 4701356
+1 Tusha, Ruzhdi	ALB 1965 M 1562.3112320 73.1990830 4701356

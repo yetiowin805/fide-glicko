@@ -1,4 +1,5 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ribera Veganzones, Serni	AND 2007 M 1909.8660343 63.6456675 6900860
-2 Ribera Veganzones, Josep Maria	AND 2003 M 1889.2573385 72.6055894 6900763
-3 Henderson de La Fuente, Andrea	AND 2001 F 1751.5602558 60.9216210 32096577
+1 Ribera Veganzones, Serni	AND 2007 M 1879.2002973 63.1373051 6900860
+2 Ribera Veganzones, Josep Maria	AND 2003 M 1857.0002289 71.6643326 6900763
+3 Henderson de La Fuente, Andrea	AND 2001 F 1735.3782916 60.5805900 32096577
+4 Cabarcos Baulina, Manuel	AND 1997 M 1677.7506763 74.8534384 6901166

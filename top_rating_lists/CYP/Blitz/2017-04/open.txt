@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Skettos, Nicolas	CYP 1996 M 1679.5276339 60.6944022 5900670
+1 Skettos, Nicolas	CYP 1996 M 1663.6418238 60.2102385 5900670

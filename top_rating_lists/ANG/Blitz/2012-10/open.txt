@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Alberto, Manuel	ANG 1974 M 2144.3957054 72.4005960 10100148
+1 Alberto, Manuel	ANG 1974 M 2079.0519374 72.0243742 10100148

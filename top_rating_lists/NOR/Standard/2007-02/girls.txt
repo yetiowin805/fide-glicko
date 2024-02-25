@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Tjolsen, Katrine	NOR 1993 2035.9788983 74.7482025 1505793
+2 Carlsen, Ellen Oen	NOR 1989 1793.7241944 74.3609425 1505416

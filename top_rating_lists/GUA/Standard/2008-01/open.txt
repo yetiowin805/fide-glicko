@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Quinones, Centeno Carlos	GUA  M 2156.6215946 70.7329419 7300530
+2 Mencos, Claudia	GUA  M 1988.4039654 70.0986789 7300573

@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Prudnikova, Svetlana	YUG 67 2452.6434740 74.1012037 929700
+2 Maric, Alisa (IM)	YUG 70 2422.6262701 73.6016583 904180
+3 Bojkovic, Natasa	YUG 71 2397.7933999 59.4484910 908550
+4 Dimitrijevic, Aleksandra	YUG 86 2249.6955696 68.7517406 929239

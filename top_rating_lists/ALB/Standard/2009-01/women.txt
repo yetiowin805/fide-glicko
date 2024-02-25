@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Shabanaj, Eglantina	ALB  1994.5751819 74.2867487 4700562
+2 Pasku, Roela	ALB  1942.0079040 73.6449846 4700708

@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Carrasco Jacome, Bryan	ECU 1997 M 2146.4507814 69.1115959 3618986
-2 Quezada Pauker,Katheen Gabriela	ECU 2007 F 1672.2429546 74.2690271 3632261
-3 Artieda Berru,Ariadna Ameli	ECU 2007 F 1533.9206167 73.8079390 3630293
+1 Carrasco Jacome, Bryan	ECU 1997 M 2122.2856904 68.8810290 3618986
+2 Quezada Pauker,Katheen Gabriela	ECU 2007 F 1669.9742243 74.2323329 3632261
+3 Artieda Berru,Ariadna Ameli	ECU 2007 F 1532.7283215 73.8090159 3630293

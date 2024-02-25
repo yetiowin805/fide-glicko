@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Alonzo, Jose	HON 1993 M 1837.2938078 73.7812226 8402361
+1 Alonzo, Jose	HON 1993 M 1864.3867182 74.4510364 8402361

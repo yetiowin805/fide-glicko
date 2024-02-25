@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Shuqja, Klean	ALB 2006 F 1904.2033743 68.8602991 4701585
+1 Shuqja, Klean	ALB 2006 F 1869.9797017 68.2167208 4701585

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Gundavaa, Bayarsaihan	MGL 1989 M 2318.4647667 66.5347349 4901045
+2 Batzaya, Yanjav	MGL 1989 F 1900.3102310 72.4559432 4901088

@@ -1,4 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Tapia Fuentes, Jaime	CHI 1992 M 1851.8187541 73.7727685 3403025
-2 Cortes Moyano, Julio	CHI 1951 M 1780.4625830 72.8479187 3400395
-3 Aguirre Contreras, Cristian	CHI 1996 M 1698.6007085 72.1427183 3412776
+1 Aguirre Contreras, Cristian	CHI 1996 M 1870.0985946 74.6545173 3412776

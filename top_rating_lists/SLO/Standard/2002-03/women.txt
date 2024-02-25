@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Krivec, Jana	SLO 1980 2276.1028633 71.6814253 14601982
+2 Hari, Veronika	SLO 1985 1984.0392496 73.1937905 14603586

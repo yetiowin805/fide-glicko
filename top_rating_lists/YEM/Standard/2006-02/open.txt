@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Al Qudaimi, Basheer	YEM  M 2362.1675225 72.9345901 9400346
+2 Al-Zendani, Zendan	YEM 1982 M 2318.4152276 73.2821242 9400249
+3 Faraj, Yahya	YEM  M 2245.7452737 74.1010024 9400184

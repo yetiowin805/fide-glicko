@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Hernandez, Gilberto	MEX  M 2582.3749592 58.1960475 5100011
+2 Estrada Nieto, Julian	MEX  M 2388.6952876 66.5715768 5101018

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Srivatanakul, Pricha	THA 1937 M 1666.0631287 74.9453049 6200508
-2 Asavasaetakul, Chawit	THA 2003 M 1483.2274346 74.3213151 6204856
+1 Srivatanakul, Pricha	THA 1937 M 1656.3485870 74.3540975 6200508
+2 Asavasaetakul, Chawit	THA 2003 M 1479.3579318 74.1217394 6204856

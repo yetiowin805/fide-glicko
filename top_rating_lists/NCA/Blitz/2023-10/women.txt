@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Granados Ortiz, Maria Jose	NCA 2001 1741.9044344 66.7415774 6103812
-2 Alvarez Gutierrez, Patricia	NCA 2002 1561.3971867 69.0984724 6105548
-3 Ruiz Castellon, Jesseling	NCA 2001 1499.2547207 73.7977143 6108342
+1 Granados Ortiz, Maria Jose	NCA 2001 1729.9546506 66.3851997 6103812
+2 Alvarez Gutierrez, Patricia	NCA 2002 1552.3988764 68.8466604 6105548
+3 Ruiz Castellon, Jesseling	NCA 2001 1491.6069229 73.6107825 6108342

@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mohammad Fahad, Rahman	BAN 2003 M 2179.8789020 67.7680003 10207791
+1 Mohammad Fahad, Rahman	BAN 2003 M 2114.6504951 65.9115207 10207791
+2 Swarnavo Choudhury	BAN 2006 M 1576.8669841 74.9540102 10214984

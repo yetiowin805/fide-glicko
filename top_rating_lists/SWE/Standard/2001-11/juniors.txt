@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Berg, Emanuel	SWE 1981 M 2521.6687590 67.4133391 1704060

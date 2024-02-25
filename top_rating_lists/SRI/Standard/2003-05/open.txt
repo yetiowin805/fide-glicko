@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 De Silva, Nirosh	SRI 78 M 2234.0818096 67.6095793 9900268
+2 Weeramantry, Sunil	SRI 51 M 2184.3686633 68.1034407 9900055
+3 Jayasinghe, M.S.	SRI  M 2085.3578871 73.6632997 9900349

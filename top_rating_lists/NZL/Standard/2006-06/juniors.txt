@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Wang, Puchen	NZL 1990 M 2131.0278157 69.6441133 4300904
+2 Thornton, Giovanni Antonio	NZL 1987 M 1963.1622777 62.2242780 4300963

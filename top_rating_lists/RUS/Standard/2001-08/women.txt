@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Galliamova, Alisa (IM)	RUS 1972 2547.0000000 52.3874105 4129725
+2 Kovalevskaya, Ekaterina	RUS 1974 2507.0000000 52.3874105 4116704

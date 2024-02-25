@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Haznedaroglu, Kivanc	TUR 81 M 2378.1669693 68.6417756 6300634
+2 Atakisi, Umut	TUR  M 2342.7155050 69.3620850 6301037

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Le, Quang Liem	VIE 1991 M 2699.8831912 57.8984488 12401137
+1 Le, Quang Liem	VIE 1991 M 2623.3308454 58.2643631 12401137

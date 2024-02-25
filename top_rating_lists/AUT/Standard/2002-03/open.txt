@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Stanec, Nikolaus	AUT 1968 M 2529.2366992 53.0893023 1601776
+2 Heifez, Eugen	AUT 1971 M 2309.1169553 50.9140081 1600648

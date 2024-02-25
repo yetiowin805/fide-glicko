@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kim, Alexey	KOR 1986 M 2408.0618307 56.3270310 4129776
+2 Song, Jinwoo	KOR 1973 M 1920.8545017 72.3367054 413003

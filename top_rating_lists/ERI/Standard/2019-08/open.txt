@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kibrom Weldegebriel Beraki	ERI 1987 M 1744.0035211 73.9705183 15701190
+1 Kibrom Weldegebriel Beraki	ERI 1987 M 1731.0453051 73.7759739 15701190

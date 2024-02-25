@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Wong, Zi Jing	MAS 82 M 2345.7066309 67.8904594 5700574
+2 Lim, Yee-Weng	MAS 82 M 2312.8402910 66.6834911 5700590

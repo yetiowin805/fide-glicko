@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Vincent Alaina	AUS 2006 1837.3488552 72.9064278 46608931
+1 Vincent Alaina	AUS 2006 1808.6322990 72.3425263 46608931

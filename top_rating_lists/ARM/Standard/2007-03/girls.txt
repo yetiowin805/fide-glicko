@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Martirosyan, Lia	ARM 1988 2050.4873709 69.1611925 13302272
+2 Darbinyan, Nune	ARM 1990 2031.5143945 56.7142537 13302566

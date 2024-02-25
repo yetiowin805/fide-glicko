@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Volpinari, Danilo	SMR 1969 M 1830.9956631 72.2085059 11800054
+1 Volpinari, Danilo	SMR 1969 M 1808.7900031 71.6649268 11800054

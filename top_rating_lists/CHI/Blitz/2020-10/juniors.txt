@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Reyes Mendoza, Tomas	CHI 2007 M 1735.4180612 74.8140373 3439216
+1 Reyes Mendoza, Tomas	CHI 2007 M 1734.1637332 74.7888644 3439216

@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Henriquez Villagra, Cristobal	CHI 1996 M 2436.1610483 74.8384802 3409350
-2 Munoz Contreras, Nelson	CHI 1982 M 1742.1204207 74.0218593 3406946
+1 Henriquez Villagra, Cristobal	CHI 1996 M 2423.5430139 74.0160431 3409350

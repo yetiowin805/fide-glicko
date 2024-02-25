@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Raji Sayel,Abu Azizah	PLE 2006 M 1570.2855373 71.5008484 11503327
+1 Raji Sayel,Abu Azizah	PLE 2006 M 1553.0880600 71.1788407 11503327

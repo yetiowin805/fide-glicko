@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Krifa, Najla	TUN  1596.6640907 71.1504494 5501040
+2 Matoussi, Amina	TUN 1987 1522.1872224 68.8576340 5501164

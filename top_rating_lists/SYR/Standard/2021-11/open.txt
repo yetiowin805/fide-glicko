@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Harayssi, Zaki	SYR 1991 M 2062.0668557 73.7004799 7603460
+1 Harayssi, Zaki	SYR 1991 M 2055.2481617 73.4105760 7603460

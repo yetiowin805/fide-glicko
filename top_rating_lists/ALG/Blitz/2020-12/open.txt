@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bellahcene,Bilel	ALG 1998 M 2420.3197761 72.6008373 696358
+1 Bellahcene,Bilel	ALG 1998 M 2379.7833174 71.7868710 696358

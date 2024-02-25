@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Tweedie, Steven	SCO 1987 M 2206.7829054 65.5334896 2401550
+2 Mcgowan, Daniel	SCO 1986 M 2101.5265368 68.0966207 2401479

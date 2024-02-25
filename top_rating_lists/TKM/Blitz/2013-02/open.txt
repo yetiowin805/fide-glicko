@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Semiev, Suhrab	TKM 1985 M 2167.1743326 74.9121475 14000865
+1 Semiev, Suhrab	TKM 1985 M 2119.7639496 74.5872183 14000865

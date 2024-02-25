@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Reyes Acevedo, Ismael	DOM 1961 M 1971.0290633 71.4494992 6403697
+1 Reyes Acevedo, Ismael	DOM 1961 M 1956.7879095 70.7040859 6403697

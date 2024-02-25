@@ -1,4 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Alvarado Munoz, Sebastian	CHI 2002 M 1872.2876879 73.7939736 3428486
-2 Munoz Ramos, Christopher	CHI 2011 M 1798.6817552 74.2320667 3439615
-3 Vera Quijon, Lorenzo Vicente	CHI 2002 M 1598.6265741 72.3886262 3427382
+1 Vera Quijon, Lorenzo Vicente	CHI 2002 M 1635.7690954 73.6315374 3427382

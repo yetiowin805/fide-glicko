@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Stokes, Ivan	SCO 1989 M 1938.0912991 65.9494015 2401932
+2 MacQueen, Calum	SCO 1990 M 1860.1912622 74.9515643 2402270

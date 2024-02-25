@@ -1,3 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Palmero Martinez, Rachel	CUB 1997 1677.0860375 72.7166794 3516466
-2 Gonzalez Estrada, Chrissye L.	CUB 1999 1639.0705526 56.0643686 3516431
+1 Martinez Mesa, Chaneli	CUB 2002 1635.8691582 71.5762668 3520412
+2 Palmero Martinez, Rachel	CUB 1997 1618.4181208 70.5036540 3516466
+3 Gonzalez Estrada, Chrissye L.	CUB 1999 1602.7072853 55.2440359 3516431

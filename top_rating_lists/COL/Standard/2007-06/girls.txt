@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Franco, Angela	COL 1987 2034.1005291 69.7270615 4403070
+2 Rivera, Ingris	COL 1988 2026.3560053 70.8238299 4402472

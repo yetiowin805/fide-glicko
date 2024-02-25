@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Agbokanzo, Koffi Selom	TOG 1987 M 1488.4042699 74.2333155 21200718
+1 Strovsky, Mikhail	TOG 1986 M 1751.6215563 74.6063228 24111627
+2 Agbokanzo, Koffi Selom	TOG 1987 M 1474.1684533 74.1352645 21200718

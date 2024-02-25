@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Aguilar, Filipina	MLT  1827.0568083 65.2963579 5600464
+2 Pulpan, Oana	MLT  1769.0198616 66.5224977 5600502

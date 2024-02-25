@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Geldiyeva, Mahri	TKM 1973 F 2068.0943439 74.8855907 14000059
+1 Geldiyeva, Mahri	TKM 1973 F 2033.8728994 73.4959069 14000059

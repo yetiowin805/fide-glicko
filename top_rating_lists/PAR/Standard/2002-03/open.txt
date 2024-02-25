@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Franco Ocampos, Zenon	PAR 1956 M 2514.3721749 57.2916496 2209381
+2 Valiente, Cristobal	PAR 1962 M 2350.7984492 74.6403735 3700020

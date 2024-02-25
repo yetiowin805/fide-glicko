@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kovalev, Vladislav	BLR 1994 M 2473.8107924 57.8701290 13504398
+1 Kovalev, Vladislav	BLR 1994 M 2408.3634704 56.9981086 13504398
+2 Zarubitski, Viachaslau	BLR 2002 M 1765.5542981 74.5235693 13509373

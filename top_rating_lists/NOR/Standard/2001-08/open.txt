@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Agdestein, Simen	NOR 1967 M 2572.0000000 52.3874105 1500015
+2 Gausel, Einar	NOR 1963 M 2520.0000000 52.3874105 1500031

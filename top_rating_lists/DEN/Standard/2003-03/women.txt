@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Hoiberg, Nina	DEN 56 2169.5099665 62.3930394 1400720
+2 Vovk, Oksana	DEN 82 2089.9673546 63.0570235 1404695

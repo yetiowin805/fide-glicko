@@ -1,4 +1,5 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Benitez Galeano, Alejandro	PAR 2002 M 1894.6821069 72.1681090 3703568
-2 Jodorcovsky, Alejandro David	PAR 2007 M 1685.3635470 73.5892847 3705625
-3 Amarilla Ettiene, Ezequiel	PAR 2009 M 1533.3909550 74.7207403 3708403
+1 Benitez Galeano, Alejandro	PAR 2002 M 1870.1321534 71.0725307 3703568
+2 Jodorcovsky, Paulo Leonardo	PAR 2003 M 1727.7102345 74.6919020 3705617
+3 Jodorcovsky, Alejandro David	PAR 2007 M 1671.5387880 73.3396386 3705625
+4 Amarilla Ettiene, Ezequiel	PAR 2009 M 1522.7394292 74.4313224 3708403

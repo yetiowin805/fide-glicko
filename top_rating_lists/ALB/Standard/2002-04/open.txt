@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Dervishi, Erald	ALB 1979 M 2575.4549318 63.3295797 4700236
+2 Seitaj, Ilir	ALB  M 2445.7713171 74.7791706 4700031

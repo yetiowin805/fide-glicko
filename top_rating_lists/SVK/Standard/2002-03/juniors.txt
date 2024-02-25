@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Markos, Jan	SVK 1985 M 2437.6562623 67.7047316 14903474
+2 Vavrak, Peter	SVK 1982 M 2375.7238820 72.7492754 14901080

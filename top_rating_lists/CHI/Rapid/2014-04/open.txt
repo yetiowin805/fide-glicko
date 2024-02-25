@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Caceres Leal, Jaime	CHI 1986 M 1861.9748404 74.8149593 3410480
-2 Tapia Fuentes, Jaime	CHI 1992 M 1851.8187541 72.0969430 3403025
+1 Tapia Fuentes, Jaime	CHI 1992 M 2057.6590452 73.7794102 3403025

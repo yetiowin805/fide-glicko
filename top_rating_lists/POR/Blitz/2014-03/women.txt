@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Oliveira, Maria Ines	POR 1996 1831.0330374 74.5039313 1909436
-2 Gabriel, Agna Solange Videira	POR 1992 1682.7247296 61.1930494 1910949
+1 Oliveira, Maria Ines	POR 1996 1755.0505441 73.7166179 1909436
+2 Gabriel, Agna Solange Videira	POR 1992 1602.4348017 59.2102073 1910949

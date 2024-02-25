@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Grabcheva, Natalia	BUL 2002 1473.5525902 54.5833959 2917815
+1 Nancheva, Doroteya	BUL 1996 1747.8527793 74.4496249 2906449
+2 Grabcheva, Natalia	BUL 2002 1461.9140367 54.2526575 2917815

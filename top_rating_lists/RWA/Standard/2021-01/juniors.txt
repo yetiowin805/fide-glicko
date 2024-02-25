@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Cyubahiro, Ben Patrick	RWA 2004 M 1528.7965283 74.8730429 16001079
+1 Cyubahiro, Ben Patrick	RWA 2004 M 1518.1960137 74.8149171 16001079

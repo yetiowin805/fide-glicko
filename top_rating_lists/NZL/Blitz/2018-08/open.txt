@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Sulaiman Moosa, Omer	NZL 1962 M 1629.7346825 63.9648613 4306422
+1 Sulaiman Moosa, Omer	NZL 1962 M 1617.7193535 63.5326346 4306422

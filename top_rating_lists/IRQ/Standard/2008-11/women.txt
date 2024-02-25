@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Mohammed Qane,Jannar Worya	IRQ 1977 1716.8028117 73.9731546 4802144
+1 Al-Rufei, Eman H.	IRQ 1982 2070.1234908 73.9299755 4801067
+2 Mohammed Qane,Jannar Worya	IRQ 1977 1732.6123044 71.4755501 4802144

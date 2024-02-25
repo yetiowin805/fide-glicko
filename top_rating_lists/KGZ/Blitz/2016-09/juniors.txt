@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Omurbekova, Diana	KGZ 1999 F 1608.3913374 70.2405298 13800752
+1 Omurbekova, Diana	KGZ 1999 F 1582.0650503 69.5084574 13800752

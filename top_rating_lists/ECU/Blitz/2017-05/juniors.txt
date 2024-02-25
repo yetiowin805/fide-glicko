@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Noboa, Kevin	ECU 1999 M 1830.5109231 74.0432137 3618471
+1 Noboa, Kevin	ECU 1999 M 1822.3559348 73.7483158 3618471

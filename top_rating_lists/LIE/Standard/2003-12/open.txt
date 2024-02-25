@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Atlas, Valeri	LIE 68 M 2473.5495677 69.0713089 12000035
+2 Frick, Renato	LIE 52 M 2119.6465624 73.0807362 12000027

@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Abdulsalam, Nadhmia	YEM 1975 1559.8382185 71.7011975 9400877
+1 Abdulsalam, Nadhmia	YEM 1975 1553.1788484 70.9938536 9400877
+2 Elshereif, Mada	YEM 1982 1508.0804935 74.5761911 9400125

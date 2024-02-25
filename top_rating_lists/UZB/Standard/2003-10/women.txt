@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Krjuchkova, Elena	UZB 69 2150.6538617 53.2998944 14200627
+2 Malinicheva, L	UZB  2065.8148571 61.0423965 14200457

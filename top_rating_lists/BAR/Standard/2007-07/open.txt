@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Szmetan, Ricardo	BAR 1952 M 2237.0388275 71.7158232 101028
+2 Farley, Terry	BAR 1973 M 2233.6559835 69.2489459 11100095

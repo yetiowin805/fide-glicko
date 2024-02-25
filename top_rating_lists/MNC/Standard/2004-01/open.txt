@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Van Hoolandt, Patrick	MNC 58 M 2220.8542071 45.9291695 200999
+2 Lebel, Patrick	MNC 49 M 2116.1734813 67.0245802 5400147
+3 Chizelle, Bernard	MNC 37 M 1898.1482570 71.3498690 628751

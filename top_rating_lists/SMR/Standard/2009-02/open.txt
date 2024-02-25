@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Grassi, Enrico	SMR 1960 M 2025.5581882 74.9122423 11800046

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Hamrakulova, Yulduz	UZB 1989 2122.3295865 69.1018115 14201151
+2 Krjuchkova, Elena	UZB 1969 2031.2853398 71.5624828 14200627

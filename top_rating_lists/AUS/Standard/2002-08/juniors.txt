@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Xie, George	AUS 1986 M 2171.0679718 72.2773176 3202933

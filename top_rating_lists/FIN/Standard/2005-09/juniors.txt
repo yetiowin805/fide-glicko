@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Nyback, Tomi	FIN 1985 M 2546.4491519 41.5907570 503142
+2 Niemi, Kalle	FIN 1986 M 2219.5077421 42.7809049 504378

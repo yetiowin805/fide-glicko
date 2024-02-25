@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Benitez Galeano, Alejandro	PAR 2002 M 1844.1733652 71.1349999 3703568
+1 Benitez Galeano, Alejandro	PAR 2002 M 1774.1641915 68.6199198 3703568

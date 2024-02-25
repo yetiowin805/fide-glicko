@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mendez, Andre	PAN 2008 M 1705.7713806 74.9457500 6603793
+1 Mendez, Andre	PAN 2008 M 1694.4590168 74.7878072 6603793

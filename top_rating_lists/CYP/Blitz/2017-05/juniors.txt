@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Isaakidis, Alexandros	CYP 1998 M 2045.9815213 62.8002103 5903076
+1 Isaakidis, Alexandros	CYP 1998 M 2022.9355391 62.4611969 5903076

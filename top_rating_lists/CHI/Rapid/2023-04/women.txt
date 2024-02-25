@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Gonzalez Gonzalez, Valentina Anto	CHI 2007 1576.5857639 74.6400218 3435156
-2 Poddubnaya, Maria	CHI 2005 1457.3989834 72.8032418 3458440
+1 Poddubnaya, Maria	CHI 2005 1476.4843771 73.2425593 3458440

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Prudente, Elmer	GUM 1965 M 1863.9187768 74.9608135 31000690
+1 Prudente, Elmer	GUM 1965 M 1848.0633963 74.5179643 31000690

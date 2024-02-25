@@ -1,0 +1,7 @@
+Rank Name Federation BirthYear Rating RD
+1 Sanchez Castillo, Sarai	VEN 1981 2223.2271336 64.0684621 3900754
+2 Han Wong, Irene Estefania	VEN  1964.5477895 65.7834984 3901750
+3 Ubaldo Suarez, Maria Gisela	VEN 1980 1950.0126986 69.3320450 3900630
+4 Sanchez Santana, Celsa Carolina	VEN  1938.0070242 63.1577808 3902188
+5 Hernandez, Zaida	VEN  1878.5956455 67.7692028 3901041
+6 Rincon Gonzalez, Drina	VEN 1990 1861.2558666 64.8868315 3900380

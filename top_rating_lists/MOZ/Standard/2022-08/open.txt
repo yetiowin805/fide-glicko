@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Sitoe, Cheila Andre	MOZ 1999 F 1641.5990026 70.2098695 14800780
+1 Vilhete, Vania Fausto Da T.	MOZ 1985 F 1646.9072507 74.8199219 14800144
+2 Sitoe, Cheila Andre	MOZ 1999 F 1634.8264015 70.1031041 14800780

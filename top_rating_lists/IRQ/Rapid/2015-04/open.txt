@@ -1,3 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mohammed, Zozek Salah Mohammed	IRQ 1986 M 2165.2094354 74.1557547 4803361
-2 Al Falahi, Ziad Tarik Mohammad	IRQ 1973 M 1472.2484757 67.9743751 4807235
+1 Mohammed, Zozek Salah Mohammed	IRQ 1986 M 2154.5643137 72.5316221 4803361
+2 chiya mder hamad	IRQ 1987 M 1903.3079634 74.9921251 4801296
+3 Al Falahi, Ziad Tarik Mohammad	IRQ 1973 M 1462.8310219 67.8269441 4807235

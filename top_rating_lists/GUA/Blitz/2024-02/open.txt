@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Reinhard Moller, Friedrich Stefan	GUA 2014 M 1529.8628880 71.6390082 7306989
+1 Reinhard Moller, Friedrich Stefan	GUA 2014 M 1528.2992676 71.4409167 7306989

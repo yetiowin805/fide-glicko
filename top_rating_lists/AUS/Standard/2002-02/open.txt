@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rogers, Ian	AUS 60 M 2570.4622266 54.0590100 3200019
+2 Johansen, Darryl K.	AUS 59 M 2543.9510146 59.1157706 3200035
+3 Wohl, Aleksandar H.	AUS 63 M 2437.8429086 65.1304691 3200345

@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Arakhamia-Grant, Ketevan	SCO 1968 2474.9330930 47.3988569 13600168
+1 Arakhamia-Grant, Ketevan	SCO 1968 2423.4851013 51.2744428 13600168
+2 Officer, Amy	SCO  1766.7466903 72.3460797 2402114

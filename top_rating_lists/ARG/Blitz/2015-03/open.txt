@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gimenez Aguirre, Alejo Ismael	ARG 2000 M 1777.6121557 74.3835512 32041667
+1 Pichot, Alan	ARG 1998 M 2289.3758692 72.7152283 110973
+2 Gimenez Aguirre, Alejo Ismael	ARG 2000 M 1806.2666995 73.8988570 32041667

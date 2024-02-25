@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Thapa, Krishna	NEP  M 2088.1830835 73.0587376 12300217

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Calabria, Luis	URU 1973 M 1779.4510321 69.7174992 3005810
+1 Calabria, Luis	URU 1973 M 1776.2534172 69.6255337 3005810

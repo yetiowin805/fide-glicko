@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Vescovi, Katherine Lemos	BRA 1999 1635.6009897 73.1997608 2116804
-2 Dall`orsoletta, Alaize	BRA 1997 1633.0934099 74.2892386 2133377
+1 Vescovi, Katherine Lemos	BRA 1999 1613.1509859 72.7442723 2116804
+2 Dall`orsoletta, Alaize	BRA 1997 1609.7678191 73.9436104 2133377

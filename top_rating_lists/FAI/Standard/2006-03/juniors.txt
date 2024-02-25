@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ziska, Helgi Dam	FAI 1990 M 2315.6445185 63.2461209 7200595
+2 Berg, Olaf	FAI 1986 M 2199.6564443 70.9231394 7200420

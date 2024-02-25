@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Leite, Catarina	POR 83 2186.2239308 57.3759328 1901222
+2 Coimbra, Margarida	POR 83 1957.6789378 65.8648903 1901192

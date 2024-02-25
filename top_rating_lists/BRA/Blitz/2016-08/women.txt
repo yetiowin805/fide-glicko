@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Rating RD
-1 Da Cruz, Karoliny Taiane	BRA 1992 1605.0827623 60.3819773 2136910
-2 Quirrenbach, Emanuela Pinheiro	BRA 1998 1467.2710882 71.4625455 2152975
-3 Santana Freitas, Maria Eduarda	BRA 2005 1398.2827133 70.8895898 2193787
-4 Balbys, Fernanda Santoro Boscard	BRA 2002 1340.7686566 74.0230170 2172950
+1 Da Cruz, Karoliny Taiane	BRA 1992 1587.3626570 60.0816260 2136910
+2 Quirrenbach, Emanuela Pinheiro	BRA 1998 1460.7683523 71.3874033 2152975
+3 Santana Freitas, Maria Eduarda	BRA 2005 1385.4478102 70.6232549 2193787
+4 Balbys, Fernanda Santoro Boscard	BRA 2002 1328.6919980 73.7164388 2172950

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kadric, Denis	BIH 1995 M 2365.7398953 69.7470711 14403803
+1 Kadric, Denis	BIH 1995 M 2305.6247377 69.3305641 14403803

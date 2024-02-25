@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Thilakarathne, G M H	SRI 2003 M 1637.5851605 69.6471720 9912053
+1 Thilakarathne, G M H	SRI 2003 M 1619.1978414 69.4227487 9912053

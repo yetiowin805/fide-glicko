@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Michaelides, Konstantinos	CYP 2002 M 1787.6798736 73.3171035 5901871
-2 Georgiou, Andreas	CYP 1973 M 1687.3678505 73.9207781 5900360
+1 Michaelides, Konstantinos	CYP 2002 M 1775.3094486 72.8522604 5901871
+2 Georgiou, Andreas	CYP 1973 M 1678.7225549 73.7147301 5900360

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Alberto, Manuel	ANG  M 2143.9845397 74.5199957 10100148
+2 Erikson, Roberto	ANG 1992 M 2128.6251395 74.2658763 10100091

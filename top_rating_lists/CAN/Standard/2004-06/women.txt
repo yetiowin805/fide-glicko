@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Charbonneau, Anne Marie	CAN 85 1916.6143410 73.7205682 2603934
+2 Kagramanov, Dina	CAN 86 1856.2288382 66.2029611 933953

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Fakudze Nduduzo	SWZ 2003 M 1441.5536233 74.8725737 20701071
+1 Fakudze Nduduzo	SWZ 2003 M 1436.6973271 74.8175675 20701071

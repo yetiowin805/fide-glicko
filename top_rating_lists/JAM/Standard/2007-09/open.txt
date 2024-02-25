@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Elliott, Warren	JAM 1979 M 2232.0418639 68.7142647 7400179
+2 Matthews, Shane	JAM 1964 M 2134.3675656 70.7293090 7400012

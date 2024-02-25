@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Sukandar, Irine Kharisma	INA 1992 F 2244.0539984 68.9712457 7101937
-2 Agung, Rinaldi Santoso	INA 1987 M 1559.8491153 69.7484236 7105185
+1 Sukandar, Irine Kharisma	INA 1992 F 2185.7810559 68.1792333 7101937
+2 Agung, Rinaldi Santoso	INA 1987 M 1549.9936502 69.5816929 7105185

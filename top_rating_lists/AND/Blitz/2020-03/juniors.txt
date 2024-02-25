@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Martinez Gamiz, Marc	AND 2005 M 1610.5413893 69.6182037 6900976
+1 Martinez Gamiz, Marc	AND 2005 M 1592.2826830 69.3384502 6900976

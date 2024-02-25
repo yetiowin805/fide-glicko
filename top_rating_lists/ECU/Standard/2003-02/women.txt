@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Fierro Baquero, Martha L.	ECU 77 2316.8444401 65.8811097 3600270
+2 Moncayo Romero, Evelyn	ECU 81 2184.7881799 64.2227198 3600424
+3 Pino Cuenca, Laura	ECU 87 2076.1612429 67.5718271 3601226

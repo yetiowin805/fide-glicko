@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ordaz Valdes, Lisandra	CUB 1988 F 2222.8666202 54.6535214 3506940
+2 Guerra Mendez, Jose Angel	CUB 1988 M 2200.9612804 48.0360122 3508129

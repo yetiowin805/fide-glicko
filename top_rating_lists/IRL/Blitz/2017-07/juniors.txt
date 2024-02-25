@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Manojlovic, Mihailo	IRL 2000 M 1658.0343129 72.7136791 2507633
+1 Manojlovic, Mihailo	IRL 2000 M 1648.2780726 72.2856300 2507633

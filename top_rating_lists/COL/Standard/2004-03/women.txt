@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ortiz, Nadya Karolina	COL  2133.6550314 60.3001460 4401778
+2 Mateus, Martha	COL 78 2038.2362019 73.6825666 4401549

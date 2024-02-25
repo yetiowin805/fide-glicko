@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Skripchenko-Lautier, Almira	FRA 1976 2469.6408552 51.2454683 13900145
+2 Sebag, Marie	FRA 1986 2439.9185542 73.0782804 617822
+3 Dubois, Martine	FRA 1959 2010.8932662 69.1788912 601926

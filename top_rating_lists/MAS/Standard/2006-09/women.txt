@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Siti, Zulaikha	MAS  2138.5825655 61.0657483 5700965
+2 Nur Shazwani, Zullkafli	MAS  1955.6354520 69.9935492 5701538
+3 Roslina, Marmono	MAS  1867.6254099 72.8089677 5700701

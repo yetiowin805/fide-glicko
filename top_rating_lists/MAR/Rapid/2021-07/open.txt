@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Guedira, Aimen	MAR 1995 M 1918.2252520 67.3243671 9011633
+1 Guedira, Aimen	MAR 1995 M 1908.3502270 66.6350157 9011633

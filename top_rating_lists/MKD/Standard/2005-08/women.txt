@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Koskoska, Gabriela	MKD  2171.7358557 61.7642441 15000630
+2 Kierzek, Mira	MKD 55 2035.9259944 71.4283311 15002110

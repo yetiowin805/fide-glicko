@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Myat Thiri Aung Kyaw	MYA 1993 F 2156.9211797 70.5536785 13002988

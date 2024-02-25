@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Borda Rodas, Anapaola S.	ARG 2004 2079.6308845 71.2629853 152781
+1 Borda Rodas, Anapaola S.	ARG 2004 2043.3178986 70.4945392 152781
+2 Bosco, Giuliana	ARG 2004 1724.0442154 74.4420014 142611

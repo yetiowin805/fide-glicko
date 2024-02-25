@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Bartmeyer, Beatriz	BRA 1999 1349.4542835 73.5620717 2152592
+1 Schucman, Rebeca Lot	BRA 1997 1501.6760067 74.3165185 2140691
+2 Bartmeyer, Beatriz	BRA 1999 1342.4511311 73.4716693 2152592

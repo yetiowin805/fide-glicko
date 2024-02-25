@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Thanarotrung, Ratchaphon	THA 1994 M 1781.1797859 74.9361222 6201059
+2 Tachaplalert, Suvich	THA 1997 M 1680.3416528 74.5955778 6201652

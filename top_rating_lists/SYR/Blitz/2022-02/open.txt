@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Alkhour, Seifedin	SYR 1982 M 1602.5155548 74.4707590 7604394
+1 Alkhour, Seifedin	SYR 1982 M 1586.5890774 74.2585342 7604394

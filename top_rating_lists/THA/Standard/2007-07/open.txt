@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Saeheng, Boonsueb	THA 1966 M 2304.8514365 74.1325149 6200184
+2 Teerapabpaisit, Wisuwat	THA 1971 M 2276.0555839 72.9154687 6200176
+3 Thamthawatworn, Thaweechai	THA 1977 M 2225.0366441 74.2445108 6200206

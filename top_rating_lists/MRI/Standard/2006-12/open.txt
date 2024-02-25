@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Phillips, Roy	MRI 1969 M 2245.8552032 73.9632814 404136
+2 Li Ying, Patrick	MRI  M 2102.9789271 71.8472838 9700056
+3 Chinasamy, Devarajen	MRI  M 1986.1678950 74.1898695 9700072

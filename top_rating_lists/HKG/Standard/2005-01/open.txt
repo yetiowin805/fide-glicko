@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Corke, Anya	HKG 90 F 2090.6247777 53.1913244 6000347
+2 Chong, Chor Yuen	HKG  M 2068.8308665 71.6146345 6000320

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Solomons, Anzel	RSA 1978 1851.5728360 68.5574500 14300800
+1 Solomons, Anzel	RSA 1978 1818.5428916 67.6206687 14300800

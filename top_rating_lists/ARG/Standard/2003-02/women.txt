@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Lujan, Carolina	ARG 85 2236.1714577 62.4457042 109878
+2 Zuriel, Marisa	ARG 82 2196.1636486 72.1562411 109142

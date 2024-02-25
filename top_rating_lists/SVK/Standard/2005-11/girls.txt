@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Borosova, Zuzana	SVK 1988 2166.5336300 48.1467977 14905779
+2 Machalova, Veronika	SVK 1986 2165.7808450 58.9663814 14904888

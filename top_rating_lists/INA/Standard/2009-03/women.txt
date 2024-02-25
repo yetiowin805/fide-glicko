@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Sukandar, Irine Kharisma	INA  2282.7027806 51.3129534 7101937
+1 Sukandar, Irine Kharisma	INA  2174.7195989 50.3296614 7101937
+2 Lindiawati, Evi	INA  2082.2137330 74.4864120 7101449

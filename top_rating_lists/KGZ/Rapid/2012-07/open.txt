@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Tologontegin, Semetey	KGZ 1990 M 2279.4445950 71.5922836 13800574
+1 Tologontegin, Semetey	KGZ 1990 M 2195.4131353 71.6322555 13800574
+2 Esenbek Uulu, Bakai	KGZ 1995 M 1696.2728575 74.8528845 13800736

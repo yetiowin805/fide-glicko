@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Amanov, Mesgen	TKM 1986 M 2254.2096304 56.8359899 14000652
+2 Alimova, Maral	TKM 1987 F 1915.4695497 73.3533369 14000717

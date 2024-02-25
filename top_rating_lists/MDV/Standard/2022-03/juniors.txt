@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Yoosuf Waseem Ahmed	MDV 2007 M 1405.5225143 74.0215101 16701003
+1 Yoosuf Waseem Ahmed	MDV 2007 M 1396.0376666 73.9435941 16701003

@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Fancy, Stuart	PNG  M 1998.2741913 74.8672489 9100024

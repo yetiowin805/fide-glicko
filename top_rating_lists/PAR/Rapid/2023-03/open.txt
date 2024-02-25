@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Delgado Ramirez, Neuris	PAR 1981 M 2553.6341907 65.6121255 3503631
+1 Delgado Ramirez, Neuris	PAR 1981 M 2508.6428135 64.8102272 3503631

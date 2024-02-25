@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Ozanne, Mark S	GCI 1973 M 2034.2101397 69.8560021 10700242
+2 Brookfield, Toby	GCI 1971 M 1778.2234561 74.8427229 10700234

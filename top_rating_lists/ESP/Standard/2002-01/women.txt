@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Calzetta, Monica	ESP 72 2322.4558946 60.7132682 2204185
+2 Hernandez, Yudania	ESP  2260.9072075 72.8492522 2219344

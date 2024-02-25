@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Hernandez, Yudania	ESP  2279.8858179 66.1187923 2219344
+2 Llaneza Vega, Patricia	ESP 1979 2270.7642285 60.2875650 2212676
+3 Calzetta, Monica	ESP 1972 2265.1992975 48.4081799 2204185
+4 Gutierrez Castillo, Paloma	ESP 1985 2023.3390224 74.8482496 2250764

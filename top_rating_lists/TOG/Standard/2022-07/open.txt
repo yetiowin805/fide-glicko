@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Tchouka, Yakini	TOG 1996 M 1899.4781929 59.0360538 21201382
-2 Ballebako, Kokou Difendramakada Jacques	TOG 1995 M 1563.1346461 73.4737896 21201390
+1 Tchouka, Yakini	TOG 1996 M 1886.5505350 58.9480618 21201382
+2 Ballebako, Kokou Difendramakada Jacques	TOG 1995 M 1556.7763973 73.4339735 21201390

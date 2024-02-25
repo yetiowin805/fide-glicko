@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Espinoza Solano, Jose Nahum	NCA 2003 M 1947.8036523 63.0839490 6104428
-2 Vanegas Lopez, Natanael Emanuel	NCA 2006 M 1748.1321159 67.6143387 6108326
-3 Pavon Ruiz, Cristhoffer Israel	NCA 2005 M 1522.2171130 73.2567170 6108628
-4 Marquez Carrero, Rafael Alfonso	NCA 2008 M 1301.7914369 73.9909716 6107532
+1 Espinoza Solano, Jose Nahum	NCA 2003 M 1928.6152380 62.6669349 6104428
+2 Vanegas Lopez, Natanael Emanuel	NCA 2006 M 1734.1569114 67.1410632 6108326
+3 Pavon Ruiz, Cristhoffer Israel	NCA 2005 M 1512.8119184 72.9268769 6108628
+4 Marquez Carrero, Rafael Alfonso	NCA 2008 M 1297.2393870 73.8508929 6107532

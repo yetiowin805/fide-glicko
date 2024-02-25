@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 O`Gorman, Alice	IRL 2000 1669.0385834 56.3421208 2508214
+1 O`Gorman, Alice	IRL 2000 1664.1833005 56.1820762 2508214

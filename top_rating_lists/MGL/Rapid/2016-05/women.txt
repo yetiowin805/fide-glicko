@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Nomin-Erdene, Davaademberel	MGL 2000 2164.4759092 59.3762209 4900782
-2 Bayarmaa, Bayarjargal	MGL 1995 2041.8638266 74.7149853 4900260
+1 Nomin-Erdene, Davaademberel	MGL 2000 2118.5717797 58.4673523 4900782
+2 Bayarmaa, Bayarjargal	MGL 1995 1984.7598983 73.7786936 4900260

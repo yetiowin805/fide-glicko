@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Miswadah, Baha	PLE 1981 M 1973.6165801 73.9462401 11502118
+1 Miswadah, Baha	PLE 1981 M 1969.4848043 73.8885467 11502118

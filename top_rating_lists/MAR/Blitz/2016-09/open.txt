@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rania, Sbai	MAR 0000 F 1601.9133239 72.6448621 9002146
+1 Rania, Sbai	MAR 0000 F 1609.3436359 72.2604391 9002146

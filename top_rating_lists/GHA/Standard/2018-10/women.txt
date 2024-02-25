@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Ayiku,Angela Naa Amerley	GHA 1987 1341.2544513 74.2654620 12600423
-2 Ashley, Christiana Naa Merley	GHA 1984 1172.8384041 72.8626341 12600474
+1 Ayiku,Angela Naa Amerley	GHA 1987 1335.0166754 74.1566991 12600423
+2 Ashley, Christiana Naa Merley	GHA 1984 1167.0876360 72.8333300 12600474

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 McPhillips, Karl	IRL 1988 M 2134.9024586 73.6596099 2501503
+2 Dignam, Matthew	IRL 1988 M 2058.3706870 74.9430391 2501422

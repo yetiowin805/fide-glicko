@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Raja Hattam Ur Rahman	PAK 2010 M 1469.1797962 68.0301979 7807392
+1 Raja Hattam Ur Rahman	PAK 2010 M 1468.5952811 67.9590502 7807392

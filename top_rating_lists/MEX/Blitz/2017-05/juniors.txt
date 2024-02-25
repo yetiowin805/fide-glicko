@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Garcia Herrera, Enrique Ric	MEX 2000 M 1758.9342365 74.4472514 5115124

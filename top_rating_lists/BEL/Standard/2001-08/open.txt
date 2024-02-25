@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Gurevich, Mikhail	BEL 1959 M 2633.0000000 52.3874105 200930
+2 Chuchelov, Vladimir	BEL 1969 M 2607.0000000 52.3874105 201260
+3 Dgebuadze, Alexandre	BEL 1971 M 2547.8220585 50.3441992 203882

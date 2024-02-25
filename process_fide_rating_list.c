@@ -52,16 +52,26 @@ int main(int argc, char* argv[]) {
 
         // Extract rating
         char temp[10];  // Assuming a maximum of 9 characters for the rating
-        strncpy(temp, line + 53, 9);
+        strncpy(temp, line + 60, 9);
         temp[9] = '\0';  // Null-terminate the string
         if (sscanf(temp, "%d", &player.rating) != 1 || player.rating < 1000 || player.rating > 3000) {
             fprintf(stderr, "Error: Invalid rating encountered: '%s'\n", temp);
             exit(EXIT_FAILURE);  // Exit the program with an error code
         }
-        if (player.rating > 2400) {
-            player.rd = 50;
+        strncpy(temp, line+86, 4);
+        temp[4] = '\0';
+        if (strchr(temp, 'i') == NULL) {
+            if (player.rating > 2500) {
+                player.rd = 50;
+            } else {
+                player.rd = DEFAULT_RD;
+            }
         } else {
-            player.rd = DEFAULT_RD;
+            if (player.rating > 2500) {
+                player.rd = 90;
+            } else {
+                player.rd = DEFAULT_RD;
+            }
         }
         player.volatility = DEFAULT_VOLATILITY;
 

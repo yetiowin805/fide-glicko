@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Eltigani, Omar	SUD 1996 M 2261.1480432 61.1786801 738794
+1 Eltigani, Omar	SUD 1996 M 2209.4142169 60.7884373 738794

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Daulyte, Deimante	LTU 1989 2125.3061304 49.8157522 12802859
+2 Limontaite, Simona	LTU 1987 2073.4026416 63.9717086 12802506

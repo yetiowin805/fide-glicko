@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Postny, Evgeny	ISR 1981 M 2499.1297411 73.0904032 2804344
+1 Postny, Evgeny	ISR 1981 M 2452.1926755 72.6717322 2804344

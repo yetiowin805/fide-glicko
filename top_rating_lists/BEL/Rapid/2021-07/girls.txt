@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Navez, Alice	BEL 2005 1612.2603292 72.1914053 252336
+1 Navez, Alice	BEL 2005 1610.5328560 72.1442363 252336

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 James, Tondo	LBR 1992 M 1692.4840765 72.0045499 22600132
+1 James, Tondo	LBR 1992 M 1693.9525677 72.0454197 22600132

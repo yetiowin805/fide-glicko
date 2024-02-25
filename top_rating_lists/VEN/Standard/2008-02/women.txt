@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Sanchez Castillo, Sarai	VEN 1981 2223.2271336 62.1290378 3900754
+2 Ubaldo Suarez, Maria Gisela	VEN 1980 1950.0126986 67.5469305 3900630
+3 Hernandez, Zaida	VEN  1878.5956455 65.9344894 3901041

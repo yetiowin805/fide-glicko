@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Sequera, Jose	VEN  M 2465.2960146 63.1311036 3900304
+2 Prasca, Raphael	VEN 83 M 2340.2706953 59.3408680 3900819
+3 Bustamante Montoni, Richard	VEN  M 2215.5394300 50.8815993 3900835
+4 Sanchez Castillo, Sarai	VEN 81 F 2182.2363068 66.5677193 3900754

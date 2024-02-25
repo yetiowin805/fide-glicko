@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Attwood, James	AUS 1966 M 1752.4494571 74.3442008 3206688

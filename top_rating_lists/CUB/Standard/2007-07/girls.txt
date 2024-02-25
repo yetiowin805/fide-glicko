@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Ordaz Valdes, Lisandra	CUB 1988 2148.7393045 54.8445657 3506940
+2 Perez Rodriguez, Jennifer	CUB 1987 2126.6231161 57.1994113 3507831
+3 Romero, Nunez Wendy	CUB 1991 1704.0376224 69.8212800 3510174

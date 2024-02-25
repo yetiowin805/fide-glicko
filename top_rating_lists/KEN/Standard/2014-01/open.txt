@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Iyengar, Sharanya	KEN 2002 F 1551.6616963 73.7131477 10800859
+1 Iyengar, Sharanya	KEN 2002 F 1540.3357836 73.5022393 10800859

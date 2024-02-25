@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Villasenor Rubio, Emilio Jose	ESP 1995 M 2096.0734188 72.6149379 22237470
-2 Buendia Pinar, Alvaro	ESP 1997 M 2027.7270421 73.3053241 2281937
+1 Villasenor Rubio, Emilio Jose	ESP 1995 M 2033.0142291 72.2915932 22237470
+2 Buendia Pinar, Alvaro	ESP 1997 M 1972.6974721 72.9578149 2281937

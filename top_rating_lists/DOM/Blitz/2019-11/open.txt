@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Feliz Dotel, Dewar Bienvenido	DOM 1986 M 2009.4745590 67.7174183 6402801
-2 Ramirez Reyes, Braulio Fernando	DOM 1980 M 1998.7891243 73.2825994 6401007
-3 Lorenzo De Los Santos, Luis L.	DOM 1981 M 1959.1021638 74.7745224 6402127
+1 Feliz Dotel, Dewar Bienvenido	DOM 1986 M 2017.7078994 67.7189971 6402801
+2 Ramirez Reyes, Braulio Fernando	DOM 1980 M 2006.1851197 73.2986964 6401007
+3 Lorenzo De Los Santos, Luis L.	DOM 1981 M 1966.3311924 74.7458600 6402127

@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Juarez Flores, Carlos A.	GUA 65 M 2365.6535208 72.0884736 7300018
+2 Reyes Najera, Carlos A.	GUA 61 M 2247.0032430 69.3596061 7300069
+3 Lorenzana, Wilson Estuardo	GUA 78 M 2192.1320685 74.6785711 7300239
+4 Juarez Flores, Jorge G.	GUA 59 M 2081.6460856 74.4257697 7300107

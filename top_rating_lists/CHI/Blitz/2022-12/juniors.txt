@@ -1,4 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Marrujo Pardo, Mauricio Emmanuel	CHI 2010 M 1922.8177345 57.6286303 3943755
-2 Amigo Quintana, Antu	CHI 2007 M 1897.6321168 74.4089127 3441385
-3 Munoz Ramos, Christopher	CHI 2011 M 1854.4777924 60.3452534 3439615
+1 Marrujo Pardo, Mauricio Emmanuel	CHI 2010 M 1986.2642291 58.6816815 3943755
+2 Munoz Ramos, Christopher	CHI 2011 M 1899.1967323 61.5924082 3439615

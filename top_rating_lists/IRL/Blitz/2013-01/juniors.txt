@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Griffiths, Ryan Rhys	IRL 1993 M 2250.3099853 73.7427904 2502054
+1 Griffiths, Ryan Rhys	IRL 1993 M 2202.8961256 73.4451975 2502054

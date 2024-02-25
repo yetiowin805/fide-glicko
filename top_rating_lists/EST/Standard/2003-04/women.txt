@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Piarnpuu, Leili	EST 50 2252.1463330 73.5573654 4500180
+2 Fomina, Tatyana	EST 54 2158.8281631 67.1258545 4500156
+3 Bashkite, Viktoria	EST  2105.0788930 49.7675705 4501284

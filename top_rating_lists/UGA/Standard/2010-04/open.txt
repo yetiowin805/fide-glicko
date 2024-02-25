@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kawuma, Steven Male	UGA 1981 M 2214.1268247 71.2320116 10000224
+1 Kawuma, Steven Male	UGA 1981 M 2165.3586062 66.4429601 10000224

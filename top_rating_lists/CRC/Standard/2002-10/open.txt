@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Valdes, Leonardo	CRC 75 M 2462.7314695 67.5074861 6500331

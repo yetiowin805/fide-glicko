@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Calzetta, Monica	ESP 1972 2275.1857198 55.8594427 2204185
+2 Llaneza Vega, Patricia	ESP 1979 2240.6186833 65.0650706 2212676

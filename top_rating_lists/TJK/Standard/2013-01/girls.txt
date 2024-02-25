@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Nasriddinzoda, Marvorii	TJK 1993 1946.6743047 66.7666004 14700395
+1 Nasriddinzoda, Marvorii	TJK 1993 1893.0993906 65.9262014 14700395
+2 Ilhom, Mootribai	TJK 1997 1676.7454182 74.4838751 14700204

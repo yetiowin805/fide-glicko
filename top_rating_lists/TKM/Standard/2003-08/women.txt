@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Geldyeva, Mekhri	TKM 73 2255.6093741 65.3619705 14000059
+2 Hallaeva, Bahar	TKM 88 2057.9757781 74.2295018 14000679

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kaisar, Jenius Hakiki	INA 1990 M 2308.5440865 73.9331965 7102097
+1 Kaisar, Jenius Hakiki	INA 1990 M 2193.5991620 69.1401473 7102097

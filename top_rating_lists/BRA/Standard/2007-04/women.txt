@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Chang, Suzana	BRA 1972 2045.3017270 68.2370009 2105985
+2 Terao, Juliana Sayumi	BRA 1991 2000.2686816 72.2792091 2109220
+3 Soler Di Benedetto, Sandra	BRA 1975 1856.6197201 65.6836471 2111578

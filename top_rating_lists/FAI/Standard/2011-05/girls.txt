@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Olsen, Sara Traber	FAI 1995 1453.6596416 74.7313157 7200536
+1 Olsen, Sara Traber	FAI 1995 1416.6267104 73.4343801 7200536

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mateo, Ramon	DOM 58 M 2437.5459046 57.5361862 6400019
+2 Alvarado, Nelson	DOM  M 2293.3981573 73.7901674 6400310
+3 Carrion, Marcelo	DOM 56 M 2204.6347473 66.0716888 6400094

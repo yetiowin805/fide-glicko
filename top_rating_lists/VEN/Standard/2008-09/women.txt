@@ -1,2 +1,6 @@
 Rank Name Federation BirthYear Rating RD
-1 Moreno Garcia, Elizabeth Paola	VEN  1998.2848485 71.6396322 3901556
+1 Sanchez Castillo, Sarai	VEN 1981 2103.3370946 61.1367802 3900754
+2 Sanchez Santana, Celsa Carolina	VEN  1924.0950758 66.2963339 3902188
+3 Hernandez, Zaida	VEN  1922.6837926 68.3907202 3901041
+4 Moreno Garcia, Elizabeth Paola	VEN  1911.4953545 63.9924394 3901556
+5 Gutierrez, Leonela	VEN 1992 1807.1055954 74.7800505 3900401

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Morales Mendoza, Luciana	PER 1987 2133.0513607 53.1922761 3801403
+2 Zapata, Karen	PER 1982 2122.1330351 44.0422790 3801144
+3 Aliaga Fernandez, Ingrid Yadira	PER  1902.3535466 66.6638331 3802191

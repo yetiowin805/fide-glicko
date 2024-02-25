@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Boric, Elena	BIH 1963 2187.7655426 67.1861727 14400839
+2 Nesic, Dragana	BIH 1993 1780.4756713 70.2679666 14403200

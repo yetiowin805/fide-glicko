@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Alsaqer, Meshal	KUW 1986 M 1677.7054777 71.9479875 10301771
+1 Alsaqer, Meshal	KUW 1986 M 1670.1995420 71.5204351 10301771

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Marjanovic, Dejan	BIH 1996 M 2140.5050476 70.9668937 14402661
+1 Marjanovic, Dejan	BIH 1996 M 2086.9955961 70.5729186 14402661

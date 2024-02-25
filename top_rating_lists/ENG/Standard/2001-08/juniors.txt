@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 McShane, Luke J.	ENG 1984 M 2511.0000000 52.3874105 404853

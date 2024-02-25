@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Rajapaksa, Miyuni Kavinya	SRI 2000 1636.5189783 74.3265949 9939210
+1 Rajapaksa, Miyuni Kavinya	SRI 2000 1609.3825908 73.3661358 9939210
+2 Wickramasinghe, Dilhara Ishini	SRI 2000 1522.4297818 74.9610387 9906738

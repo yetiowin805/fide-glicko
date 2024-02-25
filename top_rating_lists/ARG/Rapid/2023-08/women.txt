@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Borda Rodas, Anapaola S.	ARG 2004 2079.6308845 74.6242792 152781
-2 Fernandez, Maria Florencia	ARG 1991 2049.9924440 68.9461889 116459
+1 Borda Rodas, Anapaola S.	ARG 2004 2043.3178986 73.8883540 152781
+2 Fernandez, Maria Florencia	ARG 1991 2018.3814121 68.0048163 116459

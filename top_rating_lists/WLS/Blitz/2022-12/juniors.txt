@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 MacDonald, Duncan	WLS 2004 M 1726.5143277 66.7763796 1804758
+1 MacDonald, Duncan	WLS 2004 M 1717.6915235 66.5042732 1804758

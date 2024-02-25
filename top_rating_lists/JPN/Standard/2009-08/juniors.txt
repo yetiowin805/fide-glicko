@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Uesugi, Shinsaku	JPN 1991 M 2271.2479168 52.5779213 2024578
+1 Uesugi, Shinsaku	JPN 1991 M 2226.4765883 49.8865378 2024578
+2 Kobayashi, Atsuhiko	JPN 1992 M 1878.6745804 72.2830541 7000049

@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Del Razo Mendoza, Andrea Nikole	MEX 2003 1533.8412515 62.8812526 5137640
-2 Aguilar Sanchez, Citlali	MEX 2004 1483.9060438 70.5486438 5119502
-3 Del Razo Mendoza, Nancy Ailine	MEX 2006 1384.2129395 67.1638377 5137632
+1 Del Razo Mendoza, Andrea Nikole	MEX 2003 1524.3064329 62.6187315 5137640
+2 Aguilar Sanchez, Citlali	MEX 2004 1485.1036462 70.5079457 5119502
+3 Del Razo Mendoza, Nancy Ailine	MEX 2006 1379.2662935 67.0123763 5137632

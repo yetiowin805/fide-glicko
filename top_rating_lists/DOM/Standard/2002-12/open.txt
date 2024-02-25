@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mateo, Ramon	DOM 58 M 2437.5459046 61.6481147 6400019
+2 Tineo, Federico	DOM  M 2243.5422069 71.4278961 6400280
+3 Carrion, Marcelo	DOM 56 M 2204.6347473 69.6718142 6400094

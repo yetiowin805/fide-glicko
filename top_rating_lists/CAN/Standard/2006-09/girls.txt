@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Khaziyeva, Dinara	CAN 1986 2065.3349074 72.9390170 2603888
+2 Smith, Hazel	CAN 1991 1977.2828893 74.8054585 2605244

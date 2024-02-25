@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Okike, David	NGR 1960 M 2169.5845179 70.0177585 8500134
+1 Okike, David	NGR 1960 M 2133.3159964 68.9194491 8500134

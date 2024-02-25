@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Vasco Mateus Felizardo Viageiro	MOZ 2003 M 1619.4433261 69.9340981 14800403
-2 Farnela, Nuzela Zacarias Musindo	MOZ 1998 F 1490.9143866 73.4961848 14800292
+1 Vasco Mateus Felizardo Viageiro	MOZ 2003 M 1609.5817986 69.7076350 14800403
+2 Farnela, Nuzela Zacarias Musindo	MOZ 1998 F 1483.5871501 73.4352872 14800292

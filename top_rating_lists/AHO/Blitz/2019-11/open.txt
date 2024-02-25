@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Dekker, Marvin	AHO 1985 M 1763.0288941 72.9409606 7500203
+1 Dekker, Marvin	AHO 1985 M 1757.8407932 72.8217077 7500203

@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mamedov, Rauf	AZE 1988 M 2554.2877519 74.8685899 13401653

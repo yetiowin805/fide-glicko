@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Yussof, Pg Abd Rahman	BRU 1951 M 1660.2044058 71.6454784 10500219
+1 Yussof, Pg Abd Rahman	BRU 1951 M 1628.8099951 71.3394058 10500219

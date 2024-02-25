@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Goossens, Hanne	BEL 1992 1888.1155587 71.3198357 200468
+2 Baekelant, Eva	BEL 1995 1794.9627645 63.5476416 210030

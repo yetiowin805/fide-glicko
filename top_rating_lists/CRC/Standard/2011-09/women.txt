@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Gamboa Alvarado, Leticia	CRC  1656.4374404 70.4802465 6502270
+1 Munoz, Carolina	CRC 1980 1867.2928727 73.9278228 6500579
+2 Gamboa Alvarado, Leticia	CRC  1640.5938992 70.0237496 6502270

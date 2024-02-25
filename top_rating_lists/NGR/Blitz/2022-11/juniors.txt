@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 OKEKE, Isaac Chukwudalu	NGR 2003 M 2038.3985638 64.8788677 8508526
+1 OKEKE, Isaac Chukwudalu	NGR 2003 M 2026.7280120 64.5760716 8508526

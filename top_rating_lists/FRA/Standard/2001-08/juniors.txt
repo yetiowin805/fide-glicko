@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Bacrot, Etienne	FRA 1983 M 2653.0000000 52.3874105 605506
+2 Fressinet, Laurent	FRA 1981 M 2606.0000000 52.3874105 608742

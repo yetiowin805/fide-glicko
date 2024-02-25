@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Djuraev, Sokhib	TJK 1990 M 2390.2238115 48.2246575 14201690
+1 Djuraev, Sokhib	TJK 1990 M 2283.1346599 48.3298068 14201690

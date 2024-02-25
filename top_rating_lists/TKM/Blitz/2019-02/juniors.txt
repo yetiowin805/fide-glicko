@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 George, Alex	TKM 2009 M 1341.0349619 74.8796406 14004313
+1 George, Alex	TKM 2009 M 1331.5104715 74.8301939 14004313

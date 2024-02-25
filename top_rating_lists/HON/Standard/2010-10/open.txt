@@ -1,3 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Huguet, Sergio	HON 1970 M 2122.2089328 68.3002824 2212552
-2 Torres Hernandez, Leslie Carolin	HON  F 1671.3603734 73.5429523 8400504
+1 Huguet, Sergio	HON 1970 M 2067.1660617 65.4111749 2212552
+2 Guillen Ramirez, Jose Antonio	HON 1968 M 2040.5093699 69.6324654 8400016
+3 Torres Hernandez, Leslie Carolin	HON  F 1839.4435712 73.3056095 8400504

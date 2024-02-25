@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gomez Anadon, Daniel	AND 1983 M 2122.9074338 74.8162106 2218151
-2 Ribera Veganzones, Josep Maria	AND 2003 M 1832.4997620 74.5807585 6900763
+1 Gomez Anadon, Daniel	AND 1983 M 2073.9653204 73.9717939 2218151
+2 Ribera Veganzones, Josep Maria	AND 2003 M 1807.6916707 73.8242963 6900763

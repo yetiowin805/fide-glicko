@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Volkov, Andreiy	FRA 2007 M 1388.7321330 66.3878015 45144079
+1 Volkov, Andreiy	FRA 2007 M 1376.6376195 66.2235619 45144079

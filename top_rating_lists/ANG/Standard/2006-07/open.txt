@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Aderito, Pedro	ANG 1976 M 2302.2314693 67.9634769 10100130
+2 Domingos, Catarino	ANG  M 2204.7309286 74.6498691 10100253

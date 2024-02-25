@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Westerberg, Jonathan	SWE 1994 M 2262.7163261 63.8215720 1701754
+1 Westerberg, Jonathan	SWE 1994 M 2208.6779409 63.1618232 1701754
+2 Lokander, Martin	SWE 1996 M 2112.0370722 74.6881779 1709569

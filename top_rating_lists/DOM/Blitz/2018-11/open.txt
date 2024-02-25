@@ -1,4 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ramirez Reyes, Braulio Fernando	DOM 1980 M 2004.3779575 74.6587934 6401007
-2 De los Santos Nunez, Eddy	DOM 1971 M 2004.3376253 74.4253911 6400264
-3 Gonzalez Alejo, Wily Gilberto	DOM 1980 M 1738.6992644 74.9954337 6405347
+1 De los Santos Nunez, Eddy	DOM 1971 M 2011.6932912 74.3336251 6400264
+2 Ramirez Reyes, Braulio Fernando	DOM 1980 M 2011.6261669 74.5666968 6401007

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Morales Mendoza, Luciana	PER 1987 2114.3553889 57.3379455 3801403
+2 Cori T., Deysi	PER 1993 2046.7937621 63.4628426 3801934
+3 Aliaga Fernandez, Ingrid Y	PER 1991 1954.7860391 64.3002150 3802191

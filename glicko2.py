@@ -2,6 +2,7 @@ import sys
 from tqdm import tqdm
 import math
 import os
+from countries import countries
 
 BASE_RATING = 1500.0
 BASE_RD = 350.0
@@ -12,34 +13,21 @@ TAU = 0.2
 PI_SQUARED = math.pi**2
 SCALE = 173.7178
 
-FEDERATIONS = [
-        'AFG', 'ALB', 'ALG', 'AND', 'ANG', 'ANT', 'ARG', 'ARM', 'ARU', 'AUS', 
-        'AUT', 'AZE', 'BAH', 'BRN', 'BAN', 'BAR', 'BLR', 'BEL', 'BIZ', 'BER', 
-        'BHU', 'BOL', 'BIH', 'BOT', 'BRA', 'IVB', 'BRU', 'BUL', 'BUR', 'BDI', 
-        'CAM', 'CMR', 'CAN', 'CPV', 'CAY', 'CAF', 'CHA', 'CHI', 'CHN', 'TPE', 
-        'COL', 'COM', 'CGO', 'CRC', 'CRO', 'CUB', 'CYP', 'CZE', 'COD', 'DEN', 
-        'DJI', 'DMA', 'DOM', 'ECU', 'EGY', 'ESA', 'ENG', 'GEQ', 'ERI', 'EST', 
-        'SWZ', 'ETH', 'FAI', 'FIJ', 'FIN', 'FRA', 'GAB', 'GAM', 'GEO', 'GER', 
-        'GHA', 'GRE', 'GRN', 'GUM', 'GUA', 'GCI', 'GUY', 'HAI', 'HON', 'HKG', 
-        'HUN', 'ISL', 'IND', 'INA', 'IRI', 'IRQ', 'IRL', 'IOM', 'ISR', 'ITA', 
-        'CIV', 'JAM', 'JPN', 'JCI', 'JOR', 'KAZ', 'KEN', 'KOS', 'KUW', 'KGZ', 
-        'LAO', 'LAT', 'LBN', 'LES', 'LBR', 'LBA', 'LIE', 'LTU', 'LUX', 'MAC', 
-        'MAD', 'MAW', 'MAS', 'MDV', 'MLI', 'MLT', 'MTN', 'MRI', 'MEX', 'MDA', 
-        'MNC', 'MGL', 'MNE', 'MAR', 'MOZ', 'MYA', 'NAM', 'NRU', 'NEP', 'NED', 
-        'AHO', 'NZL', 'NCA', 'NIG', 'NGR', 'MKD', 'NOR', 'OMA', 'PAK', 'PLW', 
-        'PLE', 'PAN', 'PNG', 'PAR', 'PER', 'PHI', 'POL', 'POR', 'PUR', 'QAT', 
-        'ROU', 'RUS', 'RWA', 'SKN', 'LCA', 'SMR', 'STP', 'KSA', 'SCO', 'SEN', 
-        'SRB', 'SEY', 'SLE', 'SGP', 'SVK', 'SLO', 'SOL', 'SOM', 'RSA', 'KOR', 
-        'SSD', 'ESP', 'SRI', 'VIN', 'SUD', 'SUR', 'SWE', 'SUI', 'SYR', 'TJK', 
-        'TAN', 'THA', 'TLS', 'TOG', 'TTO', 'TUN', 'TUR', 'TKM', 'UGA', 'UKR', 
-        'UAE', 'USA', 'URU', 'ISV', 'UZB', 'VEN', 'VIE', 'WLS', 'YEM', 'ZAM', 
-        'ZIM', 'FID', 'SIN', 'TRI', 'LIB'
-    ]
+FEDERATIONS = countries
 
 class GameResult:
-    def __init__(self, opponent_id, score):
-        self.opponent_id = opponent_id
-        self.score = score
+    def __init__(self, opponent_id=None, score=None, opponent_rating=None, opponent_rd=None):
+        if opponent_id is not None and score is not None:
+            self.opponent_id = opponent_id
+            self.score = score
+            self.generatedGame = False
+        elif opponent_rating is not None and opponent_rd is not None and score is not None:
+            self.opponent_rating = opponent_rating
+            self.opponent_rd = opponent_rd
+            self.score = score
+            self.generatedGame = True
+        else:
+            raise ValueError("Invalid arguments")
 
 class Player:
     def __init__(self, player_id, rating=BASE_RATING, rd=BASE_RD, volatility=BASE_VOLATILITY):
@@ -53,7 +41,8 @@ class Player:
 
 def add_game(player_id, game, players_dict):
     player = players_dict.setdefault(player_id, Player(player_id))
-    opponent = players_dict.setdefault(game.opponent_id, Player(game.opponent_id))
+    if not game.generatedGame:
+        opponent = players_dict.setdefault(game.opponent_id, Player(game.opponent_id))
     player.games.append(game)
 
 def f(x, delta, v, A):
@@ -77,9 +66,13 @@ def glicko2_update(target, players):
     delta_sum = 0
 
     for game in target.games:
-        opponent = players[game.opponent_id]
-        mu_j = (opponent.rating - 1500.0) / SCALE
-        phi_j = opponent.rd / SCALE
+        if not game.generatedGame:
+            opponent = players[game.opponent_id]
+            mu_j = (opponent.rating - 1500.0) / SCALE
+            phi_j = opponent.rd / SCALE
+        else:
+            mu_j = (game.opponent_rating - 1500.0) / SCALE
+            phi_j = game.opponent_rd / SCALE
 
         g_phi_j = 1.0 / math.sqrt(1.0 + (3.0 * phi_j**2) / PI_SQUARED)
         
@@ -148,46 +141,28 @@ def glicko2_update(target, players):
         target.volatility = 0.1
 
 def extract_player_info(input_filename):
-    with open(input_filename, 'r', encoding='utf-8', errors='replace') as f:
-        header = f.readline().strip()  # Read the header line
-        lines = f.readlines()          # Read the rest of the lines
-
-    # Determine column positions based on the header
-    id_start = header.index("ID")
-    name_start = header.index("Name")
-    name_end = min(header.index("Tit"),header.index("Fed"))
-    fed_start = header.index("Fed")
-    if "Born" in header:
-        bday_start = header.index("Born")
-    elif "B-day" in header:
-        bday_start = header.index("B-day")
-    flag_start = header.index("Flag")
-
     players_dict = {}
-
-    for line in lines:
-        # Extract relevant fields
-        try:
-            fide_id = int(line[id_start:name_start].strip())
-        except ValueError:
-            continue
-        name = line[name_start:name_end].strip()
-        federation = line[fed_start:fed_start+3].strip()
-        sex = line[flag_start:].strip()
-        if 'w' in sex:
-            sex = 'F'
-        else:
-            sex = 'M'
-        b_year = line[bday_start:bday_start+4].strip()
-
-        # Store in a dictionary
-        players_dict[fide_id] = {
-            "name": name,
-            "federation": federation,
-            "sex": sex,
-            "b_year": b_year
-        }
-
+    with open(input_filename, 'r', encoding='utf-8', errors='replace') as f:
+        for line in f:
+            player = eval(line)
+            try:
+                fide_id = int(player['id'])
+                name = player['name']
+                federation = player['fed']
+                sex = player.get('sex',"M")
+            except ValueError:
+                print(f"Error reading player data at line {line}")
+                print(player)
+                continue
+            if 'w' in player['flag']:
+                sex = "F"
+            b_year = player.get('b_year').split('.')[-1]
+            players_dict[fide_id] = {
+                "name": name,
+                "federation": federation,
+                "sex": sex,
+                "b_year": b_year
+            }
     return players_dict
 
 def write_to_file(filename, players):
@@ -283,6 +258,8 @@ def write_to_pretty_file_FED(dir, filename, players, players_info, year):
         if name == '':
                 continue
         federation = player_info.get('federation', '')
+        if len(federation) != 3:
+            print(federation, name, player.id)
         if federation_counts_girls[federation] == 100:
             continue
         b_year = player_info.get('b_year', '')
@@ -368,11 +345,23 @@ def main(ratings_filename, games_filename, output_filename, top_rating_list_dir,
             count = int(player_data[1])
             for j in range(count):
                 i += 1
-                game_data = game_lines[i].strip().split()
-                opponent_id = int(game_data[0])
-                score = float(game_data[1])
-                game = GameResult(opponent_id, score)
-                add_game(player_id, game, players)
+                try:
+                    game_data = game_lines[i].strip().split()
+                except IndexError:
+                    print(ratings_filename, games_filename, output_filename, top_rating_list_dir, top_rating_list_filename, player_info_filename, year)
+                    print(f"Error reading game data at line {i+1}")
+                    continue
+                if len(game_data) == 2:
+                    opponent_id = int(game_data[0])
+                    score = float(game_data[1])
+                    game = GameResult(opponent_id=opponent_id, score=score)
+                    add_game(player_id, game, players)
+                else:
+                    opponent_rating = float(game_data[0])
+                    opponent_rd = float(game_data[1])
+                    score = float(game_data[2])
+                    game = GameResult(opponent_rating=opponent_rating, opponent_rd=opponent_rd, score=score)
+                    add_game(player_id, game, players)
             pbar.update(count+1)
             i += 1
         pbar.close()

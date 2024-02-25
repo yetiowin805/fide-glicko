@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Saim, Mohamed Ilias	ALG 1994 M 1926.7002284 67.0127980 7900465
+1 Saim, Mohamed Ilias	ALG 1994 M 1944.8297687 66.9087568 7900465

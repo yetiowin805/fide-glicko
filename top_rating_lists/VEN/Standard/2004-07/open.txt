@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rohl, Juan	VEN  M 2399.7053873 53.8050450 3900487
+2 Prasca, Raphael	VEN 83 M 2374.5796962 54.9382643 3900819
+3 Bustamante Montoni, Richard	VEN  M 2215.5394300 65.5522388 3900835
+4 Sanchez Castillo, Sarai	VEN 81 F 2149.8891719 61.6348012 3900754

@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Megaranto, Susanto	INA 1987 M 2556.8581796 71.4861149 7101384
+1 Megaranto, Susanto	INA 1987 M 2477.6570728 71.4144167 7101384
+2 Medina, Warda Aulia	INA 1997 F 2084.6643239 74.9606525 7101570

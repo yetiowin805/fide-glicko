@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Adu, Oladapo	NGR  M 2251.6999701 66.1926053 8500258
+2 Adedeji, Adekola	NGR  M 1930.5537462 68.0915405 8500371

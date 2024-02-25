@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Jang, Kyungsik	KOR 1997 M 1697.7176267 74.3478579 13201166

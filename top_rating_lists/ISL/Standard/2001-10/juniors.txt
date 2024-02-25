@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kristjansson, Stefan	ISL 1982 M 2385.6438062 72.7308306 2301172

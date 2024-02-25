@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Constantino, Gudlack	ANG 1988 M 1811.3498306 72.1927325 10100342
+1 Constantino, Gudlack	ANG 1988 M 1757.1186518 69.6762258 10100342

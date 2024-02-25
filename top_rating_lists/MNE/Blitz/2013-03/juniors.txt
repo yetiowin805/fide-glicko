@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kisic, Bozidar	MNE 1996 M 2009.3139802 74.6162186 16500350
+1 Kisic, Bozidar	MNE 1996 M 2013.1935328 74.6565718 16500350

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Bologan, Viktor	MDA 1971 M 2655.0000000 52.3874105 13900048
+2 Iordachescu, Viorel	MDA 1977 M 2562.0000000 52.3874105 13900200

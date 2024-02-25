@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Amonatov, Farrukh	TJK  M 2555.3488997 47.7520218 14700077
+2 Isaev, Jamshed	TJK 67 M 2386.4376698 67.2787886 14700050

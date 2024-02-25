@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Biryukov, Alice	LUX 1998 1721.6796206 72.0838578 4002440
+1 Biryukov, Alice	LUX 1998 1710.7707734 71.6707772 4002440

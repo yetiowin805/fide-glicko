@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Hitzgerova, Gabriela	CZE 1979 2238.0026602 64.8494504 308366
+2 Ptacnikova, Lenka	CZE 1976 2184.3588094 63.9428783 305650
+3 Cedikova, Katerina	CZE 1981 2140.0266334 74.2618152 311235

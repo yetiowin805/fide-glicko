@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Vidaurre, Luis	BOL 1997 M 1694.6232815 74.0981294 3302024

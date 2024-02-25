@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Daly, Colm	FID 67 M 2316.2210896 62.6315706 2500434
+2 Mysik, Natalia	FID 66 F 2017.3805615 63.8807331 13505084

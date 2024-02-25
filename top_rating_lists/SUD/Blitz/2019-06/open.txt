@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Abdelazeez, Mohamed Abdalla	SUD 1988 M 2080.6502077 74.4298322 12202576
-2 Tagelsir , Abubaker	SUD 1982 M 1964.7475703 73.7481663 12200875
+1 Abdelazeez, Mohamed Abdalla	SUD 1988 M 2074.9789524 74.1615876 12202576
+2 Tagelsir , Abubaker	SUD 1982 M 1946.2123331 73.1479639 12200875

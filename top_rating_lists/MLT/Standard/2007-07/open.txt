@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Pace, Colin	MLT 1979 M 2065.9843411 66.1045645 5600189
+2 Borg, Andrew	MLT 1962 M 2008.4182890 67.6687236 5600065

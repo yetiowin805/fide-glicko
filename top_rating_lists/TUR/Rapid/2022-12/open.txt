@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Anil, Ayhan	TUR 1984 M 1648.6701048 72.7557897 6309348
+1 Anil, Ayhan	TUR 1984 M 1640.9567388 72.5910808 6309348

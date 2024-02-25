@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bakouche, Mahmoud	ALG 2003 M 1849.4085041 74.3967439 7907940
+1 Bakouche, Mahmoud	ALG 2003 M 1855.0481360 74.4883123 7907940

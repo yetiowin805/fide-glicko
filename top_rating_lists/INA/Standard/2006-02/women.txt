@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Sukandar, Irine Kharisma	INA  2122.0509206 64.6706401 7101937
+2 Lumongdong, Lisa Karlina	INA 1968 2073.5758792 68.9361523 7100400
+3 Lindiawati, Evi	INA  2064.4162421 63.0227224 7101449

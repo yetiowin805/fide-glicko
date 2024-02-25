@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Tia, Rudy Jr.	PNG 1964 M 1592.6536689 55.2054548 9100067
+1 Tia, Rudy Jr.	PNG 1964 M 1589.6325167 55.2115890 9100067

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Al-Hamlan, Faisal	KUW  M 2018.2855815 72.8778802 10300180
+2 Alkhateeb Taher	KUW 1981 M 1978.1376555 73.4569735 10300058

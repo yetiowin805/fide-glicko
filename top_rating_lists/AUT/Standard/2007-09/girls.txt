@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Exler, Veronika	AUT 1990 1952.1400421 61.2128860 1620550
+2 Froewis, Annika	AUT 1994 1862.4085092 74.0151646 1621432

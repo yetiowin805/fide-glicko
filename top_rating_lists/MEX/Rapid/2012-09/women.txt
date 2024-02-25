@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Mendoza Velazquez, Lorena Alejan	MEX 1994 1913.8326556 68.9035954 5101794
+1 Mendoza Velazquez, Lorena Alejan	MEX 1994 1862.8212473 68.3451046 5101794
+2 Duran Juarez, Citlali	MEX 1992 1828.6977258 74.3193004 5104084

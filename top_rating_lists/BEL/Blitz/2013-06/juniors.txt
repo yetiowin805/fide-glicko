@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Beukema, Stefan	BEL 1996 M 2140.5053864 59.1796170 1024523
+1 Beukema, Stefan	BEL 1996 M 2121.2287411 58.0767994 1024523

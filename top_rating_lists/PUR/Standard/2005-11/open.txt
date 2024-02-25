@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Montalvo, Alejandro	PUR 0 M 2202.5206529 70.4471291 3100260
+2 Lamastus-Candal, Jean P.	PUR 0 M 2141.0135871 45.3867684 3100448

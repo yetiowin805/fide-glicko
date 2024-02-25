@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rukimbira, Valentin	RWA 1986 M 1667.3816819 74.5244291 16000323
+1 Rukimbira, Valentin	RWA 1986 M 1650.5078461 74.3096428 16000323

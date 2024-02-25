@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Heredia Serrano, Carla	ECU 1991 1946.1548299 59.3212556 3603687
-2 Bohorquez Canizares, Maria	ECU 1995 1546.5951896 73.0893972 3606783
+1 Heredia Serrano, Carla	ECU 1991 1930.9739470 58.8050956 3603687
+2 Bohorquez Canizares, Maria	ECU 1995 1538.7150479 72.8888616 3606783

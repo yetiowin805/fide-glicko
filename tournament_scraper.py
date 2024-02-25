@@ -3,6 +3,10 @@ import requests
 from bs4 import BeautifulSoup
 import re
 from multiprocessing import Pool
+import argparse
+from countries import countries
+
+# Third command in pipeline
 
 def scrape_tournament_data(country, month, year):
     # Pad the month with a leading zero if it's less than 10
@@ -24,7 +28,7 @@ def scrape_tournament_data(country, month, year):
         # Loop through each line in the file
         for line in lines:
             # Extract the code from the line
-            code = line[line.find("?code=")+6:line.find('"><img')]
+            code = line[:-1]
 
             # Create the file path for the new file
             new_path = os.path.join(os.path.dirname(path), 'info', f'{code}.txt')
@@ -54,7 +58,7 @@ def scrape_tournament_data(country, month, year):
         # Loop through each line in the file
         for line in lines:
             # Extract the code from the line
-            code = line[line.find("?code=")+6:line.find('"><img')]
+            code = line[:-1]
 
             # Create the file path for the new file
             new_path = os.path.join(os.path.dirname(path), 'crosstables', f'{code}.txt')
@@ -81,47 +85,78 @@ def scrape_tournament_data(country, month, year):
             with open(new_path, 'w', encoding='utf-8') as f:
                 f.write(str(soup))
 
+        # Loop through each line in the file
+        for line in lines:
+            # Extract the code from the line
+            code = line[:-1]
+
+            new_path = os.path.join(os.path.dirname(path),"crosstables", f"{code}.txt")
+            with open(new_path, encoding='utf-8') as fp:
+                try:
+                    soup = BeautifulSoup(fp, 'lxml')
+                except Exception as x:
+                    logging.error(f"Unexpected result at path: {path}")
+                    raise x
+                if not soup.find(string=lambda string: "Tournament report was updated or replaced, please view Tournament Details for more information." in string):
+                    continue
+            # Create the file path for the new file
+            new_path = os.path.join(os.path.dirname(path), 'report', f"{code}.txt")
+            
+            # Check if the new file path exists and is not empty
+            if os.path.exists(new_path) and os.path.getsize(new_path) > 0:
+                # File exists and is not empty, skip this iteration
+                continue
+
+            # If the file doesn't exist or is empty, fetch data from the URL
+            # Form the complete URL
+            url = base_url + 'tournament_report.phtml?event16=' + code
+
+            # Make the HTTP request
+            response = requests.get(url)
+
+            # Parse the HTML content
+            soup = BeautifulSoup(response.text, 'html.parser')
+
+            # Make sure the directory exists
+            os.makedirs(os.path.dirname(new_path), exist_ok=True)
+            
+            # Write the contents of 'soup' into the file
+            with open(new_path, 'w', encoding='utf-8') as f:
+                f.write(str(soup))
+
 def scrape_country_month_year(args):
     return scrape_tournament_data(*args)
 
 
 if __name__ == "__main__":
+    # Set up argument parser
+    parser = argparse.ArgumentParser(description='Extract FIDE tournament information from files for a certain month range')
+    parser.add_argument('--start_month', type=str, help='Start month for the download in YYYY-MM format', required=True)
+    parser.add_argument('--end_month', type=str, help='End month for the download in YYYY-MM format', required=True)
 
-    countries = [
-        'AFG', 'ALB', 'ALG', 'AND', 'ANG', 'ANT', 'ARG', 'ARM', 'ARU', 'AUS', 
-        'AUT', 'AZE', 'BAH', 'BRN', 'BAN', 'BAR', 'BLR', 'BEL', 'BIZ', 'BER', 
-        'BHU', 'BOL', 'BIH', 'BOT', 'BRA', 'IVB', 'BRU', 'BUL', 'BUR', 'BDI', 
-        'CAM', 'CMR', 'CAN', 'CPV', 'CAY', 'CAF', 'CHA', 'CHI', 'CHN', 'TPE', 
-        'COL', 'COM', 'CGO', 'CRC', 'CRO', 'CUB', 'CYP', 'CZE', 'COD', 'DEN', 
-        'DJI', 'DMA', 'DOM', 'ECU', 'EGY', 'ESA', 'ENG', 'GEQ', 'ERI', 'EST', 
-        'SWZ', 'ETH', 'FAI', 'FIJ', 'FIN', 'FRA', 'GAB', 'GAM', 'GEO', 'GER', 
-        'GHA', 'GRE', 'GRN', 'GUM', 'GUA', 'GCI', 'GUY', 'HAI', 'HON', 'HKG', 
-        'HUN', 'ISL', 'IND', 'INA', 'IRI', 'IRQ', 'IRL', 'IOM', 'ISR', 'ITA', 
-        'CIV', 'JAM', 'JPN', 'JCI', 'JOR', 'KAZ', 'KEN', 'KOS', 'KUW', 'KGZ', 
-        'LAO', 'LAT', 'LBN', 'LES', 'LBR', 'LBA', 'LIE', 'LTU', 'LUX', 'MAC', 
-        'MAD', 'MAW', 'MAS', 'MDV', 'MLI', 'MLT', 'MTN', 'MRI', 'MEX', 'MDA', 
-        'MNC', 'MGL', 'MNE', 'MAR', 'MOZ', 'MYA', 'NAM', 'NRU', 'NEP', 'NED', 
-        'AHO', 'NZL', 'NCA', 'NIG', 'NGR', 'MKD', 'NOR', 'OMA', 'PAK', 'PLW', 
-        'PLE', 'PAN', 'PNG', 'PAR', 'PER', 'PHI', 'POL', 'POR', 'PUR', 'QAT', 
-        'ROU', 'RUS', 'RWA', 'SKN', 'LCA', 'SMR', 'STP', 'KSA', 'SCO', 'SEN', 
-        'SRB', 'SEY', 'SLE', 'SGP', 'SVK', 'SLO', 'SOL', 'SOM', 'RSA', 'KOR', 
-        'SSD', 'ESP', 'SRI', 'VIN', 'SUD', 'SUR', 'SWE', 'SUI', 'SYR', 'TJK', 
-        'TAN', 'THA', 'TLS', 'TOG', 'TTO', 'TUN', 'TUR', 'TKM', 'UGA', 'UKR', 
-        'UAE', 'USA', 'URU', 'ISV', 'UZB', 'VEN', 'VIE', 'WLS', 'YEM', 'ZAM', 
-        'ZIM'
-    ]
+    # Parse arguments
+    args = parser.parse_args()
 
+    # Parse start and end month/year
+    start_year, start_month = map(int, args.start_month.split('-'))
+    end_year, end_month = map(int, args.end_month.split('-'))
 
-    # Create a list to hold all tasks
     tasks = []
 
-    # for year in range(2008,2023):
-    #     for month in range(1,13):
-    #         for country in countries:
-    #             tasks.append((country, month, year))
-    for month in range(2,3):
-        for country in countries:
-            tasks.append((country, month, 2024))
+    for country in countries:
+        for year in range(start_year,end_year+1):
+            if start_year == end_year:
+                for month in range(start_month,end_month+1):
+                    tasks.append((country, month, year))
+            elif year == start_year:
+                for month in range(start_month,13):
+                    tasks.append((country, month, year))
+            elif year == end_year:
+                for month in range(1,end_month+1):
+                    tasks.append((country, month, year))
+            else:
+                for month in range(1,13):
+                    tasks.append((country, month, year))
 
     # Number of processes to use
     num_processes = 6 # Adjust this as necessary

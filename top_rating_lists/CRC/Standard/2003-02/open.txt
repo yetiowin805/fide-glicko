@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Valdes, Leonardo	CRC 75 M 2441.9943027 51.5098902 6500331
+2 Ramirez, Alejandro	CRC 88 M 2415.0300998 65.2041696 6500617

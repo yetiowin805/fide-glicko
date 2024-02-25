@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Sharavdorj, Dashzeveg	MGL 74 M 2444.6242253 45.8494604 4900340
+2 Ganbold, Odondoo	MGL 73 M 2286.8217369 74.5553733 4900286
+3 Mongontuul, Bathuyag	MGL 87 F 2279.5931221 54.8735639 4900758

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Carraro, Denise	ARG 1988 2006.5908875 60.8058225 111791
+2 Jurich, Florencia	ARG 1992 1944.8348552 68.0041161 114154

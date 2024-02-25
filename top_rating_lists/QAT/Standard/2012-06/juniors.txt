@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Al-khelaifi, Aisha	QAT 1992 F 1615.5916096 74.9783791 12100625

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Johansson, Gustav 2007	SWE 2007 M 1434.4415746 74.1995436 1757520
+1 Johansson, Gustav 2007	SWE 2007 M 1431.4879029 74.1601238 1757520

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Sarquis, Maria Belen	ARG 1988 2089.0130798 68.7298603 111805
+2 Carraro, Denise	ARG 1988 1974.6122027 61.4060404 111791

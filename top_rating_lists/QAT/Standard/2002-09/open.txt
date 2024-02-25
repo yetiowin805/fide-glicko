@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Al-Modiahki, Mohamad	QAT 74 M 2602.5901615 63.4070400 12100030
+2 Al Sayed, Mohamad N.	QAT  M 2418.9182550 50.1226933 12100196
+3 Nezad, Husein Aziz	QAT 85 M 2288.3234025 55.4552673 12100293

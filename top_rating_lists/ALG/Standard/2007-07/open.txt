@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rizouk, Aimen	ALG 1979 M 2428.8990851 51.9904003 7900309
+2 Mehaibia, Azzedine	ALG  M 2157.2137978 61.8972799 7900198

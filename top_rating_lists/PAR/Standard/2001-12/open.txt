@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Franco Ocampos, Zenon	PAR 56 M 2524.5263074 53.8356951 2209381
+2 Cubas, Jose Fernando	PAR 81 M 2397.1296770 70.8140496 3700267

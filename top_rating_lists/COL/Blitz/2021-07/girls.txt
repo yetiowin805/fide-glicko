@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Hernandez Bermudez, Manuela	COL 2004 1658.8076422 64.7819224 4483103
-2 Rativa Jimenez, Laura Milena	COL 2001 1549.5695389 69.1193877 4437357
+1 Hernandez Bermudez, Manuela	COL 2004 1635.8752893 64.4206452 4483103
+2 Rativa Jimenez, Laura Milena	COL 2001 1527.5056866 68.7971377 4437357

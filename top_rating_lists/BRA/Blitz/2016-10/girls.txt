@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Rating RD
-1 Quirrenbach, Emanuela Pinheiro	BRA 1998 1467.2710882 74.8016737 2152975
-2 Santana Freitas, Maria Eduarda	BRA 2005 1461.1939127 67.3966208 2193787
-3 Bartmeyer, Maria Veronica	BRA 1997 1448.2457807 73.6723862 2152614
-4 Balbys, Fernanda Santoro Boscard	BRA 2002 1330.1058348 70.2178351 2172950
+1 Quirrenbach, Emanuela Pinheiro	BRA 1998 1460.7683523 74.7299763 2152975
+2 Santana Freitas, Maria Eduarda	BRA 2005 1447.5691446 67.1382023 2193787
+3 Bartmeyer, Maria Veronica	BRA 1997 1440.4437388 73.5556381 2152614
+4 Balbys, Fernanda Santoro Boscard	BRA 2002 1317.7637528 69.9243059 2172950

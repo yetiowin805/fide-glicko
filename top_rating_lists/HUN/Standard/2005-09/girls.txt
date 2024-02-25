@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ignacz, Maria	HUN 1990 2185.2283983 41.4923391 725803
+2 Rudolf, Anna	HUN 1987 2169.8578115 44.5550560 722855

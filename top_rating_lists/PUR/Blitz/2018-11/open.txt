@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Montalvo Rosario, Alejandro	PUR 1968 M 2051.3572858 74.2114194 3100260
-2 Virola-Mendez, Michael	PUR 0000 M 1235.1418509 72.6517945 3100456
+1 Montalvo Rosario, Alejandro	PUR 1968 M 2047.7157979 73.9515046 3100260
+2 Virola-Mendez, Michael	PUR 0000 M 1238.2696855 72.1221289 3100456

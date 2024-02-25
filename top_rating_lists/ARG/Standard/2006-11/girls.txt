@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Carraro, Denise	ARG 1988 1926.3681031 70.8269005 111791
+2 Lovece, Ruth	ARG 1987 1921.2731376 67.5223279 113921

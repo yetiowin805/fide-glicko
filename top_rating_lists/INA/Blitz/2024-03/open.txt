@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Sukandar, Irine Kharisma	INA 1992 F 2149.9147297 66.4519648 7101937
+1 Sukandar, Irine Kharisma	INA 1992 F 2117.2748467 65.8972827 7101937
+2 Winartha, Muhammad Abdillah Fatih	INA 2011 M 1814.1484550 74.2764791 7126549

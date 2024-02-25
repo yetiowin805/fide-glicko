@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Junior, Aguinaldo Vera Cruz	CPV 1957 M 1587.9280785 74.5137631 23600250
+1 Junior, Aguinaldo Vera Cruz	CPV 1957 M 1565.4063531 74.6833255 23600250
+2 Moes Joaquim, Carlos	CPV 1953 M 1469.7739978 74.9581361 1928104

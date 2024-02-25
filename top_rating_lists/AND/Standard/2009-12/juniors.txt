@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Fernandez Lopez, Joan	AND 1989 M 2010.9020131 74.9871945 6900348
+1 Fernandez Lopez, Joan	AND 1989 M 1982.0968324 64.2211524 6900348
+2 Pericas Rechi, Marc	AND 1994 M 1533.8972028 73.5182600 22271279

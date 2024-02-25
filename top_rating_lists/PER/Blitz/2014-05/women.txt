@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Chumpitaz, Ann	PER 1994 2137.0707896 73.8946147 3804178
-2 Caballero Quijano, Mitzy Mishell	PER 2001 1897.6710670 61.8527340 3807223
+1 Chumpitaz, Ann	PER 1994 2084.1370777 73.3353487 3804178
+2 Caballero Quijano, Mitzy Mishell	PER 2001 1847.3896099 59.9870937 3807223

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Annakov, Babakuli	TKM 72 M 2540.5245379 61.2411636 14000032
+2 Simonenko, Sergei	TKM 60 M 2449.9684960 70.5870845 14000040
+3 Annaberdiev, Meilis	TKM 85 M 2312.7516927 63.3778336 14000563

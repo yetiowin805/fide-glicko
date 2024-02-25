@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Da Cruz, Karoliny Taiane	BRA 1992 1605.0827623 58.3170393 2136910
-2 Santana Freitas, Maria Eduarda	BRA 2005 1398.2827133 69.1394553 2193787
-3 Balbys, Fernanda Santoro Boscard	BRA 2002 1340.7686566 72.3529616 2172950
+1 Da Cruz, Karoliny Taiane	BRA 1992 1587.3626570 58.0065688 2136910
+2 Santana Freitas, Maria Eduarda	BRA 2005 1385.4478102 68.8662772 2193787
+3 Balbys, Fernanda Santoro Boscard	BRA 2002 1328.6919980 72.0392162 2172950

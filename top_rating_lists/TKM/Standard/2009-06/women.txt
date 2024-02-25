@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Hallaeva, Bahar	TKM 1988 2107.0250929 71.5988489 14000679
+2 Malikgulyewa, Aykamar	TKM 1977 2030.9385851 73.4729917 14000377

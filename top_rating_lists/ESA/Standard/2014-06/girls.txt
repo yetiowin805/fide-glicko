@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Zavala Galindo, Alejandra Beatri	ESA 1997 1601.0173044 59.3991082 6703089
-2 Guardado Flores, Diana Beatriz	ESA 1998 1472.1310633 69.3175869 6703062
-3 Aviles, Claudia Maria	ESA 1994 1470.2141195 70.4857136 6701906
+1 Zavala Galindo, Alejandra Beatri	ESA 1997 1588.2972383 59.1103949 6703089
+2 Guardado Flores, Diana Beatriz	ESA 1998 1462.1871240 69.2701823 6703062
+3 Aviles, Claudia Maria	ESA 1994 1460.1053925 69.9728563 6701906

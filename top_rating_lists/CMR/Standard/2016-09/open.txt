@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ebongue, Emile	CMR 1975 M 1521.4795445 72.0004370 16400550
+1 Ebongue, Emile	CMR 1975 M 1513.5472155 71.9345597 16400550

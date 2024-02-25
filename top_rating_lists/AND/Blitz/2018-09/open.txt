@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Aloma Vidal, Robert	AND 1989 M 2312.2559132 70.0649292 2260409
+1 Aloma Vidal, Robert	AND 1989 M 2262.2494817 69.4321855 2260409

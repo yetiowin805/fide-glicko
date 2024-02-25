@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Mamedjarova, Turkan	AZE 1989 2471.1780863 74.0085814 13402005
+1 Mamedjarova, Turkan	AZE 1989 2254.6566000 52.7749119 13402005
+2 Isgandarova, Khayala	AZE 1988 2021.5918998 71.5238205 13401823

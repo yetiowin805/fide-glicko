@@ -1,4 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Araos Diaz, Constanza Paz	CHI 2006 1613.3961493 73.4649971 3456471
-2 Rozas Lazcano, Valeska	CHI 2003 1571.7141963 74.3733570 3438910
-3 Namuncura Melihuen, Valentina	CHI 1999 1357.4246548 74.4113240 3457516
+1 Namuncura Melihuen, Valentina	CHI 1999 1378.0351239 74.9370053 3457516

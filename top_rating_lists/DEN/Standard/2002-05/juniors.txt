@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Palo, Davor	DEN 1985 M 2406.5822447 56.9358731 1405853
+2 Pedersen, Christian Kyndel	DEN 1985 M 2243.0539505 72.7156140 1406710

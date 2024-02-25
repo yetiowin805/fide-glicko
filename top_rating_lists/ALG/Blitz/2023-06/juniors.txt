@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Djibtrouhi, Mustapha	ALG 2008 M 1654.3168993 71.2714821 7925123
-2 Ghezali,Abdelhalim essddik youcef	ALG 2006 M 1571.9182583 72.7129710 7925166
-3 Oukid,  Aymen EL Bachir	ALG 2005 M 1468.6601348 73.4755832 7906978
+1 Djibtrouhi, Mustapha	ALG 2008 M 1657.6323477 71.3214216 7925123
+2 Ghezali,Abdelhalim essddik youcef	ALG 2006 M 1574.8694556 72.7533990 7925166
+3 Oukid,  Aymen EL Bachir	ALG 2005 M 1470.6407782 73.5044510 7906978

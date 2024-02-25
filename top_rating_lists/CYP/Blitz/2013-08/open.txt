@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Georgiou, Andreas	CYP 1973 M 1661.5628922 73.6231462 5900360
+1 Constantinou, Pavlos	CYP 1982 M 2021.1111762 74.4049127 5900328
+2 Georgiou, Andreas	CYP 1973 M 1647.2908669 73.1071238 5900360

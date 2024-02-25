@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ranaivoharisoa, Alain	MAD 1980 M 2192.3195482 74.9932749 13100025
+1 Ranaivoharisoa, Alain	MAD 1980 M 2130.7790978 73.9962544 13100025

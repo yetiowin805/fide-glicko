@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Dahdal, Lougain	JOR 1990 F 1723.1070961 69.2625335 8102880
+1 Fuad Kamel Jamaliah, Natalie	JOR 1987 F 1834.6000297 74.6917661 724190
+2 Dahdal, Lougain	JOR 1990 F 1694.4616013 68.0302989 8102880

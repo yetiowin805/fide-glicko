@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Koskela, Niina	FIN 71 2257.4675707 59.7251161 500755
+2 Rantanen, Tanja	FIN 79 2102.7153206 69.0854319 502340

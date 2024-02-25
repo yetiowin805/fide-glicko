@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Chahrani, Ibrahim	LBA 1972 M 2212.3136411 59.8008466 9200215
+2 Elarbi, Abobker	LBA 1973 M 2163.7045906 74.3339503 9200355

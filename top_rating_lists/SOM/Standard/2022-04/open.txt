@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Abdulkadir Mohamed Warsame	SOM 1993 M 1783.1336172 64.2240399 16100913
+1 Abdulkadir Mohamed Warsame	SOM 1993 M 1781.0010025 64.2013633 16100913

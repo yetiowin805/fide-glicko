@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Tsiganova, Monika	EST 69 2239.7705748 73.0615950 4500199
+2 Piarnpuu, Leili	EST 50 2192.6429250 70.8632946 4500180
+3 Bashkite, Viktoria	EST 85 2096.9445013 57.9632093 4501284

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Wojciechowski, Paul	JCI 1954 M 1826.7538141 74.2666214 15600017
+1 Wojciechowski, Paul	JCI 1954 M 1799.2802199 74.0407923 15600017

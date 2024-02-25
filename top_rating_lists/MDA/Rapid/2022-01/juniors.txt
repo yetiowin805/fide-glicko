@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Deviza, Andrei	MDA 2005 M 1632.6182899 72.4098632 13908006
+1 Deviza, Andrei	MDA 2005 M 1629.2050148 72.3750357 13908006

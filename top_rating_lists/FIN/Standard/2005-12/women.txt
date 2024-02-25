@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Paasikangas-T., Johanna	FIN 1974 2257.7925875 74.9235530 500879
+2 Sammalvuo, Niina	FIN 1971 2201.0793994 65.5937107 500755

@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mohammad Fahad, Rahman	BAN 2003 M 1996.9849832 71.9611285 10207791
+1 Mohammad Fahad, Rahman	BAN 2003 M 1923.3641329 70.5282378 10207791
+2 Ikramul, Haq Siam	BAN 1997 M 1895.5744127 73.7950664 10202595

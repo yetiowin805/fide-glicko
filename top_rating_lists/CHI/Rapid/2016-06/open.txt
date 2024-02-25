@@ -1,4 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Barria Zuniga, Daniel	CHI 1974 M 2480.4995548 62.1048121 3400816
-2 Squella Lavin, Carlos Felipe	CHI 1996 M 1837.2097727 74.0198771 3406792
-3 Cortes Moyano, Julio	CHI 1951 M 1747.9079213 73.9268817 3400395
+1 Barria Zuniga, Daniel	CHI 1974 M 2412.9898243 61.6992563 3400816

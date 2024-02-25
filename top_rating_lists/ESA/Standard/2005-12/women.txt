@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Zepeda, Lorena	ESA 1984 2118.7463815 68.4151450 6700233
+2 Zepeda, Sonia	ESA 1981 1971.3910228 74.3292341 6700241

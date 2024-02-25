@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Budisin, Stanislav	SUI 1972 M 2053.1335082 74.2281087 1304470
+1 Budisin, Stanislav	SUI 1972 M 2005.5158334 73.8809596 1304470

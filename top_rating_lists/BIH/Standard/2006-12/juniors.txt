@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Predojevic, Borki	BIH 1987 M 2549.6122133 50.7384132 930849
+2 Radic, Bojan	BIH 1986 M 2098.1913657 59.7874726 14401770

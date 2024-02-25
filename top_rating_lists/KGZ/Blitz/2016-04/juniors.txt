@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Taalaibekov, Tagir	KGZ 1998 M 1880.3181045 73.9214501 13801163
+1 Taalaibekov, Tagir	KGZ 1998 M 1845.6024372 72.8852768 13801163

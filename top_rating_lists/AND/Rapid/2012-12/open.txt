@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Jose Queralto, Daniel	AND 1973 M 2067.5915117 73.5703071 6900089
+1 Jose Queralto, Daniel	AND 1973 M 2020.9310651 72.5692429 6900089
+2 Casanovas Cantarero, Eric	AND 1997 M 1626.2752144 74.2664964 6900445

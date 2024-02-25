@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Salmensuu, Olli	FIN 78 M 2468.4502821 66.9709178 501492
+2 Nyback, Tomi	FIN 85 M 2463.6909824 63.9804003 503142
+3 Holmsten, Aleksei	FIN 70 M 2433.0302698 67.8270631 500933

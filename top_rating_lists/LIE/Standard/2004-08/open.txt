@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Atlas, Dimitry	LIE 68 M 2268.1657218 66.4928703 12000051
+2 Guller, Andras	LIE 48 M 2081.7801993 74.0372086 12000078

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al-qudaimi abdullah	YEM 2010 M 1358.9324970 72.5460276 9402772
+1 Al-qudaimi abdullah	YEM 2010 M 1353.2778591 72.7492590 9402772

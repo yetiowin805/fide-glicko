@@ -1,3 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Nomin-Erdene, Davaademberel	MGL 2000 2261.9027596 61.8529135 4900782
-2 Munguntuul, Batkhuyag	MGL 1987 2248.3537512 67.4160005 4900758
+1 Nomin-Erdene, Davaademberel	MGL 2000 2231.3532010 61.3977395 4900782
+2 Munguntuul, Batkhuyag	MGL 1987 2210.4103240 67.1820213 4900758
+3 Altantuya, Boldbaatar	MGL 2005 2006.6266664 74.9893748 4902785

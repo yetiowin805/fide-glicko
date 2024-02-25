@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Sanchez, Mariana	AHO 2001 F 1572.7360093 66.5701393 7501307
+1 Sanchez, Mariana	AHO 2001 F 1575.4811566 66.5380410 7501307

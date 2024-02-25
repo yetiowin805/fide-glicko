@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Srivatanakul, Pricha	THA 1937 M 1636.2683943 74.6802268 6200508
+1 Srivatanakul, Pricha	THA 1937 M 1628.4549494 74.0139727 6200508

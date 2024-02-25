@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Chakanyuka, Charles	ZIM 1973 M 1819.8884173 73.2953089 11000341
+1 Chakanyuka, Charles	ZIM 1973 M 1805.2960361 72.9046194 11000341

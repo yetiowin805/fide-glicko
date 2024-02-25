@@ -1,3 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Tokhirjonova, Gulrukhbegim	UZB 1999 2230.1778384 73.4492526 14203626
-2 Khabibullaeva, Mokhinur	UZB 2006 1562.0642680 70.8214785 14207389
+1 Tokhirjonova, Gulrukhbegim	UZB 1999 2171.8009361 72.7508182 14203626
+2 Bobomurodova, Maftuna	UZB 2006 1589.8922704 74.7837198 14207400
+3 Khabibullaeva, Mokhinur	UZB 2006 1549.0802532 70.4630288 14207389

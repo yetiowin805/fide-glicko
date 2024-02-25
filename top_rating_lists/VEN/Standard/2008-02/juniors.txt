@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Iturrizaga, Eduardo	VEN 1989 M 2508.8350403 43.7578232 3901211
+1 Iturrizaga, Eduardo	VEN 1989 M 2434.4987669 49.3205152 3901211

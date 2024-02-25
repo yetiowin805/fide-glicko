@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Wagener, Anna	LUX 1976 2171.5108480 69.8550144 13900285
+2 Steil-Antoni, Fiona	LUX 1989 2015.1683361 50.0966341 4001249

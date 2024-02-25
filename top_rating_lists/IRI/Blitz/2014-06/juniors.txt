@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Khademalsharieh, Sarasadat	IRI 1997 F 2142.8126568 71.7662015 12512214
+1 Khademalsharieh, Sarasadat	IRI 1997 F 2079.7861613 71.0287720 12512214

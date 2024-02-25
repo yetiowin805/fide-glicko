@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Yussof, Pg Abd Rahman	BRU 1951 M 1606.3445154 74.7709372 10500219
+2 Kamarul Arriffin, Bin Hj Kipli	BRU 0000 M 1575.3874036 74.6777103 10501053

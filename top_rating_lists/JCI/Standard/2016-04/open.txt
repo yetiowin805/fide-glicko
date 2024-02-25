@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Farrand, Tom	JCI 1961 M 2088.6892518 67.1047749 406457
+1 Farrand, Tom	JCI 1961 M 2054.7265801 66.5583487 406457

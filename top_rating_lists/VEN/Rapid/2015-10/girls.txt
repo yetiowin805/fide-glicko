@@ -1,3 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Carreno Planas, Manuela	VEN 1996 1540.5154444 73.8917266 3906019
-2 Aumaitre Rojas, Nairymar Nazaret	VEN 1998 1497.7439301 74.9358675 3915603
+1 Giraldo Segovia, Angely	VEN 1998 1675.3540511 74.7436963 3900606
+2 Carreno Planas, Manuela	VEN 1996 1536.9911534 73.7916467 3906019
+3 Aumaitre Rojas, Nairymar Nazaret	VEN 1998 1494.5093253 74.8660071 3915603

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Jean Louis, Marckens	HAI 1997 M 1829.9682083 74.2442631 11900270
+1 Jean Louis, Marckens	HAI 1997 M 1822.8290327 73.8808623 11900270

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Lesiege, Alexandre	CAN 75 M 2593.2898369 52.8302278 2600170
+2 Spraggett, Kevin	CAN 54 M 2528.1734665 57.2979142 2600013

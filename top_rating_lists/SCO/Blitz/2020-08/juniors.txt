@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hartman, James	SCO 2005 M 1564.4040602 74.3295064 2405466
+1 Hartman, James	SCO 2005 M 1558.4415227 74.1146665 2405466

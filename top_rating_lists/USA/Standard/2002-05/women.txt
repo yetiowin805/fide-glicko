@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Krush, Irina	USA 1983 2383.1438091 57.3362167 2012782
+2 Shahade, Jennifer	USA 1980 2352.6917613 70.2389247 2011905

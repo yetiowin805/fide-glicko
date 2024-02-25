@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Phillips, Roy	MRI 1969 M 2245.8552032 72.2921616 404136

@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Valdes Romero, Leonardo	CRC 1975 M 2371.3262409 73.2826770 6500331
+1 Valdes Romero, Leonardo	CRC 1975 M 2318.4754826 72.1490807 6500331
+2 Urbina Quiroz, Edwin	CRC 1989 M 1913.2617873 74.8064598 6500650

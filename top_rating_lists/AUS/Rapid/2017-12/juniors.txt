@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Wu, Yifu	AUS 2004 M 1535.4189672 74.4444480 3222845

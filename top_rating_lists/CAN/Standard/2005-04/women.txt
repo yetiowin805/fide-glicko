@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Khaziyeva, Dinara	CAN 86 2038.1130851 74.0458639 2603888
+2 Charbonneau, Anne Marie	CAN 85 1926.3059979 74.2166512 2603934

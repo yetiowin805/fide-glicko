@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Lim, Yee-Weng	MAS 1982 M 2256.3433920 72.9826662 5700590
+2 Anas, Nazreen Bakri	MAS  M 2164.0599874 65.0495294 5701147
+3 Sumant, Subramaniam	MAS  M 1844.4656584 62.3518767 5702720

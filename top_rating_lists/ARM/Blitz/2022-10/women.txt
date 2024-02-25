@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Kobak, Polina	ARM 2008 1677.8467998 64.8600124 24269727
+1 Kobak, Polina	ARM 2008 1652.0359695 64.5195507 24269727

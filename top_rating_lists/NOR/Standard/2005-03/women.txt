@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Hagesaether, Ellen	NOR 78 2144.9593846 55.3502637 1501909
+2 Berntsen, Sheila Barth	NOR 74 2134.1517684 68.7356554 1500953
+3 Bjerke, Silje	NOR 82 2084.9871509 61.5451903 1502786

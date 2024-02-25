@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Tjong Tjin Joe, Calvin	SUR 1998 M 1822.1972262 72.0845254 8200580
+1 Tjong Tjin Joe, Calvin	SUR 1998 M 1815.9265990 72.1167072 8200580

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Cabarcos Baulina, Manuel	AND 1997 M 1699.7113033 63.9673345 6901166
-2 Martinez Gamiz, Marc	AND 2005 M 1610.5413893 74.7000325 6900976
+1 Cabarcos Baulina, Manuel	AND 1997 M 1682.9034154 63.4453274 6901166
+2 Martinez Gamiz, Marc	AND 2005 M 1592.2826830 74.4393030 6900976

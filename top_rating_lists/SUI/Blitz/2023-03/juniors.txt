@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Manko, Mariia	SUI 2007 F 1848.5068255 67.5135596 14199220
+1 Manko, Mariia	SUI 2007 F 1827.6552093 67.3201151 14199220

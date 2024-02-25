@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Zdebskaja, Natalia	UKR 86 2367.3663118 74.2277867 14109956
+2 Karlovich, Anastazia	UKR 82 2249.0861129 74.5669581 14105071
+3 Arutyunova, Diana	UKR 88 2156.7094496 68.9678379 14107244

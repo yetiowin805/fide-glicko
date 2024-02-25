@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Stojanovic, Andjelija	SCG 1987 F 2107.6354092 71.8898424 928682

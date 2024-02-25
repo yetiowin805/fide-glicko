@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Astaneh Lopez, Alex	IRL 1987 M 2292.2093380 74.8319869 2501430
+2 McPhillips, Karl	IRL 1988 M 2176.6765904 66.8136064 2501503

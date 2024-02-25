@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Veleshnja, Zino	ALB 2001 M 2051.1493874 69.8176099 4701313
+1 Veleshnja, Zino	ALB 2001 M 2017.9735450 69.1337091 4701313

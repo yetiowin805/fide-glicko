@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Okuno, Rion	JPN 2008 M 1748.2868495 74.3372246 7003730
+1 Okuno, Rion	JPN 2008 M 1739.3043403 73.6057787 7003730

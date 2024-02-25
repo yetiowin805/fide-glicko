@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al-gailani,hasan	YEM 2000 M 1516.3033185 74.6353670 9402675
+1 Al-gailani,hasan	YEM 2000 M 1503.6848095 74.5959613 9402675

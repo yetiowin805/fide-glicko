@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mohamed Lemine, Mohamed	MTN 1994 M 1671.5357584 74.4234794 19601409
+1 Mohamed Lemine, Mohamed	MTN 1994 M 1675.7230642 74.3139119 19601409

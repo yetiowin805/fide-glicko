@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Blond Hanten, Elsa	LUX 2001 1449.9462492 55.3964754 4001516
-2 Sarigiannidou, Angeliki	LUX 2006 1242.9423276 74.9862739 4004140
+1 Blond Hanten, Elsa	LUX 2001 1468.9370671 53.1690734 4001516

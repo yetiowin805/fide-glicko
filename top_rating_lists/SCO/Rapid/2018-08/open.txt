@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Arakhamia-Grant, Ketevan	SCO 1968 F 2236.4875743 69.7190072 13600168
+1 Arakhamia-Grant, Ketevan	SCO 1968 F 2181.3253541 69.2092017 13600168

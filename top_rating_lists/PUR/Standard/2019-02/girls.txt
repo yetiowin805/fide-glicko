@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Vazquez Maccarini, Danitza	PUR 2000 1985.3664010 55.2975563 3101193
-2 Maldonado Polo, Mariangeli	PUR 2006 1364.3885886 56.4005400 3107299
-3 Bengoa Feliciano, Katsi M.	PUR 2007 1284.3709926 68.2642929 3107450
+1 Vazquez Maccarini, Danitza	PUR 2000 1972.0651543 54.9876397 3101193
+2 Maldonado Polo, Mariangeli	PUR 2006 1364.4873948 56.3424649 3107299
+3 Bengoa Feliciano, Katsi M.	PUR 2007 1284.2425656 68.1977638 3107450

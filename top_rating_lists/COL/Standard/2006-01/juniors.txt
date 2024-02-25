@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Barrientos, Sergio	COL 1986 M 2399.7488186 45.1413565 4401824
+2 Garcia, Eduardo	COL 1987 M 2232.6873318 69.6575471 4401867

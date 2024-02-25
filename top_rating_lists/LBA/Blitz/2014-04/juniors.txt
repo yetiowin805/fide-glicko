@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 El Mashaili, Khalil	LBA 1994 M 1772.7455704 72.8565361 9200525
-2 Elnaami, Hashem A.k.	LBA 1994 M 1674.1812279 74.9786171 9201262
+1 El Mashaili, Khalil	LBA 1994 M 1796.6156430 72.5587457 9200525

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Martinez Duany, Lelys Stanley	CUB 1985 M 2530.4172570 72.0403993 3504727
+1 Martinez Duany, Lelys Stanley	CUB 1985 M 2450.3410531 71.7572096 3504727

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Romero, Juan	URU 2005 M 1693.4270276 65.6141741 3012336
+1 Romero, Juan	URU 2005 M 1687.9242981 65.4141941 3012336

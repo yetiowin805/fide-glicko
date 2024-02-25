@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Ordaz Valdes, Lisandra	CUB 1988 2190.3377601 57.7352415 3506940
+2 Cardenas Ballester, Maidelin	CUB 1987 1903.6211904 61.3502826 3508242
+3 Ginesta Caballero, Olga Lucia	CUB 1986 1849.9888040 54.4961270 3508234
+4 Romero, Nunez Wendy	CUB 1991 1719.4064003 55.1370320 3510174

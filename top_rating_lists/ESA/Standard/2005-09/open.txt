@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Arias, Lemmys A.	ESA 1978 M 2184.5499609 62.2222995 6700284

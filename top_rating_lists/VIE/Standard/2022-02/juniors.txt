@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nguyen, Vuong Tung Lam	VIE 2010 M 1627.3400344 74.9133840 12417440
+1 Nguyen, Vuong Tung Lam	VIE 2010 M 1615.6495235 74.6674934 12417440

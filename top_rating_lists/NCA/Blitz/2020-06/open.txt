@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mejia, Donaldo	NCA 0000 M 1898.1623817 72.7700582 6102085
+1 Mejia, Donaldo	NCA 0000 M 1872.4925727 72.3052172 6102085

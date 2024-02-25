@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Efimov, Igor	MNC 1960 M 2392.6603313 69.7266513 806404
+1 Efimov, Igor	MNC 1960 M 2340.6149165 68.7972891 806404

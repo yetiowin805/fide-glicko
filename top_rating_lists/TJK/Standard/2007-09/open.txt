@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Amonatov, Farrukh	TJK 1978 M 2548.6525013 46.4960635 14700077
+2 Khuseinkhodzhaev, Muhammad	TJK  M 2321.2298560 65.4662293 14700247

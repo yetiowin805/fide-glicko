@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Song, Angela	AUS 1992 1855.8474787 59.1917055 3203832
+2 Jule, Alexandra	AUS 1989 1773.4931417 69.2165664 3205517

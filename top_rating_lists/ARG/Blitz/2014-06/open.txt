@@ -1,3 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Minzer, Claudio Javier	ARG 1968 M 2398.6395405 70.7649322 103055
-2 Lazarte Anello, David Emiliano	ARG 1988 M 1775.2712297 70.7766814 140775
+1 Minzer, Claudio Javier	ARG 1968 M 2337.9572222 70.1851753 103055
+2 Torres, Fernando	ARG 1994 M 1852.4063716 74.6872957 106879
+3 Lazarte Anello, David Emiliano	ARG 1988 M 1750.2468488 69.4002951 140775

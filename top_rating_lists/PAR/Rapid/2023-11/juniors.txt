@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Amarilla Ettiene, Ezequiel	PAR 2009 M 1748.7958145 70.9523759 3708403
-2 Veloso Tintel, Emmanuel Ian	PAR 2016 M 1509.8381530 73.5470860 3713202
-3 Benitez Sanabria, Diego Isaias	PAR 2012 M 1417.5180482 72.9370626 3712605
+1 Amarilla Ettiene, Ezequiel	PAR 2009 M 1725.1265128 70.3593426 3708403
+2 Veloso Tintel, Emmanuel Ian	PAR 2016 M 1497.3694305 73.1789696 3713202
+3 Benitez Sanabria, Diego Isaias	PAR 2012 M 1404.5733769 72.7696282 3712605

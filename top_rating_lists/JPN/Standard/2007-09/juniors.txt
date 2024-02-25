@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Uesugi, Shinsaku	JPN 1991 M 2140.3920502 50.3390531 2024578
+2 Kojima, Shinya	JPN 1988 M 2109.8908470 71.4944674 7000812

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Dr. Murtaza Ali	PAK 1981 M 2082.3862740 70.2937315 7801750
+1 Dr. Murtaza Ali	PAK 1981 M 2052.7744803 69.5699119 7801750

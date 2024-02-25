@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Van Hoolandt, Patrick	MNC 58 M 2229.3488704 43.6653396 200999
+2 Lebel, Patrick	MNC 49 M 2170.0438785 63.7424111 5400147

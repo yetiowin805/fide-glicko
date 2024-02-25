@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rojas Serra, Alexander	CUB 1993 M 2073.1727522 74.6898180 3513858
+1 Rojas Serra, Alexander	CUB 1993 M 2031.4146246 73.9778814 3513858

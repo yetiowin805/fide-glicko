@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Adianto, Utut	INA 1965 M 2565.8347704 63.8247373 7100019
+2 Juswanto, Denny	INA 1959 M 2531.4656573 66.1117128 7100221

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ramsay, Zachary	JAM 1990 M 1803.9941546 72.8093751 7400314
+1 Ramsay, Zachary	JAM 1990 M 1766.6113728 74.7711897 7400314

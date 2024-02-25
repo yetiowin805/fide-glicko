@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Gentilleau, Jean-Philippe	MNC 65 M 2284.2588811 69.5783827 5400074
+2 Van Hoolandt, Patrick	MNC 58 M 2210.2905370 40.1206139 200999
+3 Lebel, Patrick	MNC 49 M 2116.1734813 70.5751222 5400147
+4 Chizelle, Bernard	MNC 37 M 1907.4707698 71.4120763 628751

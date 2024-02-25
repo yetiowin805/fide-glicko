@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rolston, Daniel Haruma	IRL 2009 M 1612.3998416 56.5340394 2511258
+1 Rolston, Daniel Haruma	IRL 2009 M 1606.8859977 56.3862868 2511258

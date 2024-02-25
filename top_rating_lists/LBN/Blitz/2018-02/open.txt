@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kaouri, Mahdi	LBN 0000 M 2038.6889613 74.8948725 5302803
+2 Asmar, Elie	LBN 0000 M 1911.9111847 74.9346568 5301432

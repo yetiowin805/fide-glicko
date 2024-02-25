@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kunanantakul, Kunawach	THA 2006 M 1593.0582775 69.5074746 6209777
+1 Burbach, Brunel Baron	THA 2008 M 1659.4255308 74.9309342 6205682
+2 Kunanantakul, Kunawach	THA 2006 M 1581.2541220 69.3273101 6209777

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Rojas Solano, Jessenia	ECU 1987 1922.2988841 73.1349272 3601854
+2 Heredia Serrano, Carla	ECU 1991 1868.6557746 50.1495756 3603687

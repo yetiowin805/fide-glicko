@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rindlisbacher, Lars	SUI 1996 M 2207.8218863 74.7954633 1304178
+1 Rindlisbacher, Lars	SUI 1996 M 2165.8397365 74.2291961 1304178

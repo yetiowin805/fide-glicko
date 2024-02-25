@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Tuomainen, Felix	SWE 1998 M 2010.0949863 73.0748826 1720813
+1 Tuomainen, Felix	SWE 1998 M 1977.3936246 71.1473710 1720813
+2 Petersson, Baldur Teodor	SWE 2001 M 1649.3930295 74.9982075 2309157

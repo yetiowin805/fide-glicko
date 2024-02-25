@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Gutierrez, Leonela	VEN 1992 1901.7951240 55.3811960 3900401
+1 Herrera Sosa, Jessica	VEN 1993 1893.2931684 74.8517445 3900479
+2 Gutierrez, Leonela	VEN 1992 1831.0044591 52.2850526 3900401

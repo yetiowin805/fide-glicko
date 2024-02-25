@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Grimm, Gyorgy	HUN 1997 M 2135.9164288 74.0700746 740098
+1 Grimm, Gyorgy	HUN 1997 M 2095.8936892 73.3114311 740098

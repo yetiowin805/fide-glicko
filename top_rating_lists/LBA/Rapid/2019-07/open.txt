@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al-Zayat, Ahmed	LBA 1984 M 2036.3963530 72.9245433 9200380
+1 Al-Zayat, Ahmed	LBA 1984 M 2046.3118674 73.3957527 9200380

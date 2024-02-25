@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Simutowe, Amon	ZAM 1982 M 2471.9965655 48.1885185 8700168
+1 Simutowe, Amon	ZAM 1982 M 2417.1011421 48.3764707 8700168

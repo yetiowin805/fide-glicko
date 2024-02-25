@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rees, Ioan	WLS 1988 M 2231.3032337 69.0655972 1801236
+2 Thomas, Joseff	WLS 1990 M 2045.7511211 71.8075087 1801333

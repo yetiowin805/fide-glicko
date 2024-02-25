@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Amir Ali Mahmoodi	AFG 2003 M 1541.2541614 53.7418668 11701773
+1 Amir Ali Mahmoodi	AFG 2003 M 1524.8878592 53.5312542 11701773

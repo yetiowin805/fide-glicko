@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bayarmaa, Bayarjargal	MGL 1995 F 2069.2657597 72.3646537 4900260
+1 Bayarmaa, Bayarjargal	MGL 1995 F 2015.1119264 71.6354299 4900260

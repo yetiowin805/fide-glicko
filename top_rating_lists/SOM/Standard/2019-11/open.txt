@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Miskin, Mohamed Abdi	SOM 1996 M 1719.9577776 66.3619367 10808370
+1 Miskin, Mohamed Abdi	SOM 1996 M 1714.4477335 66.3180633 10808370

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Frutos, Leandro Jose	ARG 2009 M 1718.0860959 73.0174638 181358
+1 Frutos, Leandro Jose	ARG 2009 M 1715.2411246 72.8890647 181358

@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Alarcon, Pamela	NCA  1647.0039581 72.2077803 6100694
+1 Alarcon, Pamela	NCA  1711.6939641 69.3175082 6100694
+2 Madrigal, Ana Daniela	NCA  1694.6733733 73.3541973 6101097

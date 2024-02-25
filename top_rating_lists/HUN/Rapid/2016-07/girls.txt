@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Barcza, Lora	HUN 2005 1626.9406772 60.2645872 777749
+1 Barcza, Lora	HUN 2005 1614.0939076 60.0289933 777749
