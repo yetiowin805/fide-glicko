@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Hallaeva, Bahar	TKM 1988 2000.2275369 62.7685260 14000679
+2 Kurbanova, Maya	TKM 1987 1855.1985007 72.7933931 14000784

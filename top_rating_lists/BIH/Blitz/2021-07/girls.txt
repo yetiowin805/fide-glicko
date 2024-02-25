@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Maksimovic, Masa	BIH 2001 1747.6089060 71.7446306 14408902
+1 Maksimovic, Masa	BIH 2001 1747.3046916 71.7424656 14408902

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Olsen, Filip Boe	DEN 2003 M 2156.7533586 52.5737900 1440640
-2 Christensen, John Christopher Hojstrup	DEN 2008 M 1730.5464746 69.9044661 1453947
+1 Olsen, Filip Boe	DEN 2003 M 2156.4342427 52.5706130 1440640
+2 Christensen, John Christopher Hojstrup	DEN 2008 M 1730.9171264 69.9773231 1453947

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hook, W.	IVB  M 1882.8863638 73.3105365 2700050
+1 Hook, W.	IVB 0 M 1883.0307651 73.3104968 2700050

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ssegwanyi, Arthur	UGA 1988 M 2130.5118303 73.6529026 10000100
+1 Ssegwanyi, Arthur	UGA 1988 M 2130.3755304 73.6509649 10000100

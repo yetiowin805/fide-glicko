@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mossong, Hubert	LUX 1950 M 2023.5095375 74.9846855 4000030
+1 Mossong, Hubert	LUX 1950 M 2023.0553994 74.9928796 4000030

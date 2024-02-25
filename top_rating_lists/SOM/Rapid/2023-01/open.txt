@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Islam Sh.Nour, Kassim	SOM 1997 M 1797.6202177 59.7741726 16100360
+1 Islam Sh.Nour, Kassim	SOM 1997 M 1797.5950937 59.7734301 16100360

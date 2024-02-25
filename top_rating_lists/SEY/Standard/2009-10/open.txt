@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Meier, Kurt	SEY 1985 M 1876.2753979 67.1230366 1307398
+1 Meier, Kurt	SEY 1985 M 1876.3146110 67.1255074 1307398

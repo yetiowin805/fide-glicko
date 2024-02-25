@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Nicolajsen, Thea	DEN 1996 1506.7807095 64.8802646 1434144
+1 Nicolajsen, Thea	DEN 1996 1506.7095841 64.8782984 1434144

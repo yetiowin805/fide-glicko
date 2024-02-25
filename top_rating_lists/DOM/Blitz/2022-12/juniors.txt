@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Fondeur Fernandez, Adrian Francisco	DOM 2003 M 1628.5901257 73.1562711 6426271
+1 Fondeur Fernandez, Adrian Francisco	DOM 2003 M 1628.4700726 73.1508932 6426271

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Narva, Triin	EST 1994 1916.3808287 71.1637210 4502680
+1 Narva, Triin	EST 1994 1916.0928884 71.1619180 4502680

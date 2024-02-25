@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Jones, Richard S.	WLS 1983 M 2262.6156013 63.6028121 1800833

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Arvind, Goru	FIJ 1980 M 1734.5190124 74.1769235 11400188
+1 Arvind, Goru	FIJ 1980 M 1734.4422832 74.1722979 11400188

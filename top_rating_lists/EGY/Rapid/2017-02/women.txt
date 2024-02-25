@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Wafa, Shahenda	EGY 1998 1901.0326256 69.9984625 10609962
+1 Wafa, Shahenda	EGY 1998 1900.8025129 69.9991129 10609962

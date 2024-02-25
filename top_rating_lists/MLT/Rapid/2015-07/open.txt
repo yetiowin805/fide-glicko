@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Vella, Duncan	MLT 1971 M 1953.9926577 73.7818524 5600243
+1 Vella, Duncan	MLT 1971 M 1953.9021345 73.7797614 5600243

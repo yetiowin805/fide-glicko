@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Murshed, Niaz	BAN 1966 M 2320.9725439 74.3387616 10200010
+1 Murshed, Niaz	BAN 1966 M 2320.8759514 74.3675554 10200010

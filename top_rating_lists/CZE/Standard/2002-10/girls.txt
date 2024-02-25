@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Jackova, Jana	CZE 1982 2385.5640551 72.6334834 308498
+2 Hodova, Lucie	CZE 1984 2032.9759070 66.7202908 316130

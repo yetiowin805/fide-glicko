@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ababneh, Ghayth	JOR 1982 M 1904.5402757 68.4414868 8101043
+1 Ababneh, Ghayth	JOR 1982 M 1904.4685563 68.4416769 8101043

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Zainal, Farah Atiyah	BRU  2308.5259103 73.9998113 10500146
+1 Zainal, Farah Atiyah	BRU 0 2308.5259103 73.9998113 10500146

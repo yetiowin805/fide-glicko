@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Abdyjapar, Asyl	KGZ  2273.3816433 66.6951928 13800337
+1 Abdyjapar, Asyl	KGZ 0 2274.2628677 66.6850203 13800337

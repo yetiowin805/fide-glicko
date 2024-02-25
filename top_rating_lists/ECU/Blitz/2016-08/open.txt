@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Pazos Gambarrotti, Plinio	ECU 1960 M 2064.0844716 71.8615159 3600068
+1 Pazos Gambarrotti, Plinio	ECU 1960 M 2063.6474682 71.8849504 3600068

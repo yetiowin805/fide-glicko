@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Anquandah, Francis Eric	GHA 1965 M 1820.1436053 74.5971206 12600148
+1 Anquandah, Francis Eric	GHA 1965 M 1820.0257391 74.5926887 12600148

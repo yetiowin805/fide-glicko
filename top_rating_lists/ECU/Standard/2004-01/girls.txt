@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Pino Cuenca, Laura	ECU 1987 2071.7083180 63.0361315 3601226
+2 Alcivar Torres, Ingrid	ECU 1985 1977.6765088 52.4490786 3601560

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Miller, Rachel	JAM 2000 1570.0551289 62.5938473 7401302
+1 Miller, Rachel	JAM 2000 1569.8471815 62.5916860 7401302

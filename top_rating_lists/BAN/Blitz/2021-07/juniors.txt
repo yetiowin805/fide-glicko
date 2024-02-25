@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Manon, Reja Neer	BAN 2010 M 1866.0792105 74.6275207 10224009
+1 Manon, Reja Neer	BAN 2010 M 1865.9569101 74.6246279 10224009

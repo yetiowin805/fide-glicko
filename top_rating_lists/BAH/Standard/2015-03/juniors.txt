@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hanna Jr, Philip	BAH 1996 M 1506.7599438 68.0142939 10400559
+1 Hanna Jr, Philip	BAH 1996 M 1506.6924066 68.0136755 10400559

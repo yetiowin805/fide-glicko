@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Lafuente, Pablo	ARG 1985 M 2428.1566447 72.8809534 108820
+2 Liascovich, Lucas	ARG 1984 M 2271.4490281 67.0206654 108634
+3 Perdomo, Leandro	ARG 1985 M 2218.2493935 74.3773567 109746

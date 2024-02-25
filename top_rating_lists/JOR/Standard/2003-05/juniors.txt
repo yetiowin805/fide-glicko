@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Samhouri, A.	JOR 1984 M 2198.5755363 72.1543371 8100640

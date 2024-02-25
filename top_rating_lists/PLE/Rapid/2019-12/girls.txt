@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Shaheen, Mays	PLE 2003 1627.3596494 63.8687869 11502436
+1 Shaheen, Mays	PLE 2003 1627.3388282 63.8680095 11502436

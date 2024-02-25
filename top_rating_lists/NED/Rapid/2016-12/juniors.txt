@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Slomczewski, Michal	NED 2000 M 1770.4120783 73.4442275 1040650
+1 Slomczewski, Michal	NED 2000 M 1770.1489710 73.4374984 1040650

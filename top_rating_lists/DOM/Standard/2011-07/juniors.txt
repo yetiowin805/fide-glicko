@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Jimenez, Maykol	DOM 1992 M 1866.1887253 73.4531593 6405649
-2 Diaz Cesar, Wilsaida Pieranlly	DOM 1991 F 1538.1626326 70.9291773 6403557
+1 Jimenez, Maykol	DOM 1992 M 1866.0463207 73.4501724 6405649
+2 Diaz Cesar, Wilsaida Pieranlly	DOM 1991 F 1537.9959698 70.9263149 6403557

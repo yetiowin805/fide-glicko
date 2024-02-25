@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Rating RD
 1 Safranska, Anda	LAT 1960 2323.2850386 65.0973171 11600209
-2 Reizniece, Dana	LAT 1981 2271.7752116 71.6170441 11601124

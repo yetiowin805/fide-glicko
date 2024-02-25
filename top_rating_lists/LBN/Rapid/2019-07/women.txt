@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Ali Khan, Amani	LBN 1993 1361.9659211 69.3516957 5307570
+1 Ali Khan, Amani	LBN 1993 1361.9430555 69.3511483 5307570

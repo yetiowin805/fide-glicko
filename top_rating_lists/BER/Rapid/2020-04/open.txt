@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kovacova, Zuzana	BER 1974 F 1913.3798638 70.0954630 14901510
+1 Kovacova, Zuzana	BER 1974 F 1913.0806769 70.0940293 14901510

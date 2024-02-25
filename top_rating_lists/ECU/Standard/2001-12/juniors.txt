@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mieles Palau, Daniel	ECU 1985 M 2422.2808155 71.0217736 3600467
+2 Munoz Sanchez, Miguel	ECU 1982 M 2334.9088773 67.6675163 3600734

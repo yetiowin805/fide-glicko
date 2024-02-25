@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kanep, Meelis	EST 1983 M 2465.5120019 47.2603521 4501047
+2 Bashkite, Viktoria	EST 1985 F 2108.7161330 59.4052713 4501284

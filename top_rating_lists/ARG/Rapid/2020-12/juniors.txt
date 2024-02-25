@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Scarsi, Anna Laura	ARG 2006 F 1561.0872961 74.1878343 159328
+1 Scarsi, Anna Laura	ARG 2006 F 1560.8496066 74.1853265 159328

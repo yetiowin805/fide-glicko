@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Del Razo Mendoza, Nancy Ai	MEX 2006 M 1288.5275460 73.2802890 5137632
+1 Del Razo Mendoza, Nancy Ai	MEX 2006 M 1288.4703036 73.2786632 5137632

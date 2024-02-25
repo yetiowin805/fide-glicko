@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Molina, Jessica	BOL 2000 1587.4759633 73.0804814 3303888
+1 Molina, Jessica	BOL 2000 1587.3703093 73.0794270 3303888

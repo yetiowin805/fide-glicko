@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Morales Flores, Monserrat	CHI 1994 1957.7556481 69.7891697 3412016
-2 Gomez Barrera, Javiera Belen	CHI 2002 1885.7284077 74.8673411 3418723
+1 Morales Flores, Monserrat	CHI 1994 1957.7838985 69.7893743 3412016
+2 Gomez Barrera, Javiera Belen	CHI 2002 1885.6281190 74.8642584 3418723

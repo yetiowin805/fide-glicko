@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Mencos Castillo, Maria	GUA 1996 1672.4931265 73.7863773 7300867
-2 Cruz Lima, Kimberly Esmeralda	GUA 2001 1519.4546668 70.2766869 7301480
+1 Mencos Castillo, Maria	GUA 1996 1672.3609524 73.7847116 7300867
+2 Cruz Lima, Kimberly Esmeralda	GUA 2001 1519.4042217 70.2738919 7301480

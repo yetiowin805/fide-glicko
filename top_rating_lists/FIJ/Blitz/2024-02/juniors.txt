@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Prasad, Rudr	FIJ 2005 M 1768.3896184 74.7743156 11401095
+1 Prasad, Rudr	FIJ 2005 M 1768.3368351 74.7731996 11401095

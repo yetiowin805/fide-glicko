@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Byun, Sungwon	KOR 1998 1424.8678473 72.4931557 13200852
+1 Byun, Sungwon	KOR 1998 1424.8078284 72.4929362 13200852

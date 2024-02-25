@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Cheparinov, Ivan	BUL 1986 M 2461.0676760 50.1146144 2905540
+2 Milchev, Nikolay	BUL 1984 M 2241.6096926 74.8197579 2906090

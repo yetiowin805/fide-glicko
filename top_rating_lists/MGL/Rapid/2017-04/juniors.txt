@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nomin-Erdene, Davaademberel	MGL 2000 F 2115.9077780 73.3424187 4900782
-2 Chinguun, Sumiya	MGL 2005 M 1901.0968531 74.1027819 4902572
+1 Nomin-Erdene, Davaademberel	MGL 2000 F 2115.6017970 73.3422626 4900782
+2 Chinguun, Sumiya	MGL 2005 M 1900.6643926 74.0962020 4902572

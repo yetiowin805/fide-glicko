@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Vokhidov, Shamsiddin	UZB 2002 M 2407.1367988 74.9542319 14204223
+1 Vokhidov, Shamsiddin	UZB 2002 M 2406.8038418 74.9551321 14204223

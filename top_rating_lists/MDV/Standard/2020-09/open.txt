@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Muhammed, Shuaau	MDV 1994 M 1906.1185489 67.9667301 16700406
+1 Muhammed, Shuaau	MDV 1994 M 1906.0127798 67.9644052 16700406

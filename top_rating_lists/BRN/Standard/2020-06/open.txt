@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Shaker, Musab	BRN 1986 M 1617.0045762 70.9598869 11201789
+1 Shaker, Musab	BRN 1986 M 1616.9148844 70.9584299 11201789

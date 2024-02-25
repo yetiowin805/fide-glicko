@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Ozturk, Hilal	TUR 1997 1722.1057773 72.9736695 6315330
+1 Ozturk, Hilal	TUR 1997 1722.0343476 72.9736804 6315330

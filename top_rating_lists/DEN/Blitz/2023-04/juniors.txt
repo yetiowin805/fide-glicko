@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Skytte, Robert	DEN 2013 M 1429.4058689 73.7049602 1471775
+1 Skytte, Robert	DEN 2013 M 1429.3230354 73.7027321 1471775

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ambrosi, Eleonora	ITA 1988 2057.4737943 59.5727038 812099
+2 De-Rosa, Maria	ITA 1988 2054.0952300 66.7137737 815136

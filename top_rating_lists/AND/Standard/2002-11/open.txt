@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 De La Riva Aguado, Oscar	AND 72 M 2526.8694875 58.4789451 6900224
-2 Garcia, Raul	AND 52 M 2279.0145718 70.6634859 6900020
+1 De La Riva Aguado, Oscar	AND 1972 M 2489.8044563 64.8178140 6900224

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Alazmi, Aeshah	KUW 2004 1224.5721801 73.8595965 10302875
+1 Alazmi, Aeshah	KUW 2004 1224.5080639 73.8597262 10302875

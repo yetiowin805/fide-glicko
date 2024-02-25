@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Aguilar, Marcela	ESA 1993 1705.6850007 64.9051641 6700322
+1 Aguilar, Marcela	ESA 1993 1705.6338313 64.9051110 6700322

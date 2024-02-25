@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Maltezeanu, Stefan	LUX 1999 M 1884.0338690 61.0933902 4004655
+1 Maltezeanu, Stefan	LUX 1999 M 1883.7681590 61.0899085 4004655

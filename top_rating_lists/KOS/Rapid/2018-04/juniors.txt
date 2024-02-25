@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Dilji, Emell	KOS 1998 M 1587.4308104 70.9185980 22100148
+1 Dilji, Emell	KOS 1998 M 1587.3147043 70.9161944 22100148

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Psaila, Clarence	MLT 1984 M 1892.4475330 73.0274296 5600359
+1 Psaila, Clarence	MLT 1984 M 1892.2814662 73.0266244 5600359

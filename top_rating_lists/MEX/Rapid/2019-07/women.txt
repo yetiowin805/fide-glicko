@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Aviles Campos, Andrea Regi	MEX 2005 1684.0081025 57.2790017 5123542
-2 Martinez Mares, Genesis Alejandra	MEX 2005 1546.4300751 62.6036120 5144264
-3 Aguilar Sanchez, Citlali	MEX 2004 1519.0481325 69.9489207 5119502
+1 Aviles Campos, Andrea Regi	MEX 2005 1684.1086138 57.2846340 5123542
+2 Martinez Mares, Genesis Alejandra	MEX 2005 1546.3480819 62.6014678 5144264
+3 Aguilar Sanchez, Citlali	MEX 2004 1518.9677292 69.9467800 5119502

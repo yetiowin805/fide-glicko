@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Santana Freitas, Maria Eduarda	BRA 2005 1367.1270736 73.5036486 2193787
-2 Bartmeyer, Beatriz	BRA 1999 1366.4726011 73.8831381 2152592
+1 Santana Freitas, Maria Eduarda	BRA 2005 1367.1553348 73.5037211 2193787
+2 Bartmeyer, Beatriz	BRA 1999 1366.4253247 73.8830195 2152592

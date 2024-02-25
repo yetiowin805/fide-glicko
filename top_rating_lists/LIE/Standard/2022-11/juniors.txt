@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Heron, Andrew	LIE 2007 M 1538.3068927 59.8542733 12000213
+1 Heron, Andrew	LIE 2007 M 1538.0798403 59.8532921 12000213

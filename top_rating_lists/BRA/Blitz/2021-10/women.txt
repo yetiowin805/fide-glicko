@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Campagnolo, Fabiola	BRA 1999 1658.0787808 72.1071872 2160030
+1 Campagnolo, Fabiola	BRA 1999 1657.9180524 72.1025051 2160030

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rathbone-Jones, Ifan	WLS 2004 M 1735.7620497 73.6773628 1803859
+1 Rathbone-Jones, Ifan	WLS 2004 M 1735.6224539 73.6766931 1803859

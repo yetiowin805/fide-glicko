@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mezioud, Amina	ALG 1988 F 1965.6719048 66.9808006 7900970
+1 Mezioud, Amina	ALG 1988 F 1965.4588576 66.9712356 7900970

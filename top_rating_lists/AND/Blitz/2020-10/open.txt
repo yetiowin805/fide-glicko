@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Cabarcos Baulina, Manuel	AND 1997 M 1682.9034154 70.7277795 6901166
+1 Cabarcos Baulina, Manuel	AND 1997 M 1682.7773603 70.7252855 6901166

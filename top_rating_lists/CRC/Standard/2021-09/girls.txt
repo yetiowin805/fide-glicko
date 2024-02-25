@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Salazar Gould, Melanie	CRC 2003 1750.8091075 68.1099936 6505090
-2 Salazar Gould, Kristy Valeria	CRC 2008 1463.8114328 71.2161751 6511643
+1 Salazar Gould, Melanie	CRC 2003 1750.6568554 68.1100912 6505090
+2 Salazar Gould, Kristy Valeria	CRC 2008 1463.7647802 71.2158199 6511643

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Manitcaia, Alina	MDA 2000 1610.0327661 72.2933802 13907433
+1 Manitcaia, Alina	MDA 2000 1609.8759969 72.2885279 13907433

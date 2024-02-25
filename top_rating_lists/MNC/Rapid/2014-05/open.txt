@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Butnorius, Algimantas	MNC 1946 M 2280.6033247 74.8879558 12800066
+1 Butnorius, Algimantas	MNC 1946 M 2280.2182086 74.8933385 12800066

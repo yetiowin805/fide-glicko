@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Efroimski, Marsel	ISR 1995 2165.0445735 74.5534447 2810964
+1 Efroimski, Marsel	ISR 1995 2164.7887752 74.5583490 2810964

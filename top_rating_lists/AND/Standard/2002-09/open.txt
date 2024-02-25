@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 De La Riva Aguado, Oscar	AND 72 M 2542.0490352 59.1323444 6900224
+1 De La Riva Aguado, Oscar	AND 1972 M 2500.4137226 69.0425217 6900224

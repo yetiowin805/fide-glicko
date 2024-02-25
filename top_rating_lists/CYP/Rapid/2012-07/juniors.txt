@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kelires, Andreas	CYP 1999 M 1882.0862136 58.9813263 5900727
+1 Kelires, Andreas	CYP 1999 M 1882.0581729 58.9810560 5900727

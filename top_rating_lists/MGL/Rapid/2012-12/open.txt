@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Munguntuul, Batkhuyag	MGL 1987 F 2385.8390980 70.1520446 4900758
-2 Enkhtuul, Altanulzii	MGL 1994 F 2059.0435530 63.6144453 4901444
+1 Munguntuul, Batkhuyag	MGL 1987 F 2385.7284445 70.1675699 4900758
+2 Enkhtuul, Altanulzii	MGL 1994 F 2058.7489358 63.6142766 4901444

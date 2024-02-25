@@ -6,4 +6,4 @@ Rank Name Federation BirthYear Rating RD
 5 Manakova, Maria	SCG 1974 2221.8211934 66.8632672 927007
 6 Maksimovic, Suzana	SCG 1962 2169.1640110 63.6701081 904562
 7 Stojanovic, Andjelija	SCG 1987 2135.5585332 69.3849509 928682
-8 von Wantoch-Rekowski, Danijela	SCG 1981 2103.0736291 71.6515767 922528
+8 von Wantoch-Rekowski, Danijela	SCG 1981 2107.8535116 71.8796929 922528

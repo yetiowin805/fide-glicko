@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gameel, Amal	YEM 1995 F 1650.1128306 72.7837365 9400150
+1 Gameel, Amal	YEM 1995 F 1646.6362160 72.8845738 9400150

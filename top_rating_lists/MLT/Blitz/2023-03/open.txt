@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mizzi, Steve	MLT 2000 M 1499.6472977 73.4617733 5601878
+1 Mizzi, Steve	MLT 2000 M 1499.4818059 73.4560752 5601878

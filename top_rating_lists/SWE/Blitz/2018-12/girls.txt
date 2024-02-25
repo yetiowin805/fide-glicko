@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Paltzer, Brandy	SWE 1999 1629.1270081 74.2512643 1719203
+1 Paltzer, Brandy	SWE 1999 1628.9873931 74.2506142 1719203

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Shamima, Akter	BAN 1989 1889.0926803 70.3529379 10202587
+1 Shamima, Akter	BAN 1989 1888.9480671 70.3525247 10202587

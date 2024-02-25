@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ribera Veganzones, Serni	AND 2007 M 1879.2002973 68.7674924 6900860
-2 Henderson de La Fuente, Andrea	AND 2001 F 1735.3782916 66.3616585 32096577
+1 Ribera Veganzones, Serni	AND 2007 M 1878.9215295 68.7667177 6900860
+2 Henderson de La Fuente, Andrea	AND 2001 F 1735.2017800 66.3588309 32096577

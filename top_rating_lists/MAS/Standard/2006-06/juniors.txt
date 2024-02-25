@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Johan Iskandar Foudzi	MAS 1987 M 2026.2578710 73.3065646 5701058
+1 Johan Iskandar Foudzi	MAS 1987 M 2027.3866937 73.7289406 5701058

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Johnson, Joshua	TTO 1999 M 2027.9143392 71.5848080 7700768
+1 Johnson, Joshua	TTO 1999 M 2027.6154288 71.5856061 7700768

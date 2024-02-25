@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Alarcon, Pamela	NCA  1719.1081817 67.1183853 6100694
+1 Alarcon, Pamela	NCA 0 1719.1474086 67.1146987 6100694

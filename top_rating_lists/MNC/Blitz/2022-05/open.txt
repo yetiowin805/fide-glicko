@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Villegas, Pierre	MNC 1992 M 2294.7431624 70.8896038 654183
+1 Villegas, Pierre	MNC 1992 M 2294.4915704 70.8892533 654183
+2 Berezovsky, Fiorina	MNC 2007 F 1428.9676661 74.9979592 5400651

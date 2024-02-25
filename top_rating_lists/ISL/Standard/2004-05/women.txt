@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Gretarsdottir, Lilja	ISL  1972.3517088 66.1049207 2301385
-2 Ingolfsdottir, Harpa	ISL 81 1935.4685969 64.9780391 2301270
+1 Gretarsdottir, Lilja	ISL 0 1972.3517088 66.1049207 2301385
+2 Ingolfsdottir, Harpa	ISL 1981 1935.4685969 64.9780391 2301270

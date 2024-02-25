@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Santos, Jeovani Amaro Dias	ANG 1988 M 2012.9892396 73.9745798 10100482
+1 Santos, Jeovani Amaro Dias	ANG 1988 M 2012.2416946 73.9685325 10100482

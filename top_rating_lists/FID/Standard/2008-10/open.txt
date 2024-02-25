@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mysik, Natalia	FID 1966 F 1721.2210988 64.9253662 13505084
+1 Mysik, Natalia	FID 1966 F 1720.9954805 64.9230933 13505084

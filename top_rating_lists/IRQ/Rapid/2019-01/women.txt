@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Sara Masood Abdullah	IRQ 2002 1590.7154332 74.6746072 4809610
+1 Sara Masood Abdullah	IRQ 2002 1590.0506529 74.6557732 4809610

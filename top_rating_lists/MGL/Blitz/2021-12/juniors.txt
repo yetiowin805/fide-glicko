@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Agibileg, Uurtsaikh	MGL 2001 M 2145.3038724 62.0316110 4901606
+1 Agibileg, Uurtsaikh	MGL 2001 M 2144.9132411 62.0279966 4901606

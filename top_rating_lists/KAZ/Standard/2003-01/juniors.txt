@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Khamzin, Olzhas	KAZ 1986 M 2270.9320230 63.8955542 13701690
+2 Zigangirova, Sofya	KAZ 1983 M 2203.1141472 47.4346107 13701282

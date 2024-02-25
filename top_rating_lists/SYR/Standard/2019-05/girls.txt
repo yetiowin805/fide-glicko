@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Yaghy,Ritta.	SYR 1999 1732.6060550 70.0308846 7603266
+1 Yaghy,Ritta.	SYR 1999 1732.3785925 70.0293176 7603266

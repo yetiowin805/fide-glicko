@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Kukel, Imre	SVK 1985 M 2251.7002153 70.9287070 14903636

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Koskoska, Gabriela	MKD  2243.3566964 72.8340153 15000630
+1 Koskoska, Gabriela	MKD 0 2243.3566964 72.8340153 15000630

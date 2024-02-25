@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Joensen, John	FAI 1978 M 1667.3567680 69.9042645 7200684
+1 Joensen, John	FAI 1978 M 1667.2763858 69.9032326 7200684

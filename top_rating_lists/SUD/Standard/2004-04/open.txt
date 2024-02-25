@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Yousif, Ammar Mohd.	SUD  M 1936.2944235 73.1969931 12200069
+1 Yousif, Ammar Mohd.	SUD 0 M 1936.2944235 73.1969931 12200069

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Omurbekova, Diana	KGZ 1999 1582.0650503 74.5883399 13800752
+1 Omurbekova, Diana	KGZ 1999 1581.9406930 74.5843229 13800752

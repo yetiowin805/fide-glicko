@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Mir Mahmoud, Afamia	SYR  1921.8737920 73.0795558 7600674
+1 Mir Mahmoud, Afamia	SYR 0 1921.5869149 73.0746131 7600674

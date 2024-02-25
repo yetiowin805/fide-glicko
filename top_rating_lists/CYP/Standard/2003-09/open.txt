@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kotronias, Vasilios	CYP 64 M 2633.7879891 40.9108466 5900212
-2 Papatryfonos, Constantinos	CYP  M 2131.3930864 74.5702858 5900280
+1 Kotronias, Vasilios	CYP 1964 M 2634.3316664 41.0125840 5900212

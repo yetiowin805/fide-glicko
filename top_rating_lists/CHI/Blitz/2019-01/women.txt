@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Morales Flores, Monserrat	CHI 1994 1957.7556481 58.3561566 3412016
-2 Mundaca Bermedo, Pia	CHI 2007 1505.0492451 72.3549692 3430170
+1 Morales Flores, Monserrat	CHI 1994 1957.7838985 58.3564571 3412016
+2 Mundaca Bermedo, Pia	CHI 2007 1505.0101176 72.3544316 3430170

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Heredia Serrano, Carla	ECU 1991 1868.6557746 61.1535770 3603687
+1 Heredia Serrano, Carla	ECU 1991 1868.6150725 61.1543411 3603687

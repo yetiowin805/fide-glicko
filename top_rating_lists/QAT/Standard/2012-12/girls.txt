@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Al-khelaifi, Aisha	QAT 1992 1590.0501457 73.6795956 12100625
+1 Al-khelaifi, Aisha	QAT 1992 1589.7147158 73.6824395 12100625

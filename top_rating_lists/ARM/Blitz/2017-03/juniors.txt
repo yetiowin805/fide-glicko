@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Danielyan, Vahe	ARM 1997 M 2141.5314647 69.2387995 13304828
+1 Danielyan, Vahe	ARM 1997 M 2141.1478750 69.2365786 13304828

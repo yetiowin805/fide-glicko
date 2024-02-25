@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
 1 Pace, Colin	MLT 1979 M 2069.9685752 71.6942705 5600189
+2 Camilleri, Henry	MLT 1933 M 1895.4116722 66.0078062 5600170

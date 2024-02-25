@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Cabunagan, Tito	PLW 1959 M 1611.0927715 72.9488313 16600169
+1 Cabunagan, Tito	PLW 1959 M 1611.0383963 72.9482852 16600169

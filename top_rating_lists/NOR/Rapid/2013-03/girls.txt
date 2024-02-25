@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Rodsmoen, Maud	NOR 1997 1622.1520972 71.5784133 1510550
+1 Rodsmoen, Maud	NOR 1997 1622.0472948 71.5775448 1510550

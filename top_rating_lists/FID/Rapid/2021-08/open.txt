@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Potocar, Nika	FID 2006 M 1397.3189827 74.6468520 73008044
+1 Potocar, Nika	FID 2006 M 1397.2713000 74.6462391 73008044

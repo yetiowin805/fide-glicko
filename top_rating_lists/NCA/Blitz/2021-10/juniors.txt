@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Espinoza Solano, Jose Nahum	NCA 2003 M 1928.6152380 66.4631918 6104428
-2 Vanegas Lopez, Natanael Emanuel	NCA 2006 M 1765.0840445 64.5533894 6108326
+1 Espinoza Solano, Jose Nahum	NCA 2003 M 1928.5912434 66.4625942 6104428
+2 Vanegas Lopez, Natanael Emanuel	NCA 2006 M 1765.0693648 64.5528716 6108326

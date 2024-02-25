@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Batchimeg, Tuvshintugs	MGL 1986 2144.8068219 74.2714674 4900839
-2 Enkhtuul, Altan-Ulzii	MGL 1994 1939.2914504 65.4699244 4901444
+1 Batchimeg, Tuvshintugs	MGL 1986 2144.6865960 74.2570127 4900839
+2 Enkhtuul, Altan-Ulzii	MGL 1994 1938.9342803 65.4662213 4901444

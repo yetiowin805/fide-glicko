@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Cheparinov, Ivan	BUL 1986 M 2523.9694453 50.6727082 2905540
+1 Cheparinov, Ivan	BUL 1986 M 2483.9827449 60.7707388 2905540

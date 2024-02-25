@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Cespedes, Manuel	CUB 1986 M 2154.4395217 61.7947080 3506851

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lyansky, Yan	BAH 1971 M 1649.1939841 73.3724013 10400290
+1 Lyansky, Yan	BAH 1971 M 1649.0962215 73.3682607 10400290

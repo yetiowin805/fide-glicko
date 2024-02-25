@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al Jabri, Saad	SYR 2001 M 1697.3281701 66.3538117 7604742
+1 Al Jabri, Saad	SYR 2001 M 1697.2931027 66.3535367 7604742

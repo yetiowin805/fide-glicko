@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Odiase, Oluwaseun	NGR 1980 M 1675.0843808 54.1168299 8502315
+1 Odiase, Oluwaseun	NGR 1980 M 1675.0323294 54.1166135 8502315

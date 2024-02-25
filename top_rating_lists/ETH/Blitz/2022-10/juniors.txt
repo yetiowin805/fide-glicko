@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kebede , Yoseph Kifle	ETH 2002 M 1801.3149261 73.7215023 15708063
+1 Kebede , Yoseph Kifle	ETH 2002 M 1801.2614290 73.7202075 15708063

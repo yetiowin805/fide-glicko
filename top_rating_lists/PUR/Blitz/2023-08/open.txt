@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Boggiano Pereira, Miguel A.	PUR 1999 M 1961.9356566 69.4492377 3102750
+1 Boggiano Pereira, Miguel A.	PUR 1999 M 1961.8360498 69.4479672 3102750

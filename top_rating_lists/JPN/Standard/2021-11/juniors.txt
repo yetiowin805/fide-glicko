@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mitsuyama, Rikka	JPN 2009 F 1489.6038983 70.6300244 7002815
+1 Mitsuyama, Rikka	JPN 2009 F 1489.4966312 70.6303792 7002815

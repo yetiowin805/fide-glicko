@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Cordova, Emilio	PER 1991 M 2311.7827867 68.4962094 3801497
+2 Morales Mendoza, Luciana	PER 1987 F 2031.5708202 68.7852010 3801403

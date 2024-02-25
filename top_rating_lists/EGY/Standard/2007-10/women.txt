@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Mona, Khaled	EGY  1887.0179410 64.8767837 10605908
+1 Mona, Khaled	EGY 0 1887.0069529 64.8758571 10605908

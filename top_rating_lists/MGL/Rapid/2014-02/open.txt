@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Buyandalai, Tumen	MGL 1973 M 2013.0785085 73.0223924 4901916
+1 Buyandalai, Tumen	MGL 1973 M 2013.0804094 73.0230035 4901916

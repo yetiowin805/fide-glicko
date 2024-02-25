@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gwaze, Robert	ZIM  M 2405.5903290 69.7927219 11000228
+1 Gwaze, Robert	ZIM 0 M 2405.5903290 69.7927219 11000228

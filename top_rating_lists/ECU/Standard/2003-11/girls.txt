@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Vasquez Ramirez, Rocio	ECU 1983 2225.9543657 50.1878578 3600750
+2 Pino Cuenca, Laura	ECU 1987 2071.7083180 59.0376068 3601226
+3 Alcivar Torres, Ingrid	ECU 1985 2008.2695406 53.8215249 3601560

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Julio, Joao Manuel dos Santos	ANG 1973 M 1884.0100781 69.3119578 10100440
-2 Constantino, Gudlack	ANG 1988 M 1757.1186518 74.7686498 10100342
+1 Julio, Joao Manuel dos Santos	ANG 1973 M 1883.9364093 69.3111767 10100440
+2 Constantino, Gudlack	ANG 1988 M 1757.0825176 74.7695111 10100342

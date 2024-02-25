@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Farmazyan, Armine	ARM 1990 1620.1219349 67.7787054 13313975
+1 Farmazyan, Armine	ARM 1990 1620.0812999 67.7772066 13313975

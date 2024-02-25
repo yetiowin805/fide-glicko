@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mikic, Ivana	BIH 2003 F 1719.1849457 74.8142270 14545080
+1 Mikic, Ivana	BIH 2003 F 1718.4395323 74.7907141 14545080

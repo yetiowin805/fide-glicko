@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Khademalsharieh, Sarasadat	IRI 1997 2022.0755010 72.1410262 12512214
-2 Zahedifar, Anahita	IRI 2003 1657.9719835 66.8093684 12560715
+1 Khademalsharieh, Sarasadat	IRI 1997 2021.9662800 72.1402090 12512214
+2 Zahedifar, Anahita	IRI 2003 1658.2857478 66.8263191 12560715

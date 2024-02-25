@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Alahakoon, Isuru	SRI 1987 M 2044.1713074 68.7402365 9900993
+1 Alahakoon, Isuru	SRI 1987 M 2044.0587436 68.7388496 9900993

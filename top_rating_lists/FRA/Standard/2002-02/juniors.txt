@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Bacrot, Etienne	FRA 1983 M 2649.5506182 53.2272967 605506
+2 Cornette, Matthieu	FRA 1985 M 2340.9070512 73.4792140 620084
+3 Govciyan, Pavel	FRA 1984 M 2199.9904826 72.6679850 621838

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Estrada Gaspar, Nelly Massiel	MEX 1987 1961.0908046 70.7014073 5106320
+1 Estrada Gaspar, Nelly Massiel	MEX 1987 1961.0855417 70.7010364 5106320

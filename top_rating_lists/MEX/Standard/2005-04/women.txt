@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Hernandez, Yadira	MEX  2134.8068785 66.0746343 5100992
+1 Hernandez, Yadira	MEX 0 2134.4284664 66.4856588 5100992

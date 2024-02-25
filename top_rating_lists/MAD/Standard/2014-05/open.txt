@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rakotomaharo, Fy Antenaina	MAD 1999 M 2060.9268772 49.4008300 13100050
-2 Rabe andrianandrasana, Haingo	MAD 1974 M 1682.1829718 67.5289585 13100181
-3 Ratsimikatry, Caryl Patrick	MAD 1963 M 1676.2125827 68.2206680 13100041
+1 Rakotomaharo, Fy Antenaina	MAD 1999 M 2060.4867371 49.3963159 13100050
+2 Rabe andrianandrasana, Haingo	MAD 1974 M 1682.1442989 67.5283175 13100181
+3 Ratsimikatry, Caryl Patrick	MAD 1963 M 1676.1882315 68.2197329 13100041

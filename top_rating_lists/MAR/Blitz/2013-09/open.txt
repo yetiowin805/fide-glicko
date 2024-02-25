@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Karim, Ismael	MAR 1985 M 2326.2237355 74.1423961 625736
+1 Karim, Ismael	MAR 1985 M 2326.0502628 74.1737792 625736

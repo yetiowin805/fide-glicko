@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Fowler, Hugo	WLS 2002 M 1773.0291914 72.5903691 433411
+1 Fowler, Hugo	WLS 2002 M 1773.0140083 72.5890246 433411

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ziska, Helgi Dam	FAI 1990 M 2342.0420518 58.6794396 7200595
+1 Ziska, Helgi Dam	FAI 1990 M 2342.0428652 58.6802415 7200595

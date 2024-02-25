@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Niamkey Elijah Pharell	CIV 2007 M 1692.9007061 71.9184202 20800223
+1 Niamkey Elijah Pharell	CIV 2007 M 1692.8822260 71.9178351 20800223

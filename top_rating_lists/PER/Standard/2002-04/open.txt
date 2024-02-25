@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
 1 Granda Zuniga, Julio E	PER 1967 M 2605.0000000 68.5563055 3800024
-2 Munoz Pantoja, Miguel	PER  M 2417.0360506 59.7058364 3800229
+2 Munoz Pantoja, Miguel	PER 0 M 2417.0360506 59.7058364 3800229

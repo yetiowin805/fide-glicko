@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Juma, Maxwell	KEN 1993 M 1637.1458071 70.9545321 10802983
+1 Juma, Maxwell	KEN 1993 M 1637.1267157 70.9538765 10802983

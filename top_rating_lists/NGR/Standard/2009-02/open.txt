@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Adu, Oladapo	NGR  M 2215.0350553 60.3801597 8500258
+1 Adu, Oladapo	NGR 0 M 2214.8185869 60.3859402 8500258

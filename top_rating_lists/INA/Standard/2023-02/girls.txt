@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Singgih, Diajeng Theresa	INA 2004 1839.8261239 61.3046456 7104391
-2 Liuviann, Cecilia Natalie	INA 2005 1770.5678529 66.8724676 7111932
+1 Singgih, Diajeng Theresa	INA 2004 1839.5877207 61.3040747 7104391
+2 Liuviann, Cecilia Natalie	INA 2005 1770.4826472 66.8702978 7111932

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Monaheng Motlomelo	LES 1995 M 1500.4943368 73.6154284 21300470
+1 Monaheng Motlomelo	LES 1995 M 1500.4826539 73.6149936 21300470

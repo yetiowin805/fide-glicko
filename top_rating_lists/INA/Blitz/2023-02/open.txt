@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Sunaryo Robert	INA 1993 M 2049.6596029 66.6259053 7105916
+1 Sunaryo Robert	INA 1993 M 2049.4703496 66.6247477 7105916

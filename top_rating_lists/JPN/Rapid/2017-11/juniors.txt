@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Fukui, Nao	JPN 2005 M 1439.2436169 71.3801924 451223
+1 Fukui, Nao	JPN 2005 M 1439.2028699 71.3802821 451223

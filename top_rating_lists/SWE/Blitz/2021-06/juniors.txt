@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Seo, Jung Min	SWE 2002 M 2347.0352514 74.1125449 1734687
+1 Seo, Jung Min	SWE 2002 M 2346.8167398 74.1128739 1734687

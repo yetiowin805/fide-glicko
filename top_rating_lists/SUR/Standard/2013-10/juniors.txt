@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Immanuel, Kromosoeto	SUR 1995 M 1673.0068296 67.1205774 8200750
+1 Immanuel, Kromosoeto	SUR 1995 M 1672.8496387 67.1192226 8200750

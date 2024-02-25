@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Nekrasova, Elena	LBN 1970 1837.1440737 72.0108606 14100908
+1 Nekrasova, Elena	LBN 1970 1837.0276038 72.0091438 14100908

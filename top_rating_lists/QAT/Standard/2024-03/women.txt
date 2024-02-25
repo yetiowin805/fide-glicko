@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Al Qassabi, Rawda	QAT 2009 1160.2179589 74.3386852 12102040
+1 Al Qassabi, Rawda	QAT 2009 1160.1614715 74.3393095 12102040

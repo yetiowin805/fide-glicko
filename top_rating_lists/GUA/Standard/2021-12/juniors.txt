@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Juarez Garcia, Daniela	GUA 2006 F 1555.6323122 62.3170275 7302703
-2 Santos Sagastume, Paolo Andres	GUA 2009 M 1412.2286425 74.9684549 7303866
+1 Juarez Garcia, Daniela	GUA 2006 F 1555.5112427 62.3156791 7302703
+2 Santos Sagastume, Paolo Andres	GUA 2009 M 1412.1589296 74.9688244 7303866

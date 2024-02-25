@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Moradiabadi, Elshan	FID 1985 M 2514.5401349 70.8100955 12501255
+1 Moradiabadi, Elshan	FID 1985 M 2514.3414358 70.8140625 12501255

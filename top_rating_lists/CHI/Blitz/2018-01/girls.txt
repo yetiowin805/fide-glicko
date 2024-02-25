@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Zuniga Lara, Catalina Paz	CHI 2000 1578.4464722 74.5824474 3423433
-2 Rossel Grandon, Maria Ignacia	CHI 2010 1339.4357392 72.0460339 3431509
+1 Zuniga Lara, Catalina Paz	CHI 2000 1578.2771796 74.5785182 3423433
+2 Rossel Grandon, Maria Ignacia	CHI 2010 1339.4375645 72.0413112 3431509

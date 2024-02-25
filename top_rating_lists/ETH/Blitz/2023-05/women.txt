@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Haile , Lidet Abate	ETH 1996 1586.6541372 67.5921237 15702073
+1 Haile , Lidet Abate	ETH 1996 1586.6141638 67.5915344 15702073

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Prasitsoonthorn, Teerachoti	THA 2003 M 1579.8794614 70.2621786 6204422
+1 Prasitsoonthorn, Teerachoti	THA 2003 M 1579.7559268 70.2563996 6204422

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ayyad, Maher	BRN  M 2038.5511555 59.5233560 11200235
-2 Ayyad Husain Abdulgalil Saleh	BRN  M 1960.4197629 67.5445513 11200243
+1 Ayyad, Maher	BRN 0 M 2038.3368646 59.5274696 11200235
+2 Ayyad Husain Abdulgalil Saleh	BRN 0 M 1960.3910994 67.5418484 11200243

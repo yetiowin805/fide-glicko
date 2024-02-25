@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Lampard, Alice	SCO 1996 1664.8507220 72.0353853 2402750
+1 Lampard, Alice	SCO 1996 1664.7763666 72.0325786 2402750

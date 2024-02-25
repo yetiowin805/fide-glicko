@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Cruz Lima, Kimberly Esmeralda	GUA 2001 1522.5642185 70.5631309 7301480
-2 Samayoa Gomez, Maria Rene	GUA 2002 1403.1848792 74.7411935 7302800
+1 Cruz Lima, Kimberly Esmeralda	GUA 2001 1522.4936257 70.5619794 7301480
+2 Samayoa Gomez, Maria Rene	GUA 2002 1403.1203549 74.7399123 7302800

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Gevorgyan, Maria	ARM 1994 2149.7309065 66.5506540 13300270
+1 Gevorgyan, Maria	ARM 1994 2149.4907726 66.5467703 13300270

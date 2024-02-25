@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Burdot, Clara	LUX 2004 1465.0397515 63.6616708 4004779
+1 Burdot, Clara	LUX 2004 1464.8675244 63.6602646 4004779

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Sargissian, Gabriel	ARM 1983 M 2607.9099116 54.7430632 13300881
+2 Petrosian, Davit Gevorgi	ARM 1984 M 2395.4070335 69.6650554 13301349

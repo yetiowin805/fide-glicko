@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Cruz Lima, Kimberly Esmeralda	GUA 2001 1530.4403180 63.4500460 7301480
-2 Santiago Sontay, Jenny Fernanda	GUA 2002 1505.4508759 70.0751947 7303084
-3 Arango Perez, Lilian Rubi	GUA 2000 1466.7169787 71.9403781 7301766
+1 Cruz Lima, Kimberly Esmeralda	GUA 2001 1530.3632243 63.4484723 7301480
+2 Santiago Sontay, Jenny Fernanda	GUA 2002 1505.3333025 70.0721657 7303084
+3 Arango Perez, Lilian Rubi	GUA 2000 1466.6144274 71.9359901 7301766

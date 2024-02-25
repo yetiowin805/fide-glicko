@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Henderson de La Fuente, Andrea	AND 2001 1827.6154835 72.5058275 32096577
-2 De la Riva Real, Ariadna	AND 2005 1573.9962136 68.2036316 6901018
+1 Henderson de La Fuente, Andrea	AND 2001 1827.3967260 72.5027107 32096577
+2 De la Riva Real, Ariadna	AND 2005 1573.8607303 68.2006135 6901018

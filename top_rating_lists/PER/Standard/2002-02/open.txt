@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Munoz Pantoja, Miguel	PER  M 2421.6566895 65.8350239 3800229
-2 Longa Yauca, Javier	PER  M 2320.2299607 73.5310532 3800806
+1 Munoz Pantoja, Miguel	PER 0 M 2421.6566895 65.8350239 3800229
+2 Longa Yauca, Javier	PER 0 M 2320.2299607 73.5310532 3800806

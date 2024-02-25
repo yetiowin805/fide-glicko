@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Uppal, Mahir	HKG 2009 M 1494.5320313 73.0748669 6003338
+1 Uppal, Mahir	HKG 2009 M 1494.5077739 73.0742074 6003338

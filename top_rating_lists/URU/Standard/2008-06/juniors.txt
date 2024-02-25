@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Arcos Facio, Mateo	URU 1992 M 1978.2765074 62.8926651 3001199
+1 Arcos Facio, Mateo	URU 1992 M 1977.5079098 62.9008721 3001199

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Hazim, Elizabeth	DOM  1729.0168711 67.6120383 6400183
+1 Hazim, Elizabeth	DOM 0 1726.1923908 67.9137470 6400183

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Roiz, Michael	ISR 1983 M 2499.8050782 57.4618002 2804158
+2 Porat, Shi	ISR 1985 M 2389.5327535 64.8079469 2806258

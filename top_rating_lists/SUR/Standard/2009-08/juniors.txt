@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Naipal, Victoria	SUR 1989 F 1697.3801110 71.9508565 8200149
+1 Naipal, Victoria	SUR 1989 F 1695.3076669 72.0159214 8200149

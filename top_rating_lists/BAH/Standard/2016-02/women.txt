@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Johnson, Daijah	BAH 2003 1479.4764228 68.7744782 10400591
+1 Johnson, Daijah	BAH 2003 1479.4096510 68.7753003 10400591

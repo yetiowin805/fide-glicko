@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Arishin, Sergei	KGZ 62 M 2184.5056390 55.5934479 13800191
+1 Arishin, Sergei	KGZ 1962 M 2184.8885816 55.9924182 13800191

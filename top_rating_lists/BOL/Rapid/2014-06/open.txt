@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Cespedes, Sandra	BOL 1987 F 1657.5955318 72.4324380 3302717
+1 Cespedes, Sandra	BOL 1987 F 1657.2826637 72.4249292 3302717

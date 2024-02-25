@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Figueroa Gonzalez, Karen Luvia	GUA 1998 M 1576.2169637 72.7073818 7301383
-2 Cruz Lima, Kimberly Esmeralda	GUA 2001 F 1530.4403180 63.4500460 7301480
-3 Santiago Sontay, Jenny Fernanda	GUA 2002 F 1505.4508759 70.0751947 7303084
-4 Arango Perez, Lilian Rubi	GUA 2000 F 1466.7169787 71.9403781 7301766
+1 Figueroa Gonzalez, Karen Luvia	GUA 1998 M 1576.1257588 72.7053678 7301383
+2 Cruz Lima, Kimberly Esmeralda	GUA 2001 F 1530.3632243 63.4484723 7301480
+3 Santiago Sontay, Jenny Fernanda	GUA 2002 F 1505.3333025 70.0721657 7303084
+4 Arango Perez, Lilian Rubi	GUA 2000 F 1466.6144274 71.9359901 7301766

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Manar, Khalil	SYR 2000 1754.2439883 72.3857612 7604661
+1 Manar, Khalil	SYR 2000 1753.9153601 72.3749277 7604661

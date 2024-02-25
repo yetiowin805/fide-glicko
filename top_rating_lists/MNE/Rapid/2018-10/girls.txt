@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Rakic, Tijana	MNE 2001 1477.4066158 70.2512469 16504194
+1 Rakic, Tijana	MNE 2001 1477.2243578 70.2487074 16504194

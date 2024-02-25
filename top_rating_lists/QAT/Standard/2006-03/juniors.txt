@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al-Sulaiti, Ghanem	QAT 1992 M 2070.4493208 66.9893087 12100358
+1 Al-Sulaiti, Ghanem	QAT 1992 M 2073.3946019 66.8496985 12100358

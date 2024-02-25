@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rayes, Abdul Kader	SYR 1980 M 1910.2744867 73.8974257 7600801
+1 Rayes, Abdul Kader	SYR 1980 M 1910.1619024 73.8960682 7600801

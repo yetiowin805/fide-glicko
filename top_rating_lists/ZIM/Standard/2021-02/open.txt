@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Masango, Spencer	ZIM 1982 M 1979.7722930 66.7706028 14300753
+1 Masango, Spencer	ZIM 1982 M 1979.6556866 66.7694489 14300753

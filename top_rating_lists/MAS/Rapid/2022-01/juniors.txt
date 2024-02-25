@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Khomisajie, Muhd Ismakhaizuran	MAS 2012 M 1618.3188076 73.7643121 5794005
+1 Masli, Muhd Nur Daie	MAS 2007 M 1854.3784851 74.9997763 5732077
+2 Khomisajie, Muhd Ismakhaizuran	MAS 2012 M 1618.3094066 73.7641801 5794005

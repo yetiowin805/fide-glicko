@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Lujan, Carolina	ARG 1985 2270.1287043 50.5386859 109878
+2 Meza, Anahi	ARG 1985 2071.0333118 67.1910195 111325

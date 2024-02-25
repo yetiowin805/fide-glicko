@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Nouman, Amna	UAE 1996 1675.1704719 70.0281823 9301500
+1 Nouman, Amna	UAE 1996 1675.0287524 70.0298765 9301500

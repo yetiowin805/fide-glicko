@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Belkhodja, Slim	TUN 1962 M 2445.4564475 54.1357139 600229
+1 Belkhodja, Slim	TUN 1962 M 2445.5040769 54.1572789 600229

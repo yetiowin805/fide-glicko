@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Abbasova, Sadagat	AZE 2003 1571.7775776 68.7079606 13410059
+1 Abbasova, Sadagat	AZE 2003 1571.7232101 68.7058495 13410059

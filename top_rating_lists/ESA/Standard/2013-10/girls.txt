@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Zabala Galindo, Alejandra Beatri	ESA 1997 1594.5688401 70.8605091 6703089
-2 Guardado Flores, Diana Beatriz	ESA 1998 1471.8037250 69.2209326 6703062
-3 Martinez Corpeno, Karla Beatriz	ESA 1994 1444.5819573 69.9418551 6703070
+1 Zabala Galindo, Alejandra Beatri	ESA 1997 1594.5043117 70.8575070 6703089
+2 Guardado Flores, Diana Beatriz	ESA 1998 1471.7786766 69.2205990 6703062
+3 Martinez Corpeno, Karla Beatriz	ESA 1994 1444.5331608 69.9397047 6703070

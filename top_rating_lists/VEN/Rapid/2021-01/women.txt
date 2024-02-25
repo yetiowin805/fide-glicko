@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Rating RD
-1 Patino Garcia, Corals	VEN 1999 1791.3658530 71.4327252 3902781
-2 Guadalajara Barrios, Jacksilany	VEN 2006 1524.5627230 72.1975981 3931242
-3 Hernandez Mora, Nohelia Virginia	VEN 2005 1494.5785974 72.2634817 3915344
-4 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1301.5296838 72.7183031 3964051
+1 Patino Garcia, Corals	VEN 1999 1791.2233333 71.4289025 3902781
+2 Guadalajara Barrios, Jacksilany	VEN 2006 1524.5315965 72.1973560 3931242
+3 Hernandez Mora, Nohelia Virginia	VEN 2005 1494.5564425 72.2633763 3915344
+4 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1301.5133354 72.7182159 3964051

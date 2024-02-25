@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Cruz Lima, Kimberly Esmeralda	GUA 2001 F 1535.2667686 64.7154839 7301480
+1 Cruz Lima, Kimberly Esmeralda	GUA 2001 F 1535.1846589 64.7136594 7301480

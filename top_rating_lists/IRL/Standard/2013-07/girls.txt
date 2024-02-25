@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Mirza, Diana	IRL 2000 1576.1348449 60.8460256 2503999
+1 Mirza, Diana	IRL 2000 1575.9962255 60.8443881 2503999

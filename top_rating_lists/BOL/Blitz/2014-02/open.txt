@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mendoza, Rodrigo	BOL 1994 M 2007.6457251 72.9865299 3301931
+1 Mendoza, Rodrigo	BOL 1994 M 2007.4249404 72.9866491 3301931

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Huerta Chacon, Jonnathan Santiago	ECU 2004 M 1890.1986652 71.5160861 3637590
-2 Romero Acevedo, Jozef Isaac	ECU 2012 M 1637.2670068 66.9419155 3647048
+1 Huerta Chacon, Jonnathan Santiago	ECU 2004 M 1890.1766995 71.5155280 3637590
+2 Romero Acevedo, Jozef Isaac	ECU 2012 M 1637.2437529 66.9414614 3647048

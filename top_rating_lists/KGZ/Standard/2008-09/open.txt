@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Tologontegin, Semetey	KGZ 1990 M 2258.7382392 51.8587350 13800574
-2 Giljazitdinov, Eduard	KGZ 1967 M 2073.1731044 64.5935943 13800388
+1 Tologontegin, Semetey	KGZ 1990 M 2258.4408904 51.8707224 13800574
+2 Giljazitdinov, Eduard	KGZ 1967 M 2073.0682208 64.5734353 13800388

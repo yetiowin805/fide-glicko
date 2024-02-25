@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Chung, Mathilde	MNC 1999 1641.6736627 69.3016484 676446
+1 Chung, Mathilde	MNC 1999 1641.4930048 69.3004445 676446

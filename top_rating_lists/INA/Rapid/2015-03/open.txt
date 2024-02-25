@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Limono, Handjojo	INA 1963 M 1694.7825061 68.6435303 7102909
+1 Limono, Handjojo	INA 1963 M 1694.6297088 68.6378853 7102909

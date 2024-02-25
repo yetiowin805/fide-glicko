@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Cupid, Kevin	TTO 1991 M 1989.8738657 72.3958927 7700512
+1 Cupid, Kevin	TTO 1991 M 1989.5164012 72.3953183 7700512

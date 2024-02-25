@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Uqba Mohamad, Rashed Shbaita	PLE 1982 M 1752.3609132 70.5411912 11501812
+1 Uqba Mohamad, Rashed Shbaita	PLE 1982 M 1752.3346686 70.5408844 11501812

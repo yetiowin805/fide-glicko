@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Sivasankaran, Sansita	IND 2007 1505.5827027 73.2861333 45167974
+1 Sivasankaran, Sansita	IND 2007 1505.4943273 73.2842961 45167974

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mohammed, Zozek Salah Mohammed	IRQ 1986 M 2144.0883599 69.3936351 4803361
-2 Rebaz, Nasir Jamal	IRQ 2001 M 1711.6289290 74.9766044 4808649
+1 Mohammed, Zozek Salah Mohammed	IRQ 1986 M 2144.1805264 69.4655587 4803361
+2 Rebaz, Nasir Jamal	IRQ 2001 M 1710.2271337 74.9463805 4808649

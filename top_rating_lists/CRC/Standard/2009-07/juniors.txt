@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ruiz Blais, Sebastian	CRC 1989 M 2141.0830836 69.7616853 6501249
+1 Ruiz Blais, Sebastian	CRC 1989 M 2141.0741618 69.7614652 6501249

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Fonte Sanchez, Paula	CUB 1997 1835.1943964 72.1532638 3509729
-2 Rodriguez Caballero, Mayrelis	CUB 1996 1744.9370213 74.1098056 3514072
+1 Fonte Sanchez, Paula	CUB 1997 1835.0780180 72.1525953 3509729
+2 Rodriguez Caballero, Mayrelis	CUB 1996 1744.6948398 74.1088061 3514072

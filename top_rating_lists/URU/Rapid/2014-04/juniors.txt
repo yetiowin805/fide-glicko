@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Dominguez, Facundo	URU 1998 M 1697.1251647 73.5180007 3005178
+1 Dominguez, Facundo	URU 1998 M 1696.6577532 73.5065739 3005178

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Chavarria Troya, Keytleen Denis	PAN 2011 1604.2056022 56.0333012 6608345
-2 Saldana Estribi, Ailianis Mixian	PAN 2005 1532.0156610 71.3136909 6610471
+1 Chavarria Troya, Keytleen Denis	PAN 2011 1604.1891507 56.0329056 6608345
+2 Saldana Estribi, Ailianis Mixian	PAN 2005 1532.0050350 71.3135763 6610471

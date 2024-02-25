@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Milovic, Aleksandra	MNE 1986 1823.9765259 57.6165287 933988
+1 Milovic, Aleksandra	MNE 1986 1823.6835474 57.6232412 933988

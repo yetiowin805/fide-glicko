@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mahomole, Mahlodi Joe	RSA 1962 M 1494.3246993 72.7357893 14303876
+1 Mahomole, Mahlodi Joe	RSA 1962 M 1494.3091820 72.7354356 14303876

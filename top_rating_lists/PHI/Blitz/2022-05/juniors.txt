@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Calacday, Jericho	PHI 2007 M 1416.3276861 62.6051434 5219507
+1 Calacday, Jericho	PHI 2007 M 1416.1628263 62.6023880 5219507

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kante, Kalyan Sai Nandan	SCO 2004 M 1672.1935910 72.0437676 2406861
+1 Kante, Kalyan Sai Nandan	SCO 2004 M 1672.1639979 72.0432788 2406861

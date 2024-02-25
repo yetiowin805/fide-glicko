@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Olufemi, George	NGR 1971 M 1543.2867620 67.5557912 8501203
+1 Olufemi, George	NGR 1971 M 1543.2317767 67.5553359 8501203

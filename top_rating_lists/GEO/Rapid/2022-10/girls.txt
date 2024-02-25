@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Sordia, Marta	GEO 2010 1682.7827224 67.9846485 13626540
+1 Sordia, Marta	GEO 2010 1682.7119985 67.9833562 13626540

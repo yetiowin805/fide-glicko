@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Arif, Mouad	MAR 1995 M 1715.0692739 73.4455822 9000151
+1 Arif, Mouad	MAR 1995 M 1714.9781540 73.4425023 9000151

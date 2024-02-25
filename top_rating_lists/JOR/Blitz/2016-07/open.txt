@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Malkawi, Fadi	JOR 1976 M 1941.4154194 73.8086473 8100420
+1 Malkawi, Fadi	JOR 1976 M 1941.1982491 73.7995866 8100420

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Banerjee, Supratit	SCO 2014 M 1670.8850385 55.0173197 2410079
+1 Banerjee, Supratit	SCO 2014 M 1670.8373549 55.0173438 2410079

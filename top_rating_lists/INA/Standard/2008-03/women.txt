@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Sukandar, Irine Kharisma	INA  2148.0841615 50.3902198 7101937
+1 Sukandar, Irine Kharisma	INA 0 2148.0159606 50.3926962 7101937

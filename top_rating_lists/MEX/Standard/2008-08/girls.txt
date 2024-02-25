@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Gutierrez Mancillas, Alicia Abig	MEX 1990 1910.9105518 66.5984019 5108926
-2 Solis Luna, Karla Teresa	MEX 1991 1832.0433885 73.9979477 5108900
-3 Real Pereyra, Diana Karime	MEX 1995 1766.0295914 72.5774575 5104106
+1 Gutierrez Mancillas, Alicia Abig	MEX 1990 1910.0438925 66.6875232 5108926
+2 Solis Luna, Karla Teresa	MEX 1991 1830.1395836 74.0714359 5108900
+3 Real Pereyra, Diana Karime	MEX 1995 1764.7112600 72.5311131 5104106

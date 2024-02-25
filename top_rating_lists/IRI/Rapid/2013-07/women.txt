@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Khademalsharieh, Sarasadat	IRI 1997 2065.9598320 70.5323425 12512214
-2 Ghaemmaghami, Pegah	IRI 1998 1543.9929897 73.6199822 12527092
+1 Khademalsharieh, Sarasadat	IRI 1997 2065.8720079 70.5325081 12512214
+2 Ghaemmaghami, Pegah	IRI 1998 1543.9711627 73.6180881 12527092

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Schnell, Sebastian Narayana	PAN 2006 M 1622.0464328 70.0188256 6605290
-2 Vasquez Jaen, Lourdes Lorena	PAN 2003 F 1482.7452800 69.8420479 6605559
+1 Schnell, Sebastian Narayana	PAN 2006 M 1621.9603177 70.0177243 6605290
+2 Vasquez Jaen, Lourdes Lorena	PAN 2003 F 1482.6795564 69.8402512 6605559

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Nyback, Tomi	FIN 1985 M 2542.3927415 46.9295248 503142
+2 Liitiainen, Elia	FIN 1984 M 2178.9733679 74.5699400 503282

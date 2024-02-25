@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Degondo, Simplice Armel	CIV 1985 M 1895.7852943 60.7226989 14306310
+1 Degondo, Simplice Armel	CIV 1985 M 1895.6599059 60.7207368 14306310

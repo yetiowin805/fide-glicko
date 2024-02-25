@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Geenen, Marc	BEL 1961 M 2204.8012406 74.1090412 200085
+1 Geenen, Marc	BEL 1961 M 2204.6151122 74.1088781 200085

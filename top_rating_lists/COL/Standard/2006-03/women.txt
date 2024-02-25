@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Ortiz, Nadya Karolina	COL  2124.8277778 56.4074545 4401778
+1 Ortiz, Nadya Karolina	COL 0 2125.2719775 56.4440778 4401778

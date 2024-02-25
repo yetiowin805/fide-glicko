@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Malferrari, Sofia	MNC 2000 1398.6378270 70.5921964 20666284
+1 Malferrari, Sofia	MNC 2000 1398.5257328 70.5912923 20666284

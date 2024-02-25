@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Leboela, Maboloko	LES 1997 F 1353.8390308 71.9076991 21300119
+1 Leboela, Maboloko	LES 1997 F 1353.7521888 71.9054351 21300119

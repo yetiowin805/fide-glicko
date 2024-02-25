@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Rating RD
-1 Guerrero Rodriguez, Alejandra	MEX 1974 2037.5952615 58.0500409 5104297
-2 Estrada Gaspar, Nelly Massiel	MEX 1987 1975.5630911 67.0769142 5106320
-3 Gutierrez Mancillas, Alicia Abig	MEX 1990 1927.4285936 69.6932552 5108926
-4 Medina Altamirano, Karla	MEX  1902.3344448 59.6442921 5105404
+1 Guerrero Rodriguez, Alejandra	MEX 1974 2036.9706210 58.0844921 5104297
+2 Estrada Gaspar, Nelly Massiel	MEX 1987 1974.3164734 67.1347433 5106320
+3 Gutierrez Mancillas, Alicia Abig	MEX 1990 1927.2157495 69.7314134 5108926
+4 Medina Altamirano, Karla	MEX 0 1902.2736482 59.6415619 5105404

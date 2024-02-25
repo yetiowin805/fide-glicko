@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rakotomaharo, Fy Antenaina	MAD 1999 M 2070.0253214 53.0395488 13100050
-2 Ramorasata, Tendry	MAD 1995 M 1598.0097937 74.8586562 13100734
+1 Rakotomaharo, Fy Antenaina	MAD 1999 M 2069.5918408 53.0349824 13100050
+2 Ramorasata, Tendry	MAD 1995 M 1597.9746308 74.8578296 13100734

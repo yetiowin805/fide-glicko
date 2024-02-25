@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ramoutar, Alan-Safar	TTO 2003 M 1942.2521897 73.1010248 7704224
+1 Ramoutar, Alan-Safar	TTO 2003 M 1942.0015414 73.0979033 7704224

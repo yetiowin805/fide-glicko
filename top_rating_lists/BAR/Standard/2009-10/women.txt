@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Howard, Corinne	BAR 1990 1649.4412202 68.3722465 11100362
+1 Howard, Corinne	BAR 1990 1649.3540057 68.3723188 11100362

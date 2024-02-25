@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Berg, Olaf	FAI 1986 M 2177.5569989 71.3822115 7200420

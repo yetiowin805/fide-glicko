@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Marseglia, Serena	ITA 2001 1225.1425506 60.6266775 2827048
+1 Marseglia, Serena	ITA 2001 1225.1412297 60.6266935 2827048

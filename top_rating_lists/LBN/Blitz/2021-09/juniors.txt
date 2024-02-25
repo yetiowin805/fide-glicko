@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Khoder, Akram	LBN 2005 M 1974.4382174 60.9631397 5306914
+1 Khoder, Akram	LBN 2005 M 1974.2622743 60.9586115 5306914

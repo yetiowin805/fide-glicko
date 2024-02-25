@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 McDonnell, James J.	IRL 1954 M 1624.6774273 56.4761872 2500787
+1 McDonnell, James J.	IRL 1954 M 1624.6133137 56.4754844 2500787

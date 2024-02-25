@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Koniahli, Malek.	SYR 2000 M 2085.2833252 74.9638695 7603495
+1 Koniahli, Malek.	SYR 2000 M 2085.0673241 74.9625189 7603495

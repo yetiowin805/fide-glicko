@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Khairallah, Faisal	LIB 1975 M 2260.4969234 56.4382500 4628250
+1 Khairallah, Faisal	LIB 1975 M 2260.4402972 56.4352631 4628250

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Jawaher, Khalil	UAE 2000 1366.5840281 73.9651479 9304932
+1 Jawaher, Khalil	UAE 2000 1366.5510334 73.9649057 9304932

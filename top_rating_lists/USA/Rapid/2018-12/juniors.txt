@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 El-Bittar, John Fadi	USA 2007 M 1431.9901448 70.0577601 30919886
+1 El-Bittar, John Fadi	USA 2007 M 1431.9362029 70.0576674 30919886

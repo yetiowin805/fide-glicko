@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Henriquez Villagra, Cristobal	CHI 1996 M 2423.5430139 74.0160431 3409350
+1 Henriquez Villagra, Cristobal	CHI 1996 M 2423.2675486 74.0175206 3409350

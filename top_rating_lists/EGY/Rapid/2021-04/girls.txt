@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Mohamed Azzab, Mareim	EGY 2007 1413.0735209 63.7813011 10662472
+1 Mohamed Azzab, Mareim	EGY 2007 1413.0655185 63.7812345 10662472

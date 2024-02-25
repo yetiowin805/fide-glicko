@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Cukaj, Marin	ALB 1982 M 1869.6180300 71.4055539 4700686
+1 Cukaj, Marin	ALB 1982 M 1869.6322824 71.4063690 4700686

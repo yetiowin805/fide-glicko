@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bennett, Eric	IRL 1977 M 1841.3302669 65.4895728 2501384
+1 Bennett, Eric	IRL 1977 M 1841.1428415 65.4863431 2501384

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ilhom, Mootribai	TJK 1997 F 1643.0113188 60.2104714 14700204
+1 Ilhom, Mootribai	TJK 1997 F 1642.6211929 60.2074370 14700204

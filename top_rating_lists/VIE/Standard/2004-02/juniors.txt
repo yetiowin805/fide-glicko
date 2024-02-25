@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Nguyen, Ngoc Truongson	VIE 1990 M 2429.3733295 48.2641729 12401110
+2 Nguyen, Viet Tuong	VIE 1990 M 2151.1397106 67.5879112 12401048

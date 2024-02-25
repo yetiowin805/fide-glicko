@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Abrahamyan, Tatev	USA 1988 2226.0295279 59.4508281 13301918
+2 West, Vanessa A.	USA 1988 2089.4249335 68.5508378 2021145

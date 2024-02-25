@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rangel, Daniel	BRA 1993 M 2090.1568615 72.0144688 2124475
+1 Rangel, Daniel	BRA 1993 M 2089.6168006 72.0145098 2124475

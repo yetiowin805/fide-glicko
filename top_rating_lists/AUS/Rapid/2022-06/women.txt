@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Chibnall, Alana	AUS 1991 1832.8664484 70.1597578 3208613
+1 Chibnall, Alana	AUS 1991 1832.6616126 70.1593711 3208613

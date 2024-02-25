@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Sharevich, Anna	BLR 1985 2222.4866529 49.9592819 13503189
+2 Gerasimovitch, Olga	BLR 1985 2191.7880279 48.1184448 13502336

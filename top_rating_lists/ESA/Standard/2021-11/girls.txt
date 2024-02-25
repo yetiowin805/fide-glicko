@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Hernandez Sofia	ESA 2008 1473.6562806 74.6820335 6706460
+1 Hernandez Sofia	ESA 2008 1473.5962133 74.6825571 6706460

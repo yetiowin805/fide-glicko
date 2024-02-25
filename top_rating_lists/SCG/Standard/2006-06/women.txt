@@ -7,4 +7,4 @@ Rank Name Federation BirthYear Rating RD
 6 Benderac, Ana	SCG 1977 2219.9402433 68.0777545 913464
 7 Maksimovic, Suzana	SCG 1962 2187.1320244 69.8357248 904562
 8 Stojanovic, Andjelija	SCG 1987 2135.5585332 67.6000041 928682
-9 von Wantoch-Rekowski, Danijela	SCG 1981 2103.0736291 69.9269755 922528
+9 von Wantoch-Rekowski, Danijela	SCG 1981 2107.8535116 70.1607418 922528

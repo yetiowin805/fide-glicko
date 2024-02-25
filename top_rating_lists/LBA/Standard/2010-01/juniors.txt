@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Abdulgader, Amira	LBA 1995 F 1403.7543526 72.8942542 9200746
+1 Abdulgader, Amira	LBA 1995 F 1403.4028087 72.8850488 9200746

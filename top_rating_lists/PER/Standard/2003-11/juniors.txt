@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Esplana, Christian	PER 1983 M 2297.0502343 54.4681826 3800636
+2 Morales Mendoza, Luciana	PER 1987 F 2031.5499469 67.0626478 3801403

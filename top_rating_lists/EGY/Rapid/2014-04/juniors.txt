@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Wafa, Shrook	EGY 1997 F 1875.5734574 63.7042604 10609970
+1 Wafa, Shrook	EGY 1997 F 1875.4391565 63.7100097 10609970

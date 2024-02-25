@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Asavasaetakul, Chawit	THA 2003 M 1479.3579318 74.1217394 6204856
+1 Asavasaetakul, Chawit	THA 2003 M 1479.3184520 74.1204920 6204856

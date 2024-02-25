@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Vazquez Maccarini, Danitza	PUR 2000 F 1995.0079085 69.1597030 3101193
-2 Boggiano Pereira, Miguel A.	PUR 1999 M 1912.4705985 59.4499478 3102750
+1 Vazquez Maccarini, Danitza	PUR 2000 F 1994.8972143 69.1567798 3101193
+2 Boggiano Pereira, Miguel A.	PUR 1999 M 1912.3833384 59.4490558 3102750

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Sekiranda Isaac	UGA 1997 M 1551.1560112 60.7213898 10004742
+1 Sekiranda Isaac	UGA 1997 M 1551.1198567 60.7204845 10004742

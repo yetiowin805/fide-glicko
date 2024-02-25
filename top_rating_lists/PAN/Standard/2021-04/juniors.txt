@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Vasquez Jaen, Lourdes Lorena	PAN 2003 F 1558.4736043 61.3504458 6605559
-2 Hurtado, Samuel Alexander	PAN 2002 M 1557.8284198 71.3490004 6604838
-3 Alvarez Chang, Claudia Mercedes	PAN 2004 F 1536.5099471 65.5291286 6604374
+1 Vasquez Jaen, Lourdes Lorena	PAN 2003 F 1558.3983329 61.3497778 6605559
+2 Hurtado, Samuel Alexander	PAN 2002 M 1557.7450998 71.3479882 6604838
+3 Alvarez Chang, Claudia Mercedes	PAN 2004 F 1536.4305700 65.5284748 6604374

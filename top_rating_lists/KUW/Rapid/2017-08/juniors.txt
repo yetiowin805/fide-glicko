@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Alothman, Salem	KUW 2003 M 1496.8571870 70.0472490 10301186
+1 Alothman, Salem	KUW 2003 M 1496.6985163 70.0435984 10301186

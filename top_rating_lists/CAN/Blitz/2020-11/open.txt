@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Samsonkin, Artiom	CAN 1989 M 2386.2352790 73.0855049 13503111
+1 Samsonkin, Artiom	CAN 1989 M 2385.9243768 73.0770544 13503111

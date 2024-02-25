@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Chinguun, Sumiya	MGL 2005 M 1819.3274068 72.9628802 4902572
+1 Chinguun, Sumiya	MGL 2005 M 1818.9844617 72.9509330 4902572

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Ranganath, Tharuli Vihasna	SRI 2009 1565.7376943 74.2848903 9997865
-2 Bandara, Prathibha Nethsarani	SRI 2010 1492.5538479 74.1243983 29921511
+1 Ranganath, Tharuli Vihasna	SRI 2009 1565.7084376 74.2844371 9997865
+2 Bandara, Prathibha Nethsarani	SRI 2010 1492.5285891 74.1240561 29921511

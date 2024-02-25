@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Norlamo, Sarabella	FIN 2003 F 1490.3187439 67.2181484 4505344
+1 Norlamo, Sarabella	FIN 2003 F 1490.1271365 67.2110486 4505344

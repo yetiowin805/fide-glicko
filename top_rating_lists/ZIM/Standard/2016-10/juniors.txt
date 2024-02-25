@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Zhemba Jemusse	ZIM 1996 M 1851.9381662 73.0396139 11001933
+1 Zhemba Jemusse	ZIM 1996 M 1851.7849828 73.0370801 11001933

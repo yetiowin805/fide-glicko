@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al-Aqrabi, Saleh	YEM 1971 M 1999.4458165 73.0865297 9400338
+1 Al-Aqrabi, Saleh	YEM 1971 M 1999.2730001 73.0831909 9400338

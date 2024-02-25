@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Aketaeva, Dana	KAZ 1986 2142.2653036 62.3361496 13701932
+1 Aketaeva, Dana	KAZ 1986 2142.0542473 62.3403506 13701932

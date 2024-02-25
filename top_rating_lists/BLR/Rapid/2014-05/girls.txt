@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Badelka, Olga	BLR 2002 1742.0801952 69.7881288 13509926
+1 Badelka, Olga	BLR 2002 1741.8646945 69.7828617 13509926

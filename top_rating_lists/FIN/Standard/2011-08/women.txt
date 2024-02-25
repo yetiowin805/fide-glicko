@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Tumanova, Irina	FIN 1996 1600.9645014 64.2688226 505102
+1 Tumanova, Irina	FIN 1996 1600.8463884 64.2662515 505102

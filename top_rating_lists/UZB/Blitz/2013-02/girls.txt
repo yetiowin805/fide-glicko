@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Kurbonboeva, Sarvinoz	UZB 1994 2017.4394749 67.9060097 14201780
-2 Abdusattorova, Bakhora	UZB 1999 1561.8000369 73.8014852 14204126
+1 Kurbonboeva, Sarvinoz	UZB 1994 2017.0483478 67.9036745 14201780
+2 Abdusattorova, Bakhora	UZB 1999 1561.5717273 73.7981012 14204126

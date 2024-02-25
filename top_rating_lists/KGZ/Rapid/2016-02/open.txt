@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Tologontegin, Semetey	KGZ 1990 M 2207.2278936 73.0102964 13800574
+1 Tologontegin, Semetey	KGZ 1990 M 2206.9032243 73.0306255 13800574

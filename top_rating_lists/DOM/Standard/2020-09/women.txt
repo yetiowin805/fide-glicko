@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Rosario Almanzar, Raydily	DOM 1998 1664.5208426 72.8856303 6403573
-2 Ramirez Luzon, Franchesca	DOM 2004 1601.2145977 67.0348432 6421792
+1 Rosario Almanzar, Raydily	DOM 1998 1664.3802079 72.8840899 6403573
+2 Ramirez Luzon, Franchesca	DOM 2004 1601.0457970 67.0330351 6421792

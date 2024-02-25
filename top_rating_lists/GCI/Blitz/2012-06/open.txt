@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hamperl, Fred	GCI 1966 M 2019.3266150 74.2147809 10700110
+1 Hamperl, Fred	GCI 1966 M 2019.1897051 74.2143698 10700110

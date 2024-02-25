@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Helgadottir, Idunn	ISL 2007 1423.9615596 52.9644193 2314118
+1 Helgadottir, Idunn	ISL 2007 1423.9009785 52.9638288 2314118

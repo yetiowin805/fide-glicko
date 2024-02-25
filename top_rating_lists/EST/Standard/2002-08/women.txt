@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Tsiganova, Monika	EST 1969 2249.3899322 72.2345209 4500199
-2 Bashkite, Viktoria	EST  2146.2692481 69.0087098 4501284
+1 Bashkite, Viktoria	EST 0 2152.2754170 71.0657356 4501284

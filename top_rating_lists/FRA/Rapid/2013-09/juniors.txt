@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Sochacki, Christophe	FRA 1994 M 2360.8872216 71.1091065 662569
-2 Navrotescu, Andreea-Cristiana	FRA 1996 F 2020.8722985 74.6660505 675946
+1 Sochacki, Christophe	FRA 1994 M 2360.6877976 71.1137670 662569
+2 Navrotescu, Andreea-Cristiana	FRA 1996 F 2020.6514427 74.6663019 675946

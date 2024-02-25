@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Munoz, Carolina	CRC 1980 1896.5231745 67.1035914 6500579
+1 Munoz, Carolina	CRC 1980 1896.4402481 67.1012846 6500579

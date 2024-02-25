@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
 1 Digesh, Shanker Malla	NEP 1981 M 2139.4051820 73.7608174 12300209
-2 Shrestha, Keshav	NEP  M 2043.3440239 69.9248186 12300055
+2 Shrestha, Keshav	NEP 0 M 2043.3440239 69.9248186 12300055

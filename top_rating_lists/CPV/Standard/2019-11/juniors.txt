@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gomes Reis, Marcello	CPV 2002 M 1573.8643386 72.8191396 23600217
+1 Gomes Reis, Marcello	CPV 2002 M 1573.8464224 72.8188433 23600217

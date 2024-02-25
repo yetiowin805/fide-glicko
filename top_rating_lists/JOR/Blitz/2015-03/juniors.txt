@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Boshra, Alshaeby	JOR 1995 F 1810.2176880 74.2866116 8102937
+1 Boshra, Alshaeby	JOR 1995 F 1809.8630053 74.2788003 8102937

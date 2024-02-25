@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Singh, Vishnu	TTO 1995 M 2000.4480191 71.8107699 7700946
+1 Singh, Vishnu	TTO 1995 M 2000.1197810 71.8096994 7700946

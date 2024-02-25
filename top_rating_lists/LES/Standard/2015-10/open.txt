@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Khalema, Sechaba	LES 1996 M 1576.7103243 74.7088951 14317176
+1 Khalema, Sechaba	LES 1996 M 1576.6124399 74.7055179 14317176

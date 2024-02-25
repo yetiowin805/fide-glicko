@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Gjergji, Rozana	ALB  1920.7714163 64.5577421 4700147
+1 Gjergji, Rozana	ALB 0 1920.7714163 64.5577421 4700147

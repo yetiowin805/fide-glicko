@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kulpruethanon, Thanadon	THA 1994 M 2060.3004706 69.1966671 6201610
-2 Nunbhakdi, Tawin Matthew	THA 1998 M 1562.5271841 52.0808400 6203310
+1 Kulpruethanon, Thanadon	THA 1994 M 2060.1740589 69.1966041 6201610
+2 Nunbhakdi, Tawin Matthew	THA 1998 M 1562.4361266 52.0787280 6203310

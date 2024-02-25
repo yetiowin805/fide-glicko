@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Jaiswal, Bina	NEP 1997 1500.7627434 73.1989000 12301744
+1 Jaiswal, Bina	NEP 1997 1500.6345918 73.1971638 12301744

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Garcia, Angie	ESA 2002 1700.9301771 70.5580254 6702503
+1 Garcia, Angie	ESA 2002 1700.8535810 70.5574741 6702503

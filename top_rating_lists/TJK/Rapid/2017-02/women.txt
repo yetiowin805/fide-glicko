@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Antonova, Nadezhda	TJK 1988 1883.5870997 60.0546659 14700182
+1 Antonova, Nadezhda	TJK 1988 1883.0020408 60.0527007 14700182

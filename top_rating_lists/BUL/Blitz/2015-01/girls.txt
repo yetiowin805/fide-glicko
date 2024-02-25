@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Grabcheva, Natalia	BUL 2002 1502.2236308 61.3859127 2917815
+1 Grabcheva, Natalia	BUL 2002 1502.0955238 61.3840029 2917815

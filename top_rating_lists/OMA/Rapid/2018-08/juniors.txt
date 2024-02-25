@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al Kharusi, Mohammed	OMA 2003 M 1408.7174414 69.2790478 22003509
+1 Al Kharusi, Mohammed	OMA 2003 M 1408.7013999 69.2788432 22003509

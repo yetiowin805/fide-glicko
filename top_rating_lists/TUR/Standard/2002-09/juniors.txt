@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Laciner, Kerem	TUR 1982 M 2208.3637153 56.0656221 6301550
+2 Ataman, Alper	TUR 1983 M 2160.1899140 71.3393864 6301606

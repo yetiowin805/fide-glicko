@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Pastor Carvajal, Jeigoth	CRC 2004 M 1820.1568098 72.6812840 6516718
-2 Espitia Torres, Mateo	CRC 2003 M 1790.4128478 73.9095872 6508332
+1 Pastor Carvajal, Jeigoth	CRC 2004 M 1820.1489443 72.6807940 6516718
+2 Espitia Torres, Mateo	CRC 2003 M 1790.4079945 73.9092616 6508332

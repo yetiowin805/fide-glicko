@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Stiri, Alexandra	GRE 1984 2145.3253211 57.5964732 4205383
+2 Grapsa, Georgia	GRE 1984 2054.9505236 65.5869364 4206436

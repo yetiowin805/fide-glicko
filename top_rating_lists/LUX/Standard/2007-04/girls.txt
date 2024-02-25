@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Steil-Antoni, Fiona	LUX 1989 1982.2577721 53.0501640 4001249
+1 Steil-Antoni, Fiona	LUX 1989 1982.0615675 53.0596323 4001249

@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mcgowan, Daniel	SCO 1986 M 2007.1419889 66.6708529 2401479

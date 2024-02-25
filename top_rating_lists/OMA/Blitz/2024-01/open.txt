@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al Busaidi, Hamood	OMA 2005 M 1863.4426865 60.1315671 22006230
+1 Al Busaidi, Hamood	OMA 2005 M 1863.3178923 60.1273948 22006230

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Faulks, Nick	BER 1952 M 1647.6826476 67.1123542 8800103
+1 Faulks, Nick	BER 1952 M 1647.5380649 67.1131744 8800103

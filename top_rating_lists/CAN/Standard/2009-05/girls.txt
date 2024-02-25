@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Yuan, Yuanling	CAN 1994 2129.0903831 59.6004799 8604541
+1 Yuan, Yuanling	CAN 1994 2129.0166146 59.6059411 8604541

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Gamboa Alvarado, Leticia	CRC  1640.5938992 71.7476329 6502270
+1 Gamboa Alvarado, Leticia	CRC 0 1640.5961400 71.7468287 6502270

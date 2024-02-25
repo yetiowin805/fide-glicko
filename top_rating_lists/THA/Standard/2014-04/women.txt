@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Atthaworadej, Worasuda	THA 1999 1612.5396282 73.1084161 6201563
+1 Atthaworadej, Worasuda	THA 1999 1612.4167294 73.1061745 6201563

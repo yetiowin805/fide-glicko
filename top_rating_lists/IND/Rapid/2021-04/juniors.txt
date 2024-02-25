@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Anish Vaman Khorjuenkar	IND 2009 M 1402.6452666 74.6125714 25927108
+1 Anish Vaman Khorjuenkar	IND 2009 M 1402.6210742 74.6124690 25927108

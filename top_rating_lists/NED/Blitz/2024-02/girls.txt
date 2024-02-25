@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Cordes, Jule	NED 2006 1731.6682510 73.2198680 1060708
+1 Cordes, Jule	NED 2006 1731.5351755 73.2153513 1060708

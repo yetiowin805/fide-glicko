@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Jacimovic, Sara	BIH 1997 1776.3453734 51.6941646 14403668
+1 Jacimovic, Sara	BIH 1997 1775.6368718 51.6885037 14403668

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Di Berardino, Diego Rafael	BRA 1987 M 2288.2975655 59.5106665 2105446
+2 Marra, Eduardo da Costa	BRA 1984 M 2159.3724832 72.2712433 2106990

@@ -1,6 +1,6 @@
 Rank Name Federation BirthYear Rating RD
-1 Alvarado Arcila, Marvia Josefina	VEN 2000 1727.2532595 73.8748669 3909034
-2 Rivas Lugo, Omary Milena	VEN 2001 1595.5163232 73.6162128 3905390
-3 Monsalve Montalban, Valentina De	VEN 2001 1465.1518456 74.8424332 3905330
-4 Yepez Moreno, Catherine Celeste	VEN 2003 1433.1601005 73.5949476 3905292
-5 Dumont Peroza, Agnes Coromoto	VEN 2001 1272.5295097 74.5266387 3924254
+1 Alvarado Arcila, Marvia Josefina	VEN 2000 1727.1946366 73.8782344 3909034
+2 Rivas Lugo, Omary Milena	VEN 2001 1595.4741079 73.6161442 3905390
+3 Monsalve Montalban, Valentina De	VEN 2001 1465.1171512 74.8420899 3905330
+4 Yepez Moreno, Catherine Celeste	VEN 2003 1433.1121041 73.5945014 3905292
+5 Dumont Peroza, Agnes Coromoto	VEN 2001 1272.4934247 74.5263815 3924254

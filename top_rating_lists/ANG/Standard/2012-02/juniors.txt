@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Soares, Erikson Roberto Mauricio	ANG 1992 M 2050.0358077 66.1914927 10100091
+1 Soares, Erikson Roberto Mauricio	ANG 1992 M 2049.8854438 66.1899625 10100091

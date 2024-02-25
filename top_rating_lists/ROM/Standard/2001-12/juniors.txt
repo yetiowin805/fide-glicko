@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Vajda, Levente	ROM 1981 M 2512.1853919 59.5994618 1203975
+2 Lupulescu, Constantin	ROM 1984 M 2498.4990843 74.4218985 1207822
+3 Grecescu, Gabriel	ROM 1986 M 2336.8390686 63.6147776 1210602

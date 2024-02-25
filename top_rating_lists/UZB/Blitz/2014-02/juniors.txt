@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Vakhidov, Jahongir	UZB 1995 M 2415.0130688 62.4195797 14201801
+1 Vakhidov, Jahongir	UZB 1995 M 2414.9506953 62.4214884 14201801

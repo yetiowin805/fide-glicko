@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Katana Vladimir	ALB 1961 M 1774.2606917 72.5749725 4703375
+1 Katana Vladimir	ALB 1961 M 1774.1000540 72.5738768 4703375

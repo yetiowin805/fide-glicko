@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Caballero Quijano, Mitzy Mishell	PER 2001 F 1847.3896099 63.9905121 3807223
-2 Chavez Melendez, Raul Angel	PER 1967 M 1489.3192023 73.0010356 3811638
+1 Caballero Quijano, Mitzy Mishell	PER 2001 F 1846.4989787 63.9611365 3807223
+2 Chavez Melendez, Raul Angel	PER 1967 M 1489.2768414 73.0002557 3811638

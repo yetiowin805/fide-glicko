@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gaidramdan , Marwan	YEM 1987 M 1541.8259925 63.4586691 9402330
+1 Gaidramdan , Marwan	YEM 1987 M 1541.8075588 63.4585887 9402330

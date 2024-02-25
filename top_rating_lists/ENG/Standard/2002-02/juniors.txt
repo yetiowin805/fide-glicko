@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 McShane, Luke J.	ENG 1984 M 2532.5889506 52.2771122 404853
+2 Hanley, Craig	ENG 1984 M 2305.7149771 64.1101082 408514

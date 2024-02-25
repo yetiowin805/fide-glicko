@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Estrada Gaspar, Nelly Massiel	MEX 1987 1961.0908046 70.7014073 5106320
-2 Medina Altamirano, Karla	MEX  1911.5945211 63.0815029 5105404
+1 Estrada Gaspar, Nelly Massiel	MEX 1987 1961.0855417 70.7010364 5106320
+2 Medina Altamirano, Karla	MEX 0 1911.6552249 63.0980107 5105404

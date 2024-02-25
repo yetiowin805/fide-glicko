@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Taher, Hassuji	TAN 2003 M 1500.0344715 70.8523975 21600546
+1 Taher, Hassuji	TAN 2003 M 1499.9893102 70.8520525 21600546

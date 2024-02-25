@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Egbe, Kossi Thierry	TOG 2002 M 1843.2162832 63.2457284 21201510
+1 Egbe, Kossi Thierry	TOG 2002 M 1843.2034923 63.2456282 21201510

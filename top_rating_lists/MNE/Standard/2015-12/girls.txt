@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Blagojevic, Tijana	MNE 1997 2135.3396288 42.4473825 16500270
+1 Blagojevic, Tijana	MNE 1997 2135.0781915 42.4472314 16500270

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Stone,Ronnie Frank Pires	BRA 1998 M 1692.9615059 73.7117128 2137712
+1 Stone,Ronnie Frank Pires	BRA 1998 M 1692.7441382 73.7093678 2137712

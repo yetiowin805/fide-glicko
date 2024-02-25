@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Sukandar, Irine Kharisma	INA  2174.7195989 57.1664517 7101937
-2 Medina, Warda Aulia	INA  1894.3692956 73.3928228 7101570
+1 Sukandar, Irine Kharisma	INA 0 2174.8241577 57.1786101 7101937
+2 Medina, Warda Aulia	INA 0 1894.0773517 73.4163464 7101570

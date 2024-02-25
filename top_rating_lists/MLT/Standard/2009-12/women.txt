@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Aguilar, Filipina	MLT  1682.8692613 67.4269161 5600464
+1 Aguilar, Filipina	MLT 0 1682.7379094 67.4184872 5600464

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ahn, Hongjin	KOR 1999 M 1751.5034055 72.7464646 13201492
+1 Ahn, Hongjin	KOR 1999 M 1751.3521948 72.7418615 13201492

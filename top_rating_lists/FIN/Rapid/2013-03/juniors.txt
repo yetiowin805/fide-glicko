@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ebeling, Daniel	FIN 1996 M 2201.4399562 74.5368139 505170
+1 Ebeling, Daniel	FIN 1996 M 2201.2120808 74.5376629 505170

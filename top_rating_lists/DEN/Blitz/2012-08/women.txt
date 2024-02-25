@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Vovk, Oksana	DEN 1982 2138.2298233 74.3866222 1404695
+1 Vovk, Oksana	DEN 1982 2138.0961848 74.3986125 1404695

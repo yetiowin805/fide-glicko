@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Cuttoli, Alexandre	MNC 2005 M 1881.9444664 64.0672056 36007293
+1 Cuttoli, Alexandre	MNC 2005 M 1881.6535299 64.0608084 36007293

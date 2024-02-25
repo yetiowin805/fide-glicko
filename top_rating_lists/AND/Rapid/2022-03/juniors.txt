@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Alcon Llosada, Alex	AND 2003 M 1707.1682625 74.7653161 6900780
+1 Alcon Llosada, Alex	AND 2003 M 1707.0792996 74.7647134 6900780

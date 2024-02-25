@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Perunovic, Milos	SCG 1984 M 2563.5098120 53.6205100 921629
+2 Jeremic, Veljko	SCG 1985 M 2544.6929315 62.2054172 927040
+3 Dimitrijevic, Aleksandra	SCG 1986 F 2182.0568501 62.5311135 929239

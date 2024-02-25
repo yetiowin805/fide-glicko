@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Costantini, Roberto	ITA 1983 M 2366.9134893 67.5174721 807621
+2 Drabke, Lorenz	ITA 1984 M 2333.6508424 70.3616807 809306

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bartmeyer, Guilherme Antonio	BRA 1995 M 1575.1083513 65.6597260 2144530
+1 Bartmeyer, Guilherme Antonio	BRA 1995 M 1575.0157005 65.6590095 2144530

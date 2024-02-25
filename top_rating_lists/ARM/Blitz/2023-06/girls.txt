@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Nadanyan, Kiti	ARM 2004 1639.2889975 64.8518151 13316710
+1 Nadanyan, Kiti	ARM 2004 1638.9626861 64.8477621 13316710

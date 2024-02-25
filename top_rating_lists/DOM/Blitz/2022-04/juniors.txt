@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mesa Cruz, Juan Carlos	DOM 2003 M 1824.0838627 73.6717809 6423400
+1 Mesa Cruz, Juan Carlos	DOM 2003 M 1823.8735624 73.6672185 6423400

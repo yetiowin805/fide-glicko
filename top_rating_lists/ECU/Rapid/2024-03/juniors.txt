@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Huerta Chacon, Jonnathan Santiago	ECU 2004 M 1890.1986652 74.8581010 3637590
-2 Romero Acevedo, Jozef Isaac	ECU 2012 M 1660.7792782 64.5020895 3647048
-3 Melena Salvador, Alan Jesus	ECU 2009 M 1540.3203052 74.4976681 3650731
+1 Huerta Chacon, Jonnathan Santiago	ECU 2004 M 1890.1766995 74.8575606 3637590
+2 Romero Acevedo, Jozef Isaac	ECU 2012 M 1660.7572774 64.5016994 3647048
+3 Melena Salvador, Alan Jesus	ECU 2009 M 1540.3096938 74.4973698 3650731

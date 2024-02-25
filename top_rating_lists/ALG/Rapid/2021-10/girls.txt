@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Abdelaziz,Tinhinane	ALG 2007 1674.3463963 73.0033922 7912170
+1 Abdelaziz,Tinhinane	ALG 2007 1674.3019923 73.0021873 7912170

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Barbier, Astrid	BEL 1996 1599.3227665 71.2795536 200395
+1 Barbier, Astrid	BEL 1996 1599.1798436 71.2771965 200395

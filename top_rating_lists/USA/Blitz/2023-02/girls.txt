@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Chen, Jocelyn	USA 2010 1600.9951466 66.5686675 30947154
+1 Chen, Jocelyn	USA 2010 1600.7869703 66.5607973 30947154

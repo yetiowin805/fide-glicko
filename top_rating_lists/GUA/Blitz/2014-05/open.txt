@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Quinonez Centeno, Carlos David	GUA 1987 M 2210.1224176 72.8279980 7300530
+1 Quinonez Centeno, Carlos David	GUA 1987 M 2210.0627760 72.8256555 7300530

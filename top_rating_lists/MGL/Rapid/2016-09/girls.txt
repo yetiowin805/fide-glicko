@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Nomin-Erdene, Davaademberel	MGL 2000 2118.5717797 66.3627345 4900782
-2 Uuriintuya, Uurtsaikh	MGL 1998 1945.2416852 69.3940255 4900227
+1 Nomin-Erdene, Davaademberel	MGL 2000 2118.2954549 66.3635902 4900782
+2 Uuriintuya, Uurtsaikh	MGL 1998 1945.0486954 69.3907324 4900227

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Castillo Aguilar, Angel Emilio	HON 2011 M 1583.2836730 74.6048532 8409501
+1 Castillo Aguilar, Angel Emilio	HON 2011 M 1583.2835483 74.6048503 8409501

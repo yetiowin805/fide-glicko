@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Vuilleumier, Alexandre	SUI 1982 M 2182.5154681 66.1623811 1305662
-2 Paleologu, Vladimir	SUI 1971 M 2117.6301237 69.9301634 1305573
+1 Vuilleumier, Alexandre	SUI 1982 M 2182.2582704 66.1628992 1305662
+2 Paleologu, Vladimir	SUI 1971 M 2117.4656802 69.9299818 1305573

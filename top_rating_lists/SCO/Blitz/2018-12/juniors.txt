@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Connolly Sams, Dietah	SCO 2005 M 1474.1714020 73.8817916 2405075
+1 Connolly Sams, Dietah	SCO 2005 M 1474.1116277 73.8807036 2405075

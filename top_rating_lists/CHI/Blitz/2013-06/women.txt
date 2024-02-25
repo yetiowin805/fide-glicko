@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Abarca Gonzalez, Damaris	CHI 1990 1971.3401843 69.9359067 3409414
-2 Cortes Arias, Mariela	CHI 1992 1709.0060809 70.2420509 3405478
+1 Abarca Gonzalez, Damaris	CHI 1990 1971.1921723 69.9340744 3409414
+2 Cortes Arias, Mariela	CHI 1992 1708.8605105 70.2415681 3405478

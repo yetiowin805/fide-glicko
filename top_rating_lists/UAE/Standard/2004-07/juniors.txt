@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Al-Khaja, Arif	UAE 1986 M 2112.7140376 73.2980902 9301127
+2 Ahmed, Ishaq	UAE 1989 M 2044.1003084 69.0974270 9301275

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Pedrosa Class, Jose D.	PUR 1997 M 1466.5971946 74.5177382 3105920
+1 Pedrosa Class, Jose D.	PUR 1997 M 1466.4699733 74.5077809 3105920

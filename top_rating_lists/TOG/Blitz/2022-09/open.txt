@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Botsoe, Koffi	TOG 1974 M 1644.8483748 72.3680151 21200025
-2 Ballebako, Kokou Difendramakada Jacques	TOG 1995 M 1474.4678625 73.3355184 21201390
+1 Botsoe, Koffi	TOG 1974 M 1644.7953426 72.3665782 21200025
+2 Ballebako, Kokou Difendramakada Jacques	TOG 1995 M 1474.4381772 73.3353514 21201390

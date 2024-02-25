@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bringas Osuna, Ivan Jarek	MEX 1990 M 2045.4270970 73.4726445 5111315
+1 Bringas Osuna, Ivan Jarek	MEX 1990 M 2045.1731367 73.4643319 5111315

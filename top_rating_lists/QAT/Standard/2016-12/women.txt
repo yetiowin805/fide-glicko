@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Almaha Ali Bahzad	QAT 2002 1373.1845982 68.3852543 12101125
+1 Almaha Ali Bahzad	QAT 2002 1373.0849743 68.3833410 12101125

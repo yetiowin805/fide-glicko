@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Marquez Carrero, Rafael Alfonso	NCA 2008 M 1273.8224395 70.8863459 6107532
+1 Marquez Carrero, Rafael Alfonso	NCA 2008 M 1273.8188493 70.8862142 6107532

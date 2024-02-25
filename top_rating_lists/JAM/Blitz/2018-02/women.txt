@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Smith, Annesha	JAM 1988 1538.0509014 71.7684628 7400683
+1 Smith, Annesha	JAM 1988 1537.9379434 71.7671472 7400683

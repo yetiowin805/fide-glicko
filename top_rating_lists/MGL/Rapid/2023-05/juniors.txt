@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bayasgalan, Khishigbaatar	MGL 2007 F 1838.2690540 74.3442068 4904311
-2 Tsogt-Erdene, Bayarjavkhlan	MGL 2009 M 1471.9812555 68.8992834 4922255
+1 Bayasgalan, Khishigbaatar	MGL 2007 F 1837.8351839 74.3356647 4904311
+2 Tsogt-Erdene, Bayarjavkhlan	MGL 2009 M 1471.9449709 68.8989753 4922255

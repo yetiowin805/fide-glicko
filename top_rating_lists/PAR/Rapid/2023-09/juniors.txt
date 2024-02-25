@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Amarilla Ettiene, Ezequiel	PAR 2009 M 1750.9046540 73.8850362 3708403
-2 Benitez Sanabria, Diego Isaias	PAR 2012 M 1404.5733769 69.3315056 3712605
+1 Amarilla Ettiene, Ezequiel	PAR 2009 M 1750.8461796 73.8816982 3708403
+2 Benitez Sanabria, Diego Isaias	PAR 2012 M 1404.5561585 69.3310812 3712605

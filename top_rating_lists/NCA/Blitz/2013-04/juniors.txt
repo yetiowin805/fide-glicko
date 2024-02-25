@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Madrigal, Mariano	NCA 1994 M 2013.3190758 73.0083338 6100961
+1 Madrigal, Mariano	NCA 1994 M 2013.3007676 73.0076951 6100961

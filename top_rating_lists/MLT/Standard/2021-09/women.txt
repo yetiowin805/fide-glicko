@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Psaila, Uranchimeg	MLT 1978 1344.2503887 64.7598883 5600804
+1 Psaila, Uranchimeg	MLT 1978 1344.1154660 64.7593383 5600804

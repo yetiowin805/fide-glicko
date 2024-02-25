@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Paragua, Mark	PHI 1984 M 2447.6491186 48.8863622 5201241
+2 Caoili, Arianne	PHI 1986 F 2242.9124206 72.5540681 5201179

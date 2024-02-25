@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ncube, Sifiso	ZIM 1998 M 2033.4255057 72.4830487 11001216
+1 Ncube, Sifiso	ZIM 1998 M 2033.0935562 72.4721410 11001216

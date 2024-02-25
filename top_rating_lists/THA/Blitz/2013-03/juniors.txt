@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kulpruethanon, Thanadon	THA 1994 M 1969.0142338 74.8642737 6201610
+1 Kulpruethanon, Thanadon	THA 1994 M 1968.9071509 74.8642205 6201610

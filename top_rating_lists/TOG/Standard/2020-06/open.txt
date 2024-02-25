@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Botsoe, Koffi	TOG 1974 M 1564.5888318 74.5500800 21200025
+1 Botsoe, Koffi	TOG 1974 M 1564.5176377 74.5496970 21200025

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Amini, Hossein Ali	BRN 0000 M 1566.7886470 74.5724053 11201584
+1 Amini, Hossein Ali	BRN 1900 M 1566.8242754 74.5759423 11201584

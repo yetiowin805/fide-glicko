@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Nur, Nabila Azman Hisham	MAS  1719.9972858 64.2207686 5702135
+1 Nur, Nabila Azman Hisham	MAS 0 1719.9165403 64.2184172 5702135

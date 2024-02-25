@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ayala Sanchez, Abnel	PUR 1983 M 1854.7177996 73.4975995 3101380
+1 Ayala Sanchez, Abnel	PUR 1983 M 1854.5281144 73.4922173 3101380

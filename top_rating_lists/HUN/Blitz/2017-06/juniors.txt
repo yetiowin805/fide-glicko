@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Terbe, Julianna	HUN 1997 F 2071.8783537 74.9522302 708780
+1 Terbe, Julianna	HUN 1997 F 2071.5059117 74.9530120 708780

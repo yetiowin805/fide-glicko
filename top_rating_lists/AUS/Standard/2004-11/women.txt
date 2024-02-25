@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Sorokina, Anastasia	AUS 80 2134.8154679 64.8649427 13501151
-2 Szuveges, Narelle	AUS  1757.9591987 73.7142493 3202640
+1 Sorokina, Anastasia	AUS 1980 2134.8154679 64.8649427 13501151

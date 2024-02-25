@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Ortiz, Nadya Karolina	COL  2136.2536509 53.9192781 4401778
-2 Majul, Isolina	COL  2072.3858271 74.6700602 4400534
+1 Ortiz, Nadya Karolina	COL 0 2137.0103464 54.0014724 4401778

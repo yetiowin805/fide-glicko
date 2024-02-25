@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Khairallah, Ralph	LBN 1998 M 1770.5151271 73.6465676 5302994
+1 Khairallah, Ralph	LBN 1998 M 1770.3948910 73.6419947 5302994

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Sukandar, Irine Kharisma	INA 1992 F 2318.3118504 74.1729257 7101937
+1 Sukandar, Irine Kharisma	INA 1992 F 2318.0768164 74.1689908 7101937

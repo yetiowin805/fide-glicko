@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 McPhillips, Karl	IRL 1988 M 2176.6765904 68.6400359 2501503
+1 McPhillips, Karl	IRL 1988 M 2176.7055955 68.6414062 2501503

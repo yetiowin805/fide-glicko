@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Junior, Aguinaldo Vera Cruz	CPV 1957 M 1531.9091552 71.7947017 23600250
+1 Junior, Aguinaldo Vera Cruz	CPV 1957 M 1531.8445986 71.7940263 23600250

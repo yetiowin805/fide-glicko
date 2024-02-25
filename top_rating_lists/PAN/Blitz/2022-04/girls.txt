@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Vasquez Jaen, Lourdes Lorena	PAN 2003 1503.4654744 68.3632111 6605559
-2 Mendez Machado, Fatima	PAN 2011 1340.7858250 66.4351870 6606970
+1 Vasquez Jaen, Lourdes Lorena	PAN 2003 1503.4075253 68.3624443 6605559
+2 Mendez Machado, Fatima	PAN 2011 1340.7625054 66.4348732 6606970

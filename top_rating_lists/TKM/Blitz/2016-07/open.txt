@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Annageldyev, Orazly	TKM 1960 M 2136.7251441 74.4898979 14000016
+1 Annageldyev, Orazly	TKM 1960 M 2136.5028756 74.4917073 14000016

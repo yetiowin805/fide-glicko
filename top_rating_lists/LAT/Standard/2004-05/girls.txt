@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Rogule, Laura	LAT 1988 2250.0362976 62.4218514 11601876
+2 Berzina, Ilze	LAT 1984 2197.1618835 66.7979357 11601345

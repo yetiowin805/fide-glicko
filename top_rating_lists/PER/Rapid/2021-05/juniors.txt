@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rojas Salas, Steven	PER 2004 M 1947.0513725 73.3126399 3819434
+1 Rojas Salas, Steven	PER 2004 M 1946.8351401 73.3093193 3819434

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Agrest, Inna	SWE 1991 2114.4288144 52.6945418 1708830
+1 Agrest, Inna	SWE 1991 2114.3846218 52.6960656 1708830

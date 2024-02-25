@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Teerapabpaisit, Wisuwat	THA 1971 M 2306.9521088 73.7741324 6200176
-2 Pitirotjirathon, Jirapak	THA 1977 M 2245.4286724 74.7677527 6200206
+1 Teerapabpaisit, Wisuwat	THA 1971 M 2306.9532365 73.7740813 6200176
+2 Pitirotjirathon, Jirapak	THA 1977 M 2245.4370335 74.7673171 6200206

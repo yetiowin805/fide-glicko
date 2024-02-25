@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Lopez Rayo, Isabella	COL 2005 1584.9795694 72.8327763 4452755
-2 Finley Rosero, Karol Valentina	COL 2004 1577.0516303 73.1656505 4464028
+1 Lopez Rayo, Isabella	COL 2005 1584.8555630 72.8318465 4452755
+2 Finley Rosero, Karol Valentina	COL 2004 1576.9513097 73.1646411 4464028

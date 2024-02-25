@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Carrasco Jacome, Bryan	ECU 1997 M 2122.2856904 70.6437048 3618986
+1 Carrasco Jacome, Bryan	ECU 1997 M 2122.0003086 70.6435953 3618986

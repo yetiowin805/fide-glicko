@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Aketaeva, Dana	KAZ 1986 2174.3498384 58.2329560 13701932
+2 Tuitebaeva, Dinara	KAZ 1986 2034.8708923 70.2396438 13701657

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Acosta, Pablo Ismael	ARG 1999 M 2085.3486609 73.9283364 124311
-2 Brizzi, Milagros Tatiana	ARG 1996 F 1682.6108292 73.8125120 128350
+1 Acosta, Pablo Ismael	ARG 1999 M 2084.8896253 73.9226662 124311
+2 Brizzi, Milagros Tatiana	ARG 1996 F 1682.4413554 73.8112313 128350

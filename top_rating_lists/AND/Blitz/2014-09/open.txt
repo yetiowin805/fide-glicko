@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Garcia Paolicchi, Raul	AND 1952 M 2052.7168055 74.1452549 6900020
+1 Garcia Paolicchi, Raul	AND 1952 M 2052.5536292 74.1456252 6900020

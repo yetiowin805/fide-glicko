@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mohseni, Neik	AFG 1985 M 1487.0561262 72.8855600 11700360
+1 Mohseni, Neik	AFG 1985 M 1486.6717605 72.8779759 11700360

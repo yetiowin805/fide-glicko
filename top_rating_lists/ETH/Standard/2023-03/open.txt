@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Abera, Aydagnuhem Gezachew	ETH 1986 M 1987.5226522 73.8796901 10801839
-2 Bantiwalu , Aster Melake	ETH 1997 F 1601.0998375 72.8851867 15702081
+1 Abera, Aydagnuhem Gezachew	ETH 1986 M 1987.4197775 73.8781291 10801839
+2 Bantiwalu , Aster Melake	ETH 1997 F 1601.0221550 72.8842363 15702081

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Caballero Ramos, Greter	CUB 2006 1726.0358327 73.9057121 3530655
+1 Caballero Ramos, Greter	CUB 2006 1725.9248730 73.9030822 3530655

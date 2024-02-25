@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Mkrtchian, Lilit	ARM 1982 2235.0398865 65.4016840 13300601
+1 Mkrtchian, Lilit	ARM 1982 2234.7785635 65.4066790 13300601

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Georgieva, Liubka	BUL 1983 2272.4117277 63.2743800 2905612
+2 Bednikova Stefi	BUL 1986 2151.7993664 60.5337727 2906570

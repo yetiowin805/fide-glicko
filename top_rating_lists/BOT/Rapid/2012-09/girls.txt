@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Francis, Onkemetse	BOT 1992 1602.6517430 74.1826574 11301287
+1 Francis, Onkemetse	BOT 1992 1602.5239735 74.1796387 11301287

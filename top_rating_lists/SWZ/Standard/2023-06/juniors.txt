@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mtsetfwa Philani	SWZ 2003 M 1513.2456768 69.3954761 20701730
+1 Mtsetfwa Philani	SWZ 2003 M 1513.1964230 69.3950172 20701730

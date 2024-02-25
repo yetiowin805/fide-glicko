@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Queirolo Perez, Manuel	CHI 1973 M 1934.4325134 69.8422416 3401219
+1 Queirolo Perez, Manuel	CHI 1973 M 1934.3175542 69.8416652 3401219

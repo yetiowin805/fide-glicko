@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Karelina, Polina	BAH 2001 1552.6755481 59.6905206 10400222
+1 Karelina, Polina	BAH 2001 1552.5486120 59.6898155 10400222

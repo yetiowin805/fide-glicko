@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rahman, Ziaur	BAN 1974 M 2446.1930831 74.9857267 10200037
+1 Rahman, Ziaur	BAN 1974 M 2446.0546450 74.9866838 10200037

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Eden, James	FRA 1994 M 2113.5479760 74.9832127 666491
+1 Eden, James	FRA 1994 M 2113.2362672 74.9824344 666491

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Monroy G., Javier A.	BOL 1994 M 2035.2443609 73.2736807 3302067
+1 Monroy G., Javier A.	BOL 1994 M 2035.0706452 73.2749141 3302067

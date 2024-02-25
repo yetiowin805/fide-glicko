@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Yameen, Yooshau Mohamed	MDV 2003 M 1379.9722292 72.7512291 16700910
+1 Yameen, Yooshau Mohamed	MDV 2003 M 1379.9424394 72.7508766 16700910

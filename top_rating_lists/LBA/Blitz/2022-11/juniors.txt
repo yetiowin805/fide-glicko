@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Fates, Omer Salah	LBA 2009 M 1803.6929812 70.6426415 9212035
+1 Fates, Omer Salah	LBA 2009 M 1803.6043216 70.6417463 9212035

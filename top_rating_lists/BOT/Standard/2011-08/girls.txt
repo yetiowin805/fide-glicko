@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Botlhole, Kgalalelo	BOT 1992 1492.1928605 65.5134341 11300469
+1 Botlhole, Kgalalelo	BOT 1992 1492.0511973 65.5063831 11300469

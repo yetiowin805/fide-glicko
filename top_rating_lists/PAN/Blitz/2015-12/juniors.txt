@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Fuentes, Adrian	PAN 1998 M 1962.9739576 70.6685186 6600875
+1 Fuentes, Adrian	PAN 1998 M 1962.8775373 70.6667525 6600875

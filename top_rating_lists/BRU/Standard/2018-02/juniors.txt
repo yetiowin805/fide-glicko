@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Zazali, Abdul Zahirul	BRU 2004 M 1448.6712502 73.8319559 10502122
+1 Zazali, Abdul Zahirul	BRU 2004 M 1448.5940877 73.8302647 10502122

@@ -3,4 +3,3 @@ Rank Name Federation BirthYear Rating RD
 2 Bojkovic, Natasa	SCG 1971 2342.4433191 61.3109563 908550
 3 Prudnikova, Svetlana	SCG 1967 2303.5397720 68.4721784 929700
 4 Chelushkina, Irina	SCG 1962 2181.2105925 74.3096168 928615
-5 von Wantoch-Rekowski, Danijela	SCG 1981 2113.3618970 74.7080659 922528

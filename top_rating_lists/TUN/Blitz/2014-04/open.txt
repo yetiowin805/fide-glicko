@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Zaibi, Amir	TUN 1988 M 2106.7550502 71.7875226 5500796
+1 Zaibi, Amir	TUN 1988 M 2106.4723920 71.9698078 5500796

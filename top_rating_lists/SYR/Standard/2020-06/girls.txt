@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Alsabbagh Eman	SYR 2008 1278.3779368 73.6455959 7608004
+1 Alsabbagh Eman	SYR 2008 1278.3132705 73.6448929 7608004

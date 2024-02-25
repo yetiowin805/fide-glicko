@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Almanzar Vasquez, Jennifer Maria	DOM 1993 1599.2980039 66.2248701 6406505
-2 Santos Almonte, Carol	DOM 1993 1583.6232897 69.8593786 6402348
-3 Villar Acevedo, Darlin Rocio	DOM 1996 1571.3143270 71.6664122 6405053
+1 Almanzar Vasquez, Jennifer Maria	DOM 1993 1599.1617538 66.2221874 6406505
+2 Santos Almonte, Carol	DOM 1993 1583.4626083 69.8568945 6402348
+3 Villar Acevedo, Darlin Rocio	DOM 1996 1571.1697482 71.6638376 6405053

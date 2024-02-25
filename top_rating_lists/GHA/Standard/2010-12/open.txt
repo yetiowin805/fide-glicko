@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Arko-Dadzie, George Kweku	GHA 1964 M 1523.6636855 58.7968570 12600156
+1 Arko-Dadzie, George Kweku	GHA 1964 M 1523.4153641 58.7968916 12600156

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 de Leon, Veronica	URU 1997 F 1393.5309825 73.5896512 3000290
+1 de Leon, Veronica	URU 1997 F 1393.2566792 73.5847833 3000290

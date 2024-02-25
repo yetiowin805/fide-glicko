@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ziogaite, Jovita	LTU 1986 2051.7334524 69.4161554 12802573
+2 Limontaite, Simona	LTU 1987 2035.7717284 62.0276219 12802506

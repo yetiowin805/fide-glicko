@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Baasansuren, Erdene	MGL 2003 M 1887.4054806 71.3690290 4902084
+1 Baasansuren, Erdene	MGL 2003 M 1887.1776026 71.3622887 4902084

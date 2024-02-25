@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kolbus, Dietmar	IOM 1966 M 2124.9789169 52.6046699 4610628
+1 Kolbus, Dietmar	IOM 1966 M 2124.7353209 52.6049736 4610628

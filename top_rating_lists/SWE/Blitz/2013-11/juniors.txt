@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lokander, Martin	SWE 1996 M 2200.7688159 66.6628450 1709569
+1 Lokander, Martin	SWE 1996 M 2200.5563689 66.6649968 1709569

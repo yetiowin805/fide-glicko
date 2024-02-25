@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Li, Joy Ching	HKG 2008 F 1546.5566328 72.5054669 462462
+1 Li, Joy Ching	HKG 2008 F 1546.4795516 72.5036313 462462

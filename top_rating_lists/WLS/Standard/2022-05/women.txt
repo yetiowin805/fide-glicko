@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Smith, Lynda	WLS 1968 1656.9018547 74.8504074 1800191
+1 Smith, Lynda	WLS 1968 1656.7304887 74.8479380 1800191

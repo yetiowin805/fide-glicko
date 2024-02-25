@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lamard, Guillaume	FRA 1997 M 2245.6106761 72.4285237 600261
+1 Lamard, Guillaume	FRA 1997 M 2245.3901755 72.4313739 600261

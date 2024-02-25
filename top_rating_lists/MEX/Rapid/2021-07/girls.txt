@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Hernandez, Ortega Carolina	MEX 2005 1712.0069617 73.5388288 5132126
-2 Del Razo Mendoza, Andrea Nikole	MEX 2003 1555.2565188 71.8648242 5137640
-3 Del Razo Mendoza, Nancy Ailine	MEX 2006 1261.9709600 70.4936982 5137632
+1 Hernandez, Ortega Carolina	MEX 2005 1711.7639558 73.5274433 5132126
+2 Del Razo Mendoza, Andrea Nikole	MEX 2003 1555.1152351 71.8606733 5137640
+3 Del Razo Mendoza, Nancy Ailine	MEX 2006 1261.9128662 70.4920473 5137632

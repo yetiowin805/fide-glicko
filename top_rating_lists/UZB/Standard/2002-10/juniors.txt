@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Khamrakulov, Ibragim S.	UZB 1982 M 2499.6450524 64.9576835 14200295
+2 Gareev, Timur	UZB 1988 M 2398.4726123 61.4603186 14200937

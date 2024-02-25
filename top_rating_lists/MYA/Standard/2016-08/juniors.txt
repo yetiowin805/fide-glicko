@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Maung, Maung Kyaw Zaw Hein	MYA 2000 M 1834.7227499 61.4435847 13001698
+1 Maung, Maung Kyaw Zaw Hein	MYA 2000 M 1834.5876634 61.4413783 13001698

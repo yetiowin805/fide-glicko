@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Rating RD
-1 Razafindrabiaza, Christine	MAD 1978 1611.4639614 60.9748532 13100416
-2 Andriantsiferana, Irina	MAD 2000 1541.0370442 62.5743564 13100220
-3 Rakotoniaina Tiana Johanna	MAD 1996 1530.6912028 74.7214518 13102630
-4 Ralahatriniavo, Mihajasoa Fanoel	MAD 2000 1499.8263822 69.0351585 13102559
+1 Razafindrabiaza, Christine	MAD 1978 1611.4145482 60.9742398 13100416
+2 Andriantsiferana, Irina	MAD 2000 1540.9797896 62.5736296 13100220
+3 Rakotoniaina Tiana Johanna	MAD 1996 1530.6436653 74.7206413 13102630
+4 Ralahatriniavo, Mihajasoa Fanoel	MAD 2000 1499.7939291 69.0349846 13102559

@@ -194,6 +194,14 @@ def write_to_pretty_file(filename, players, players_info, year):
                 continue
         federation = player_info.get('federation', '')
         b_year = player_info.get('b_year', '')
+        if b_year.isdigit():
+            b_year = int(b_year)
+            if b_year < 100:
+                b_year += 1900
+                if year - b_year < 0:
+                    b_year += 100
+        else:
+            b_year = 0
         sex = player_info.get('sex', '')
         if count == 0:
             os.makedirs(os.path.join(filename), exist_ok=True)
@@ -206,7 +214,7 @@ def write_to_pretty_file(filename, players, players_info, year):
             f = open(os.path.join(filename, "open.txt"), 'a')
             f.write(line)
             f.close()
-        if b_year.isdigit() and year - int(b_year) <= 20:
+        if year - b_year <= 20:
             if count_juniors == 0:
                 f = open(os.path.join(filename, "juniors.txt"), 'w')
                 f.write("Rank Name Federation BirthYear Sex Rating RD\n")
@@ -228,7 +236,7 @@ def write_to_pretty_file(filename, players, players_info, year):
                 f = open(os.path.join(filename, "women.txt"), 'a')
                 f.write(line)
                 f.close()
-            if b_year.isdigit() and year - int(b_year) <= 20:
+            if year - b_year <= 20:
                 if count_girls == 0:
                     f = open(os.path.join(filename, "girls.txt"), 'w')
                     f.write("Rank Name Federation BirthYear Rating RD\n")
@@ -263,6 +271,14 @@ def write_to_pretty_file_FED(dir, filename, players, players_info, year):
         if federation_counts_girls[federation] == 100:
             continue
         b_year = player_info.get('b_year', '')
+        if b_year.isdigit():
+            b_year = int(b_year)
+            if b_year < 100:
+                b_year += 1900
+                if year - b_year < 0:
+                    b_year += 100
+        else:
+            b_year = 0
         sex = player_info.get('sex', '')
         if federation_counts[federation] == 0:
             os.makedirs(os.path.join(dir,federation,filename), exist_ok=True)
@@ -275,7 +291,7 @@ def write_to_pretty_file_FED(dir, filename, players, players_info, year):
             f = open(os.path.join(dir, federation, filename, "open.txt"), 'a')
             f.write(line)
             f.close()
-        if b_year.isdigit() and year - int(b_year) <= 20:
+        if year - b_year <= 20:
             if federation_counts_juniors[federation] == 0:
                 f = open(os.path.join(dir, federation, filename, "juniors.txt"), 'w')
                 f.write("Rank Name Federation BirthYear Sex Rating RD\n")
@@ -297,7 +313,7 @@ def write_to_pretty_file_FED(dir, filename, players, players_info, year):
                 f = open(os.path.join(dir, federation, filename, "women.txt"), 'a')
                 f.write(line)
                 f.close()
-            if b_year.isdigit() and year - int(b_year) <= 20:
+            if year - b_year <= 20:
                 if federation_counts_girls[federation] == 0:
                     f = open(os.path.join(dir, federation, filename, "girls.txt"), 'w')
                     f.write("Rank Name Federation BirthYear Rating RD\n")

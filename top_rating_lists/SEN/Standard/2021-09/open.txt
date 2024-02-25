@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Wane, Al Hassane	SEN 1971 M 1618.9934463 74.1552099 19900082
+1 Wane, Al Hassane	SEN 1971 M 1618.9085530 74.1539967 19900082

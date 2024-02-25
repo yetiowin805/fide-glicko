@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Taloga, Russell	FIJ 2000 M 1561.5284844 71.3511166 11400765
+1 Taloga, Russell	FIJ 2000 M 1561.4675168 71.3491246 11400765

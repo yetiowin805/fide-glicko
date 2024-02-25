@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Moazaz , Dhahir Habeeb	IRQ 2003 M 1834.2753759 73.1961554 4807421
+1 Moazaz , Dhahir Habeeb	IRQ 2003 M 1833.3172000 73.1832492 4807421

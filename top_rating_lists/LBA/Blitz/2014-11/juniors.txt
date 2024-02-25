@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 El Mashaili, Khalil	LBA 1994 M 1759.0336980 73.3258457 9200525
+1 El Mashaili, Khalil	LBA 1994 M 1758.6101479 73.2952854 9200525

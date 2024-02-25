@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mollo Figueroa, Nicole	BOL 2011 F 1512.4114657 60.1279198 3325687
+1 Mollo Figueroa, Nicole	BOL 2011 F 1512.3368129 60.1263785 3325687

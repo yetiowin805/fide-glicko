@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Esadze, Tamari	GEO 2003 F 1962.7471933 72.3060089 13611186
+1 Esadze, Tamari	GEO 2003 F 1962.4697395 72.3015834 13611186

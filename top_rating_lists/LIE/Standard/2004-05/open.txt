@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Atlas, Valeri	LIE 68 M 2484.3020082 69.1804867 12000035
+1 Atlas, Valeri	LIE 1968 M 2477.6162435 69.5290884 12000035

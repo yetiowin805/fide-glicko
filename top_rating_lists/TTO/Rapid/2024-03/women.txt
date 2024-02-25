@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Johnson, Adaya	TTO 2011 1497.2587395 70.4546068 7708025
+1 Johnson, Adaya	TTO 2011 1497.2234841 70.4522483 7708025

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Izzat, Kanan	AZE 1996 M 2197.0060620 72.7075223 13405209
+1 Izzat, Kanan	AZE 1996 M 2196.7603758 72.7088135 13405209

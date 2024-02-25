@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 El Flow, Khuloud	LBA  1588.0364661 67.7219008 9200606
+1 El Flow, Khuloud	LBA 0 1587.7348611 67.7110353 9200606

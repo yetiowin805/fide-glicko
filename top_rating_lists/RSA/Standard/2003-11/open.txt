@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Michelakis, George	RSA 72 M 2470.3290150 74.6603268 14300087
+1 Michelakis, George	RSA 1972 M 2470.3290150 74.6603268 14300087

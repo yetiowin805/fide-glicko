@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Berezovsky, Fiorina	MNC 2007 1558.0565714 74.0003727 5400651
+1 Berezovsky, Fiorina	MNC 2007 1557.8984517 73.9995928 5400651

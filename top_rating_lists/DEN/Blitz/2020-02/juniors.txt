@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Meskenas, Paulius	DEN 2005 M 1868.8723397 66.8013937 12809969
-2 Christensen, John Christopher Hojstrup	DEN 2008 M 1730.7642640 74.6188910 1453947
-3 Jaques, Hannibal Valeur	DEN 2005 M 1638.9898211 63.7199805 1454188
+1 Meskenas, Paulius	DEN 2005 M 1868.9850245 66.8002686 12809969
+2 Christensen, John Christopher Hojstrup	DEN 2008 M 1730.7806480 74.6229458 1453947
+3 Jaques, Hannibal Valeur	DEN 2005 M 1639.1494345 63.7250843 1454188

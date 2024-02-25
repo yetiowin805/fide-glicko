@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Martinez, Ayelen	ARG 1993 1989.8822935 71.0000740 118702
+1 Martinez, Ayelen	ARG 1993 1989.5451632 71.0040684 118702

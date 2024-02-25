@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Munroe-Brown, Brad	TTO 2006 M 1631.5606619 73.6277342 7703260
+1 Munroe-Brown, Brad	TTO 2006 M 1631.5302128 73.6274917 7703260

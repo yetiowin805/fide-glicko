@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Erikson, Roberto	ANG 1992 M 2021.7176409 73.9281248 10100091
+1 Erikson, Roberto	ANG 1992 M 2021.6142636 73.9230999 10100091

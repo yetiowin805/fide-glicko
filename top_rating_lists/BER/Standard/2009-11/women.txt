@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Cancino, Shiela	BER 1982 1344.0862765 64.9043235 8800448
+1 Cancino, Shiela	BER 1982 1344.1121633 64.9050410 8800448

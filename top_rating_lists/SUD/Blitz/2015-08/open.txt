@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mohammed , Tarig Elther	SUD 0000 M 1940.6189656 70.7389878 12200964
+1 Mohammed , Tarig Elther	SUD 1900 M 1940.4954597 70.7326214 12200964

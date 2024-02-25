@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Grigoryan, Karen H.	ARM 1995 M 2410.5213836 73.2725646 13301004
+1 Grigoryan, Karen H.	ARM 1995 M 2410.3009158 73.2746901 13301004

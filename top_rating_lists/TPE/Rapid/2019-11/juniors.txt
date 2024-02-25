@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Cheng, Chen Yu- Alexander	TPE 2003 M 1602.6830506 73.9460055 16301463
+1 Cheng, Chen Yu- Alexander	TPE 2003 M 1602.5910784 73.9422459 16301463

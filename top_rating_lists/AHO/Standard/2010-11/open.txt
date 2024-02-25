@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Maduro, Sherman	AHO 1975 M 1829.1538820 74.6789763 7500122
+1 Maduro, Sherman	AHO 1975 M 1829.0651332 74.6783402 7500122

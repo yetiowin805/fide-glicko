@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Vega Gutierrez, Sabrina	ESP 1987 2179.9478512 46.5811621 2219026
+2 Gutierrez Castillo, Paloma	ESP 1985 2066.3217585 48.2395340 2250764
+3 De Los Santos Honrubia, Maria	ESP 1984 2009.6944618 58.2669228 2221802
+4 Rodriguez Costa, Moira	ESP 1986 1994.9737854 59.1652130 2260158

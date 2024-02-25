@@ -1,11 +1,11 @@
 Rank Name Federation BirthYear Rating RD
-1 Gonzalez Gonzalez, Maria Alejandra	VEN 2005 1580.3258274 74.2325256 3936040
-2 Gonzalez Gomez, Daniela Carolina	VEN 2003 1574.6475349 70.6815626 3915417
-3 Guadalajara Barrios, Jacksilany	VEN 2006 1524.5627230 65.0875515 3931242
-4 Marin Murguey, Valentina Jatniel	VEN 2005 1522.3552534 71.5491255 3955478
-5 Acuna Castillo, Yohalis del Valle	VEN 2007 1510.9083279 69.2811031 3943674
-6 Hernandez Mora, Nohelia Virginia	VEN 2005 1494.5785974 65.1119345 3915344
-7 Araujo Briceno, Gilary Ahilyn	VEN 2007 1373.1644753 68.1922700 3935841
-8 Quijada Delgado, Eliana Paola	VEN 2005 1364.0672046 70.1334819 3955494
-9 Cabeza Marquez, Mariangel Alejandra	VEN 2007 1311.8085940 69.2722841 3934527
-10 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1301.5296838 65.6323841 3964051
+1 Gonzalez Gonzalez, Maria Alejandra	VEN 2005 1580.3055314 74.2324784 3936040
+2 Gonzalez Gomez, Daniela Carolina	VEN 2003 1574.6182886 70.6812471 3915417
+3 Guadalajara Barrios, Jacksilany	VEN 2006 1524.5315965 65.0872831 3931242
+4 Marin Murguey, Valentina Jatniel	VEN 2005 1522.3338664 71.5489417 3955478
+5 Acuna Castillo, Yohalis del Valle	VEN 2007 1510.8960127 69.2809579 3943674
+6 Hernandez Mora, Nohelia Virginia	VEN 2005 1494.5564425 65.1118009 3915344
+7 Araujo Briceno, Gilary Ahilyn	VEN 2007 1373.1385784 68.1920174 3935841
+8 Quijada Delgado, Eliana Paola	VEN 2005 1364.0491618 70.1333544 3955494
+9 Cabeza Marquez, Mariangel Alejandra	VEN 2007 1311.7938447 69.2721785 3934527
+10 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1301.5133354 65.6322875 3964051

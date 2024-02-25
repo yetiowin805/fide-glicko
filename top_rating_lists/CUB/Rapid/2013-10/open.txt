@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bruzon Batista, Lazaro	CUB 1982 M 2631.6221004 74.6066953 3503739
-2 Martinez Duany, Lelys Stanley	CUB 1985 M 2439.2088516 68.4695362 3504727
-3 Ochoa de la Rosa, Manuel Dario	CUB 1994 M 2042.5723933 74.6704225 3509540
+1 Bruzon Batista, Lazaro	CUB 1982 M 2631.5222324 74.6375453 3503739
+2 Martinez Duany, Lelys Stanley	CUB 1985 M 2439.0916066 68.4886037 3504727
+3 Ochoa de la Rosa, Manuel Dario	CUB 1994 M 2042.2467108 74.6690212 3509540

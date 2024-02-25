@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Al-Khelaifi, Kholoud	QAT 1991 1375.4266596 74.7138036 12100145
+1 Al-Khelaifi, Kholoud	QAT 1991 1375.2764883 74.7097909 12100145

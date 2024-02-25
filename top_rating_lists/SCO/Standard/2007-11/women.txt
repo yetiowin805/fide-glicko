@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Officer, Amy	SCO  1778.4193322 73.0794705 2402114
+1 Officer, Amy	SCO 0 1778.4217528 73.0848797 2402114

@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Rating RD
-1 Narvaez Talavera, Joanie Ellen	NCA 2002 1563.0560674 54.5023079 6105840
-2 Granados Ortiz, Maria Jose	NCA 2001 1547.1711204 55.6506314 6103812
-3 Alvarez Gutierrez, Patricia	NCA 2002 1483.6783891 55.7787466 6105548
-4 Martinez Orozco, Cristiana Yorlene	NCA 2005 1389.3791199 61.9084738 6107079
+1 Narvaez Talavera, Joanie Ellen	NCA 2002 1563.0184242 54.5018895 6105840
+2 Granados Ortiz, Maria Jose	NCA 2001 1547.1305859 55.6502713 6103812
+3 Alvarez Gutierrez, Patricia	NCA 2002 1483.6337969 55.7782694 6105548
+4 Martinez Orozco, Cristiana Yorlene	NCA 2005 1389.3354267 61.9080767 6107079

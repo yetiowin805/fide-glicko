@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Nezad, Husein Aziz	QAT 1985 M 2302.9112156 65.6934045 12100293
+2 Al-Tamimi, Hamad	QAT 1984 M 2189.1110575 62.2813146 12100285

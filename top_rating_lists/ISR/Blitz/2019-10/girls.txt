@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Lahav, Michal	ISR 1999 1952.1695060 47.3355224 2813742
+1 Lahav, Michal	ISR 1999 1951.9226585 47.3333811 2813742

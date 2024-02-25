@@ -1,9 +1,9 @@
 Rank Name Federation BirthYear Rating RD
-1 Pena Gonzalez, Clara Isabel	VEN 2004 1685.8076565 67.4835695 3924203
-2 Ubertin Gomez, Katherin Rossmary	VEN 2002 1613.0384739 74.3812212 3916391
-3 Guerrero Corniel, Gabriela Alejandra	VEN 2004 1446.1266125 74.5001159 3905110
-4 Velasquez Marin, Glaycell Daniela	VEN 2007 1427.5782816 72.7143515 3946762
-5 Velasquez Font, Majeiqueilin Valentina	VEN 2006 1366.8840777 70.6665968 3959082
-6 Espinoza Balza, Abril Nathaly	VEN 2006 1365.7655062 74.1609999 3962830
-7 Leon De Canha, Yassell Arianne	VEN 2008 1300.9242351 58.2001862 3974898
-8 Hernandez Mora, Nohelia Virginia	VEN 2005 1277.0051564 54.5637605 3915344
+1 Pena Gonzalez, Clara Isabel	VEN 2004 1685.6602551 67.4851050 3924203
+2 Ubertin Gomez, Katherin Rossmary	VEN 2002 1612.9492832 74.3808252 3916391
+3 Guerrero Corniel, Gabriela Alejandra	VEN 2004 1446.0630405 74.4996709 3905110
+4 Velasquez Marin, Glaycell Daniela	VEN 2007 1427.5054342 72.7143195 3946762
+5 Velasquez Font, Majeiqueilin Valentina	VEN 2006 1366.8287609 70.6662508 3959082
+6 Espinoza Balza, Abril Nathaly	VEN 2006 1365.6847072 74.1590866 3962830
+7 Leon De Canha, Yassell Arianne	VEN 2008 1300.8668382 58.1997450 3974898
+8 Hernandez Mora, Nohelia Virginia	VEN 2005 1276.9531966 54.5636618 3915344

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Melendez, Jose Edo.	ESA 0000 M 1629.3462828 74.5986985 6701710
+1 Melendez, Jose Edo.	ESA 1900 M 1629.4638818 74.5992204 6701710

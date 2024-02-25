@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al-Hadarani, Hatim	YEM 1959 M 2211.6846909 65.6458651 9400273
+1 Al-Hadarani, Hatim	YEM 1959 M 2211.5111820 65.6439755 9400273

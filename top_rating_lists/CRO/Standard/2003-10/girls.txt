@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Solic, Kristina	CRO 1986 2118.3076547 72.9572033 14507323
+2 Pahor, Andrea	CRO 1984 2039.7285784 62.8827775 14507935

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Lim, Hakyung	KOR  1455.5971568 72.5921210 13200615
+1 Lim, Hakyung	KOR 0 1455.6103449 72.5894284 13200615

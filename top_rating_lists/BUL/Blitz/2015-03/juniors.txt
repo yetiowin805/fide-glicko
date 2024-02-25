@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Petrov, Vladimir Sergeev	BUL 1999 M 1923.1104092 70.7599827 2902940
-2 Grabcheva, Natalia	BUL 2002 F 1502.2236308 65.2430756 2917815
+1 Petrov, Vladimir Sergeev	BUL 1999 M 1922.6707944 70.7462761 2902940
+2 Grabcheva, Natalia	BUL 2002 F 1502.0955238 65.2412620 2917815

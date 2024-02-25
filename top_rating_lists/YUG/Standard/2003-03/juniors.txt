@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Sedlak, Nikola	YUG 1983 M 2542.5850676 55.6886156 922900
+2 Jeremic, Veljko	YUG 1985 M 2425.1464686 65.0797637 927040
+3 Dimitrijevic, Aleksandra	YUG 1986 F 2249.6955696 65.1011964 929239

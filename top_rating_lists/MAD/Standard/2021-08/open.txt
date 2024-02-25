@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rakotomaharo, Fy Antenaina	MAD 1999 M 2301.8690477 52.0540125 13100050
-2 Andrianomenjanahary, Noah	MAD 1987 M 1697.4079848 63.9337157 13101145
+1 Rakotomaharo, Fy Antenaina	MAD 1999 M 2301.6127511 52.0537452 13100050
+2 Andrianomenjanahary, Noah	MAD 1987 M 1697.3787191 63.9331184 13101145

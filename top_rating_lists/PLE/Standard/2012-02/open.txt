@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Wajdy, Shebetah	PLE  M 1834.3637260 66.6596775 11500131
+1 Wajdy, Shebetah	PLE 0 M 1834.1735459 66.6579587 11500131

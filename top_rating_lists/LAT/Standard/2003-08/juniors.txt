@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Daskevics, Vadims	LAT 1986 M 2252.2546319 67.9754480 11601965

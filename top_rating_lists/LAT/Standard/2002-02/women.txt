@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Safranska, Anda	LAT 60 2304.4734118 68.9918265 11600209
+1 Safranska, Anda	LAT 1960 2304.4734118 68.9918265 11600209

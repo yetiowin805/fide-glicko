@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Di Berardino, Diego Rafael	BRA 1987 M 2288.3870689 52.1861879 2105446
+2 Mekhitarian, Krikor Sevag	BRA 1986 M 2236.6027000 64.8902736 2107660
+3 Diamant, Andre	BRA 1990 M 2224.3939966 69.4183601 2108356
+4 Marra, Eduardo da Costa	BRA 1984 M 2208.5015699 61.9261661 2106990

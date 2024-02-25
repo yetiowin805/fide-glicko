@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Leon Hoyos, Manuel	MEX 1989 M 2384.0385623 46.0553113 5105269
+1 Leon Hoyos, Manuel	MEX 1989 M 2384.7367222 46.1195207 5105269

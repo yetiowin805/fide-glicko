@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Jalloul, Maya M.	LIB 1990 F 1809.2291286 70.8058223 5300800
+1 Jalloul, Maya M.	LIB 1990 F 1809.0903026 70.8027377 5300800

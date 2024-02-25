@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lodhi, Mahmood	PAK 1961 M 2140.3451856 59.1720038 7800010
+1 Lodhi, Mahmood	PAK 1961 M 2140.1253387 59.1703910 7800010

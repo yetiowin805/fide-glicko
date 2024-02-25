@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Rubinshtein, Kamilla	ITA 2005 1606.7430771 63.7266263 2838708
-2 Bellafiore, Priscila Elena	ITA 2006 1380.9369107 72.3005622 28570073
+1 Rubinshtein, Kamilla	ITA 2005 1606.4789925 63.7241845 2838708
+2 Bellafiore, Priscila Elena	ITA 2006 1380.9210460 72.3002852 28570073

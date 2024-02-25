@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Bousselmi, Chahd	TUN 2005 1600.7822712 74.4431352 5533295
+1 Bousselmi, Chahd	TUN 2005 1600.6826658 74.4405191 5533295

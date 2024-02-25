@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al-Homaid, Abdulla	QAT 2006 M 1450.2204192 73.1446473 12102016
+1 Al-Homaid, Abdulla	QAT 2006 M 1450.1422501 73.1438466 12102016

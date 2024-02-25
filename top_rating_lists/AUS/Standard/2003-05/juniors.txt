@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Smerdon, David	AUS 1984 M 2422.6016593 62.9721716 3202305
+2 Xie, George	AUS 1986 M 2151.2109933 69.3257854 3202933

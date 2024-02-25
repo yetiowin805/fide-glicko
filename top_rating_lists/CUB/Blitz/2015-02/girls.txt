@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Rodriguez Caballero, Mayrelis	CUB 1996 1741.8223680 64.5145808 3514072
-2 Cabrera Nunez, Ledaimys	CUB 1996 1486.8547150 73.3762282 3514161
+1 Rodriguez Caballero, Mayrelis	CUB 1996 1741.7087977 64.5221488 3514072
+2 Cabrera Nunez, Ledaimys	CUB 1996 1486.7739355 73.3733300 3514161

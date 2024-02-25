@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Doluweera, Minul Sanjula	SRI 2000 M 1659.0056982 73.2135835 9910760
-2 Kuruppu, Supun Dasantha	SRI 1999 M 1648.7951397 72.2556102 9902805
-3 Wickramasinghe, Dilhara Ishini	SRI 2000 F 1537.3839931 73.4658934 9906738
+1 Doluweera, Minul Sanjula	SRI 2000 M 1658.8980658 73.2073912 9910760
+2 Kuruppu, Supun Dasantha	SRI 1999 M 1648.7161069 72.2509152 9902805
+3 Wickramasinghe, Dilhara Ishini	SRI 2000 F 1537.3404596 73.4662460 9906738

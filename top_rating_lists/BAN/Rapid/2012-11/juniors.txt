@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Abdullah, Al-Saif	BAN 1997 M 1972.5005286 74.0789929 10203257
+1 Abdullah, Al-Saif	BAN 1997 M 1972.3737948 74.0774347 10203257

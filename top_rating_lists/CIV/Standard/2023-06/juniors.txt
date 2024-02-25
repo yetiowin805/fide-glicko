@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Yavo Tchetche, Marie	CIV 2005 F 1520.2622406 70.3833009 20800266
+1 Yavo Tchetche, Marie	CIV 2005 F 1520.1963386 70.3826870 20800266

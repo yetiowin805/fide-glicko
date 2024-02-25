@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Miracola, Massimiliano	ITA 1995 M 1937.6582830 74.0518227 872423
+1 Miracola, Massimiliano	ITA 1995 M 1937.4806478 74.0419893 872423

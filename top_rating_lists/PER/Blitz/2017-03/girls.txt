@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Hilario, Aleyla	PER 2002 1762.5353127 71.7797767 3819400
-2 Pescoran Machaca, Mariabelen isa	PER 2006 1566.8850842 72.9372106 3831744
+1 Hilario, Aleyla	PER 2002 1762.3988622 71.7753595 3819400
+2 Pescoran Machaca, Mariabelen isa	PER 2006 1566.8598463 72.9372739 3831744

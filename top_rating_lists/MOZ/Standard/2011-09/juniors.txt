@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Paiva, Donaldo	MOZ 1991 M 2028.4582372 68.2207541 14800098
+1 Paiva, Donaldo	MOZ 1991 M 2028.3016291 68.2194264 14800098

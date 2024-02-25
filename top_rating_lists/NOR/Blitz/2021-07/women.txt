@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Odegaard, Eli Marit	NOR 1948 1123.6373244 61.0347663 1519263
+1 Odegaard, Eli Marit	NOR 1948 1123.5958383 61.0341012 1519263

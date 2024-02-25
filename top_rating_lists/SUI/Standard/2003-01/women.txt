@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Seps, Monika	SUI  2045.3738329 65.4665746 1308521
+1 Seps, Monika	SUI 0 2045.3738329 65.4665746 1308521

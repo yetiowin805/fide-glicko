@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Mekanova, Annagozel	TKM 0000 1487.6978216 74.4020365 14003902
+1 Mekanova, Annagozel	TKM 1900 1487.6355120 74.4023659 14003902

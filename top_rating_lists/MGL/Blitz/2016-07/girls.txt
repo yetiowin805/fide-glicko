@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Uuriintuya, Uurtsaikh	MGL 1998 1856.4011033 52.6663688 4900227
-2 Ulziikhishigjargal, Ochirkhuyag	MGL 2002 1775.5390509 69.2677943 4903188
+1 Uuriintuya, Uurtsaikh	MGL 1998 1856.2240851 52.6667296 4900227
+2 Ulziikhishigjargal, Ochirkhuyag	MGL 2002 1775.3997148 69.2621097 4903188

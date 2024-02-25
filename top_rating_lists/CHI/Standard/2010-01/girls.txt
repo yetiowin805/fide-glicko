@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Abarca Gonzalez, Damaris	CHI 1990 1868.5366158 64.0561618 3409414
-2 Jorquera Cabello, Valentina	CHI 1995 1820.7748397 52.5593712 3405494
+1 Abarca Gonzalez, Damaris	CHI 1990 1868.4724634 64.0538579 3409414
+2 Jorquera Cabello, Valentina	CHI 1995 1820.3739080 52.5568329 3405494

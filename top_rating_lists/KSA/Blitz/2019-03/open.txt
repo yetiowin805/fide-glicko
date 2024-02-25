@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al Mutlaq, Ibrahim A	KSA 1989 M 1516.4143764 69.4592617 21504610
+1 Al Mutlaq, Ibrahim A	KSA 1989 M 1516.3612962 69.4588340 21504610

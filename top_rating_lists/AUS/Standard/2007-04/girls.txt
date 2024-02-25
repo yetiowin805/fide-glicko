@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Song, Angela	AUS 1992 1892.2799191 64.5685216 3203832
+1 Song, Angela	AUS 1992 1892.2792608 64.5682742 3203832

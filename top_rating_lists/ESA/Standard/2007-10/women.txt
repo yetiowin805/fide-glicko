@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Melendez, Gabriela	ESA  1825.1477061 72.2067825 6700705
+1 Melendez, Gabriela	ESA 0 1825.1536710 72.2079604 6700705

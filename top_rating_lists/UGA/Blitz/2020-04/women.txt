@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Ampaire Shakira	UGA 1991 1550.9941472 74.7213035 10002782
+1 Ampaire Shakira	UGA 1991 1550.9524344 74.7205539 10002782

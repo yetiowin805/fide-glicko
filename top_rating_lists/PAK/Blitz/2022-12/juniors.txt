@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kamran, Fardad	PAK 2006 M 1536.4051639 56.4450945 7814372
+1 Kamran, Fardad	PAK 2006 M 1536.3922815 56.4455426 7814372

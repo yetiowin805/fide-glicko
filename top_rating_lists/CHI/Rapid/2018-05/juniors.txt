@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nauto Munoz, Isaias	CHI 2004 M 1781.3950048 65.5310421 3431746
+1 Nauto Munoz, Isaias	CHI 2004 M 1781.1517953 65.5406298 3431746

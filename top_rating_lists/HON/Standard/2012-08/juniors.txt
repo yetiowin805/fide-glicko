@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ustariz Rapalo, Andres Adolfo	HON 1995 M 1772.1012361 74.5526913 8400458
+1 Ustariz Rapalo, Andres Adolfo	HON 1995 M 1772.0712327 74.5523873 8400458

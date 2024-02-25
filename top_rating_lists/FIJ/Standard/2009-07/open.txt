@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Goundar, Sanmogam	FIJ 1965 M 1722.4647915 70.7426201 11400110
+1 Goundar, Sanmogam	FIJ 1965 M 1722.1289518 70.7323306 11400110

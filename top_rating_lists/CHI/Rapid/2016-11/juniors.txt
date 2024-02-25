@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Aguirre Contreras, Cristian	CHI 1996 M 1987.0738505 68.7607243 3412776
-2 Estrada Lavin, Cristian Alexand	CHI 1999 M 1801.3593146 65.4154122 3411710
+1 Aguirre Contreras, Cristian	CHI 1996 M 1986.9937759 68.7584095 3412776
+2 Estrada Lavin, Cristian Alexand	CHI 1999 M 1801.2994142 65.4145462 3411710

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Vasco Mateus Felizardo Viageiro	MOZ 2003 M 1785.7591111 73.2768971 14800403
+1 Vasco Mateus Felizardo Viageiro	MOZ 2003 M 1785.6641780 73.2743406 14800403

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Talibov, Shiroghlan	AZE 2006 M 2015.2668695 56.7366428 13429078
+1 Talibov, Shiroghlan	AZE 2006 M 2014.8352865 56.7342169 13429078

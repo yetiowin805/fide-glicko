@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Shoker, Samy	EGY 1987 M 2446.7462922 70.3789200 627143
+1 Shoker, Samy	EGY 1987 M 2446.6139313 70.3830198 627143

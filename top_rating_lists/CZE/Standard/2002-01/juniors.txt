@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Jirka, Jiri	CZE 1983 M 2343.6367701 64.3991453 311731
+2 Vaculik, Martin	CZE 1983 M 2263.5427520 72.6826156 310751

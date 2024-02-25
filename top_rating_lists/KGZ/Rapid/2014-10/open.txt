@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Akylbekov, Nasyr	KGZ 1984 M 2177.0608149 71.4949222 13800353
+1 Akylbekov, Nasyr	KGZ 1984 M 2176.7683934 71.5001087 13800353

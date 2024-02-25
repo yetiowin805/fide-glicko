@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Shaw, Jaden	JAM 2007 M 1784.8587107 64.6118665 7402880
+1 Shaw, Jaden	JAM 2007 M 1784.7169801 64.6112663 7402880

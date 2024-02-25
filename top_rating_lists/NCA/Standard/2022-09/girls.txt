@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Alvarez Gutierrez, Patricia	NCA 2002 1629.0320400 59.1065631 6105548
-2 Cabezas Calero, Abigail Carolina	NCA 2008 1464.2359596 69.2477044 6105971
+1 Alvarez Gutierrez, Patricia	NCA 2002 1628.9730599 59.1053306 6105548
+2 Cabezas Calero, Abigail Carolina	NCA 2008 1464.2049972 69.2473663 6105971

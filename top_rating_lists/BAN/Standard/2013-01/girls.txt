@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Ahmed, Mehnaz Mithila	BAN 1993 1618.6049501 73.5996732 10204687
+1 Ahmed, Mehnaz Mithila	BAN 1993 1618.5207189 73.5944775 10204687

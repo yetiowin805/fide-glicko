@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Movsziszian, Karen	ARM 1963 M 2365.2098228 65.0044792 13301152
+1 Movsziszian, Karen	ARM 1963 M 2365.0517629 65.0034360 13301152

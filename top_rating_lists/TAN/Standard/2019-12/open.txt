@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mwaisumbe, Emmanuel	TAN 0000 M 1671.4415776 74.8420550 10001875
+1 Mwaisumbe, Emmanuel	TAN 1900 M 1671.3733637 74.8412176 10001875

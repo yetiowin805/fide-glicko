@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al Badani, Abdu	YEM  M 2190.8690793 74.1676004 9400176
+1 Al Badani, Abdu	YEM 0 M 2190.8690793 74.1676004 9400176

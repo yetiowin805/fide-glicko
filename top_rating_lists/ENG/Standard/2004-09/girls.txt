@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Tidman, Sophie E	ENG 1984 2090.1423610 65.4416226 409111
+2 Gilbert, Jessie	ENG 1987 2067.8737121 65.5336669 409090

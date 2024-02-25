@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Roque Sola, Maria Fernanda	MEX 2000 F 1590.8087438 69.1858488 5115833
+1 Roque Sola, Maria Fernanda	MEX 2000 F 1590.6320029 69.1824376 5115833

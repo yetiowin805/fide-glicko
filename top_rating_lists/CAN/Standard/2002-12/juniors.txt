@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Bluvshtein, Mark	CAN 1988 M 2469.0388956 53.5592497 2603608
+2 Charbonneau, Pascal	CAN 1983 M 2423.4221085 60.6668859 2602504
+3 Roussel-Roozmon, Thomas	CAN 1988 M 2249.3389180 65.8498844 2603659

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hassuji, Nurdin	TAN 1976 M 1691.2858796 72.5084317 10001670
+1 Hassuji, Nurdin	TAN 1976 M 1691.2021385 72.5074860 10001670

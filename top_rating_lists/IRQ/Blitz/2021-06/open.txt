@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hussein Kadhim Hasan	IRQ 1968 M 1811.2068464 74.2490714 4802098
+1 Hussein Kadhim Hasan	IRQ 1968 M 1808.8435509 74.2027083 4802098

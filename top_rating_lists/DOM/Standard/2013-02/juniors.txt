@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Crispin Ferreras, Darvi Abraham	DOM 1993 M 1975.5339723 54.8572236 6402771
+1 Crispin Ferreras, Darvi Abraham	DOM 1993 M 1975.2971091 54.8532013 6402771

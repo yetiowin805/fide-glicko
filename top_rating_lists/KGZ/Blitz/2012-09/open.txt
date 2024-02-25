@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Taalaibekov, Tagir	KGZ 1998 M 1756.1974364 74.2593774 13801163
+1 Tologontegin, Semetey	KGZ 1990 M 2195.2948295 74.9984108 13800574
+2 Taalaibekov, Tagir	KGZ 1998 M 1756.0399729 74.2552871 13801163

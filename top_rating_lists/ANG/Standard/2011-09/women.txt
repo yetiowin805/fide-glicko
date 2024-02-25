@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Rosalina, Sonia	ANG  1549.4637008 73.6630384 10100164
+1 Rosalina, Sonia	ANG 0 1549.0528140 73.6468260 10100164

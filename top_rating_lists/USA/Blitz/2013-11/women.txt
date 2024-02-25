@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Krush, Irina	USA 1983 2345.7146936 69.8869884 2012782
+1 Krush, Irina	USA 1983 2345.4363736 69.8914089 2012782

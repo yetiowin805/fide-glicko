@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Petritaj, Ferdinando	ALB 1963 M 2071.9908807 74.7996257 4700619
+1 Petritaj, Ferdinando	ALB 1963 M 2071.8914160 74.7969943 4700619

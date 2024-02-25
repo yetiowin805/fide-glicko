@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Calacday, James	PHI 2007 M 1366.8064038 61.8646866 5217075
+1 Calacday, James	PHI 2007 M 1366.7207796 61.8631706 5217075

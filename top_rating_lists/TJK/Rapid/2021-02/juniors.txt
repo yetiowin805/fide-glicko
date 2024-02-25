@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Fayzieva, Darina	TJK 2006 F 1364.5910895 53.9015198 14701960
+1 Fayzieva, Darina	TJK 2006 F 1364.4871958 53.9006564 14701960

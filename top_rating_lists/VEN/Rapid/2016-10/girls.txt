@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Rating RD
-1 Camacho Villarreal, Beatriz Giov	VEN 2000 1564.3644697 73.2823367 3909093
-2 Pena Gonzalez, Clara Isabel	VEN 2004 1542.9344507 72.4994155 3924203
-3 Perez Hernandez, Vicmary C.	VEN 2005 1479.8996994 74.5000320 3930831
-4 Monsalve Montalban, Valentina De	VEN 2001 1449.5786492 74.6672337 3905330
+1 Camacho Villarreal, Beatriz Giov	VEN 2000 1564.3036069 73.2802784 3909093
+2 Pena Gonzalez, Clara Isabel	VEN 2004 1542.8861987 72.4981242 3924203
+3 Perez Hernandez, Vicmary C.	VEN 2005 1479.8631345 74.4997651 3930831
+4 Monsalve Montalban, Valentina De	VEN 2001 1449.5457106 74.6677164 3905330

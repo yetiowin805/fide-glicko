@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Cabezas Calero, Abigail Carolina	NCA 2008 1492.1682681 61.1763016 6105971
-2 Martinez Orozco, Cristiana Yorlene	NCA 2005 1491.9687954 66.0860323 6107079
-3 Munoz Cortez, Anahi Alexandra	NCA 2006 1417.9987468 68.1276654 6109527
+1 Cabezas Calero, Abigail Carolina	NCA 2008 1492.1379133 61.1760211 6105971
+2 Martinez Orozco, Cristiana Yorlene	NCA 2005 1491.9268171 66.0852747 6107079
+3 Munoz Cortez, Anahi Alexandra	NCA 2006 1417.9712001 68.1274074 6109527

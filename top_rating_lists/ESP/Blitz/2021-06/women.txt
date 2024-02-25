@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Anton Quevedo, Andrea	ESP 2000 1745.7242207 68.6878250 22275118
+1 Anton Quevedo, Andrea	ESP 2000 1745.6098193 68.6847595 22275118

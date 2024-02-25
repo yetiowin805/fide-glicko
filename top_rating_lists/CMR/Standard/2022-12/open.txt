@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ebosse Kingue Victor Patrick	CMR 1982 M 1873.5198076 69.5639541 16400291
+1 Ebosse Kingue Victor Patrick	CMR 1982 M 1873.4146326 69.5611733 16400291

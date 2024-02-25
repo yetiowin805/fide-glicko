@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Paehtz, Elisabeth	GER 1985 2390.2248747 68.5950784 4641833
+1 Paehtz, Elisabeth	GER 1985 2390.0740489 68.6069641 4641833

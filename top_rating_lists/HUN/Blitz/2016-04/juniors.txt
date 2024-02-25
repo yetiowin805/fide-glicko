@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Szukics, Adam	HUN 1999 M 1756.8973852 72.4744124 751871
+1 Szukics, Adam	HUN 1999 M 1756.6252674 72.4764076 751871

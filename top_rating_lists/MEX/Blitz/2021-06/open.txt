@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Flores Teillery, Alejandro Franci	MEX 2006 M 1743.4084361 72.0356595 5136660
-2 Diaz Espinoza, Axel Alberto	MEX 2001 M 1731.3082615 71.7984236 5128722
-3 Mendieta, Gallegos Diego Armando	MEX 2004 M 1548.3522878 70.8888707 5159580
+1 Flores Teillery, Alejandro Franci	MEX 2006 M 1743.3491251 72.0345937 5136660
+2 Diaz Espinoza, Axel Alberto	MEX 2001 M 1731.2401678 71.7967521 5128722
+3 Mendieta, Gallegos Diego Armando	MEX 2004 M 1548.3047662 70.8879997 5159580

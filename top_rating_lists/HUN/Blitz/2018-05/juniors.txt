@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Demeter, Dorina	HUN 2005 F 1867.4291300 74.8768212 778079
+1 Demeter, Dorina	HUN 2005 F 1867.1499533 74.8760912 778079

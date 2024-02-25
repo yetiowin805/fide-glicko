@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kagabo Mugema, Eugene	RWA 1978 M 1524.6667194 73.5191480 16000129
+1 Kagabo Mugema, Eugene	RWA 1978 M 1524.6126770 73.5189435 16000129

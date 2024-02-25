@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Yosif, Ayman Ali Dafa Alla	SUD 1999 M 1688.3137230 73.9215402 12204145
+1 Yosif, Ayman Ali Dafa Alla	SUD 1999 M 1688.2811725 73.9203755 12204145

@@ -1,9 +1,9 @@
 Rank Name Federation BirthYear Rating RD
-1 Pena Gonzalez, Clara Isabel	VEN 2004 1566.7722708 54.6487597 3924203
-2 Quintero Lugo, Gleimy Nacari	VEN 1985 1561.1282379 74.1000904 3910318
-3 Guadalajara Barrios, Jacksilany	VEN 2006 1462.1850250 65.3061571 3931242
-4 Araujo Briceno, Gilary Ahilyn	VEN 2007 1389.1769509 66.8429231 3935841
-5 Hernandez Mora, Nohelia Virginia	VEN 2005 1342.6015846 56.6121763 3915344
-6 Marin Murguey, Valentina Jatniel	VEN 2005 1283.5969951 72.6230734 3955478
-7 Larez Grinstein, Katherine Sofia	VEN 2007 1136.6408969 74.0631357 3965295
-8 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1128.2080566 66.2874594 3964051
+1 Pena Gonzalez, Clara Isabel	VEN 2004 1566.7087120 54.6481037 3924203
+2 Quintero Lugo, Gleimy Nacari	VEN 1985 1561.0627744 74.0997419 3910318
+3 Guadalajara Barrios, Jacksilany	VEN 2006 1462.1423436 65.3059350 3931242
+4 Araujo Briceno, Gilary Ahilyn	VEN 2007 1389.1391850 66.8426569 3935841
+5 Hernandez Mora, Nohelia Virginia	VEN 2005 1342.5603685 56.6120973 3915344
+6 Marin Murguey, Valentina Jatniel	VEN 2005 1283.5599435 72.6230537 3955478
+7 Larez Grinstein, Katherine Sofia	VEN 2007 1136.6041856 74.0629909 3965295
+8 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1128.1708665 66.2877257 3964051

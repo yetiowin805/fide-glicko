@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Ostensson, Julia	SWE 2005 1494.8351346 73.5179748 1747703
+1 Ostensson, Julia	SWE 2005 1494.8045883 73.5178272 1747703

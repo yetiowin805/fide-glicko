@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Cilenti, Giuseppe Maria	SMR 1989 M 1252.0396356 68.8681278 11800194
+1 Cilenti, Giuseppe Maria	SMR 1989 M 1251.9589893 68.8669402 11800194

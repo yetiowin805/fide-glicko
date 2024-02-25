@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Banlock, Benjamin Didier	CMR 1979 M 1894.0112163 74.2078233 15800059
+1 Banlock, Benjamin Didier	CMR 1979 M 1893.6373519 74.2063070 15800059

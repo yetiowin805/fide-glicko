@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Altarabichi,Hamza.	SYR 2007 M 1430.6080980 70.7658870 7612060
+1 Altarabichi,Hamza.	SYR 2007 M 1430.5840531 70.7656669 7612060

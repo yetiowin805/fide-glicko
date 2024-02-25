@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Meisch, Tanguy	LUX 1996 M 1623.2253151 73.3967482 4002407
+1 Meisch, Tanguy	LUX 1996 M 1622.9895605 73.3951610 4002407

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Salles, Henrique	BRA 2008 M 1546.1169544 74.9369743 22744444
+1 Salles, Henrique	BRA 2008 M 1545.7917049 74.9277015 22744444

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Juhasz, Barbara	HUN 1995 2125.7763558 73.4515230 743585
+1 Juhasz, Barbara	HUN 1995 2125.4720308 73.4531237 743585

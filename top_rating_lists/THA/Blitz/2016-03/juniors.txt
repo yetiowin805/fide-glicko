@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nunbhakdi, Tawin Matthew	THA 1998 M 1664.3849204 72.3228426 6203310
+1 Nunbhakdi, Tawin Matthew	THA 1998 M 1664.2860536 72.3218603 6203310

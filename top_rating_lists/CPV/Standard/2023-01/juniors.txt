@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Spinola, Divania	CPV 2005 F 1448.8663262 70.6326452 23600551
+1 Spinola, Divania	CPV 2005 F 1448.8379119 70.6321776 23600551

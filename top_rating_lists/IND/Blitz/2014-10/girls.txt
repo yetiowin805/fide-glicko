@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Savant, Riya	IND 2000 1780.4592247 73.0900305 5067359
+1 Savant, Riya	IND 2000 1780.2764411 73.0857615 5067359

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mwale, Joseph	MAW 1993 M 1979.6317428 73.1789415 16400135
+1 Mwale, Joseph	MAW 1993 M 1979.5787475 73.1771238 16400135

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Milligan, Helen	SCO 1962 1965.0305758 71.3929051 2401312
+1 Milligan, Helen	SCO 1962 1965.0064348 71.3916124 2401312

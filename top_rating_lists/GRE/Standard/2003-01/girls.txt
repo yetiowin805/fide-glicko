@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Makka, Ioulia	GRE 1983 2224.5933599 49.4771725 4205316
+2 Stiri, Alexandra	GRE 1984 2130.6234236 61.9372688 4205383

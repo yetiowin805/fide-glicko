@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Holusova, Tana	CZE 1986 2060.5039139 57.8486122 314781
+2 Dvorakova, Magda	CZE 1984 1954.8249732 70.7941330 317420

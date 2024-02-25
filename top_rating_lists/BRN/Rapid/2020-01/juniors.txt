@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Pranesh, J.r.	BRN 2007 M 1486.8676348 64.1788992 11202718
+1 Pranesh, J.r.	BRN 2007 M 1486.8410203 64.1786939 11202718

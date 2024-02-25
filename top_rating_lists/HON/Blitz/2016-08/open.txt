@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gavarrete, Nahun	HON 1994 M 2059.3038417 67.4097353 8400709
+1 Gavarrete, Nahun	HON 1994 M 2059.3010175 67.4096925 8400709

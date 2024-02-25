@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Khachatryan, Nadezhda	ARM 2004 1716.2968306 74.3194396 13310771
+1 Khachatryan, Nadezhda	ARM 2004 1715.8457875 74.3132733 13310771

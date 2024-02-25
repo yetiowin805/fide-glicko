@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Razanadrakotoarisoa, Toavina	MAD 2003 M 1896.9304347 71.4694508 13101439
-2 Rakotoarisoa Itokiana	MAD 2005 M 1581.2555047 72.3259200 13101870
+1 Razanadrakotoarisoa, Toavina	MAD 2003 M 1896.8542371 71.4685474 13101439
+2 Rakotoarisoa Itokiana	MAD 2005 M 1581.2196048 72.3258360 13101870

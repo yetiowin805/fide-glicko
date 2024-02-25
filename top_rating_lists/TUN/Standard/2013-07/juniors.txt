@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lahmar, Chaima	TUN 1997 F 1411.9619721 66.0012003 5502063
+1 Lahmar, Chaima	TUN 1997 F 1411.8032644 65.9980592 5502063

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nadir, Samir	SUD  M 2052.8042154 70.3593938 12200085
+1 Nadir, Samir	SUD 0 M 2052.7987437 70.3600405 12200085

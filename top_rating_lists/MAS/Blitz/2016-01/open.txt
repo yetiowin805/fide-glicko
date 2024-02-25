@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lim, Kian Hwa	MAS 1953 M 1558.6395987 70.4826334 5700744
+1 Lim, Kian Hwa	MAS 1953 M 1558.5377896 70.4780044 5700744

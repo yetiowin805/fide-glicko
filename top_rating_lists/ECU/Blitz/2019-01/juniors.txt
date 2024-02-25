@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Artieda Berru,Ariadna Ameli	ECU 2007 F 1505.0948199 74.6934509 3630293
+1 Artieda Berru,Ariadna Ameli	ECU 2007 F 1505.0499000 74.6936401 3630293

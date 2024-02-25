@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Marchesich, Giovanni	ITA 2004 M 2050.8562195 61.0870356 2824790
-2 Rubinshtein, Kamilla	ITA 2005 F 1558.0795855 67.5593575 2838708
+1 Marchesich, Giovanni	ITA 2004 M 2050.7472790 61.0864214 2824790
+2 Rubinshtein, Kamilla	ITA 2005 F 1557.8873223 67.5543118 2838708

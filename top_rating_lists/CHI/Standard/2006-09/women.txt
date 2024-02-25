@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Quinones, Jeannette	CHI  1956.6675082 74.8774795 3400743
+1 Quinones, Jeannette	CHI 0 1956.6675082 74.8774795 3400743

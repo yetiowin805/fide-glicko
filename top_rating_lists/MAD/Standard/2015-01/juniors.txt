@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rakotomaharo, Fy Antenaina	MAD 1999 M 2133.9583927 53.4475556 13100050
-2 Andriatsiferana, Irina	MAD 2000 F 1518.6360945 69.3882470 13100220
+1 Rakotomaharo, Fy Antenaina	MAD 1999 M 2133.5885619 53.4463086 13100050
+2 Andriatsiferana, Irina	MAD 2000 F 1518.5192769 69.3844698 13100220

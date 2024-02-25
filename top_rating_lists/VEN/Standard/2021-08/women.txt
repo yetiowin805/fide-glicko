@@ -1,8 +1,8 @@
 Rank Name Federation BirthYear Rating RD
-1 Ubertin Gomez, Katherin Rossmary	VEN 2002 1613.0384739 71.0178163 3916391
-2 Guadalajara Barrios, Jacksilany	VEN 2006 1506.5385303 72.3643933 3931242
-3 Guerrero Corniel, Gabriela Alejandra	VEN 2004 1446.1266125 71.1493997 3905110
-4 Velasquez Font, Majeiqueilin Valentina	VEN 2006 1366.8840777 67.1191704 3959082
-5 Hernandez Mora, Nohelia Virginia	VEN 2005 1297.0004449 64.9539330 3915344
-6 Matute Ferrer, Rosa Angelina	VEN 1967 1266.8356930 67.0412609 3969177
-7 Leon De Canha, Yassell Arianne	VEN 2008 1261.9101591 63.2363523 3974898
+1 Ubertin Gomez, Katherin Rossmary	VEN 2002 1612.9492832 71.0174015 3916391
+2 Guadalajara Barrios, Jacksilany	VEN 2006 1506.4653695 72.3640972 3931242
+3 Guerrero Corniel, Gabriela Alejandra	VEN 2004 1446.0630405 71.1489337 3905110
+4 Velasquez Font, Majeiqueilin Valentina	VEN 2006 1366.8287609 67.1188061 3959082
+5 Hernandez Mora, Nohelia Virginia	VEN 2005 1296.9477503 64.9539814 3915344
+6 Matute Ferrer, Rosa Angelina	VEN 1967 1266.7745593 67.0408352 3969177
+7 Leon De Canha, Yassell Arianne	VEN 2008 1261.8556243 63.2359333 3974898

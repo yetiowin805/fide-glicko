@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Munoz Pantoja, Miguel	PER  M 2443.9128798 70.0910097 3800229
+1 Munoz Pantoja, Miguel	PER 0 M 2443.9128798 70.0910097 3800229

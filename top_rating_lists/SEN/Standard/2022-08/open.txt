@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lesbros, Bernard	SEN 1948 M 1783.5243380 69.3957235 614831
+1 Lesbros, Bernard	SEN 1948 M 1783.3742456 69.3962461 614831

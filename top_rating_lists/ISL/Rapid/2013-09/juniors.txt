@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ragnarsson, Dagur	ISL 1997 M 1862.8911190 74.0408000 2304058
+1 Ragnarsson, Dagur	ISL 1997 M 1862.7556211 74.0389240 2304058

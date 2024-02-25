@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Han, Yichen	NED 2007 M 2171.9715525 61.8156333 1054430
+1 Han, Yichen	NED 2007 M 2171.8646582 61.8136235 1054430

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Pinales Roussel, Gabriel	PUR 1998 M 1802.3882592 70.8049465 3101762
+1 Pinales Roussel, Gabriel	PUR 1998 M 1802.3007546 70.8036837 3101762

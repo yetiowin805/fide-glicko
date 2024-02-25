@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Tipter, Napoleon	FID  M 1945.1597244 62.8574147 1209019
+1 Tipter, Napoleon	FID 0 M 1945.0754609 62.8590246 1209019

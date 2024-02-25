@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Msukwa Tupokiwe	MAW 1998 F 1291.1840869 71.9770333 20500459
+1 Msukwa Tupokiwe	MAW 1998 F 1291.1268147 71.9763447 20500459

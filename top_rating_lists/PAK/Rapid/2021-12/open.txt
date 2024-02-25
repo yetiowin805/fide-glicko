@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Zorez, Shabkhez	PAK 1998 M 1863.3829402 73.4952938 7801033
+1 Zorez, Shabkhez	PAK 1998 M 1863.3760452 73.4953686 7801033

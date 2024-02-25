@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Georgitsi, Antigoni	GRE 2001 1724.3321525 74.5999184 4246527
+1 Georgitsi, Antigoni	GRE 2001 1724.3090557 74.5993507 4246527

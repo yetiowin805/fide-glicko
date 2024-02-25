@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Batsuren, Dambasuren	MGL 2004 M 2335.9913121 71.7130566 4902920
+1 Batsuren, Dambasuren	MGL 2004 M 2335.6853776 71.7133832 4902920

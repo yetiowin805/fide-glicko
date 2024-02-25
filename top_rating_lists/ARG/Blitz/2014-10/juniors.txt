@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Brizzi, Milagros Tatiana	ARG 1996 F 1682.6108292 70.4189331 128350
+1 Brizzi, Milagros Tatiana	ARG 1996 F 1682.4413554 70.4175908 128350

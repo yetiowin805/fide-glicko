@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Weissenhofer, Jonas	LIE 2006 M 1441.2066987 62.5336573 12000183
+1 Weissenhofer, Jonas	LIE 2006 M 1440.9773495 62.5333614 12000183

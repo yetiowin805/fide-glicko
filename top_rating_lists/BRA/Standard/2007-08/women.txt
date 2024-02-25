@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Terao, Juliana Sayumi	BRA 1991 2044.3156938 69.7827851 2109220
-2 Soler Di Benedetto, Sandra	BRA 1975 1856.6197201 72.7474056 2111578
+1 Terao, Juliana Sayumi	BRA 1991 2045.3822676 69.9187840 2109220
+2 Soler Di Benedetto, Sandra	BRA 1975 1856.5507821 72.7514713 2111578

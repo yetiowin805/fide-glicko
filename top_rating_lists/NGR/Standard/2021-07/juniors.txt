@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Okeke Issac	NGR 2003 M 1891.7058692 62.3907399 8508526
+1 Okeke Issac	NGR 2003 M 1891.5951753 62.3889901 8508526

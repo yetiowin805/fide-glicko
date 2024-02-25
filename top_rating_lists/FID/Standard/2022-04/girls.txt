@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Maltsevskaya, Aleksandra	FID 2002 2219.8646214 45.4082830 24174041
+1 Maltsevskaya, Aleksandra	FID 2002 2219.5702860 45.4078062 24174041

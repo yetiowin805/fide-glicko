@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Quinones, Jeannette	CHI  1944.8047259 67.8761805 3400743
+1 Quinones, Jeannette	CHI 0 1944.8047259 67.8761805 3400743
 2 Ramos, Daniela	CHI 1983 1778.1026313 71.0218191 3405923

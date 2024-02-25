@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Deshpande, Sanjana Satish	KEN 1997 1319.1410305 66.9686378 10800964
+1 Deshpande, Sanjana Satish	KEN 1997 1319.0344781 66.9665920 10800964

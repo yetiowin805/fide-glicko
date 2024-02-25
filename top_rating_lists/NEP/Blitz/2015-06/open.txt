@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lama, Surbir	NEP 1977 M 1918.3270084 74.3973776 5017432
+1 Lama, Surbir	NEP 1977 M 1918.1944088 74.3952623 5017432

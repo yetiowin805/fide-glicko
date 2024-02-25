@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Pleasants, Allan J	WLS 1960 M 1996.9871386 70.8186685 411337
+1 Pleasants, Allan J	WLS 1960 M 1996.9512490 70.8213287 411337

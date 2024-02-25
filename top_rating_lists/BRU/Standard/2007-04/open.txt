@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Pg, Mohd Omar Ak Hira	BRU  M 2115.3884040 74.8782137 10500103
+1 Pg, Mohd Omar Ak Hira	BRU 0 M 2115.3884040 74.8782137 10500103

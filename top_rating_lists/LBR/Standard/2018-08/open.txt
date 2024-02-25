@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 charles haji kiadii	LBR 1976 M 1755.5873304 72.4202083 22600159
+1 charles haji kiadii	LBR 1976 M 1755.4980907 72.4177522 22600159

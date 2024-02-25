@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ntumwa Calvin	UGA 2002 M 1551.9749219 61.9315471 10015639
+1 Ntumwa Calvin	UGA 2002 M 1551.9469031 61.9308739 10015639

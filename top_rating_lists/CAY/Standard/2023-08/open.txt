@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Tracey, Shaun M	CAY 1979 M 1550.8287683 60.1209336 419052
+1 Tracey, Shaun M	CAY 1979 M 1550.6805687 60.1207895 419052

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 De Gondo, Simplice Armel	CIV 1985 M 1926.4139477 65.6445748 14306310
+1 De Gondo, Simplice Armel	CIV 1985 M 1926.3628096 65.6425118 14306310

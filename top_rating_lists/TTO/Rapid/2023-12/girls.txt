@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Martin, Kayla	TTO 2004 1563.7553225 74.3641451 7706650
+1 Martin, Kayla	TTO 2004 1563.7287441 74.3625007 7706650

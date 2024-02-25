@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Darbinyan, Nune	ARM 1990 2031.5143945 64.7774287 13302566
+1 Darbinyan, Nune	ARM 1990 2031.5159785 64.7773881 13302566

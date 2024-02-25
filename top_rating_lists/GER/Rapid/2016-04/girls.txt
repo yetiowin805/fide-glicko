@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Shirov-Michna, Masza	GER 1999 1467.6572384 69.8612628 12921998
+1 Shirov-Michna, Masza	GER 1999 1467.3210169 69.8574904 12921998

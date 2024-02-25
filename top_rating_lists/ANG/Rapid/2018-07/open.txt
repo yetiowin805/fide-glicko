@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Julio, Joao Manuel dos Santos	ANG 1973 M 1884.0100781 72.8001384 10100440
+1 Julio, Joao Manuel dos Santos	ANG 1973 M 1883.9364093 72.7993797 10100440

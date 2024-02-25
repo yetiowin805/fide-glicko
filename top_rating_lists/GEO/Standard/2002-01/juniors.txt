@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Jobava, Baadur	GEO 1983 M 2565.5916561 53.3892237 13601520
+2 Shamugia, Shavlegi	GEO 1982 M 2312.6342831 65.2680195 13602195

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nahapetyan, Gor	FIJ 2003 M 1522.5514033 71.3862986 11400676
+1 Nahapetyan, Gor	FIJ 2003 M 1522.5267210 71.3867448 11400676

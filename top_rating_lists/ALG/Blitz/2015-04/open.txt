@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Latreche, Sabrina	ALG 1993 F 1955.6181175 73.1323687 7901798
+1 Latreche, Sabrina	ALG 1993 F 1955.2974441 73.1274177 7901798

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Levi, Netanel	ISR 2001 M 1945.3750687 73.9693190 2815400
+1 Levi, Netanel	ISR 2001 M 1945.0984568 73.9683350 2815400

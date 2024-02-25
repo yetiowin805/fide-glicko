@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Dogan, Sevval	TUR 1999 1650.3524705 71.2626502 6322565
+1 Dogan, Sevval	TUR 1999 1650.3238666 71.2626741 6322565

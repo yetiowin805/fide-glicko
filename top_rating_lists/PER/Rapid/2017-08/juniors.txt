@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Quirhuayo Chumbe, German Gonzalo	PER 2002 M 2338.5489427 73.1366611 3813509
+1 Quirhuayo Chumbe, German Gonzalo	PER 2002 M 2338.3462096 73.1358502 3813509

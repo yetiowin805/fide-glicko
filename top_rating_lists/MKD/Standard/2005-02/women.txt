@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Sekulovska, Vesna	MKD  2096.6569146 68.9984509 15000648
-2 Kierzek, Mira	MKD 55 1997.8482306 74.7278649 15002110
+1 Sekulovska, Vesna	MKD 0 2096.6569146 68.9984509 15000648

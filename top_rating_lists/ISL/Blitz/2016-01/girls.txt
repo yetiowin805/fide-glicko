@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Magnusdottir, Veronika Steinunn	ISL 1998 1433.7662031 74.0607021 2309114
-2 Birkisdottir, Freyja	ISL 2006 1378.8863210 57.1606888 2311860
+1 Magnusdottir, Veronika Steinunn	ISL 1998 1433.6993994 74.0596653 2309114
+2 Birkisdottir, Freyja	ISL 2006 1378.8570914 57.1598874 2311860

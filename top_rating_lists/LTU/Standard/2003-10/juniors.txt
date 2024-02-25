@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Cmilyte, Viktorija (IM)	LTU 1983 F 2402.9666904 63.0308562 12801259
+2 Zaksaite, Salomeja	LTU 1985 F 2274.7577636 65.8439817 12801496
+3 Limontas, Martynas	LTU 1984 M 2220.9864460 74.5497477 12801828

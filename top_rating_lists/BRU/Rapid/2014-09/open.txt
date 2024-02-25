@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hj, Azahari Md Aliuddin	BRU 0000 M 1821.9581911 72.3603454 10500324
+1 Hj, Azahari Md Aliuddin	BRU 1900 M 1821.6861902 72.3571646 10500324

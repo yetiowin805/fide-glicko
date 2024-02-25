@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Greeff, Melissa	RSA 1994 F 1862.1060996 63.5147111 14301504
+1 Greeff, Melissa	RSA 1994 F 1862.4388881 63.5377286 14301504

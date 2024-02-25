@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mesfin, Leykun	ETH 1976 M 2004.3177882 74.9045725 15700097
+1 Mesfin, Leykun	ETH 1976 M 2004.1734484 74.9021415 15700097

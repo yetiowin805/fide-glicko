@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al Moshaiti, Khalil	LBA 1994 M 1759.0336980 74.9752694 9200525
+1 Al Moshaiti, Khalil	LBA 1994 M 1758.6101479 74.9453781 9200525

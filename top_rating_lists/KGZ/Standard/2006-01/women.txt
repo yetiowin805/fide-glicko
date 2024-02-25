@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Tilenbaeva, Janyl	KGZ  1962.8320778 66.8734512 13800396
+1 Tilenbaeva, Janyl	KGZ 0 1962.8320778 66.8734512 13800396

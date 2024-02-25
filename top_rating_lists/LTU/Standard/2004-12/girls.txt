@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Zaksaite, Salomeja	LTU 1985 2285.8205447 70.4823809 12801496
+2 Limontaite, Simona	LTU 1987 2007.9400699 61.3677229 12802506

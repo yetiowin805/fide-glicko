@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Martinez Duany, Lelys Stanley	CUB 1985 M 2466.9087160 70.9367050 3504727
-2 Hevia Alejano, Carlos Antonio	CUB 1991 M 2322.7307294 68.2738083 3508811
+1 Martinez Duany, Lelys Stanley	CUB 1985 M 2466.7425525 70.9582735 3504727
+2 Hevia Alejano, Carlos Antonio	CUB 1991 M 2322.4896031 68.2743712 3508811

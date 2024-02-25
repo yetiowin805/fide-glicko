@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Gomez Barrera, Javiera Belen	CHI 2002 1815.6524868 70.7557357 3418723
-2 Hormazabal Figueroa, Constanza Va	CHI 2004 1609.8228023 74.9286846 3435679
-3 Mundaca Bermedo, Pia	CHI 2007 1577.3092981 67.7958440 3430170
+1 Gomez Barrera, Javiera Belen	CHI 2002 1815.5163375 70.7542431 3418723
+2 Hormazabal Figueroa, Constanza Va	CHI 2004 1609.7086487 74.9247975 3435679
+3 Mundaca Bermedo, Pia	CHI 2007 1577.2692919 67.7950550 3430170

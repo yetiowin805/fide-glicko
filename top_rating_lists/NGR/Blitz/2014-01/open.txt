@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Othman, Mustapha	NGR 1984 M 1807.6266437 71.2776069 8500797
+1 Othman, Mustapha	NGR 1984 M 1807.5181203 71.2762675 8500797

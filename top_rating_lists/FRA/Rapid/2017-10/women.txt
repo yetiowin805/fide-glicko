@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 McDonald, Margaret	FRA 1959 1380.9393667 71.1836655 420417
+1 McDonald, Margaret	FRA 1959 1380.8594849 71.1865195 420417

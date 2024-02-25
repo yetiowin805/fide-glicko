@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Haddouche, Mohamed	ALG 1984 M 2376.6667650 74.2111480 7900660
-2 Boulahouache, Djamel Eddine	ALG 1987 M 1685.4526405 68.6591838 7902166
+1 Haddouche, Mohamed	ALG 1984 M 2376.6822644 74.2145417 7900660
+2 Boulahouache, Djamel Eddine	ALG 1987 M 1685.2661196 68.6585447 7902166

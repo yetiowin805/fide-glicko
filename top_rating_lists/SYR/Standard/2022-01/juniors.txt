@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Yaghi,leen	SYR 2007 F 1610.6879264 70.9550941 7607580
+1 Yaghi,leen	SYR 2007 F 1610.5327496 70.9522611 7607580

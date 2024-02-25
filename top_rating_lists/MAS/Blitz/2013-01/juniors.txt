@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Subramaniam, Sumant	MAS 1993 M 1978.1703862 73.6547850 5702720
+1 Subramaniam, Sumant	MAS 1993 M 1978.0838176 73.6536276 5702720

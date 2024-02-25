@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Papa, Severin	SUI 1985 M 2363.9081921 40.0252529 1305891
+2 Pinol Fulgoni, Fabrice	SUI 1984 M 2191.3977311 52.1884946 1306723

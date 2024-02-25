@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lopez Gonzalez, Abel Fabian	CUB 1997 M 1885.2805570 73.9060418 3512673
+1 Lopez Gonzalez, Abel Fabian	CUB 1997 M 1885.1983099 73.9020204 3512673

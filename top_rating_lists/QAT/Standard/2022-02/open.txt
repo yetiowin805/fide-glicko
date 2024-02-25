@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Aziz, Husain	QAT 1985 M 2192.2607114 74.4812092 12100293
+1 Aziz, Husain	QAT 1985 M 2192.0190048 74.4875147 12100293

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Morales Flores, Monserrat	CHI 1994 1937.3018472 65.3112288 3412016
-2 Rossel Grandon, Maria Ignacia	CHI 2010 1339.4357392 73.7226409 3431509
+1 Morales Flores, Monserrat	CHI 1994 1937.3708034 65.3193673 3412016
+2 Rossel Grandon, Maria Ignacia	CHI 2010 1339.4375645 73.7180256 3431509

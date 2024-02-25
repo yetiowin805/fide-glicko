@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Goh, Weiming	SIN 1983 M 2287.9271096 69.3763117 5800706
+2 Leong, Luke	SIN 1986 M 2261.7327600 69.7407486 5800820

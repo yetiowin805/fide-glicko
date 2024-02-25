@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Pham, Le Thao Nguyen	VIE 1987 2349.0079804 67.2177675 12401226
+1 Pham, Le Thao Nguyen	VIE 1987 2348.8610390 67.2166841 12401226

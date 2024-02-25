@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Cramling, Pia	SWE 1963 2349.3332700 65.9861519 1700030
+1 Cramling, Pia	SWE 1963 2349.0310124 65.9867278 1700030

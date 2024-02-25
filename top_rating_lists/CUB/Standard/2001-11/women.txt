@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Pina, Sulennis	CUB  2417.4900711 70.5556690 3503151
+1 Pina, Sulennis	CUB 0 2417.4900711 70.5556690 3503151

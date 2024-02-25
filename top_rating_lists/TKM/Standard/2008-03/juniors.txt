@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hojamgulyev, Bahodur	TKM 1988 M 2129.0044628 58.9982204 14000970
+1 Hojamgulyev, Bahodur	TKM 1988 M 2128.6379818 59.0045941 14000970

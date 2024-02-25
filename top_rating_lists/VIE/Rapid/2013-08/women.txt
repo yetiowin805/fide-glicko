@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Nguyen, Thi Minh Oanh	VIE 1999 1600.9975541 72.5160471 12404080
+1 Nguyen, Thi Minh Oanh	VIE 1999 1600.9659082 72.5159280 12404080

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mongontuul, Bathuyag	MGL 1987 F 2266.9050011 48.7884815 4900758
+2 Anhchimeg, Bayanmonh	MGL 1983 F 2150.2158780 68.1952523 4900600

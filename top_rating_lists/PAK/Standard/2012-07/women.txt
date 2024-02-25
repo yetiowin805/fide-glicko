@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Siddiqui, Nida Mishraz	PAK 1987 1476.0588941 64.7856712 7800495
+1 Siddiqui, Nida Mishraz	PAK 1987 1475.9127069 64.7809004 7800495

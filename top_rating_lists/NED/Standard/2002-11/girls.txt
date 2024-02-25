@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Bensdorp, Marlies	NED 1985 2133.7674157 59.5120979 1009311
+2 Muhren, Bianca	NED 1986 2028.3769255 74.2122622 1008498

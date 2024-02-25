@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Dlamini, Temahlubi Queen	SWZ 2000 F 1473.4215114 72.8259171 14318091
+1 Dlamini, Temahlubi Queen	SWZ 2000 F 1473.3667412 72.8254870 14318091

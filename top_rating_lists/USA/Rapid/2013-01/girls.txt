@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Chiang, Sarah	USA 1997 1946.6489526 73.9074280 2010810
+1 Chiang, Sarah	USA 1997 1946.1784134 73.9076759 2010810

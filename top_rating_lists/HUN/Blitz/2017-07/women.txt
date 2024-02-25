@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Reisinger, Rita	HUN 1992 1429.1073422 65.6359832 789917
+1 Reisinger, Rita	HUN 1992 1428.8036625 65.6295178 789917

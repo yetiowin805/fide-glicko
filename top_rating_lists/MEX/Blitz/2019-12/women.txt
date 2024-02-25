@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Balandran Duarte, Tania	MEX 1991 1640.8803359 69.6206621 5104793
-2 Martinez Mares, Genesis Alejandra	MEX 2005 1506.1297137 71.0340235 5144264
-3 De La Rosa Gonzalez, Fiona Denise	MEX 1979 1412.3206768 72.4670171 5139015
+1 Balandran Duarte, Tania	MEX 1991 1640.5270578 69.6206438 5104793
+2 Martinez Mares, Genesis Alejandra	MEX 2005 1506.0854804 71.0318731 5144264
+3 De La Rosa Gonzalez, Fiona Denise	MEX 1979 1412.2252272 72.4629774 5139015

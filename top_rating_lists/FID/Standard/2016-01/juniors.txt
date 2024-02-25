@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Adnan, Habib	FID 2001 M 1697.2473220 74.0694461 11202270
+1 Adnan, Habib	FID 2001 M 1697.1489888 74.0658595 11202270

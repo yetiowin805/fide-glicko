@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Torres, Carolina	HON  1817.0363897 68.7085402 8400504
+1 Torres, Carolina	HON 0 1816.9899951 68.7060533 8400504

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Singh, Vishnu	TRI 1995 M 1843.6377382 66.5253789 7700946
+1 Singh, Vishnu	TRI 1995 M 1843.3087002 66.5233538 7700946

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Sharaf, Hawra	BRN 2003 1504.7308789 68.4650178 11205679
+1 Sharaf, Hawra	BRN 2003 1504.7090058 68.4647872 11205679

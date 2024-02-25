@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Pieters, David	AHO 2002 M 1661.8053930 74.8501183 7500564
+1 Pieters, David	AHO 2002 M 1661.6898112 74.8491537 7500564

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Tagelsir , Abubaker	SUD 1982 M 1899.3247488 74.2894267 12200875
+1 Tagelsir , Abubaker	SUD 1982 M 1899.2278281 74.2878099 12200875

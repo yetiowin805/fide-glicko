@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Baliuniene, Margarita	DEN 1960 1748.0318672 69.9655392 12802760
+1 Baliuniene, Margarita	DEN 1960 1747.8900571 69.9644831 12802760

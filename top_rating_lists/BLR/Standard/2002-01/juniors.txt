@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Teterev, Vitaly	BLR 1983 M 2388.6729176 71.8565492 13501429

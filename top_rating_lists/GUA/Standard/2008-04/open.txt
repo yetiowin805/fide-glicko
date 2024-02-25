@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mencos, Claudia	GUA  M 1891.0874113 73.6766538 7300573
+1 Mencos, Claudia	GUA 0 M 1890.9732522 73.6682676 7300573

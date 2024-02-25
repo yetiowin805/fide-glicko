@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Castillo Pena, Patricia Evarista	DOM 1991 1696.2289535 71.2472071 6412106
-2 Ramirez Luzon, Franchesca	DOM 2004 1632.7230942 62.9833345 6421792
+1 Castillo Pena, Patricia Evarista	DOM 1991 1696.0688272 71.2463492 6412106
+2 Ramirez Luzon, Franchesca	DOM 2004 1632.5655537 62.9815261 6421792

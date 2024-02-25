@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Obregon Amador, Jose Francisco	HON 1985 M 1774.0012851 65.9895670 8400857
+1 Obregon Amador, Jose Francisco	HON 1985 M 1774.0014357 65.9895218 8400857

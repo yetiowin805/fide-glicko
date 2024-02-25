@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Njili, Kamel	TUN 1982 M 2049.1601149 74.8911111 5500869
+1 Njili, Kamel	TUN 1982 M 2049.0468369 74.8889937 5500869

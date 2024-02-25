@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Leslie-Smith, Lance	RSA 2002 M 1679.1798557 72.9847195 14326906
+1 Leslie-Smith, Lance	RSA 2002 M 1679.0901490 72.9836565 14326906

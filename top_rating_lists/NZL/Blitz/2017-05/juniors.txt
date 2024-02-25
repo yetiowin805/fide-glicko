@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Picken, Oliver	NZL 2003 M 1645.8749792 73.3208601 4304764
+1 Picken, Oliver	NZL 2003 M 1645.7513283 73.3166559 4304764

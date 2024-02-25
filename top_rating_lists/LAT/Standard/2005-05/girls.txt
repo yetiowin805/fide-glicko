@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Rogule, Laura	LAT 1988 2243.3647919 59.6687104 11601876
+2 Orlovska, Madara	LAT 1986 1995.1415910 73.7251362 11601825

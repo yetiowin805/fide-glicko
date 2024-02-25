@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Khoo, Selina	ENG 1991 F 1745.1225297 69.9143335 413488
+1 Khoo, Selina	ENG 1991 F 1744.9109430 69.9085716 413488

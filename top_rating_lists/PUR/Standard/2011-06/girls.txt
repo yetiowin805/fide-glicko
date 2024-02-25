@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Sanchez Rodriguez, Wilmairi	PUR 1991 1724.7944122 67.2580623 3101185
-2 Vazquez Maccarini, Danitza	PUR 2000 1630.4561041 73.7174296 3101193
+1 Sanchez Rodriguez, Wilmairi	PUR 1991 1724.5176508 67.2546690 3101185
+2 Vazquez Maccarini, Danitza	PUR 2000 1630.2413457 73.7154025 3101193

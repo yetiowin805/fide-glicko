@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Hansen, Herborg	FAI 1990 1733.3110914 67.9143611 7200269
+1 Hansen, Herborg	FAI 1990 1731.4529461 67.9119018 7200269

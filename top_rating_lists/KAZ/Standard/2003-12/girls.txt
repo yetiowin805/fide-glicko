@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Aketaeva, Dana	KAZ 1986 2176.6077602 58.2457501 13701932
+2 Zigangirova, Sofya	KAZ 1983 2169.5149940 50.9345312 13701282

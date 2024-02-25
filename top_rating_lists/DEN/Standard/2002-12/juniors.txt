@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Palo, Davor	DEN 1985 M 2459.3096914 53.5586654 1405853
+2 Rasmussen, Allan Stig	DEN 1983 M 2349.8655750 73.7626869 1406000
+3 Pedersen, Christian Kyndel	DEN 1985 M 2218.7069346 66.1382107 1406710

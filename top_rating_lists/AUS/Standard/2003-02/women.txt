@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Szuveges, Narelle	AUS  1881.7232461 64.5396771 3202640
+1 Szuveges, Narelle	AUS 0 1858.1526516 73.0479879 3202640

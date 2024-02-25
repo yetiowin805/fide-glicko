@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Comas Colon, Rinelly	PUR 1995 1741.7400915 66.2795522 3101576
-2 Vazquez Maccarini, Danitza	PUR 2000 1726.8531750 60.8981830 3101193
+1 Comas Colon, Rinelly	PUR 1995 1741.5598699 66.2765328 3101576
+2 Vazquez Maccarini, Danitza	PUR 2000 1726.6475636 60.8961336 3101193

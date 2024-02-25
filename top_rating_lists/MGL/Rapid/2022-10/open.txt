@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Munkhbayar, Janjaadorj	MGL 1971 M 2000.6438860 62.7817756 4900200
+1 Munkhbayar, Janjaadorj	MGL 1971 M 2000.4824922 62.7782161 4900200

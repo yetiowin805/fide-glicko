@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Vasquez Schroeder, Rodrigo	CHI 1969 M 2491.1685719 67.7106971 3400042
-2 Valenzuela Gomez, Fernando	CHI 1991 M 2198.2977371 51.9174525 3409392
+1 Vasquez Schroeder, Rodrigo	CHI 1969 M 2490.9761179 67.7112984 3400042
+2 Valenzuela Gomez, Fernando	CHI 1991 M 2198.1428393 51.9184287 3409392

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Corrigan, James	WLS 1993 M 1743.0795616 69.5955107 1804006
+1 Corrigan, James	WLS 1993 M 1743.0010099 69.5948193 1804006

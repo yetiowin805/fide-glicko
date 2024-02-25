@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gameel, Mohamed	YEM 1994 M 2110.5062437 65.9273516 9401440
+1 Gameel, Mohamed	YEM 1994 M 2110.2805364 65.9271673 9401440

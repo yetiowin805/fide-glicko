@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kastanieda, Alla	PER 2006 F 1539.9225186 65.2622080 34166189
+1 Kastanieda, Alla	PER 2006 F 1539.6846349 65.2582733 34166189

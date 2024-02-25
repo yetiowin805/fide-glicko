@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Vasquez Vasquez, Marielos	ESA 2007 F 1584.2943529 61.0714143 6705723
+1 Vasquez Vasquez, Marielos	ESA 2007 F 1584.2051909 61.0677185 6705723

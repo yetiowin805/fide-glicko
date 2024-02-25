@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Musonda Chola	ZAM 2000 M 1995.6321069 69.8905392 8706050
+1 Musonda Chola	ZAM 2000 M 1995.5437270 69.8894443 8706050

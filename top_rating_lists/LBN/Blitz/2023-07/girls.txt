@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Fawaz, Nadia	LBN 2010 1571.9998374 68.8569890 5309743
+1 Fawaz, Nadia	LBN 2010 1571.9163512 68.8572786 5309743

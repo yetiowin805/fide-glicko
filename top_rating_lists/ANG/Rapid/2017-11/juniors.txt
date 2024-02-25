@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Silva, David	ANG 1998 M 2159.3784335 72.0427435 10101314
+1 Silva, David	ANG 1998 M 2159.2686376 72.0380207 10101314

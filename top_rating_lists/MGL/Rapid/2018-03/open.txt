@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nomin-Erdene, Davaademberel	MGL 2000 F 2194.5492862 66.9889643 4900782
-2 Davaademberel, Purevdorj	MGL 1981 M 1946.6015156 70.3498586 4902335
+1 Nomin-Erdene, Davaademberel	MGL 2000 F 2194.2404241 66.9890075 4900782
+2 Davaademberel, Purevdorj	MGL 1981 M 1946.2695034 70.3490861 4902335

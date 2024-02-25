@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Uzoqov, Nasimjon	TJK 2001 M 1374.2380757 73.9877356 14702428
+1 Uzoqov, Nasimjon	TJK 2001 M 1374.0386786 73.9857927 14702428

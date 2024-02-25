@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Hilario, Aleyla	PER 2002 1762.5353127 70.0524911 3819400
-2 Gutierrez Bravo, Nicole Abigail	PER 1999 1599.7053945 74.5521351 3816516
-3 Pescoran Machaca, Mariabelen isa	PER 2006 1566.8850842 71.2375479 3831744
+1 Hilario, Aleyla	PER 2002 1762.3988622 70.0479767 3819400
+2 Gutierrez Bravo, Nicole Abigail	PER 1999 1599.5758357 74.5508310 3816516
+3 Pescoran Machaca, Mariabelen isa	PER 2006 1566.8598463 71.2376127 3831744

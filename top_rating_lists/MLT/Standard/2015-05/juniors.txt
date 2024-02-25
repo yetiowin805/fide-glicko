@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Farrugia, Jamie	MLT 1999 F 1507.9002624 69.6368438 5600898
+1 Farrugia, Jamie	MLT 1999 F 1507.7788201 69.6349522 5600898

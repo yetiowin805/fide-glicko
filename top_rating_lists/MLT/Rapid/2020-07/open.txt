@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lombard, Olivier	MLT 1985 M 1807.5213297 73.6795271 5602386
+1 Lombard, Olivier	MLT 1985 M 1807.3998321 73.6778203 5602386

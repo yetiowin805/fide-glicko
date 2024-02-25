@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Tchouka, Yakini	TOG 1996 M 1886.5505350 60.9874634 21201382
+1 Tchouka, Yakini	TOG 1996 M 1886.3736126 60.9871049 21201382

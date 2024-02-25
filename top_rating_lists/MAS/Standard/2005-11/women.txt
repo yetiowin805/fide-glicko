@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Siti, Zulaikha	MAS 0 2089.4882235 60.6516313 5700965
+1 Siti, Zulaikha	MAS 1900 2090.2834183 60.7137637 5700965

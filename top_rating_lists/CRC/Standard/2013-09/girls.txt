@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Acevedo Mendez, Lisseth	CRC 1993 1708.4182267 55.8013573 6502938
-2 Ramirez Gonzalez, Maria Jose	CRC 1997 1564.5568922 74.7554388 6503349
+1 Acevedo Mendez, Lisseth	CRC 1993 1708.3174457 55.8009262 6502938
+2 Ramirez Gonzalez, Maria Jose	CRC 1997 1564.5291632 74.7543376 6503349

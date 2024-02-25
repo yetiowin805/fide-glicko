@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Pasko, Llambi	ALB 1991 M 2165.5095473 72.2702194 4701178
+1 Pasko, Llambi	ALB 1991 M 2165.3459972 72.2718954 4701178

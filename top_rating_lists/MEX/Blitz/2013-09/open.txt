@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Martin Del Campo C., Roberto	MEX 1967 M 2327.2020278 70.4850105 5100046
-2 Almeida Saenz, Alfonso	MEX 1966 M 2307.7314562 74.3486930 5100321
+1 Martin Del Campo C., Roberto	MEX 1967 M 2326.9891698 70.5029880 5100046
+2 Almeida Saenz, Alfonso	MEX 1966 M 2307.4435082 74.3569998 5100321

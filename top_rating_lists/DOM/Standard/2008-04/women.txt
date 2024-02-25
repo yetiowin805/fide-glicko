@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 De La Cruz, Mercedes	DOM 1982 1900.0046756 71.4734592 6400914
+1 De La Cruz, Mercedes	DOM 1982 1899.2678533 71.5016081 6400914

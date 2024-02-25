@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Ulziikhishigjargal, Ochirkhuyag	MGL 2002 1737.7664028 70.8516841 4903188
-2 Amina, Battsooj	MGL 2001 1727.9285751 62.3635717 4902661
+1 Ulziikhishigjargal, Ochirkhuyag	MGL 2002 1737.7405206 70.8959865 4903188
+2 Amina, Battsooj	MGL 2001 1727.3908082 62.3598821 4902661

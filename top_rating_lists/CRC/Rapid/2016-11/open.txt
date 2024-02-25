@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Valdes Romero, Leonardo	CRC 1975 M 2355.2932483 69.4477020 6500331
+1 Valdes Romero, Leonardo	CRC 1975 M 2355.1426471 69.4491492 6500331

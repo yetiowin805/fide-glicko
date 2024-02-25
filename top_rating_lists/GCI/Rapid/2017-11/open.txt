@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Strade, Arita	GCI 1985 F 1688.0111774 70.2712929 11603437
+1 Strade, Arita	GCI 1985 F 1687.2712649 70.2735175 11603437

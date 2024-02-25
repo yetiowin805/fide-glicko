@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Avilova, Yulia	SUI 2004 F 1440.5845804 71.0523012 34166073
+1 Avilova, Yulia	SUI 2004 F 1440.3919933 71.0510141 34166073
