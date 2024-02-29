@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Tamang, Sudip	NEP 2001 M 1932.1709844 74.5372543 12315990
+2 Phuyal, Aashish	NEP 1997 M 1926.1354374 74.8569990 12312649

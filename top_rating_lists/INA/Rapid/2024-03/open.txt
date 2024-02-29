@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Susilodinata, Andrean	INA 1990 M 2172.6209980 71.1286928 7101651
+2 Agung, Rinaldi Santoso	INA 1987 M 1638.1981328 73.3677279 7105185

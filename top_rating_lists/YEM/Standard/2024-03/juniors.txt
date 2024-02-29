@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al-qudaimi abdullah	YEM 2010 M 1613.3875601 58.9663616 9402772
+1 Al-qudaimi abdullah	YEM 2010 M 1627.2014367 54.6835493 9402772
+2 Al Jaefi, Moataz	YEM 2006 M 1490.3571610 73.9138652 9403876

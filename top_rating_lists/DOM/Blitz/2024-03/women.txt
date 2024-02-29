@@ -1,3 +1,4 @@
 Rank Name Federation BirthYear Rating RD
 1 Gonzalez Peguero, Mary Loly	DOM 1993 1645.0930753 64.9241861 6421482
-2 Gomez Capellan, Juliana Esthefany	DOM 2002 1503.2761455 69.3759356 6430139
+2 Rosario Almanzar, Raydily	DOM 1998 1598.5512555 73.5726901 6403573
+3 Gomez Capellan, Juliana Esthefany	DOM 2002 1492.0711889 63.4334697 6430139
