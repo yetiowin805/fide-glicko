@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Nakagawa, Emiko	JPN 1941 1650.1473826 70.8209345 7000480
+1 Nakagawa, Emiko	JPN 1941 1650.0641480 70.8053511 7000480

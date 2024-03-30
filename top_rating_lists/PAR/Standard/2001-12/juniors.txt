@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Cubas, Jose Fernando	PAR 1981 M 2397.1296770 70.8140496 3700267
+1 Cubas, Jose Fernando	PAR 1981 M 2401.2162727 62.1680069 3700267

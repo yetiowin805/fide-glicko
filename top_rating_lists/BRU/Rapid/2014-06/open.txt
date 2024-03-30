@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hj, Azahari Siti Nur Fatimah	BRU 1992 F 1694.3410586 70.5618651 10500359
-2 Mohd Ab, Syauqi B Md Khir	BRU 1900 M 1493.4453228 74.9903559 10500588
+1 Hj, Azahari Siti Nur Fatimah	BRU 1992 F 1695.0613298 70.5773857 10500359

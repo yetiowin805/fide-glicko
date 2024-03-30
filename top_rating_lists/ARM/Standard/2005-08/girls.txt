@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Andriasian, Siranush	ARM 1986 2207.6162373 50.5711402 13301926
+1 Andriasian, Siranush	ARM 1986 2205.8025893 50.5356384 13301926

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Di Berardino, Diego Rafael	BRA 1987 M 2284.3715412 59.7514787 2105446
-2 Choma, Ernani Francisco	BRA 1987 M 2208.2401381 74.2540291 2106922
+1 Di Berardino, Diego Rafael	BRA 1987 M 2297.7391210 58.2929049 2105446
+2 Choma, Ernani Francisco	BRA 1987 M 2209.9142544 74.0321190 2106922

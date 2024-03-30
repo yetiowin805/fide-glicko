@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al Sayed, Mohamad N.	QAT 0 M 2436.3411802 62.8809529 12100196
+1 Al Sayed, Mohamad N.	QAT 0 M 2413.5572605 49.4599797 12100196
+2 Nezad, Husein Aziz	QAT 1985 M 2277.4855720 69.8974062 12100293

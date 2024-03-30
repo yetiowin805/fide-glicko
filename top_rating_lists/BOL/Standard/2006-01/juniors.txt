@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Monroy Garzon, Javier	BOL 1994 M 1947.7435387 57.7355479 3300544
+1 Monroy Garzon, Javier	BOL 1994 M 1947.4217868 57.7176419 3300544

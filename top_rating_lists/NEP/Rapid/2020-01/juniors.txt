@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kusatha, Niken	NEP 2002 M 1777.6707645 72.3152878 12314560
+1 Kusatha, Niken	NEP 2002 M 1777.8372823 72.3176138 12314560

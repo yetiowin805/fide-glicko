@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Fonseca Cabrera, Ernesto	NCA 1900 M 2026.9314933 74.2679668 6101046
+1 Fonseca Cabrera, Ernesto	NCA 1900 M 2026.8695829 74.2678762 6101046

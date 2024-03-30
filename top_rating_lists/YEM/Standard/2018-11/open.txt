@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Sultan, Mohamed	YEM 1900 M 1967.8988176 71.8930313 9401610
+1 Sultan, Mohamed	YEM 1900 M 1968.1533270 71.9005349 9401610

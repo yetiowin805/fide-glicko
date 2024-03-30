@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Amonatov, Farrukh	TJK 1978 M 2526.3581831 49.5486444 14700077
+1 Amonatov, Farrukh	TJK 1978 M 2526.2873387 49.5510767 14700077

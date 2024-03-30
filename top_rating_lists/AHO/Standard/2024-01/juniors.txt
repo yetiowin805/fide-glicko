@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Van Delden, Johan	AHO 2004 M 1710.9200422 71.6586186 7502206
+1 Van Delden, Johan	AHO 2004 M 1710.9634076 71.6598265 7502206

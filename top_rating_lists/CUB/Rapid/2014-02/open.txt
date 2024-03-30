@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Dominguez Perez, Leinier	CUB 1983 M 2711.4809054 73.1161536 3503240
-2 Hevia Alejano, Carlos Antonio	CUB 1991 M 2356.4377436 73.6661725 3508811
+1 Dominguez Perez, Leinier	CUB 1983 M 2711.6165262 73.1106966 3503240
+2 Hevia Alejano, Carlos Antonio	CUB 1991 M 2356.4167580 73.6583165 3508811

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Demchenko, Svitlana	CAN 2003 1901.3857214 63.1287611 14149893
+1 Demchenko, Svitlana	CAN 2003 1901.5390126 63.1311481 14149893

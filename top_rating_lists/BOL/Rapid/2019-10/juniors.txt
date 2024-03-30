@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gil Marquez, Anahi	BOL 2006 F 1655.8044710 73.6516474 3325130
+1 Gil Marquez, Anahi	BOL 2006 F 1655.7546020 73.6504755 3325130

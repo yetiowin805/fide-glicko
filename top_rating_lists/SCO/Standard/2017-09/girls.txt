@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Smith, Rachel Lorna	SCO 2002 1456.1871274 64.1396230 2405520
+1 Smith, Rachel Lorna	SCO 2002 1456.4841373 64.1493745 2405520

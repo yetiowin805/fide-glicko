@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ghaith Almomani	JOR 1991 M 1692.8022014 69.8654586 8110930
+1 Ghaith Almomani	JOR 1991 M 1692.8926541 69.8683270 8110930

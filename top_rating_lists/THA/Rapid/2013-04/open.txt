@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Wiwatanadate, Poompong	THA 1990 M 1911.9218006 71.6623134 6201083
-2 Srivatanakul, Pricha	THA 1937 M 1637.6027528 68.5791354 6200508
+1 Wiwatanadate, Poompong	THA 1990 M 1912.4452620 71.6674053 6201083
+2 Srivatanakul, Pricha	THA 1937 M 1638.0312747 68.5869435 6200508

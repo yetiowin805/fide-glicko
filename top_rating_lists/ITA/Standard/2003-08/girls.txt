@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
 1 Costantini, Laura	ITA 1985 2061.0439439 74.6986133 812587
-2 Ambrosi, Eleonora	ITA 1988 2035.2130116 64.0195089 812099
+2 Ambrosi, Eleonora	ITA 1988 2034.4857774 64.7322628 812099

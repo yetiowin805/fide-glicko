@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Rowson, Jonathan	SCO 1977 M 2519.9960228 53.7525760 2400561
+2 Motwani, Paul	SCO 1962 M 2513.9186335 55.4163971 2400022

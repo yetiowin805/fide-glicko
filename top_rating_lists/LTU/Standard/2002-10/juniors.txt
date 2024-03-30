@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Asauskas, Henrikas	LTU 1982 M 2367.3778946 54.7346718 12801364
+1 Asauskas, Henrikas	LTU 1982 M 2356.7913243 51.7673176 12801364
+2 Zaksaite, Salomeja	LTU 1985 F 2285.1082033 73.4208796 12801496

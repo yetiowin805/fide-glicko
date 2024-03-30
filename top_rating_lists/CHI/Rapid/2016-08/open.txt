@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Barria Zuniga, Daniel	CHI 1974 M 2412.7489748 65.5255700 3400816
-2 Aguirre Contreras, Cristian	CHI 1996 M 1984.5365384 71.7722225 3412776
-3 Estrada Lavin, Cristian Alexand	CHI 1999 M 1789.4801791 73.8438124 3411710
+1 Barria Zuniga, Daniel	CHI 1974 M 2412.9746941 65.5219744 3400816
+2 Aguirre Contreras, Cristian	CHI 1996 M 1984.2148308 71.7668186 3412776
+3 Estrada Lavin, Cristian Alexand	CHI 1999 M 1789.0656348 73.8134974 3411710

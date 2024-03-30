@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Stefanova, Antoaneta (IM)	BUL 1979 2515.1328931 63.3814184 2902257
+2 Voiska, Margarita	BUL 1963 2325.0717749 68.7269061 2900602

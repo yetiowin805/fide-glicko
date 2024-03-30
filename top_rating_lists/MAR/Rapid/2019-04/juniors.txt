@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Aboulasse, Saad	MAR 2010 M 1506.1202728 70.2350613 45188041
+1 Aboulasse, Saad	MAR 2010 M 1506.1644489 70.2338875 45188041

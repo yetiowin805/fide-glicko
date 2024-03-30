@@ -9,7 +9,7 @@ from datetime import datetime
 import argparse
 from countries import countries
 
-# Fourth command in pipeline
+# Fifth command in pipeline
 
 # Dictionary of dictionaries, query month then FIDE ID
 fide_ratings = {}
@@ -38,7 +38,10 @@ def write_fide_data(
             print(source_file, destination_file, time_control, month, year)
             raise ValueError(f"Unexpected date format: {date_without_prefix}")
 
-        date_object = datetime.strptime(date_without_prefix, "%Y-%m-%d")
+        try:
+            date_object = datetime.strptime(date_without_prefix, "%Y-%m-%d")
+        except Exception:
+            print(source_file, destination_file, time_control, month, year)
 
         # Extract the month and year from the datetime object
         tournament_month = date_object.month

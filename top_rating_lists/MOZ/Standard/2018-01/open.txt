@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Abrantes, Persson	MOZ 1990 M 1901.2174619 70.2497993 14800063
+1 Abrantes, Persson	MOZ 1990 M 1901.3249633 70.2515355 14800063

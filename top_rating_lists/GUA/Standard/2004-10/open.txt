@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Juarez Flores, Carlos A.	GUA 1965 M 2375.9612382 71.1191639 7300018
+1 Juarez Flores, Carlos A.	GUA 1965 M 2375.0437422 71.0194761 7300018

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ebosse Kingue Victor Patrick	CMR 1982 M 1873.4146326 74.6467428 16400291
-2 Amba Oyon Marius Claude	CMR 1987 M 1860.3625290 72.8204453 16400240
+1 Ebosse Kingue Victor Patrick	CMR 1982 M 1873.5569343 74.6503227 16400291
+2 Amba Oyon Marius Claude	CMR 1987 M 1860.4904844 72.8229146 16400240

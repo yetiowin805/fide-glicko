@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Smerdon, David	AUS 1984 M 2451.0371675 72.4220732 3202305
+1 Smerdon, David	AUS 1984 M 2439.9393036 69.9964299 3202305

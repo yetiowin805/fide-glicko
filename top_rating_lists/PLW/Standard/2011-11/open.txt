@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hernandez, Roberto	PLW 1956 M 1772.9273739 72.9597803 16600010
+1 Hernandez, Roberto	PLW 1956 M 1773.0878558 72.9598676 16600010

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Ptacnikova, Lenka	ISL 1976 2223.0401786 55.1561659 305650
-2 Gretarsdottir, Lilja	ISL 0 1965.7624207 70.5847013 2301385
+1 Ptacnikova, Lenka	ISL 1976 2223.3059753 55.1842584 305650
+2 Gretarsdottir, Lilja	ISL 0 1966.9273772 70.3044387 2301385

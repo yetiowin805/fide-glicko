@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ramirez Luzon, Franchesca	DOM 2004 F 1565.8668634 70.8452768 6421792
+1 Ramirez Luzon, Franchesca	DOM 2004 F 1565.8529462 70.8459519 6421792

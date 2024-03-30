@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Peretz, Leon	RSA 1963 M 1697.6079348 70.7740239 14304155
+1 Peretz, Leon	RSA 1963 M 1697.6618527 70.7736070 14304155

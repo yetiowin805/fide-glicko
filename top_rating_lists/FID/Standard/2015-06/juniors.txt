@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Saraci, Nderim	FID 1996 M 2146.1738522 64.4364807 6351921
+1 Saraci, Nderim	FID 1996 M 2146.3777183 64.4374569 6351921

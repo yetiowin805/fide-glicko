@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bledje, Benito	TOG 2006 M 1625.0619925 67.5149791 21205051
+1 Bledje, Benito	TOG 2006 M 1625.0781449 67.5152853 21205051

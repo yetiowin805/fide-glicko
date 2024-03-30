@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rodriguez, Andres	URU 1973 M 2492.1730788 51.6241706 3000010
+1 Crosa, Martin	URU 0 M 2333.4332082 69.0792602 3000524

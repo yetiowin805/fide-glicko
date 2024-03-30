@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Haddouche, Mohamed	ALG 1984 M 2184.0244741 62.2679929 7900660
+1 Haddouche, Mohamed	ALG 1984 M 2184.3494965 62.1978963 7900660

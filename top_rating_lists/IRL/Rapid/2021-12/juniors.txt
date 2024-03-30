@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nemeth, Zalan	IRL 2002 M 2089.8820732 72.0780764 2512041
+1 Nemeth, Zalan	IRL 2002 M 2090.2870294 72.0822797 2512041

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mohd Saprin, Amir Ghaazi	MAS 2001 M 1789.8608030 72.6964263 5712580
-2 Mohd Saprin, Amir Qayyim	MAS 1999 M 1725.8189174 74.5141509 5712190
+1 Mohd Saprin, Amir Ghaazi	MAS 2001 M 1790.1776019 72.7103680 5712580
+2 Mohd Saprin, Amir Qayyim	MAS 1999 M 1725.9373500 74.5192767 5712190

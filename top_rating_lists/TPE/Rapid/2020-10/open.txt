@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Camhi, David	TPE 1972 M 1632.0536800 70.0831586 16300254
+1 Camhi, David	TPE 1972 M 1632.1581504 70.0835867 16300254

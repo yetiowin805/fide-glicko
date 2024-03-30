@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Cordero, Daniela	BOL 1992 1926.8240669 74.4086885 3301630
+1 Cordero, Daniela	BOL 1992 1926.0545100 74.4136996 3301630

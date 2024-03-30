@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Elliott, Warren	JAM 1979 M 2231.9715935 66.9153446 7400179
+1 Elliott, Warren	JAM 1979 M 2231.8957360 66.9190164 7400179

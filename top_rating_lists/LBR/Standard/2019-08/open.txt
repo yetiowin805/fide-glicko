@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Barcon, Harmon	LBR 1981 M 1840.4938001 74.5118352 22600078
+1 Barcon, Harmon	LBR 1981 M 1840.6183269 74.5142925 22600078

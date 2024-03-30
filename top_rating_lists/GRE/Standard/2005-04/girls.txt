@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Papadopoulou, Vera	GRE 1986 2173.2183469 50.3611410 4205472
+1 Papadopoulou, Vera	GRE 1986 2173.0597459 50.3475403 4205472

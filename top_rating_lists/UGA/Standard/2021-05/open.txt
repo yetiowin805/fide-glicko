@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nsubuga, Haruna	UGA 1992 M 2020.1531352 74.0475565 10000569
+1 Nsubuga, Haruna	UGA 1992 M 2020.2516753 74.0486780 10000569

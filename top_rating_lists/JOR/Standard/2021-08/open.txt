@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Issa, Rafat	JOR 1975 M 2168.7092000 57.4433283 7600437
+1 Issa, Rafat	JOR 1975 M 2169.1011507 57.4354877 7600437

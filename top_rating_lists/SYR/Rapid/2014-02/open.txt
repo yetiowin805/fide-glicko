@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Haj-Bakkor, Mohamed	SYR 1980 M 2095.2501706 73.2672260 7601611
+1 Haj-Bakkor, Mohamed	SYR 1980 M 2095.6234005 73.2884577 7601611

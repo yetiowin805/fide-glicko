@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Burbach, Bruno	MRI 1959 M 1453.6650747 66.2693387 16213831
+1 Burbach, Bruno	MRI 1959 M 1453.9159905 66.2750902 16213831

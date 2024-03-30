@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Chavarria Troya, Keytleen Denis	PAN 2011 1604.1891507 58.1708859 6608345
-2 Saldana Estribi, Ailianis Mixian	PAN 2005 1532.0050350 73.0068983 6610471
-3 Montezuma Camarena, Dayana Cristel	PAN 2009 1484.8504311 60.8490256 6611060
+1 Chavarria Troya, Keytleen Denis	PAN 2011 1604.2019990 58.1712016 6608345
+2 Saldana Estribi, Ailianis Mixian	PAN 2005 1532.0137041 73.0069803 6610471
+3 Montezuma Camarena, Dayana Cristel	PAN 2009 1484.8586122 60.8491328 6611060

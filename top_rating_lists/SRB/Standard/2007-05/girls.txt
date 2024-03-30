@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Rakic, Marija	SRB 1990 2126.5805362 73.1182422 936286
+1 Rakic, Marija	SRB 1990 2124.6156466 73.0990213 936286

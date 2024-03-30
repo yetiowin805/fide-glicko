@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Esenov, Annaberdi	TKM 1988 M 2216.5577918 74.9985073 14000644
-2 Hojamgulyev, Bahodur	TKM 1988 M 2154.8363889 67.2823767 14000970
+1 Hojamgulyev, Bahodur	TKM 1988 M 2155.2856265 67.2843468 14000970

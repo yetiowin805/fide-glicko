@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Segarra Choe, Tammy	PUR 1989 1934.2678643 57.8798198 3100936
-2 Pacheco Medina, Hilzandryly	PUR 0 1707.2254039 74.8204240 3100480
-3 Vazquez Maccarini, Danitza	PUR 0 1668.8701341 73.4712814 3101193
+1 Segarra Choe, Tammy	PUR 1989 1934.3912149 57.8811931 3100936
+2 Pacheco Medina, Hilzandryly	PUR 0 1707.2596177 74.8243263 3100480
+3 Vazquez Maccarini, Danitza	PUR 0 1669.0028360 73.4742226 3101193

@@ -1,7 +1,7 @@
 Rank Name Federation BirthYear Rating RD
-1 Gomez Barrera, Javiera Belen	CHI 2002 1927.8795547 73.4888146 3418723
-2 Sanchez Tobar, Francisca Valenti	CHI 2004 1689.7133249 67.9367732 3431304
-3 Hormazabal Figueroa, Constanza Valentina	CHI 2004 1615.6508128 72.1059887 3435679
-4 Abdala Cancino, Patricia Anastas	CHI 2006 1556.2474809 71.9844457 3424634
-5 Rozas Lazcano, Valeska	CHI 2003 1404.1365814 72.5078831 3438910
-6 Villegas Ampuero, Consuelo	CHI 2008 1327.6088688 73.2135889 3433129
+1 Gomez Barrera, Javiera Belen	CHI 2002 1928.1456194 73.4902871 3418723
+2 Sanchez Tobar, Francisca Valenti	CHI 2004 1689.9276200 67.9379378 3431304
+3 Hormazabal Figueroa, Constanza Valentina	CHI 2004 1615.8595350 72.1070538 3435679
+4 Abdala Cancino, Patricia Anastas	CHI 2006 1556.4533981 71.9861192 3424634
+5 Rozas Lazcano, Valeska	CHI 2003 1404.2834404 72.5087002 3438910
+6 Villegas Ampuero, Consuelo	CHI 2008 1327.7419640 73.2138111 3433129

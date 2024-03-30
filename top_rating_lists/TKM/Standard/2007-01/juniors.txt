@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Esenov, Annaberdi	TKM 1988 M 2132.2602509 70.3068040 14000644
+1 Esenov, Annaberdi	TKM 1988 M 2131.5608327 70.2686180 14000644

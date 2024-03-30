@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hevia Alejano, Carlos Antonio	CUB 1991 M 2322.4896031 73.4561278 3508811
+1 Hevia Alejano, Carlos Antonio	CUB 1991 M 2322.6195466 73.4461211 3508811

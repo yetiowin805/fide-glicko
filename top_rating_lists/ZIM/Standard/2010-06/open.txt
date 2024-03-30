@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mandiza, Farai	ZIM 1985 M 2247.1505763 68.1611815 11000430
+1 Mandiza, Farai	ZIM 1985 M 2247.2037772 68.1600416 11000430

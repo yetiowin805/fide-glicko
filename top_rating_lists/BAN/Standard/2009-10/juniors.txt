@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ali, Mohammad Imran	BAN 1989 M 2024.8054791 64.0616989 10203346
+1 Ali, Mohammad Imran	BAN 1989 M 2025.5412190 64.0377771 10203346

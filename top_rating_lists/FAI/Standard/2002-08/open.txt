@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Naes, Flovin Tor	FAI 1978 M 2311.9928982 72.1500839 7200250
+1 Naes, Flovin Tor	FAI 1978 M 2306.8032276 68.8991353 7200250

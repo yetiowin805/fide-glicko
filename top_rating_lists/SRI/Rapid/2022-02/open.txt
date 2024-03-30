@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rajap, Ahamed Asif	SRI 2009 M 1598.1954731 69.5875828 9992332
+1 Rajap, Ahamed Asif	SRI 2009 M 1598.2831241 69.5902636 9992332

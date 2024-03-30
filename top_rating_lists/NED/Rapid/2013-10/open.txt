@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Tiviakov, Sergei	NED 1973 M 2519.3297937 74.6520324 1008013
+1 Tiviakov, Sergei	NED 1973 M 2519.5900637 74.6412900 1008013

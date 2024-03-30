@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ghanem, Al Shamari	QAT 2001 M 1518.9951474 70.0373255 12100986
+1 Ghanem, Al Shamari	QAT 2001 M 1519.2071736 70.0406036 12100986

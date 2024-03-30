@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Thorsteinsdottir, Hallgerdur	ISL 1992 1817.8386932 53.1563061 2302454
-2 Helgadottir, Sigridur Bjorg	ISL 1992 1622.9382111 72.6285419 2303701
+1 Thorsteinsdottir, Hallgerdur	ISL 1992 1817.9106700 53.1576221 2302454
+2 Helgadottir, Sigridur Bjorg	ISL 1992 1622.9475720 72.6266147 2303701

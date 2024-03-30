@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Esplana, Christian	PER 1983 M 2311.5454433 59.8730213 3800636
+1 Esplana, Christian	PER 1983 M 2317.0489079 59.2694743 3800636

@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mansour, Sameer	JOR 0 M 2241.4850963 70.0224375 8100144

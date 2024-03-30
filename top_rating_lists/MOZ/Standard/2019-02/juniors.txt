@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Vasco Mateus Felizardo Viageiro	MOZ 2003 M 1733.5216275 58.4536703 14800403
-2 Sitoe, Cheila Andre	MOZ 1999 F 1566.4240769 72.0489700 14800780
+1 Vasco Mateus Felizardo Viageiro	MOZ 2003 M 1733.6193384 58.4548318 14800403
+2 Sitoe, Cheila Andre	MOZ 1999 F 1566.5369499 72.0506019 14800780

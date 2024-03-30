@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Charbonneau, Pascal	CAN 1983 M 2414.7301056 73.3967631 2602504
+1 Charbonneau, Pascal	CAN 1983 M 2417.3713454 71.6370985 2602504

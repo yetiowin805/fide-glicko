@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mamombe, Kudzanai	ZIM 0 M 1887.4740067 72.5900837 11000147
+1 Mamombe, Kudzanai	ZIM 0 M 1887.4516482 72.5905343 11000147

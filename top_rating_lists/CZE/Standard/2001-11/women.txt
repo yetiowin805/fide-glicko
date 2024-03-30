@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Jackova, Jana	CZE 1982 2399.7643145 69.5593241 308498
+2 Hitzgerova, Gabriela	CZE 1979 2156.9902209 61.3883683 308366

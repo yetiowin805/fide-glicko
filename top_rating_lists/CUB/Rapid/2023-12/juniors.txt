@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ferrer Naranjo, Liennys	CUB 2010 F 1719.1581541 61.8287034 3530086
-2 Guach Rodriguez, Marcos Antonio	CUB 2009 M 1684.4273591 67.3558115 3530221
+1 Ferrer Naranjo, Liennys	CUB 2010 F 1719.3151873 61.8322066 3530086
+2 Guach Rodriguez, Marcos Antonio	CUB 2009 M 1684.4748390 67.3555550 3530221

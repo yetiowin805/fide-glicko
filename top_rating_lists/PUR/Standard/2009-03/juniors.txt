@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Vazquez Reyes, Raul	PUR 1991 M 2131.4063510 69.4662663 3100235
+1 Vazquez Reyes, Raul	PUR 1991 M 2132.1689028 69.4618117 3100235

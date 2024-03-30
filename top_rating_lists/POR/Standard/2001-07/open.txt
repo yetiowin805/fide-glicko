@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Galego, Luis	POR 1966 M 2550.3083034 73.4941786 1900072

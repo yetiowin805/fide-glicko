@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Bashkite, Viktoria	EST 0 2153.6656252 58.1576648 4501284
+1 Fomina, Tatyana	EST 1954 2203.1402715 71.6965206 4500156
+2 Bashkite, Viktoria	EST 0 2141.7411460 56.0977337 4501284

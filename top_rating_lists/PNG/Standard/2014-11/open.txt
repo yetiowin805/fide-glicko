@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Marko, Helmut	PNG 1954 M 1617.7061043 74.6308691 9100032
+1 Marko, Helmut	PNG 1954 M 1617.8799883 74.6329872 9100032

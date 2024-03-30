@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Smith, Robert W	NZL 1963 M 2263.9433206 69.1166261 4300190
+1 Smith, Robert W	NZL 1963 M 2263.9397970 69.1233340 4300190

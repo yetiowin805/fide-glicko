@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Estrada Nieto, Julian	MEX 1972 M 2238.2896750 66.7632776 5101018
+1 Estrada Nieto, Julian	MEX 1972 M 2238.4987451 66.7582406 5101018

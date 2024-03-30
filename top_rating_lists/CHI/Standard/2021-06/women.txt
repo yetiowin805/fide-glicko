@@ -1,6 +1,6 @@
 Rank Name Federation BirthYear Rating RD
-1 Sanchez Tobar, Francisca Valenti	CHI 2004 1689.7133249 69.7086273 3431304
-2 Hormazabal Figueroa, Constanza Valentina	CHI 2004 1615.6508128 73.7931391 3435679
-3 Abdala Cancino, Patricia Anastas	CHI 2006 1556.2474809 73.6662835 3424634
-4 Rozas Lazcano, Valeska	CHI 2003 1404.1365814 74.1754466 3438910
-5 Villegas Ampuero, Consuelo	CHI 2008 1327.6088688 74.8679255 3433129
+1 Sanchez Tobar, Francisca Valenti	CHI 2004 1689.9276200 69.7097545 3431304
+2 Hormazabal Figueroa, Constanza Valentina	CHI 2004 1615.8595350 73.7941835 3435679
+3 Abdala Cancino, Patricia Anastas	CHI 2006 1556.4533981 73.6679262 3424634
+4 Rozas Lazcano, Valeska	CHI 2003 1404.2834404 74.1762453 3438910
+5 Villegas Ampuero, Consuelo	CHI 2008 1327.7419640 74.8681392 3433129

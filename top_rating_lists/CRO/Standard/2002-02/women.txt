@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Mladenovic, Velisa	CRO 0 2264.2722936 73.6152029 14507285
+2 Trtanj, Tina	CRO 1980 2185.7029689 61.6284493 14504642

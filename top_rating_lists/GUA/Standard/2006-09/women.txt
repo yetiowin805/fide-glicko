@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Mazariego-K., Carolina	GUA 1961 2044.5735664 72.5249896 7300115
-2 Martinez, Ingrid Lorena	GUA 0 1931.5271711 74.7374990 7300301
+1 Mazariego-K., Carolina	GUA 1961 2044.1805076 72.4683930 7300115
+2 Martinez, Ingrid Lorena	GUA 0 1931.6055785 74.6452412 7300301

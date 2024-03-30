@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Dutt Lakshita	MAW 2008 F 1536.0750008 69.2476956 20505329
+1 Dutt Lakshita	MAW 2008 F 1536.1143728 69.2479868 20505329

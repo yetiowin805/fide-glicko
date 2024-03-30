@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Demirbas, Emre	TUR 2003 M 1905.3609305 74.3953539 6391370
+1 Demirbas, Emre	TUR 2003 M 1905.3812650 74.3940470 6391370

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mohamed Abderrahim, Taleb Mohamed	MTN 2007 M 1647.1326073 57.5952976 19601441
-2 Mohamed Vall Sidi Mohamed Herma	MTN 2000 M 1558.6498071 68.8815583 19601824
+1 Mohamed Abderrahim, Taleb Mohamed	MTN 2007 M 1647.2503124 57.5966181 19601441
+2 Mohamed Vall Sidi Mohamed Herma	MTN 2000 M 1558.7523742 68.8831264 19601824

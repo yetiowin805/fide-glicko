@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rudd, Jack	TRI 1979 M 2261.7195527 72.4940071 405736
+1 Rudd, Jack	TRI 1979 M 2259.6104011 71.3021695 405736

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Michel Yunis, Christian D.	PLE 1968 M 2312.0084617 67.0806970 3400085
+1 Michel Yunis, Christian D.	PLE 1968 M 2311.6503527 67.0165953 3400085

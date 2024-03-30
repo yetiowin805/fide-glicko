@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Mohammed Qane,Jannar Worya	IRQ 1977 1736.4536129 65.7546045 4802144
+1 Mohammed Qane,Jannar Worya	IRQ 1977 1736.6533683 65.7553431 4802144

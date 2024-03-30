@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Bojkovic, Natasa	YUG 1971 2381.1260478 72.1924022 908550
+1 Bojkovic, Natasa	YUG 1971 2406.7415676 69.0367911 908550
+2 Dimitrijevic, Aleksandra	YUG 1986 2242.8877772 73.3515124 929239

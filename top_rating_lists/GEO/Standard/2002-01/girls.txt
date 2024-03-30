@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Javakhishvili, Lela	GEO 1984 2422.6831919 68.0102888 13601458
+2 Gvetadze, Sopio	GEO 1983 2346.8727471 68.9715151 13601440

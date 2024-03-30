@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Nilssen, Ellen Fredericia	DEN 2001 1951.7926509 47.6373132 1441230
-2 Nielsen-Refs, Ingrid Elmer	DEN 2005 1408.7938578 74.2168970 1455907
+1 Nilssen, Ellen Fredericia	DEN 2001 1952.1543055 47.6374869 1441230
+2 Nielsen-Refs, Ingrid Elmer	DEN 2005 1409.0708269 74.2182963 1455907

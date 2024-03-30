@@ -1,6 +1,6 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hernandez, Ortega Carolina	MEX 2005 F 1711.7639558 73.5274433 5132126
-2 Laurrabaquio Ramirez, Bryan Rica	MEX 2005 M 1691.0078557 69.2272150 5129338
-3 Del Razo Mendoza, Andrea Nikole	MEX 2003 F 1555.1152351 71.8606733 5137640
-4 Barberena Gallardo , Alexander Ra	MEX 2010 M 1401.9188120 74.3247237 5147018
-5 Del Razo Mendoza, Nancy Ailine	MEX 2006 F 1261.9128662 70.4920473 5137632
+1 Hernandez, Ortega Carolina	MEX 2005 F 1711.7894858 73.5283064 5132126
+2 Laurrabaquio Ramirez, Bryan Rica	MEX 2005 M 1691.0333807 69.2274747 5129338
+3 Del Razo Mendoza, Andrea Nikole	MEX 2003 F 1555.1407773 71.8616789 5137640
+4 Barberena Gallardo , Alexander Ra	MEX 2010 M 1401.9345612 74.3247812 5147018
+5 Del Razo Mendoza, Nancy Ailine	MEX 2006 F 1261.9337218 70.4923678 5137632

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Sereda, Yaroslava	GER 2007 F 1524.9590632 71.4620163 14178940
+1 Sereda, Yaroslava	GER 2007 F 1525.3191748 71.4190063 14178940

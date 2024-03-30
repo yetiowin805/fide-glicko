@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Polterauer, Chiara	AUT 2000 1911.4450394 64.0551454 1638165
+1 Polterauer, Chiara	AUT 2000 1911.6566872 64.0526801 1638165

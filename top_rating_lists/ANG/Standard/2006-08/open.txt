@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Aderito, Pedro	ANG 1976 M 2302.2314693 69.7385294 10100130
+1 Aderito, Pedro	ANG 1976 M 2302.2338265 69.7394419 10100130

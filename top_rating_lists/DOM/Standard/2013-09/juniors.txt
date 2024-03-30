@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Crispin Ferreras, Darvi Abraham	DOM 1993 M 1945.5752566 50.0052464 6402771
-2 Santos Almonte, Carol	DOM 1993 F 1579.3717625 66.4241520 6402348
-3 Almanzar Vasquez, Jennifer Maria	DOM 1993 F 1566.9785964 62.8839839 6406505
+1 Crispin Ferreras, Darvi Abraham	DOM 1993 M 1945.4875490 50.0049210 6402771
+2 Santos Almonte, Carol	DOM 1993 F 1579.3741990 66.4249722 6402348
+3 Almanzar Vasquez, Jennifer Maria	DOM 1993 F 1566.9738768 62.8837433 6406505

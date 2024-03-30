@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Yaaqoub, Rashid	SUD 0 M 2135.5025457 74.2708487 12200336
+1 Yaaqoub, Rashid	SUD 0 M 2135.8064987 74.2696437 12200336

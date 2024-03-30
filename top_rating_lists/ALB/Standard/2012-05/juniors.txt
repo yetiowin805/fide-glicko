@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mirimanian, Haik	ALB 1996 M 1985.9946169 47.6487669 4700180
+1 Mirimanian, Haik	ALB 1996 M 1986.3086521 47.6512682 4700180

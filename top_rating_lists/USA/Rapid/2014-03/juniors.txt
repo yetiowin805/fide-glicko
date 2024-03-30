@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gurevich, Daniel	USA 1997 M 2109.3389021 71.3461007 2044676
+1 Gurevich, Daniel	USA 1997 M 2109.9049413 71.3412878 2044676

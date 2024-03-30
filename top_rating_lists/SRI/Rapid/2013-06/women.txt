@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Gunaratne, Manisha Suchini	SRI 1997 1586.5610626 74.5869055 9903933
-2 Methmani, Nelunika	SRI 1998 1509.6513423 69.9011180 9910050
-3 Wickramasinghe, Dilhara Ishini	SRI 2000 1497.7817815 69.7864612 9906738
+1 Gunaratne, Manisha Suchini	SRI 1997 1586.5521930 74.5885840 9903933
+2 Methmani, Nelunika	SRI 1998 1509.6613482 69.9014388 9910050
+3 Wickramasinghe, Dilhara Ishini	SRI 2000 1497.8343042 69.7880036 9906738

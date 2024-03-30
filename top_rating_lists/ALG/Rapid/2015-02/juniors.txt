@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Yahiaoui, Lilia	ALG 2000 F 1553.3466915 73.7742604 7902913
+1 Yahiaoui, Lilia	ALG 2000 F 1553.3943910 73.7750086 7902913

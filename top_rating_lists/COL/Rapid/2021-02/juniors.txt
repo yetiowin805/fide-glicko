@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Cayon, Laura Valentina	COL 2001 F 1593.4038818 70.0676250 4430840
+1 Cayon, Laura Valentina	COL 2001 F 1593.5395040 70.0696468 4430840

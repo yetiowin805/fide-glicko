@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Sanchez Marcelino, Jennifer	DOM 2001 1486.0081968 74.7450823 6420176
+1 Sanchez Marcelino, Jennifer	DOM 2001 1486.0006838 74.7456544 6420176

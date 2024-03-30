@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 kareen,K.Jalaluldeen	IRQ 1993 1628.1729379 64.3828936 4801776
+1 kareen,K.Jalaluldeen	IRQ 1993 1628.2698838 64.3791670 4801776

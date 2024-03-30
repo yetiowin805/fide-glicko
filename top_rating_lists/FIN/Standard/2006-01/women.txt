@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Sammalvuo, Niina	FIN 1971 2201.0793994 67.4279165 500755
+1 Sammalvuo, Niina	FIN 1971 2201.1904426 67.4225187 500755

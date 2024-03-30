@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Munkhgal, Gombosuren	MGL 1988 M 2337.6050432 72.1280064 4901266
-2 Batsuren, Dambasuren	MGL 2004 M 2335.6853776 71.7133832 4902920
+1 Munkhgal, Gombosuren	MGL 1988 M 2338.0918923 72.1238401 4901266
+2 Batsuren, Dambasuren	MGL 2004 M 2336.0821316 71.7116542 4902920

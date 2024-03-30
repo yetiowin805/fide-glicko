@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Du Plessis, Heinco	RSA 1994 M 1984.2682677 70.6872277 14306263
+1 Du Plessis, Heinco	RSA 1994 M 1984.7038069 70.6847804 14306263

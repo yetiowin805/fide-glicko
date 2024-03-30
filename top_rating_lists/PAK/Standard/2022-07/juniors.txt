@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rehan Khan Nasir	PAK 2012 M 1657.3459810 41.7838315 7808283
+1 Rehan Khan Nasir	PAK 2012 M 1657.3685304 41.7839625 7808283

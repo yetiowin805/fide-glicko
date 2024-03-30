@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Araujo Sanchez, Josue	DOM 2001 M 2033.0077011 73.5080143 6416896
-2 Rodriguez Blanco, Manuel A.	DOM 1971 M 1882.1032611 73.3657086 6405207
+1 Araujo Sanchez, Josue	DOM 2001 M 2032.9421756 73.5100097 6416896
+2 Rodriguez Blanco, Manuel A.	DOM 1971 M 1882.1998750 73.3618431 6405207

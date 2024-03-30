@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Greabca, Irina	MDA 1984 2229.0208128 68.8664582 13901630
+2 Partac, Elena	MDA 1984 2089.7264007 62.0219908 13901001

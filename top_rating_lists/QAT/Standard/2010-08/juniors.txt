@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al-Khelaifi, Salama	QAT 1991 F 1670.4045534 68.4714160 12100048
+1 Al-Khelaifi, Salama	QAT 1991 F 1670.6515847 68.4761778 12100048

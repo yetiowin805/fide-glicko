@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gjonaj, Jurgen	ALB 1996 M 1840.8024432 72.9061303 4701275
+1 Gjonaj, Jurgen	ALB 1996 M 1840.9518723 72.9083670 4701275

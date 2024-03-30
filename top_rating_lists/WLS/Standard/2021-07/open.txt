@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bullen, Alex	WLS 1994 M 1955.4401757 69.9444341 1801627
+1 Bullen, Alex	WLS 1994 M 1955.8279470 69.9434833 1801627

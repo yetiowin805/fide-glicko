@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lim, Yee-Weng	MAS 1982 M 2312.8402910 66.6834911 5700590
+1 Lim, Yee-Weng	MAS 1982 M 2312.8597056 66.6863135 5700590

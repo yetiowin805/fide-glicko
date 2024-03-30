@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Beukes, Dante M	NAM 2003 M 1505.5179978 74.6440614 15200540
+1 Beukes, Dante M	NAM 2003 M 1505.6393520 74.6451665 15200540

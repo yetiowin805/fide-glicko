@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Maccapani, Massimiliano	SMR 1970 M 1827.0138621 74.0246056 11800089
+1 Maccapani, Massimiliano	SMR 1970 M 1826.8566701 74.0482244 11800089

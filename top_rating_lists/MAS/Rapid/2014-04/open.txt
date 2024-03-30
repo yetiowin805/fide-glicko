@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Toh, Qin Kane	MAS 1900 M 1638.4588040 72.8157956 5707625
+1 Toh, Qin Kane	MAS 1900 M 1638.6744805 72.8201037 5707625

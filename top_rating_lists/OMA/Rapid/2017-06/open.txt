@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al Harasi Saif	OMA 1982 M 1557.3618747 74.8243915 22000208
+1 Al Harasi Saif	OMA 1982 M 1557.4464861 74.8278399 22000208

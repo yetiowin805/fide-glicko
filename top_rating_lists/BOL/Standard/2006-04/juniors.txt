@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Monroy Carrizo, Javier	BOL 1994 M 1991.4100188 57.5819669 3300544
+1 Monroy Carrizo, Javier	BOL 1994 M 1991.1402106 57.5748902 3300544

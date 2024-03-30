@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Fleri, Luke	MLT 2007 M 1605.0379664 73.4514813 5602173
+1 Fleri, Luke	MLT 2007 M 1605.2327405 73.4599204 5602173

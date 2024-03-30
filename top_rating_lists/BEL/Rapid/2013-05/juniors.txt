@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Godart, Francois	BEL 1994 M 2212.1790345 73.7169047 208078
+1 Godart, Francois	BEL 1994 M 2211.5453518 73.7713936 208078

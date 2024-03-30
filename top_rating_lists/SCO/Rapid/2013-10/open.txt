@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Campbell, Eoin	SCO 1954 M 1776.6673314 73.5012978 2400740
+1 Campbell, Eoin	SCO 1954 M 1777.8341959 73.5193727 2400740

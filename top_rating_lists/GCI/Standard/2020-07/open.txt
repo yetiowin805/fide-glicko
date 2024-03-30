@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kirby, Peter J.	GCI 1963 M 1863.4834399 73.1386965 409014
+1 Kirby, Peter J.	GCI 1963 M 1863.8628674 73.1385283 409014

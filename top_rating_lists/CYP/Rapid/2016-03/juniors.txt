@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Michaelides, Konstantinos	CYP 2002 M 1858.9218392 68.7004427 5901871
+1 Michaelides, Konstantinos	CYP 2002 M 1858.9960203 68.7012845 5901871

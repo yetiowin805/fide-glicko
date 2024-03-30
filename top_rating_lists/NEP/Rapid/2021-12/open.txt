@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nepali, Badrilal	NEP 1964 M 1956.9770725 73.0909283 12300020
+1 Nepali, Badrilal	NEP 1964 M 1957.1436839 73.0929276 12300020

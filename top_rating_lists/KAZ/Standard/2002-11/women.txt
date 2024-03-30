@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Sergeeva, Maria	KAZ  2349.7189353 70.5809492 13701037
+1 Sergeeva, Maria	KAZ 0 2375.1663711 70.3931682 13701037

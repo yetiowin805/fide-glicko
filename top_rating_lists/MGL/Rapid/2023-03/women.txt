@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Munkhzul, Turmunkh	MGL 2002 2102.3990298 74.5878192 4901878
-2 Bayasgalan, Khishigbaatar	MGL 2007 1837.8351839 70.9705141 4904311
+1 Munkhzul, Turmunkh	MGL 2002 2103.0774537 74.5730384 4901878
+2 Bayasgalan, Khishigbaatar	MGL 2007 1838.4175896 70.9829548 4904311

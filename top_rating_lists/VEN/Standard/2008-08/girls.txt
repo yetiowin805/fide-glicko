@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Rincon Gonzalez, Drina	VEN 1990 1857.3193095 74.0680623 3900380
+1 Rincon Gonzalez, Drina	VEN 1990 1857.2435554 74.0576447 3900380

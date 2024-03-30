@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Muetsch, Annmarie	GER 2002 F 2121.2342487 74.9389806 12971367
+1 Muetsch, Annmarie	GER 2002 F 2121.6352595 74.9395302 12971367

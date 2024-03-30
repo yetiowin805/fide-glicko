@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Galliamova, Alisa (IM)	RUS 1972 2554.7247835 53.8459630 4129725
+2 Pogonina, Natalija	RUS 1985 2279.5055862 73.9234416 4147855

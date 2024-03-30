@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kanep, Meelis	EST 1983 M 2481.8821820 52.6897985 4501047
+1 Kanep, Meelis	EST 1983 M 2479.2222536 51.6473633 4501047

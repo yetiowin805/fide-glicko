@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ataman, Alper	TUR 1983 M 2162.7631148 74.0454233 6301606
+1 Ataman, Alper	TUR 1983 M 2163.3742512 73.7378229 6301606

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nunez de la Rosa, Matias	URU 1985 M 1948.8648349 72.2886608 3000923
+1 Nunez de la Rosa, Matias	URU 1985 M 1949.5611737 72.2919360 3000923

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gonzalez Perez, Arian	FID 1988 M 2376.6971839 70.4289691 3507777
-2 Ferragut Blanco, Arnaldo	FID 1973 M 1927.3072154 72.6496580 3502562
+1 Gonzalez Perez, Arian	FID 1988 M 2376.9491245 70.4299257 3507777
+2 Ferragut Blanco, Arnaldo	FID 1973 M 1927.1776420 72.5966229 3502562

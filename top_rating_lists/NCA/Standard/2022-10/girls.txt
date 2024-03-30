@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Narvaez Talavera, Joanie Ellen	NCA 2002 1644.0097730 68.5095842 6105840
-2 Alvarez Gutierrez, Patricia	NCA 2002 1628.9730599 61.1408109 6105548
-3 Cabezas Calero, Abigail Carolina	NCA 2008 1464.2049972 70.9922369 6105971
+1 Narvaez Talavera, Joanie Ellen	NCA 2002 1644.0270031 68.5097724 6105840
+2 Alvarez Gutierrez, Patricia	NCA 2002 1629.0232024 61.1428493 6105548
+3 Cabezas Calero, Abigail Carolina	NCA 2008 1464.2171372 70.9924737 6105971

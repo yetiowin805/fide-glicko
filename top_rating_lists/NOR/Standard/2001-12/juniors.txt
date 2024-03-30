@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Tallaksen, Geir S.	NOR 1985 M 2245.7468407 74.4973275 1502778
+2 Carlsen, Magnus	NOR 1990 M 2141.2270810 74.0885086 1503014

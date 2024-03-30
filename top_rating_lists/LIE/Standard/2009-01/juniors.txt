@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Zier, Oliver	LIE 1995 M 1958.2657669 54.6650726 24631906
+1 Zier, Oliver	LIE 1995 M 1958.7128232 54.6609746 24631906

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Wiwatanadate, Poompong	THA 1990 M 1845.2199317 60.7941508 6201083
+1 Wiwatanadate, Poompong	THA 1990 M 1846.2267756 60.8194180 6201083

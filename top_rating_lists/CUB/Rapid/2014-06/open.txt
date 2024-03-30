@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Dominguez Perez, Leinier	CUB 1983 M 2684.5752326 74.8867875 3503240
+1 Dominguez Perez, Leinier	CUB 1983 M 2684.7129018 74.8814297 3503240

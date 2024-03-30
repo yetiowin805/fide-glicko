@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Yaaqoub, Rashid	SUD 1900 M 2115.9964931 74.3067744 12200336
+1 Yaaqoub, Rashid	SUD 1900 M 2116.2456335 74.3057308 12200336

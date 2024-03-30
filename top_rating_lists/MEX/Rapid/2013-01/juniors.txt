@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Torres Rosas, Luis Carlos	MEX 1995 M 2089.7345141 73.7177857 5111080
+1 Torres Rosas, Luis Carlos	MEX 1995 M 2089.6703925 73.7165231 5111080

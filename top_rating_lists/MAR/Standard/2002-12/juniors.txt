@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ouakhir, Mehdi	MAR 1985 M 2119.1024830 71.6811531 9000437
+1 Ouakhir, Mehdi	MAR 1985 M 2096.1799484 67.7730259 9000437

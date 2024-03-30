@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kayle, Charles	PLE 1964 M 2037.5656153 74.9606102 11500140
+1 Kayle, Charles	PLE 1964 M 2047.5759252 73.4492349 11500140

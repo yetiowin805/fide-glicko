@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Torres Rosas, Luis Carlos	MEX 1995 M 2089.7345141 72.0360594 5111080
-2 Benitez Lozano, Javier	MEX 1993 M 2010.3160474 74.3987752 5102472
-3 Mendoza Velazquez, Lorena Alejan	MEX 1994 F 1862.1582094 73.5226610 5101794
+1 Torres Rosas, Luis Carlos	MEX 1995 M 2089.6703925 72.0347937 5111080
+2 Benitez Lozano, Javier	MEX 1993 M 2010.4027173 74.3993028 5102472
+3 Mendoza Velazquez, Lorena Alejan	MEX 1994 F 1862.3466371 73.5205755 5101794

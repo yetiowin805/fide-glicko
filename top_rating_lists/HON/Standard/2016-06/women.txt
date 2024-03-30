@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Ortiz, Katherine Berenice	HON 1995 1715.1252461 68.8809579 8400474
-2 Fernandez Alacha, Mirna Graciela	HON 1997 1496.4082720 71.5497526 8400482
+1 Ortiz, Katherine Berenice	HON 1995 1715.2231930 68.8833731 8400474
+2 Fernandez Alacha, Mirna Graciela	HON 1997 1496.4938767 71.5509176 8400482

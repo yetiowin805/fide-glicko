@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Kisonova, Katarina	SVK 1984 2178.5734910 72.2236860 14905426
+2 Machalova, Veronika	SVK 1986 2135.8474199 74.5876561 14904888

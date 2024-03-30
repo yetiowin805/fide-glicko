@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ochoa de la Rosa, Manuel Dario	CUB 1994 M 2042.2467108 71.3250910 3509540
+1 Ochoa de la Rosa, Manuel Dario	CUB 1994 M 2042.0763646 71.3156556 3509540

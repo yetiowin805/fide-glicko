@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Silwal, Purushottam	NEP 2008 M 1862.0600089 71.9780131 12332313
+1 Silwal, Purushottam	NEP 2008 M 1862.1978895 71.9805306 12332313

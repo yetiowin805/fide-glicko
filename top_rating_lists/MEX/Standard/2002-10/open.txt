@@ -1,2 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hernandez, Gilberto	MEX 0 M 2568.3409861 56.7469509 5100011
+1 Hernandez, Gilberto	MEX 0 M 2569.3122018 57.0777712 5100011
+2 Estrada Nieto, Julian	MEX 0 M 2319.6630180 66.2599448 5101018
+3 Villanueva, Manuel	MEX 0 M 2036.7228700 74.4416836 5103908

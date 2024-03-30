@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Atlas, Dimitry	LIE 1968 M 2232.0477458 70.7641814 12000051
+1 Atlas, Dimitry	LIE 1968 M 2231.7837286 70.7404662 12000051

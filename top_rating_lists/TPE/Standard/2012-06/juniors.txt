@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Yang,ching Wei, Austin	TPE 1998 M 1648.6115131 73.1576103 16300440
+1 Yang,ching Wei, Austin	TPE 1998 M 1648.5925569 73.1446798 16300440

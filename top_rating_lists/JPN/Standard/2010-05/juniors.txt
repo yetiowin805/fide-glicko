@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Uesugi, Shinsaku	JPN 1991 M 2236.4831644 47.7894373 2024578
+1 Uesugi, Shinsaku	JPN 1991 M 2236.4584127 47.7877562 2024578

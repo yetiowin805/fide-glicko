@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Rating RD
-1 Perez Hernandez, Vicmary C.	VEN 2005 1724.0928996 70.5941025 3930831
-2 Pena Gonzalez, Clara Isabel	VEN 2004 1678.6842943 74.6064449 3924203
-3 Ubertin Gomez, Katherin Rossmary	VEN 2002 1599.4081576 73.7285819 3916391
-4 Guadalajara Barrios, Jacksilany	VEN 2006 1492.9140936 72.6513668 3931242
+1 Perez Hernandez, Vicmary C.	VEN 2005 1724.1131806 70.5942162 3930831
+2 Pena Gonzalez, Clara Isabel	VEN 2004 1678.6999344 74.6065172 3924203
+3 Ubertin Gomez, Katherin Rossmary	VEN 2002 1599.4273822 73.7285199 3916391
+4 Guadalajara Barrios, Jacksilany	VEN 2006 1492.9242795 72.6514312 3931242

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Zohar, Iddo	USA 2002 M 1442.8816155 64.4345987 2080923
+1 Zohar, Iddo	USA 2002 M 1442.9012355 64.4348486 2080923

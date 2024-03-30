@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mitchell, Robert	NZL 1941 M 1447.0310730 64.1913644 4302095
+1 Mitchell, Robert	NZL 1941 M 1447.3835115 64.1938273 4302095

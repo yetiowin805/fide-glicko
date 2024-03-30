@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lutuima, Amaro	ANG 2003 M 2134.9369167 60.0941764 10106863
+1 Lutuima, Amaro	ANG 2003 M 2135.1065998 60.0936161 10106863

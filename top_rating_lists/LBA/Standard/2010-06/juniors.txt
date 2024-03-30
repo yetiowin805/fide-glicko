@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ben Farahat, Ramadan	LBA 1990 M 1715.3343919 67.6353091 9200487
+1 Ben Farahat, Ramadan	LBA 1990 M 1715.5271040 67.6399749 9200487

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nelson, Omowale	JAM 1969 M 2024.2092339 68.7027394 7400209
+1 Nelson, Omowale	JAM 1969 M 2024.6562681 68.4521991 7400209

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ramos Caldera, Cesar	TTO 1945 M 1733.4944658 73.9122275 3901513
+1 Ramos Caldera, Cesar	TTO 1945 M 1733.0960880 73.9020534 3901513

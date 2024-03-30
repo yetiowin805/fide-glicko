@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ferrer Naranjo, Liennys	CUB 2010 F 1719.1581541 67.5202810 3530086
-2 Guach Rodriguez, Marcos Antonio	CUB 2009 M 1684.4273591 72.5991474 3530221
-3 Gotti Rodriguez, Leinier	CUB 2009 M 1624.6885095 67.3762130 3531902
+1 Ferrer Naranjo, Liennys	CUB 2010 F 1719.3151873 67.5235131 3530086
+2 Guach Rodriguez, Marcos Antonio	CUB 2009 M 1684.4748390 72.5989094 3530221
+3 Gotti Rodriguez, Leinier	CUB 2009 M 1624.7726358 67.3778611 3531902

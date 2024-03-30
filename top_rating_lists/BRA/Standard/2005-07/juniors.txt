@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
 1 Fier, Alexander Hilario Takeda	BRA 1988 M 2416.6387812 64.0127575 2107139
-2 Di Berardino, Diego Rafael	BRA 1987 M 2287.4096255 53.4373052 2105446
+2 Di Berardino, Diego Rafael	BRA 1987 M 2288.7688898 53.4892004 2105446
 3 Mekhitarian, Krikor Sevag	BRA 1986 M 2151.3722337 63.9104181 2107660

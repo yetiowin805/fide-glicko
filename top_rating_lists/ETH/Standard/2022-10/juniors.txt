@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Badene , Habtamu Bayu	ETH 2003 M 1871.0433795 73.2357872 15707598
+1 Badene , Habtamu Bayu	ETH 2003 M 1871.1426470 73.2384985 15707598

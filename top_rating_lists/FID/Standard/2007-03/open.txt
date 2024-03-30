@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Huerta, Soris Ramon	FID 0 M 2192.5097195 72.7001804 3508102
+1 Huerta, Soris Ramon	FID 0 M 2192.4678437 72.6992873 3508102

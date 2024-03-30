@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Vazquez Reyes, Raul	PUR 1991 M 2148.6303056 52.1562787 3100235
-2 Sanchez Rodriguez, Wilmairi	PUR 1991 F 1733.0819636 63.0484439 3101185
+1 Vazquez Reyes, Raul	PUR 1991 M 2148.9801129 52.1489768 3100235
+2 Sanchez Rodriguez, Wilmairi	PUR 1991 F 1733.1868431 63.0501690 3101185

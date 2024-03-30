@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Abrahamyan, Tatev	USA 1988 2225.3597854 64.5584929 13301918
+1 Abrahamyan, Tatev	USA 1988 2225.3685153 64.5590095 13301918

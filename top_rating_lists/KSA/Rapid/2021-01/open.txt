@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bukhari, Mohammed	KSA 1959 M 1633.3261607 74.3698363 21502277
+1 Bukhari, Mohammed	KSA 1959 M 1633.3897180 74.3711576 21502277

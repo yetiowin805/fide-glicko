@@ -30,7 +30,7 @@ if __name__ == "__main__":
         os.system(f"python3 tournament_scraper.py --start_month {args.start_month} --end_month {args.end_month}")
 
     # print(f"python3 extract_tournament_data.py --start_month {args.start_month} --end_month {args.end_month}")
-    os.system(f"python3 extract_tournament_data.py --start_month {args.start_month} --end_month {args.end_month}")
+    # os.system(f"python3 extract_tournament_data.py --start_month {args.start_month} --end_month {args.end_month}")
 
     # Shift start month and end month back one month
     start_month = start_month - 1

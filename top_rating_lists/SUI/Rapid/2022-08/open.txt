@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bilin, Halil	SUI 1982 M 1661.0058536 47.8623639 1335065
+1 Bilin, Halil	SUI 1982 M 1661.3829941 47.8659112 1335065

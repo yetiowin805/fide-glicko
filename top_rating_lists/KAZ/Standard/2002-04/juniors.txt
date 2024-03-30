@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Abilmazhinov, Dauren	KAZ 1986 M 2298.0150343 66.5399867 13701711
+2 Zigangirova, Sofya	KAZ 1983 M 2210.3966727 74.9266831 13701282

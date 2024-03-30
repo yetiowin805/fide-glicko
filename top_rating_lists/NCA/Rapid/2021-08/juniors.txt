@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Castillo Sevilla, Ian Eiffel	NCA 2002 M 1884.7831725 74.4634891 6104207
+1 Castillo Sevilla, Ian Eiffel	NCA 2002 M 1884.7694306 74.4632340 6104207

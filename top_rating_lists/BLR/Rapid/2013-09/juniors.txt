@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kovalev, Vladislav	BLR 1994 M 2429.6459815 68.9301251 13504398
+1 Kovalev, Vladislav	BLR 1994 M 2430.0481660 68.9261079 13504398

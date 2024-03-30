@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Tembo, Epah	ZAM 1993 F 1719.4279184 68.4247835 8700125
+1 Tembo, Epah	ZAM 1993 F 1719.5677501 68.4264853 8700125

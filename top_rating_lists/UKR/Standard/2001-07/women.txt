@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Gaponenko, Inna	UKR 1976 2473.9753586 67.5215162 14101181
+2 Dolzhikova, Olga	UKR 1979 2369.6026814 70.7531508 14105870

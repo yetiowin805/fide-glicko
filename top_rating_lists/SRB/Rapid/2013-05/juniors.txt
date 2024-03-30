@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Markovic, Aleksandar	SRB 1997 M 1848.0255360 74.6773991 913111
+1 Markovic, Aleksandar	SRB 1997 M 1846.8148582 74.6559505 913111

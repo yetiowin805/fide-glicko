@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ronka, Erik	FIN 1995 M 1981.5703832 74.5877301 505080
+1 Ronka, Erik	FIN 1995 M 1981.6721924 74.5974040 505080

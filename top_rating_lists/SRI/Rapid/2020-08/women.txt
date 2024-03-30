@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Sandeepani, M Tharushi	SRI 2005 1730.6929032 73.6360174 9948139
-2 Pavalachandran, Ashvini	SRI 2005 1708.9576743 74.1791873 9932518
+1 Sandeepani, M Tharushi	SRI 2005 1730.8030803 73.6386068 9948139
+2 Pavalachandran, Ashvini	SRI 2005 1709.0974693 74.1827655 9932518

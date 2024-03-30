@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mongontuul, Bathuyag	MGL 1987 F 2309.3156929 50.0855967 4900758
+1 Mongontuul, Bathuyag	MGL 1987 F 2309.0914291 50.0809937 4900758

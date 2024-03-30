@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mwendwa, Triza	KEN 2000 F 1639.4453302 71.5879577 10814965
+1 Mwendwa, Triza	KEN 2000 F 1639.4543026 71.5882628 10814965

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Pace, Colin	MLT 1979 M 2039.0840747 74.8383743 5600189
+1 Pace, Colin	MLT 1979 M 2039.0693144 74.8409529 5600189

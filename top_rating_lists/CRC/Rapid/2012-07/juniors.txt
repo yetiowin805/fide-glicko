@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Duran Vega, Sergio	CRC 1993 M 2095.4373845 69.3346286 6501311
+1 Duran Vega, Sergio	CRC 1993 M 2095.4364596 69.3323755 6501311

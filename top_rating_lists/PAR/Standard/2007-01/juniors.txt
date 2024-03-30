@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bachmann, Axel	PAR 1989 M 2418.5704166 51.7496463 3700488
+1 Bachmann, Axel	PAR 1989 M 2418.5469116 51.7487740 3700488

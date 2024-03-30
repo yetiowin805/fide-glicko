@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Araos Diaz, Constanza Paz	CHI 2006 1667.3897332 74.2586049 3456471
-2 Rozas Lazcano, Valeska	CHI 2003 1627.4323310 74.1008105 3438910
+1 Araos Diaz, Constanza Paz	CHI 2006 1667.5832799 74.2678141 3456471
+2 Rozas Lazcano, Valeska	CHI 2003 1627.8143729 74.1138432 3438910

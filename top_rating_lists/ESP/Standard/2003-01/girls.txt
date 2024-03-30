@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Vega Gutierrez, Sabrina	ESP 1987 2158.8508957 58.7127969 2219026
-2 Gutierrez Castillo, Paloma	ESP 1985 2105.1134662 59.8076818 2250764
+1 Vega Gutierrez, Sabrina	ESP 1987 2159.7562729 57.0713600 2219026
+2 Gutierrez Castillo, Paloma	ESP 1985 2102.3338969 57.4666859 2250764

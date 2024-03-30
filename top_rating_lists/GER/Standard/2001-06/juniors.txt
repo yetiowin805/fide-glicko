@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Naiditsch, Arkadij	GER 1985 M 2589.9739803 70.0983908 4650891
+2 Paehtz, Elisabeth	GER 1985 F 2422.9751210 74.5914014 4641833

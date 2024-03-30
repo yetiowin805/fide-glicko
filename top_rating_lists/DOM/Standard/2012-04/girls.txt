@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Santos Almonte, Carol	DOM 1993 1563.3669605 71.6778692 6402348
+1 Santos Almonte, Carol	DOM 1993 1563.3477308 71.6761176 6402348

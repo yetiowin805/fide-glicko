@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al Ibrahim, Abdulrahman	KUW 1995 M 1684.3247793 72.5306145 10300503
+1 Al Ibrahim, Abdulrahman	KUW 1995 M 1684.5937730 72.5356356 10300503

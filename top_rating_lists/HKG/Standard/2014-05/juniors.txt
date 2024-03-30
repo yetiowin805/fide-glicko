@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Masters, Christopher	HKG 1995 M 1721.5128792 70.5190728 6000681
+1 Masters, Christopher	HKG 1995 M 1721.6942711 70.5219218 6000681

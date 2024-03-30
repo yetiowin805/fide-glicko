@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gaidramdan , Marwan	YEM 1900 M 1489.8558534 74.4542461 9402330
+1 Gaidramdan , Marwan	YEM 1900 M 1489.9029281 74.4561704 9402330

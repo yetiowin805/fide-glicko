@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Puroila, Sippo	FIN 1959 M 1823.6881995 72.7207314 504572
+1 Puroila, Sippo	FIN 1959 M 1824.0915673 72.7340124 504572

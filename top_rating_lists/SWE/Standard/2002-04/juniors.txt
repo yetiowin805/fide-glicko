@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Tikkanen, Hans	SWE 1985 M 2343.9464093 73.6731568 1706446
+1 Tikkanen, Hans	SWE 1985 M 2305.6562108 67.5279843 1706446

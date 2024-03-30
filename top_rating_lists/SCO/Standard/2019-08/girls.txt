@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Espinosa Cancino, Monica	SCO 2000 1579.5071321 71.8595365 22253025
-2 Espinosa Cancino, Carolina	SCO 2009 1253.3526081 66.5550025 2406705
+1 Espinosa Cancino, Monica	SCO 2000 1579.7776120 71.8618264 22253025
+2 Espinosa Cancino, Carolina	SCO 2009 1253.5458577 66.5543490 2406705

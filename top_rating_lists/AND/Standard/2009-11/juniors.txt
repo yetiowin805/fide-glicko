@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Fernandez Lopez, Joan	AND 1989 M 1981.9035615 62.2794411 6900348
+1 Fernandez Lopez, Joan	AND 1989 M 1982.0043998 62.2758383 6900348

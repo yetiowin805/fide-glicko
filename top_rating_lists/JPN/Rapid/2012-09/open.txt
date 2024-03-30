@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kojima, Shinya	JPN 1988 M 2197.5408817 71.0760924 7000812
+1 Kojima, Shinya	JPN 1988 M 2197.8492880 71.0744001 7000812

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Frederiksen, Eguil E.	BOL 1964 M 1642.2585152 74.7166793 3303594
+1 Frederiksen, Eguil E.	BOL 1964 M 1641.8702384 74.6966996 3303594

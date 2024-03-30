@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Borda Rodas, Anapaola S.	ARG 2004 1922.3459341 70.0482445 152781
+1 Borda Rodas, Anapaola S.	ARG 2004 1922.8799319 70.0511773 152781

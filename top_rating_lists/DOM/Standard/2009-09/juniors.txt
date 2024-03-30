@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Diaz, Wilsaida	DOM 1991 F 1509.7521635 70.5363031 6403557
+1 Diaz, Wilsaida	DOM 1991 F 1509.8071291 70.5387966 6403557

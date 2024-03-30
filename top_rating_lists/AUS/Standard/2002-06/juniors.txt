@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Zhao, Zong-Yuan	AUS 1986 M 2424.6823845 74.9506675 3202534
+1 Zhao, Zong-Yuan	AUS 1986 M 2386.9888222 68.9387369 3202534

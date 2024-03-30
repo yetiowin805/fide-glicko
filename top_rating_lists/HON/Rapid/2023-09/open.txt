@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gavarrete, Nahun	HON 1994 M 2089.2404278 74.3854458 8400709
-2 Chinchilla, Alejandro Jose	HON 1991 M 1938.4237564 73.7579848 8401136
+1 Gavarrete, Nahun	HON 1994 M 2089.4088876 74.3865847 8400709
+2 Chinchilla, Alejandro Jose	HON 1991 M 1938.4104590 73.7597646 8401136

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ahmed Holi Ali, Moawia	SUD 1980 M 2098.8667896 50.8314505 12200328
+1 Ahmed Holi Ali, Moawia	SUD 1980 M 2099.1095276 50.8354955 12200328

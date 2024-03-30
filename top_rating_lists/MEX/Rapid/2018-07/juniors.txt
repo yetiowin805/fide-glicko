@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Quiroga Jaquez, Angel Ivan	MEX 2002 M 1662.7890636 73.5992978 5117801
+1 Quiroga Jaquez, Angel Ivan	MEX 2002 M 1662.8159958 73.5989853 5117801

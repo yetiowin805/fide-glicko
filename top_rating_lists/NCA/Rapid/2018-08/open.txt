@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Duarte Urbina, Omar	NCA 1900 M 1769.4368140 71.8966428 6103782
+1 Duarte Urbina, Omar	NCA 1900 M 1769.3922321 71.8918581 6103782

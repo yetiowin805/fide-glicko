@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lwebuga, Ronald	SLE 1986 M 1708.7443962 72.0610948 10001034
+1 Lwebuga, Ronald	SLE 1986 M 1708.8381638 72.0658026 10001034

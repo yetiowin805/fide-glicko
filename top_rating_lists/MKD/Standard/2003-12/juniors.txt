@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Stojanovski, Dejan	MKD 1984 M 2430.5473449 62.5372768 15000796
+1 Stojanovski, Dejan	MKD 1984 M 2433.8503397 61.9063174 15000796

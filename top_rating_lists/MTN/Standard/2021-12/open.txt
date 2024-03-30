@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mohamed Abderrahim, Taleb Mohamed	MTN 2007 M 1788.4487602 65.7050319 19601441
-2 Hassan Sidi Mohamed Cheikh	MTN 1994 M 1736.7335095 72.3173678 19601433
-3 Mohamed Lemine, Mohamed	MTN 1994 M 1718.5889443 63.7329195 19601409
+1 Mohamed Abderrahim, Taleb Mohamed	MTN 2007 M 1788.5558965 65.7067185 19601441
+2 Hassan Sidi Mohamed Cheikh	MTN 1994 M 1736.8383666 72.3187080 19601433
+3 Mohamed Lemine, Mohamed	MTN 1994 M 1718.7419044 63.7340413 19601409

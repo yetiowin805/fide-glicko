@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Coban, Suleyman	TUR 1996 M 1578.8111908 64.3126842 6375413
+1 Coban, Suleyman	TUR 1996 M 1578.8284525 64.3131323 6375413

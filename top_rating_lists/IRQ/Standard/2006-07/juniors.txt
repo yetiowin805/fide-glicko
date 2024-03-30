@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Laith, Kasib	IRQ 1986 M 2002.4669973 64.7308424 4801059
+1 Laith, Kasib	IRQ 1986 M 2002.5397500 64.4330362 4801059

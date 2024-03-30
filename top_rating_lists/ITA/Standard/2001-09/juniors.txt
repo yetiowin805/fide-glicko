@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Genocchio, Daniele	ITA 1981 M 2320.4434592 59.9366466 806463

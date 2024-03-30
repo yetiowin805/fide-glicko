@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Koncurat, Enzo	ARG 2004 M 1734.1012214 74.2051741 145688
+1 Koncurat, Enzo	ARG 2004 M 1734.1247143 74.2047433 145688

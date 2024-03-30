@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Paehtz, Elisabeth	GER 1985 2398.8181939 55.7435382 4641833
+2 Helm, Leonie	GER 1984 2179.9802034 65.2331186 4656741

@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rakotomaharo, Fy Antenaina	MAD 1999 M 2214.4241233 46.8413674 13100050
-2 Randriamahefa, Fenitra Anthony	MAD 1991 M 1833.6313141 74.7462636 13100742
-3 Rabe andrianandrasana, Haingo	MAD 1974 M 1723.6647628 69.8296585 13100181
+1 Rakotomaharo, Fy Antenaina	MAD 1999 M 2214.7122647 46.8429919 13100050
+2 Randriamahefa, Fenitra Anthony	MAD 1991 M 1833.7079882 74.7480432 13100742
+3 Rabe andrianandrasana, Haingo	MAD 1974 M 1723.7468221 69.8308186 13100181

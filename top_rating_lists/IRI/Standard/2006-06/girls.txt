@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Paridar, Shadi	IRI 1986 2128.5574843 50.1467170 12500666
+1 Paridar, Shadi	IRI 1986 2128.4080945 50.1485044 12500666

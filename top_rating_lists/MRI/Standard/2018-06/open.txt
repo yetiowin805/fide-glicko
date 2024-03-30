@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Phillips, Roy	MRI 1969 M 2008.3901675 74.1363309 404136
+1 Phillips, Roy	MRI 1969 M 2008.7641175 74.1328466 404136

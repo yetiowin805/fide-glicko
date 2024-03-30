@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Sasikiran, Krishnan	IND 1981 M 2596.1827863 48.6262300 5004985
+2 Harikrishna, P.	IND 1986 M 2518.8632521 46.9163949 5007003

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ghadoori, Mohammed	KSA 1960 M 1491.0054310 72.7122866 21500290
+1 Ghadoori, Mohammed	KSA 1960 M 1491.0375196 72.7133719 21500290

@@ -43,7 +43,7 @@ int main(int argc, char* argv[]) {
         sscanf(line, "%d", &player.id);
 
         // Extract player name (though we won't be using it in the output)
-        strncpy(player.name, line + 9, 35);
+        strncpy(player.name, line + 12, 33);
         char *end = player.name + strlen(player.name) - 1;
         while(end > player.name && (*end == ' ' || *end == '\t' || *end == '\n')) {
             *end = '\0';
@@ -52,13 +52,13 @@ int main(int argc, char* argv[]) {
 
         // Extract rating
         char temp[10];  // Assuming a maximum of 9 characters for the rating
-        strncpy(temp, line + 60, 9);
+        strncpy(temp, line + 59, 8);
         temp[9] = '\0';  // Null-terminate the string
         if (sscanf(temp, "%d", &player.rating) != 1 || player.rating < 1000 || player.rating > 3000) {
             fprintf(stderr, "Error: Invalid rating encountered: '%s'\n", temp);
             exit(EXIT_FAILURE);  // Exit the program with an error code
         }
-        strncpy(temp, line+86, 4);
+        strncpy(temp, line+82, 4);
         temp[4] = '\0';
         if (strchr(temp, 'i') == NULL) {
             if (player.rating > 2500) {

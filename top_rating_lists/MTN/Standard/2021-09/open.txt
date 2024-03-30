@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mohamed Lemine, Mohamed	MTN 1994 M 1730.4327088 61.7156867 19601409
-2 Hassan Sidi Mohamed Cheikh	MTN 1994 M 1723.1836695 74.2971534 19601433
+1 Mohamed Lemine, Mohamed	MTN 1994 M 1730.5727451 61.7176049 19601409
+2 Hassan Sidi Mohamed Cheikh	MTN 1994 M 1723.2903629 74.2981395 19601433

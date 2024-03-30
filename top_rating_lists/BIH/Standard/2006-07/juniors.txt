@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Predojevic, Borki	BIH 1987 M 2540.7477053 42.4606938 930849
+1 Predojevic, Borki	BIH 1987 M 2540.6292428 42.4621898 930849

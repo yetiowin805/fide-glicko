@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Santos, Bruno	CPV 2003 M 1618.5435686 70.8848519 23600349
+1 Santos, Bruno	CPV 2003 M 1618.5852099 70.8860471 23600349

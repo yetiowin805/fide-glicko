@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Popova, Natalija	BLR 1976 2291.6297860 71.7684297 13500295
+2 Tetenkina, Irina	BLR 1978 2267.9785050 73.9013794 13500996

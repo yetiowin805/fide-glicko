@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rushdi Ramadan Abdow	SOM 1994 M 1883.6361838 67.4011085 16100590
-2 Abdulkadir Mohamed Warsame	SOM 1993 M 1835.0785730 61.4831988 16100913
+1 Rushdi Ramadan Abdow	SOM 1994 M 1883.6928299 67.4017769 16100590
+2 Abdulkadir Mohamed Warsame	SOM 1993 M 1835.1504691 61.4844313 16100913

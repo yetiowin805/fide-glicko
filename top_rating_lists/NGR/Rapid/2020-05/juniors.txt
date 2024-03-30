@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Pelomoh Jessica	NGR 2001 F 1461.3271433 72.4574185 8507864
+1 Pelomoh Jessica	NGR 2001 F 1461.3501196 72.4584655 8507864

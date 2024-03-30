@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nam, Kanghyeon	KOR 2001 M 1587.2102916 74.3225930 13208810
+1 Nam, Kanghyeon	KOR 2001 M 1587.4637125 74.3257837 13208810

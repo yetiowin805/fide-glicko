@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Van Foreest, Lucas	NED 2001 M 2246.3874710 72.2952153 1039792
+1 Van Foreest, Lucas	NED 2001 M 2246.7948569 72.2951680 1039792

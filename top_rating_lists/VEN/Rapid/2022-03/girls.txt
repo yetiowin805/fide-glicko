@@ -1,12 +1,12 @@
 Rank Name Federation BirthYear Rating RD
-1 Brito Marquez, Sophia Valentina	VEN 2008 1632.8741542 73.9096113 3951529
-2 Velasquez Marin, Glaycell Daniela	VEN 2007 1611.8500082 65.8677901 3946762
-3 Gonzalez Gomez, Daniela Carolina	VEN 2003 1567.8811697 66.0640333 3915417
-4 Guadalajara Barrios, Jacksilany	VEN 2006 1558.5747802 70.2317565 3931242
-5 Ortiz Avila, Samantha Carolina	VEN 2005 1500.5763377 63.0615683 3947548
-6 Marin Murguey, Valentina Jatniel	VEN 2005 1475.0872000 65.0595967 3955478
-7 Hernandez Mora, Nohelia Virginia	VEN 2005 1474.6983689 52.7350891 3915344
-8 Quijada Delgado, Eliana Paola	VEN 2005 1352.7658471 65.1025273 3955494
-9 Luzardo Lopez, Aranza Victoria	VEN 2011 1341.0629592 71.9120665 3956733
-10 Rivera Salazar, Anmarie Giorgina	VEN 2007 1253.4710002 72.4867649 3974251
-11 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1225.1497148 73.9238872 3964051
+1 Brito Marquez, Sophia Valentina	VEN 2008 1632.8621713 73.9089252 3951529
+2 Velasquez Marin, Glaycell Daniela	VEN 2007 1611.8337262 65.8669534 3946762
+3 Gonzalez Gomez, Daniela Carolina	VEN 2003 1567.8626805 66.0636352 3915417
+4 Guadalajara Barrios, Jacksilany	VEN 2006 1558.5755215 70.2317110 3931242
+5 Ortiz Avila, Samantha Carolina	VEN 2005 1500.5688573 63.0611583 3947548
+6 Marin Murguey, Valentina Jatniel	VEN 2005 1475.0704870 65.0594223 3955478
+7 Hernandez Mora, Nohelia Virginia	VEN 2005 1474.6801012 52.7348425 3915344
+8 Quijada Delgado, Eliana Paola	VEN 2005 1352.7520503 65.1024782 3955494
+9 Luzardo Lopez, Aranza Victoria	VEN 2011 1341.0468704 71.9119497 3956733
+10 Rivera Salazar, Anmarie Giorgina	VEN 2007 1253.4569001 72.4865545 3974251
+11 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1225.1351160 73.9237475 3964051

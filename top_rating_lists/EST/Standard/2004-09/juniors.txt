@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
 1 Soskov, Vjatsheslav	EST 1987 M 2194.1499497 53.4619062 4501918
-2 Bashkite, Viktoria	EST 1985 F 2151.8701831 53.0797958 4501284
+2 Bashkite, Viktoria	EST 1985 F 2150.3832401 53.0654086 4501284

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Anand, Batsukh	MGL 2008 M 1966.5986325 59.7054056 4903510
+1 Anand, Batsukh	MGL 2008 M 1966.7542343 59.7079302 4903510

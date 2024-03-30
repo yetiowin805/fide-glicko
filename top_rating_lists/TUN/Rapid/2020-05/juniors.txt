@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Miladi, Amen	TUN 2004 F 1698.2257594 74.2814534 5503779
+1 Miladi, Amen	TUN 2004 F 1698.3000937 74.2845628 5503779

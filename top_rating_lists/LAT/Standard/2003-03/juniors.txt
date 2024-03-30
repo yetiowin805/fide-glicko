@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Berzina, Ilze	LAT 1984 F 2230.7229136 69.0630135 11601345
+1 Berzina, Ilze	LAT 1984 F 2230.6892410 66.3428708 11601345

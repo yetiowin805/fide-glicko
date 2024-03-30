@@ -24,6 +24,11 @@ def run_glicko(folder, start_year, start_month, end_year, end_month):
                 else:
                     temp_month += 1
                 player_info_path = f"./player_info/processed/{temp_year:04d}-{temp_month:02d}.txt"
+                if temp_year >= end_year and temp_month == end_month:
+                    break
+
+            if temp_year >= end_year and temp_month == end_month:
+                break
 
             next_month = month + 1
             next_year = year

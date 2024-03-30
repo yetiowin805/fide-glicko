@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hannah Zion Mawejje	UGA 2006 F 1426.3339938 68.3895985 10018077
+1 Hannah Zion Mawejje	UGA 2006 F 1426.3392829 68.3897340 10018077

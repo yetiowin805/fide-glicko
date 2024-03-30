@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Loay, Sameer	JOR 2002 M 2003.1486386 74.2327959 8104239
+1 Loay, Sameer	JOR 2002 M 2003.5058299 74.2334190 8104239

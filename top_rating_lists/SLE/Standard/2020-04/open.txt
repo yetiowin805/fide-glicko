@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kamara, Ansumana	SLE 1973 M 1721.7697762 66.5328165 1622218
+1 Kamara, Ansumana	SLE 1973 M 1721.8919504 66.5354178 1622218

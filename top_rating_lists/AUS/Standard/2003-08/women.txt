@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Szuveges, Narelle	AUS 0 1782.6969947 65.5322569 3202640
+1 Moylan, Laura	AUS 1983 1984.6685625 74.3730181 3202542
+2 Szuveges, Narelle	AUS 0 1789.0795601 63.3175433 3202640

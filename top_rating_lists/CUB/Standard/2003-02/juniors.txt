@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Dominguez, Lenier	CUB 1983 M 2612.8953878 51.7717425 3503240
+1 Dominguez, Lenier	CUB 1983 M 2611.2938799 51.3938194 3503240

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Jose Polanco, Kenia	DOM 1985 1777.1562969 63.6137315 6401074
+1 Jose Polanco, Kenia	DOM 1985 1777.2085108 63.6149962 6401074

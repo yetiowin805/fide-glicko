@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Di Berardino, Diego Rafael	BRA 1987 M 2294.6432994 64.5997514 2105446
+1 Di Berardino, Diego Rafael	BRA 1987 M 2314.7736284 60.3621607 2105446

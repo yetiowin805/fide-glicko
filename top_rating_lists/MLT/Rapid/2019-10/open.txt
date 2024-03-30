@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Fleri, Matthew	MLT 2007 M 1613.4101371 73.9922841 5602165
+1 Fleri, Matthew	MLT 2007 M 1613.5624122 73.9956417 5602165

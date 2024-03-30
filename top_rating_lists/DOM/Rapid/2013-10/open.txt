@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 De los Santos, Eddy	DOM 1971 M 1947.8692775 74.9681953 6400264
+1 De los Santos, Eddy	DOM 1971 M 1947.7514881 74.9762430 6400264

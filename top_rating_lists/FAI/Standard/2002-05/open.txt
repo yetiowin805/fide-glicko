@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Nilssen, John Arni	FAI 1974 M 2391.4032185 74.6756129 7200137

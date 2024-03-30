@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hajar , Muhannad	SUD 1900 M 1775.6373932 62.8375790 12201006
+1 Hajar , Muhannad	SUD 1900 M 1775.7117272 62.8393224 12201006

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ramaj, Ergit	ALB 2008 M 1812.1730120 62.6323117 4703669
+1 Ramaj, Ergit	ALB 2008 M 1812.4012736 62.6349793 4703669

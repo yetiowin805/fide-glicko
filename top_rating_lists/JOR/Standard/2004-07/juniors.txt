@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Samhouri, A.	JOR 1984 M 2225.3035202 55.3303168 8100640
+1 Samhouri, A.	JOR 1984 M 2224.1479692 54.9526513 8100640

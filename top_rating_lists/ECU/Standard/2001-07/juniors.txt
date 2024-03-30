@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Munoz Sanchez, Miguel	ECU 1982 M 2281.7754904 73.4637619 3600734

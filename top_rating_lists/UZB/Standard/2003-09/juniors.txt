@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gareev, Timur	UZB 1988 M 2382.4172362 45.5715551 14200937
+1 Gareev, Timur	UZB 1988 M 2382.3848063 45.5705892 14200937

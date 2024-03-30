@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Squella Lavin, Carlos Felipe	CHI 1996 M 1925.0382275 72.7534627 3406792
-2 Castillo Rivera, Carlos Alberto	CHI 1998 M 1685.6497445 73.9656774 3413322
+1 Squella Lavin, Carlos Felipe	CHI 1996 M 1925.6929106 72.7728895 3406792
+2 Castillo Rivera, Carlos Alberto	CHI 1998 M 1686.0292879 73.9721926 3413322

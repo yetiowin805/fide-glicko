@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ghaem Maghami, Ehsan	IRI 1982 M 2509.0000000 52.3874105 12500739
+1 Ghaem Maghami, Ehsan	IRI 1982 M 2535.2106011 67.1507430 12500739

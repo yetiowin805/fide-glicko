@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Watson, Gabriella	JAM 2007 1500.1522796 70.7234780 7402538
+1 Watson, Gabriella	JAM 2007 1500.1076071 70.7236502 7402538

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Juarez Garcia, Daniela	GUA 2006 1621.3156001 58.2210901 7302703
-2 Garcia Medina, Fiorella Jasmine	GUA 2008 1432.4279335 63.8848227 7305338
+1 Juarez Garcia, Daniela	GUA 2006 1621.3678510 58.2221480 7302703
+2 Garcia Medina, Fiorella Jasmine	GUA 2008 1432.4512086 63.8854434 7305338

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Espitia Torres, Mateo	CRC 2003 M 1760.6479061 74.9278140 6508332
+1 Espitia Torres, Mateo	CRC 2003 M 1760.6561904 74.9284887 6508332

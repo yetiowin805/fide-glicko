@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Alattar, Ghayda M.	JOR 1991 F 1765.2995652 74.3571338 8101531
+1 Alattar, Ghayda M.	JOR 1991 F 1765.5480885 74.3528991 8101531

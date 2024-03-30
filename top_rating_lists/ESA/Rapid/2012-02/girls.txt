@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Hernandez, Bera	ESA 1992 1594.0216331 72.3826220 6700080
+1 Hernandez, Bera	ESA 1992 1594.1322267 72.3848161 6700080

@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Rating RD
-1 Ramirez Toledo, Ayleen Maribel	MEX 2001 1635.6639349 73.1390522 5127459
-2 Mukul Aldana, Daniela Maria	MEX 2006 1576.3504142 73.8418679 5128145
-3 Martinez Mares, Genesis Alejandra	MEX 2005 1455.7490848 69.7853823 5144264
-4 Sandoval Rivera, Alejandra	MEX 2005 1433.7401405 74.7275544 5129524
+1 Ramirez Toledo, Ayleen Maribel	MEX 2001 1635.7795684 73.1393962 5127459
+2 Mukul Aldana, Daniela Maria	MEX 2006 1576.4254181 73.8420389 5128145
+3 Martinez Mares, Genesis Alejandra	MEX 2005 1455.8036476 69.7858130 5144264
+4 Sandoval Rivera, Alejandra	MEX 2005 1433.8129722 74.7278661 5129524

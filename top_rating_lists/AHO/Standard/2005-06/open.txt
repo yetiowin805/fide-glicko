@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mensing, Fabio	AHO 0 M 2083.4905652 70.8593097 7500149
+1 Mensing, Fabio	AHO 0 M 2083.4793373 70.8611750 7500149

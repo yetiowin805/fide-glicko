@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Rosario Almanzar, Raydily	DOM 1998 1664.3802079 69.4568936 6403573
-2 Castillo Pena, Patricia Evarista	DOM 1991 1659.4068742 73.2715926 6412106
-3 Ramirez Luzon, Franchesca	DOM 2004 1601.0457970 63.2717603 6421792
+1 Rosario Almanzar, Raydily	DOM 1998 1664.4184449 69.4579086 6403573
+2 Castillo Pena, Patricia Evarista	DOM 1991 1659.4159819 73.2716702 6412106
+3 Ramirez Luzon, Franchesca	DOM 2004 1601.0324674 63.2714940 6421792

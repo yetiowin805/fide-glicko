@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Davudov, Tunar	AZE 2009 M 1681.2520210 74.1235542 13422316
+1 Davudov, Tunar	AZE 2009 M 1681.4363592 74.1258844 13422316

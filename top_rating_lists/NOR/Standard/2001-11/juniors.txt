@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Tallaksen, Geir S.	NOR 1985 M 2245.7468407 72.8397698 1502778

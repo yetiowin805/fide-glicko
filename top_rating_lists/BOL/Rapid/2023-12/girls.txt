@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Velarde Alarcon, Jhoana	BOL 2007 1626.1865330 71.9812448 3320103
-2 Mollo Figueroa, Nicole	BOL 2011 1614.1272617 57.1217376 3325687
+1 Velarde Alarcon, Jhoana	BOL 2007 1625.9971085 71.9790768 3320103
+2 Mollo Figueroa, Nicole	BOL 2011 1614.1437112 57.1215052 3325687

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Janahi, Zeyaad	BRN 1979 M 2304.2732890 73.1568438 11200073
+1 Janahi, Zeyaad	BRN 1979 M 2304.2978732 73.1600156 11200073

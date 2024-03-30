@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hovsepyan, Gagik K.	ARM 2003 M 1570.8063702 61.6952672 13312936
+1 Hovsepyan, Gagik K.	ARM 2003 M 1570.9811798 61.6976662 13312936

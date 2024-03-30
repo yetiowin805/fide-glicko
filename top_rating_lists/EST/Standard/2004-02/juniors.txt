@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bashkite, Viktoria	EST 1985 F 2100.4086617 58.6988030 4501284
+1 Bashkite, Viktoria	EST 1985 F 2097.0998693 58.5121862 4501284

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ranaivoharisoa, Alain	MAD 1980 M 2124.4013995 62.8125591 13100025
-2 Andrianiaina, Patrick-Jocelyn	MAD 1979 M 1735.2650729 74.1668789 13100157
+1 Ranaivoharisoa, Alain	MAD 1980 M 2124.5265280 62.8052510 13100025
+2 Andrianiaina, Patrick-Jocelyn	MAD 1979 M 1735.3722749 74.1685543 13100157

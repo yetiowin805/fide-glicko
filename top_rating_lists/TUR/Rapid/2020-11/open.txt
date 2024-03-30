@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Oney, Remel	TUR 1990 F 1715.6634511 74.6575478 6310125
+1 Oney, Remel	TUR 1990 F 1716.0470938 74.6621049 6310125

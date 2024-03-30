@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Abdulla, Murad	SCO 2000 M 2133.2903395 68.3833724 2403757
+1 Abdulla, Murad	SCO 2000 M 2133.6973976 68.3823277 2403757

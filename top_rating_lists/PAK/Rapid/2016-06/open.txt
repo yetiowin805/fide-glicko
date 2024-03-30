@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Khalid, Lodhi	PAK 1960 M 1583.1939559 74.5710126 7801025
+1 Khalid, Lodhi	PAK 1960 M 1585.1304936 74.5462448 7801025

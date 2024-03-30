@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Sergeeva, Maria	KAZ 0 2371.9793417 73.5497534 13701037
+1 Sergeeva, Maria	KAZ 0 2375.1663711 68.6358514 13701037
+2 Bekmukhamedova, Tatiana	KAZ 1979 2054.8192303 74.3910194 13700987

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Cmilyte, Viktorija (IM)	LTU 1983 F 2375.1331303 74.4928853 12801259
+2 Bercys, Salvijus	LTU 1989 M 2244.4092359 74.0296450 12802212

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mikail Walli	TAN 2008 M 1529.5445396 73.7342704 21600740
+1 Mikail Walli	TAN 2008 M 1529.5770594 73.7340537 21600740

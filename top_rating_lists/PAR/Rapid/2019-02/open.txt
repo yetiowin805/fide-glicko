@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ramirez Brizuela, Juan Bartolome	PAR 1965 M 1667.0190857 74.5796703 3705102
+1 Ramirez Brizuela, Juan Bartolome	PAR 1965 M 1667.1165525 74.5876430 3705102

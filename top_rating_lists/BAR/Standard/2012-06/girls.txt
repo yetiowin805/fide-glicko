@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Blackman, Katrina	BAR 1992 1530.0078223 69.9956776 11100540
+1 Blackman, Katrina	BAR 1992 1528.9822435 69.9910028 11100540

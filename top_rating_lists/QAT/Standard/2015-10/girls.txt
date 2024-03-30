@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Al-Hajri, Hamda	QAT 2002 1317.4865414 68.1996662 12100900
+1 Al-Hajri, Hamda	QAT 2002 1317.6110736 68.2012965 12100900

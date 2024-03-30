@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ezra Paul Chambers	BDI 2000 M 2010.8011525 49.0048814 20300204
+1 Ezra Paul Chambers	BDI 2000 M 2010.8688586 49.0060943 20300204

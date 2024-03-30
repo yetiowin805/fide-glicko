@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Matoewi, Roger	SUR 1975 M 2020.6245797 66.2628314 8200084
+1 Matoewi, Roger	SUR 1975 M 2020.5332353 66.2672739 8200084

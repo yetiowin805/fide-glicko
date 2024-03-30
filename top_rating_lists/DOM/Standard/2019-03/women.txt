@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Rating RD
-1 Castillo Pena, Patricia Evarista	DOM 1991 1657.4359335 73.3061980 6412106
-2 Almanzar Vasquez, Jeniffer Maria	DOM 1993 1646.8799631 66.6496156 6406505
-3 Hazim Gonzalez, Elizabeth	DOM 1962 1627.3521018 61.6318780 6400183
-4 Rosario Almanzar, Raydily	DOM 1998 1602.0394860 65.8884682 6403573
+1 Castillo Pena, Patricia Evarista	DOM 1991 1657.4325132 73.3078074 6412106
+2 Almanzar Vasquez, Jeniffer Maria	DOM 1993 1646.8415357 66.6498342 6406505
+3 Hazim Gonzalez, Elizabeth	DOM 1962 1627.4237120 61.6391759 6400183
+4 Rosario Almanzar, Raydily	DOM 1998 1602.0543429 65.8884656 6403573

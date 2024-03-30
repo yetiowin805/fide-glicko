@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Taylor, Jaden	GUY 2003 M 1399.8992920 74.4945632 19700709
+1 Taylor, Jaden	GUY 2003 M 1399.8130404 74.4940069 19700709

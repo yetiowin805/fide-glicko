@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Mansour, Sameer	JOR 0 M 2241.4850963 68.2553219 8100144
+2 Al Haisamwi, Sameer	JOR 0 M 2105.1506091 74.4036998 8100438

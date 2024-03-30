@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nansubuga , Gloria	UGA 2001 F 1481.7473768 74.0502088 10000887
+1 Nansubuga , Gloria	UGA 2001 F 1481.8947698 74.0508148 10000887

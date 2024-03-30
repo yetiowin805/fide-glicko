@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Abatzidis, Stelios	CYP 1961 M 1889.3900354 73.4953253 4205707
-2 Aristotelous, Vassilis	CYP 1956 M 1875.1898524 72.9981901 5900468
+1 Abatzidis, Stelios	CYP 1961 M 1889.4707746 73.4953533 4205707
+2 Aristotelous, Vassilis	CYP 1956 M 1875.2750242 72.9989120 5900468

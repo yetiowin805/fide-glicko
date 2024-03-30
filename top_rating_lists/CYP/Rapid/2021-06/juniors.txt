@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lavrishchev, Matvei	CYP 2010 M 1559.1932673 67.9344631 34390146
+1 Lavrishchev, Matvei	CYP 2010 M 1559.2703079 67.9347971 34390146

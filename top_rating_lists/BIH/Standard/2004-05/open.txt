@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nikolic, Predrag	BIH 1960 M 2680.9301854 55.7633365 14400014
+1 Nikolic, Predrag	BIH 1960 M 2681.3191927 55.7446459 14400014

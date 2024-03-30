@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Farhan, Marwan Ali	YEM 1900 M 1697.6487650 61.8091575 9401652
+1 Farhan, Marwan Ali	YEM 1900 M 1697.7495842 61.8109796 9401652

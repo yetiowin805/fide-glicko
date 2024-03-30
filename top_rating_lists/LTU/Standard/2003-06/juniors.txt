@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bercys, Salvijus	LTU 1989 M 2237.4036383 65.8112937 12802212
+1 Bercys, Salvijus	LTU 1989 M 2234.6199370 64.5741077 12802212

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Martyr, Reginald	LCA 1995 M 2045.6067892 63.6823373 7701810
+1 Martyr, Reginald	LCA 1995 M 2045.7807819 63.6809177 7701810

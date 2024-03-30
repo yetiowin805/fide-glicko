@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ayemou Mazan Emmanuela Esther	CIV 2008 F 1568.0768490 74.7049378 20803036
+1 Ayemou Mazan Emmanuela Esther	CIV 2008 F 1568.0852127 74.7050515 20803036

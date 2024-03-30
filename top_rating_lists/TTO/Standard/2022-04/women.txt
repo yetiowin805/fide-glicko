@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 La Fleur, Zara	TTO 2006 1578.6976293 73.7154337 7703848
+1 La Fleur, Zara	TTO 2006 1578.5745414 73.7127881 7703848

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lopez, Jasel	ARU 1994 M 2100.8051133 65.4077877 15900045
+1 Lopez, Jasel	ARU 1994 M 2101.0198022 65.4107804 15900045

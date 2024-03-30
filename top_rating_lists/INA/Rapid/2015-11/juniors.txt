@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Aulia, Medina Warda	INA 1997 F 2094.3852474 72.4617739 7101570
+1 Aulia, Medina Warda	INA 1997 F 2095.2346968 72.4579776 7101570
