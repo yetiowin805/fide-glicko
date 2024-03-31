@@ -24,14 +24,14 @@ def process_file(input_filename, output_filename, lengths, keys):
 # Example usage
 import datetime
 
-start_date = datetime.date(2001, 4, 1)
-end_date = datetime.date(2001, 4, 1)
+start_date = datetime.date(2024, 4, 1)
+end_date = datetime.date(2024, 4, 1)
 
 current_date = start_date
 import json
 from dateutil.relativedelta import relativedelta
-lengths = [12,33,6,8,6,6,11,4] # Example fixed lengths for each part of the line
-keys = ["id", "name","title","fed","rating","games","b_year","flag"] # Keys for the JSON objects
+lengths = [15,61,4, 4, 5, 5, 15, 4, 6, 4, 3, 6, 4] # Example fixed lengths for each part of the line
+keys = ["id", "name","fed", "sex", "title","w_title", "o_title", "foa","rating","games","k", "b_year","flag"] # Keys for the JSON objects
 while current_date <= end_date:
     month_year = current_date.strftime("%Y-%m")
     input_filename = f"./player_info/raw/{month_year}.txt"

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Swaminathan, Laia	CAY 2008 F 1476.7760322 63.4695478 33100063
+2 Sinton, Luc	CAY 2009 M 1363.1524029 74.2123329 33100098

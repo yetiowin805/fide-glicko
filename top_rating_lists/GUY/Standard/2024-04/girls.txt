@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Joshi, Aditi Narayan	GUY 2010 1509.4525371 65.1691545 19702647
+2 Clement, Ciel Desiree	GUY 2009 1420.9996248 60.6667824 19702124

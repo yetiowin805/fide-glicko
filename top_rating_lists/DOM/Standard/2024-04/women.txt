@@ -1,0 +1,6 @@
+Rank Name Federation BirthYear Rating RD
+1 Gonzalez Peguero, Mary Loly	DOM 1993 1662.4608841 71.5854807 6421482
+2 Sanchez Jaspez, Rosangel	DOM 1998 1583.1053006 67.1939428 6427618
+3 Ramirez Luzon, Franchesca	DOM 2004 1582.8928047 66.9461978 6421792
+4 Blanc Bakirdjian, Emma Elisa	DOM 2008 1335.1282713 69.4978230 6426492
+5 Blanc Bakirdjian, Brielle Alicia	DOM 2009 1297.2215354 69.8935209 6426484

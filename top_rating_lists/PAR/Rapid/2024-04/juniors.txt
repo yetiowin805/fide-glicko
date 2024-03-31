@@ -1,0 +1,7 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Jodorcovsky, Alejandro David	PAR 2007 M 1836.0843885 74.6280068 3705625
+2 Amarilla Ettiene, Ezequiel	PAR 2009 M 1768.6606291 63.9583794 3708403
+3 Mayeregger Gonzalez, Renata Valentina	PAR 2007 F 1625.8041538 74.8792718 3708900
+4 Navarro Canete, Facundo Javier	PAR 2009 M 1568.9039341 69.1259694 3712532
+5 Veloso Tintel, Emmanuel Ian	PAR 2016 M 1530.1719369 65.1269105 3713202
+6 Benitez Sanabria, Diego Isaias	PAR 2012 M 1453.0297179 73.7205298 3712605

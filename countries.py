@@ -19,5 +19,5 @@ countries = [
     'RSA', 'KOR', 'SSD', 'ESP', 'SRI', 'VIN', 'SUD', 'SUR', 'SWE', 'SUI', 
     'SYR', 'TJK', 'TAN', 'THA', 'TLS', 'TOG', 'TRI', 'TTO', 'TUN', 'TUR', 'TKM', 
     'UGA', 'UKR', 'UAE', 'USA', 'URU', 'ISV', 'UZB', 'VEN', 'VIE', 'WLS', 
-    'YEM', 'YUG', 'ZAM', 'ZIM', 'FID'
+    'YEM', 'YUG', 'ZAM', 'ZIM', 'FID', 'NON',
 ]

@@ -1,0 +1,7 @@
+Rank Name Federation BirthYear Rating RD
+1 Vargas, Gabriela	PAR 1988 1942.0144447 68.3251661 3700860
+2 Montiel Caceres, Helen	PAR 2006 1746.0372065 53.1876298 3707121
+3 Oviedo Acosta, Paula	PAR 2005 1742.2205383 57.0430054 3704394
+4 Mayeregger Gonzalez, Renata Valentina	PAR 2007 1707.6120923 54.5051156 3708900
+5 Mayeregger Gonzalez, Fiorella Allegra	PAR 2009 1587.9248149 53.1372695 3708845
+6 Lugo Martinez, Jimena Sofia	PAR 2012 1476.5298541 55.8273571 3710793

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Fayzieva, Darina	TJK 2006 1501.0999032 74.0204437 14701960
+2 Muminova, Zakiyabonu	TJK 2011 1414.4472822 73.5161501 14702681

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Yeung, Jason	SUR 2006 M 1925.6298780 72.7025997 8203970
+2 Kalidjo, Imaan	SUR 2004 M 1756.9566738 73.8287421 8202478

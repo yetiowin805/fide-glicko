@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Gonzalez Peguero, Mary Loly	DOM 1993 1645.0930753 66.7798377 6421482
+2 Gomez Capellan, Juliana Esthefany	DOM 2002 1492.0711889 65.3312066 6430139

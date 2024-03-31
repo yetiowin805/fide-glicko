@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Rating RD
+1 Helgadottir, Idunn	ISL 2007 1576.5405333 48.8056574 2314118
+2 Briem, Gudrun Fanney	ISL 2010 1526.4306952 49.8265096 2317486
+3 B. Berglindardottir, Emilia Embla	ISL 2012 1234.7749821 53.9160537 2318946
+4 Jonsdottir, Katrin Maria	ISL 2008 1212.2901435 66.6942460 2316706
