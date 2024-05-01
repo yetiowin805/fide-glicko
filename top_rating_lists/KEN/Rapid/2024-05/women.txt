@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Ndirangu, Joyce Nyaruai	KEN 1995 1769.6907867 74.5071665 10802886
+2 Mongeli, Sasha	KEN 1996 1767.2605045 68.8323098 10809090

@@ -1,0 +1,4 @@
+Rank Name Federation BirthYear Rating RD
+1 Moreno Mora, Milaydes Lourdes	ARU 1979 1650.6551627 71.4274828 3910512
+2 Sagastegui, Thamara	ARU 2006 1498.5497438 71.5180136 15900770
+3 Cabral, Sylvi	ARU 2011 1318.5667547 73.0604010 15900924

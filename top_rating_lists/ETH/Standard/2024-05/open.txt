@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Haile , Lidet Abate	ETH 1996 F 1791.3964431 70.2206774 15702073

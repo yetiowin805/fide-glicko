@@ -1,0 +1,5 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Hidalgo Diaz, Daniel	CUB 2008 M 2264.6014829 71.1568225 3528758
+2 Ferrer Naranjo, Liennys	CUB 2010 F 1719.3151873 71.0649481 3530086
+3 Guach Rodriguez, Marcos Antonio	CUB 2009 M 1683.5204610 68.7624530 3530221
+4 Gotti Rodriguez, Leinier	CUB 2009 M 1624.7726358 70.9122786 3531902

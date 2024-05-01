@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Nassr, Lina	ALG 2003 1927.0441758 74.3500811 7908075
+2 Djerroud, Chahrazed	ALG 2006 1697.1721211 68.5141458 7910762

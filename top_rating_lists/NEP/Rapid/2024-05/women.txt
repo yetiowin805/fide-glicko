@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Joshi, Sindira	NEP 1983 1619.8785270 69.6064331 12312754
+2 Prasain, Punam	NEP 2003 1476.6899582 60.7652587 12307548

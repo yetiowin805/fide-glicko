@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Qiao, Cindy	CAN 2003 1791.8883540 58.6383014 2620243
+2 Zhong, April Yunwei	CAN 2008 1625.8457467 68.7288715 2635658

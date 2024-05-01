@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Hamdouchi Adam	MAR 2011 M 1516.7536837 51.1205280 9016520
+2 Youssef, Mohamed	MAR 2009 M 1487.7053909 58.2239897 9013814
