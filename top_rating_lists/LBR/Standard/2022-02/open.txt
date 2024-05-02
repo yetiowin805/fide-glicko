@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Thomas, Saah	LBR 1987 M 1784.9898992 74.8073483 22600094
+1 Thomas, Saah	LBR 1987 M 1789.5373165 74.8994790 22600094

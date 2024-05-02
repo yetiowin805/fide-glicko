@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 De Carvalho, Thais Ferreira Mont	BRA 2004 1589.2411381 72.0102006 2177773
-2 Santana Freitas, Maria Eduarda	BRA 2005 1582.7449412 60.9370081 2193787
-3 Ribeiro, Jessica Maria da Silva	BRA 2000 1230.2946643 64.6993966 22701320
+1 De Carvalho, Thais Ferreira Mont	BRA 2004 1589.1991976 72.0076335 2177773
+2 Santana Freitas, Maria Eduarda	BRA 2005 1582.7538026 60.9377781 2193787
+3 Ribeiro, Jessica Maria da Silva	BRA 2000 1230.2936217 64.6992852 22701320

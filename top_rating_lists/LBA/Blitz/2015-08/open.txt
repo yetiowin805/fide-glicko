@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mahgub, Mohamed Mustafa	LBA 1956 M 1578.7180103 74.1585093 9200070
-2 El-Mezwaghi, Hassan J.	LBA 1957 M 1571.0674993 74.9317132 9200088
+1 Mahgub, Mohamed Mustafa	LBA 1956 M 1578.3227358 74.1585352 9200070

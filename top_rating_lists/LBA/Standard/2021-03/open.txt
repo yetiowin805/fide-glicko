@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Alagouri, Hamdi Gaith	LBA 1985 M 1653.0128343 73.8356267 9208020
-2 Mahgub, Mohamed Mustafa	LBA 1956 M 1624.1271884 71.8717740 9200070
+1 Alagouri, Hamdi Gaith	LBA 1985 M 1656.4680317 73.8778486 9208020
+2 Mahgub, Mohamed Mustafa	LBA 1956 M 1626.9539077 71.8824627 9200070

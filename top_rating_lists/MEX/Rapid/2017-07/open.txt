@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Sandoval Mercado, Carlos	MEX 2001 M 1772.0056964 74.0549150 5109434
+1 Sandoval Mercado, Carlos	MEX 2001 M 1772.0063082 74.0549684 5109434

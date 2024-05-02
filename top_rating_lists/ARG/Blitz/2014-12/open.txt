@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Acosta, Pablo Ismael	ARG 1999 M 2084.8896253 73.9226662 124311
-2 Lazarte Anello, David Emiliano	ARG 1988 M 1790.2559154 72.4514163 140775
-3 Brizzi, Milagros Tatiana	ARG 1996 F 1682.4413554 73.8112313 128350
+1 Acosta, Pablo Ismael	ARG 1999 M 2084.7380466 73.9065711 124311
+2 Lazarte Anello, David Emiliano	ARG 1988 M 1790.3747060 72.4546753 140775
+3 Brizzi, Milagros Tatiana	ARG 1996 F 1682.4412522 73.8113278 128350

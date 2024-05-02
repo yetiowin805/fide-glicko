@@ -1,8 +1,8 @@
 Rank Name Federation BirthYear Rating RD
-1 Sanchez Salas, Estefani Alejandra	VEN 2007 1492.5281214 72.3457080 3965759
-2 Hernandez Mora, Nohelia Virginia	VEN 2005 1351.8672970 64.0338603 3915344
-3 Marin Murguey, Valentina Jatniel	VEN 2005 1283.5599435 63.6425094 3955478
-4 Quijada Delgado, Eliana Paola	VEN 2005 1251.0994988 67.1377401 3955494
-5 Cabeza Marquez, Mariangel Alejandra	VEN 2007 1195.5906275 67.9368140 3934527
-6 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1162.5213957 64.6840463 3964051
-7 Larez Grinstein, Katherine Sofia	VEN 2007 1159.7175133 70.0122058 3965295
+1 Sanchez Salas, Estefani Alejandra	VEN 2007 1492.6508751 72.3467282 3965759
+2 Hernandez Mora, Nohelia Virginia	VEN 2005 1351.5385229 64.0543349 3915344
+3 Marin Murguey, Valentina Jatniel	VEN 2005 1282.9396839 63.6884581 3955478
+4 Quijada Delgado, Eliana Paola	VEN 2005 1250.6525991 67.1614184 3955494
+5 Cabeza Marquez, Mariangel Alejandra	VEN 2007 1195.3144347 67.9470314 3934527
+6 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1161.6908495 64.7270210 3964051
+7 Larez Grinstein, Katherine Sofia	VEN 2007 1158.6370504 70.1050313 3965295

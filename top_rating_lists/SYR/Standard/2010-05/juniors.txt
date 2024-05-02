@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al-Tarbosh, Ward	SYR 1995 M 2166.9205501 56.0029528 7601450
+1 Al-Tarbosh, Ward	SYR 1995 M 2189.7845352 56.2584026 7601450

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Zrikem, Nassim	MAR 2002 M 1683.1524241 70.8080162 9002693
+1 Zrikem, Nassim	MAR 2002 M 1687.3953094 70.9086280 9002693

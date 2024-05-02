@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Caxita, Esperanca	ANG 1999 F 1786.9987526 70.4742727 10100903
+1 Caxita, Esperanca	ANG 1999 F 1787.0457639 70.4737082 10100903

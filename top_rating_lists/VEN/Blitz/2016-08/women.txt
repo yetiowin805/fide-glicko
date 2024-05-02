@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Duran Reina, Luisa Elena	VEN 1982 1689.5014928 73.2387064 3900940
-2 Yepez Moreno, Juliet Carolina	VEN 2001 1570.0575243 71.1160385 3905438
-3 Yepez Moreno, Catherine Celeste	VEN 2003 1312.4514405 74.6451577 3905292
+1 Duran Reina, Luisa Elena	VEN 1982 1689.6514276 73.2435929 3900940
+2 Yepez Moreno, Juliet Carolina	VEN 2001 1570.2255267 71.1204100 3905438
+3 Yepez Moreno, Catherine Celeste	VEN 2003 1312.5092536 74.6462572 3905292

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Nadzamova, Sofia	SVK 2001 1649.2951660 71.5628920 14928450
+1 Nadzamova, Sofia	SVK 2001 1649.2890375 71.5635274 14928450

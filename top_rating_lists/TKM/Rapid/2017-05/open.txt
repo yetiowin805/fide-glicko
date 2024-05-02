@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hudayberenov, Suleyman	TKM 1984 M 1578.3397591 72.8458696 14003643
-2 Rasulov, Alisher	TKM 1990 M 1426.7603609 72.3549631 14003651
+1 Hudayberenov, Suleyman	TKM 1984 M 1570.0285321 73.5801592 14003643

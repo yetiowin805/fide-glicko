@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Megaranto, Susanto	INA 1987 M 2457.9301376 67.0346304 7101384
+1 Megaranto, Susanto	INA 1987 M 2461.3917335 65.8199916 7101384

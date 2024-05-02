@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Basson, Heinrich	RSA 1990 M 1828.5527636 70.7078072 14301440
+1 Basson, Heinrich	RSA 1990 M 1828.6316032 70.7129462 14301440

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Granados Ortiz, Maria Jose	NCA 2001 F 1613.6591861 73.8270548 6103812
+1 Granados Ortiz, Maria Jose	NCA 2001 F 1613.6783157 73.8279644 6103812

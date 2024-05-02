@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mejias Nunez, Rafael E.	PUR 2001 M 1767.0639124 74.9757661 3105873
-2 Maldonado Polo, Mariangeli	PUR 2006 F 1337.6941783 72.7779066 3107299
+1 Maldonado Polo, Mariangeli	PUR 2006 F 1340.6544110 72.7980443 3107299

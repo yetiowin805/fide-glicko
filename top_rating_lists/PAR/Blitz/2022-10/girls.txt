@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Montiel Caceres, Helen	PAR 2006 1648.1410122 74.3502387 3707121
-2 Mayeregger Gonzalez, Renata	PAR 2007 1564.6235589 69.4415978 3708900
-3 Mayeregger Gonzalez, Fiorella	PAR 2009 1467.4146553 72.1766041 3708845
+1 Montiel Caceres, Helen	PAR 2006 1648.1704107 74.3529229 3707121
+2 Mayeregger Gonzalez, Renata	PAR 2007 1564.6335242 69.4425769 3708900
+3 Mayeregger Gonzalez, Fiorella	PAR 2009 1467.4184288 72.1769182 3708845

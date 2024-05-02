@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Terao, Juliana Sayumi	BRA 1991 1992.8548611 63.8600243 2109220
+2 Martinez, Janine	BRA 1989 1687.5286659 68.5188197 2111551

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ceres, Dragos	MDA 2004 M 2106.8486832 74.8951935 13905864
+1 Ceres, Dragos	MDA 2004 M 2107.1030548 74.8958452 13905864

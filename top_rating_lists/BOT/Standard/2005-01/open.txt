@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Njobvu, Ignatius	BOT 0 M 2168.6923713 74.3419914 11300132
+1 Njobvu, Ignatius	BOT 0 M 2167.9724152 74.3297556 11300132

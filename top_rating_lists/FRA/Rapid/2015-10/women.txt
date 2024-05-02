@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Maisuradze, Nino	FRA 1982 2197.2128617 61.0051086 13601717
+1 Maisuradze, Nino	FRA 1982 2197.2127172 61.0059264 13601717

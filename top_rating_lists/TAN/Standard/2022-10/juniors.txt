@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Charles, Cleophas	TAN 2002 M 1621.3743190 72.6391027 21600511
+1 Charles, Cleophas	TAN 2002 M 1623.7757141 72.6980769 21600511

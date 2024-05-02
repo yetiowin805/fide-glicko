@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Abatzidis, Stelios	CYP 1961 M 1954.5340201 67.3325984 4205707
-2 Michaelides, Konstantinos	CYP 2002 M 1821.4792192 72.8041128 5901871
+1 Abatzidis, Stelios	CYP 1961 M 1954.5333669 67.3326386 4205707
+2 Michaelides, Konstantinos	CYP 2002 M 1821.4787948 72.8040849 5901871

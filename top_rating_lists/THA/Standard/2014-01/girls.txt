@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Atthaworadej, Worasuda	THA 1999 1612.6446447 67.9106607 6201563
-2 Vongvatthana, Chananchida	THA 2000 1453.4930617 74.8846481 6202179
+1 Atthaworadej, Worasuda	THA 1999 1618.6276822 68.0750055 6201563
+2 Vongvatthana, Chananchida	THA 2000 1457.1685110 74.9985294 6202179

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bjerre, Jonas Buhl	DEN 2004 M 2390.5435123 72.2964905 1444948
+1 Bjerre, Jonas Buhl	DEN 2004 M 2414.8449352 74.1639911 1444948

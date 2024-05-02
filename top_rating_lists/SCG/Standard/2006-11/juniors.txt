@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nestorovic, D. Nikola	SCG 1989 M 2344.7735609 68.1569594 934526
+1 Nestorovic, D. Nikola	SCG 1989 M 2371.8514511 68.3476986 934526

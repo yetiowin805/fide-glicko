@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Aung, Kyaw Moe	MYA 1975 M 2151.0782548 72.9780992 6200281
+1 Aung, Kyaw Moe	MYA 1975 M 2118.3294849 74.6148184 6200281

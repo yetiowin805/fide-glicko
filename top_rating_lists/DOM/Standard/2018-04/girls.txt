@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Rosario Almanzar, Raydili	DOM 1998 1595.0152646 64.8964541 6403573
-2 Coronado Paulino, Katerine E.	DOM 1999 1585.8033986 69.2371185 6405029
+1 Rosario Almanzar, Raydili	DOM 1998 1602.9552897 65.0123991 6403573
+2 Coronado Paulino, Katerine E.	DOM 1999 1592.7920499 69.3344806 6405029

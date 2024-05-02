@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Benjamin Chau Awar	SSD 2002 M 1643.6116484 74.1904542 32501358
+1 Benjamin Chau Awar	SSD 2002 M 1644.8883590 74.2527369 32501358

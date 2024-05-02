@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Dardha, Daniel	BEL 2005 M 1908.5093091 72.8340218 240990
+1 Dardha, Daniel	BEL 2005 M 1908.6003464 72.8385731 240990

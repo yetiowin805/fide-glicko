@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Methmali, Y.	SRI 1989 F 1743.2064334 73.7739781 9900888
+1 Methmali, Y.	SRI 1989 F 1749.8401385 74.1761101 9900888

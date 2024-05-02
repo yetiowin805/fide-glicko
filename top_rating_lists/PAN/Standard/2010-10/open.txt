@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Baules, Jorge	PAN 0 M 2282.6635790 71.6996505 6600247
+1 Baules, Jorge	PAN 0 M 2298.4358717 71.8615080 6600247

@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Rating RD
+1 Koskela, Niina	FIN 1971 2285.2961677 74.7735978 500755
+2 Paasikangas-T., Johanna (FM)	FIN 1974 2238.6485517 74.5626823 500879

@@ -1,11 +1,11 @@
 Rank Name Federation BirthYear Rating RD
-1 Brito Marquez, Sophia Valentina	VEN 2008 1618.1527859 67.6527861 3951529
-2 Velasquez Marin, Glaycell Daniela	VEN 2007 1596.1192232 71.3571356 3946762
-3 Ortiz Avila, Samantha Carolina	VEN 2005 1500.5688573 73.7694190 3947548
-4 Marin Murguey, Valentina Jatniel	VEN 2005 1487.4152355 58.7541319 3955478
-5 Hernandez Mora, Nohelia Virginia	VEN 2005 1474.1468807 51.9399120 3915344
-6 Luzardo Lopez, Aranza Victoria	VEN 2011 1399.1023792 56.7098679 3956733
-7 Quijada Delgado, Eliana Paola	VEN 2005 1380.3898198 60.7709891 3955494
-8 Rivera Salazar, Anmarie Giorgina	VEN 2007 1320.4730891 60.0747124 3974251
-9 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1308.8850832 61.2893972 3964051
-10 Larez Grinstein, Katherine Sofia	VEN 2007 1256.3145965 74.4634577 3965295
+1 Brito Marquez, Sophia Valentina	VEN 2008 1618.2116172 67.6576695 3951529
+2 Velasquez Marin, Glaycell Daniela	VEN 2007 1596.1102873 71.3669860 3946762
+3 Ortiz Avila, Samantha Carolina	VEN 2005 1500.5302022 73.7800097 3947548
+4 Marin Murguey, Valentina Jatniel	VEN 2005 1487.4326519 58.7565836 3955478
+5 Hernandez Mora, Nohelia Virginia	VEN 2005 1474.1715841 51.9412684 3915344
+6 Luzardo Lopez, Aranza Victoria	VEN 2011 1398.8816221 56.7371951 3956733
+7 Quijada Delgado, Eliana Paola	VEN 2005 1380.4009548 60.7715729 3955494
+8 Rivera Salazar, Anmarie Giorgina	VEN 2007 1320.4771872 60.0754843 3974251
+9 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1308.8783616 61.2891397 3964051
+10 Larez Grinstein, Katherine Sofia	VEN 2007 1256.3263253 74.4644386 3965295

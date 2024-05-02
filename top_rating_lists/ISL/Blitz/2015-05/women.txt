@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Ptacnikova, Lenka	ISL 1976 1981.1647931 69.6652331 305650
-2 Kristinardottir, Elsa Maria	ISL 1989 1883.7432133 58.1379544 2300370
-3 Thorsteinsdottir, Hallgerdur	ISL 1992 1859.8971076 60.9607576 2302454
+1 Ptacnikova, Lenka	ISL 1976 1981.1757512 69.6649382 305650
+2 Kristinardottir, Elsa Maria	ISL 1989 1883.7865418 58.1350567 2300370
+3 Thorsteinsdottir, Hallgerdur	ISL 1992 1859.9327998 60.9608685 2302454

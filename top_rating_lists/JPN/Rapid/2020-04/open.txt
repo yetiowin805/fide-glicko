@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nodon, Jeremi	JPN 1982 M 1639.3707387 69.1646177 7002734
+1 Nodon, Jeremi	JPN 1982 M 1639.4046285 69.1661197 7002734

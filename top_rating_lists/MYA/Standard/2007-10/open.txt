@@ -1,0 +1,2 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Tin Lay Shwe	MYA 1981 F 1841.2384953 73.3485774 13002872

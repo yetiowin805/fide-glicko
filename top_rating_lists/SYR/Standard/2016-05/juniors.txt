@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al Argha, Fatima	SYR 2004 F 1310.0527239 74.9178449 7603053
+1 Al Argha, Fatima	SYR 2004 F 1312.6541146 74.9691513 7603053

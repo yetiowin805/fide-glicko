@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Blagojevic, Lidija	MNE 1965 1780.1406172 60.0342279 916773
+1 Blagojevic, Lidija	MNE 1965 1780.5380352 60.0512728 916773

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al Sayed, Mohamad N.	QAT 0 M 2386.5352471 50.6738488 12100196
+1 Al Sayed, Mohamad N.	QAT 0 M 2388.4479025 50.6345503 12100196

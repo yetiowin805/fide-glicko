@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Patino Garcia, Corals	VEN 1999 1629.4150942 73.0902002 3902781
-2 Gelviz Rodriguez, Emily Antonella	VEN 2002 1381.2828103 74.7620098 3928020
-3 Camargo Picon, Mariangel	VEN 2007 1245.4416713 74.3332974 3933598
+1 Patino Garcia, Corals	VEN 1999 1629.9743243 73.1188302 3902781
+2 Gelviz Rodriguez, Emily Antonella	VEN 2002 1381.3518286 74.7653165 3928020
+3 Camargo Picon, Mariangel	VEN 2007 1245.5067431 74.3388425 3933598

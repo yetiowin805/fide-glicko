@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kalin, Andrei	MKD 2009 M 1460.3744003 73.6716252 15006948
+1 Kalin, Andrei	MKD 2009 M 1460.2057072 73.6724765 15006948

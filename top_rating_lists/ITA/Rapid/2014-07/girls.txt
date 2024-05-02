@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Brunello, Marina	ITA 1994 2192.2363821 74.3429853 822590
+1 Brunello, Marina	ITA 1994 2192.2354356 74.3429284 822590

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Alishba Shafique	PAK 2003 1221.8062626 74.9734000 7810881
+1 Alishba Shafique	PAK 2003 1221.8073737 74.9734019 7810881

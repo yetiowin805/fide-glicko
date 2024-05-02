@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Youssef, Mohamed	MAR 2009 M 1550.1972357 39.8998848 9013814
+1 Youssef, Mohamed	MAR 2009 M 1550.3377546 39.9003940 9013814

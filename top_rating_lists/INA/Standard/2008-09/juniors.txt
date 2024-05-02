@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Taminsyah, Aston	INA 1997 M 1680.6830177 70.7985468 7103352
+1 Taminsyah, Aston	INA 1997 M 1550.8866606 74.7532472 7103352

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rakotomaharo, Fy Antenaina	MAD 1999 M 2338.4231403 74.9128512 13100050
-2 Ravelomanana, Sabine	MAD 1988 F 1798.4218281 58.4292111 13100394
+1 Rakotomaharo, Fy Antenaina	MAD 1999 M 2339.2785541 74.9150325 13100050
+2 Ravelomanana, Sabine	MAD 1988 F 1798.7234420 58.4358692 13100394

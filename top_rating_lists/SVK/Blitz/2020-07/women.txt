@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Kovarikova, Maria	SVK 2007 1560.1477629 71.8885495 14955040
+1 Kovarikova, Maria	SVK 2007 1560.1148771 71.8889104 14955040

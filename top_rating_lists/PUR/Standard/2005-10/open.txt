@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lamastus-Candal, Jean P.	PUR 1900 M 2136.3128914 47.9995192 3100448
+1 Lamastus-Candal, Jean P.	PUR 1900 M 2154.3486481 48.0264005 3100448

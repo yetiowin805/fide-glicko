@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Somasundram, Jayakumar	SRI 1951 M 1855.6262618 73.5973504 9900250
+1 Somasundram, Jayakumar	SRI 1951 M 1855.6488531 73.5965578 9900250

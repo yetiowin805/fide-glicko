@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ahmed AlRehily	KSA 2000 M 1845.6922659 73.4979475 21518840
+1 Ahmed AlRehily	KSA 2000 M 1851.5660037 73.7211427 21518840

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Djukic, Sandra	SCG 1988 F 2023.9387906 74.1322682 931390
+1 Djukic, Sandra	SCG 1988 F 2042.1601606 74.3504879 931390

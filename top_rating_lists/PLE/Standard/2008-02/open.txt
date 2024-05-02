@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ermenkov, Evgenij	PLE 1949 M 2409.2176605 54.0569118 2900106
+1 Ermenkov, Evgenij	PLE 1949 M 2427.2451392 53.0038489 2900106

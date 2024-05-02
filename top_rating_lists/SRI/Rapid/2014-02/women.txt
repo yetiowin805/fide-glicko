@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Methmani, Nelunika	SRI 1998 1518.2106985 71.8223244 9910050
-2 Rajapaksa, Miyuni Kavinya	SRI 2000 1469.2296806 48.8472183 9939210
+1 Methmani, Nelunika	SRI 1998 1518.2314930 71.8251354 9910050
+2 Rajapaksa, Miyuni Kavinya	SRI 2000 1470.2123449 48.8502072 9939210

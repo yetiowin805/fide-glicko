@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nomin-Erdene, Davaademberel	MGL 2000 F 2136.7326325 68.6963675 4900782
-2 Ashid, Tsetseg-Ulzii	MGL 2003 M 1745.4989894 72.9214956 4902904
+1 Nomin-Erdene, Davaademberel	MGL 2000 F 2136.9100143 68.7051330 4900782
+2 Ashid, Tsetseg-Ulzii	MGL 2003 M 1745.7540496 72.9281579 4902904

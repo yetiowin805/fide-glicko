@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Vincent Alaina	IND 2006 1800.3762936 71.0285188 46608931
+1 Vincent Alaina	IND 2006 1800.4325169 71.0269442 46608931

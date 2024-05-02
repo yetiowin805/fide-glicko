@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Cogan, Nicolas	CIV 1997 M 2081.9993021 67.7911991 679356
+1 Cogan, Nicolas	CIV 1997 M 2083.3039386 67.8610190 679356

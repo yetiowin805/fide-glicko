@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Ibrahim, Delbak Ismael	IRQ 1988 1881.2787671 71.2865808 4803116
+1 Ibrahim, Delbak Ismael	IRQ 1988 1900.0634659 71.3524704 4803116

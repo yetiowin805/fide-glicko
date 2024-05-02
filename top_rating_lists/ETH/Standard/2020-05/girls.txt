@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Aregay,Feven Dawit	ETH 2002 1536.7876703 74.7768118 15703738
+1 Aregay,Feven Dawit	ETH 2002 1538.6253730 74.7790796 15703738

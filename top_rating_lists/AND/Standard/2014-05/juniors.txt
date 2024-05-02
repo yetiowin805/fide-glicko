@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Casanovas Cantarero, Eric	AND 1997 M 1579.1971405 71.9543664 6900445
+1 Casanovas Cantarero, Eric	AND 1997 M 1588.9031336 72.0866799 6900445

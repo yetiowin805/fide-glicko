@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Muhsen, Abdulla.mohmmed	IRQ 1989 M 2059.3850977 71.0819035 4801695
-2 Mohammed, Zozek Salah Mohammed	IRQ 1986 M 2049.8344574 71.9015423 4803361
-3 Ameer Dhafer Abdulameer	IRQ 2005 M 1449.9233704 73.0337369 4807537
+1 Muhsen, Abdulla.mohmmed	IRQ 1989 M 2060.1113183 71.0475078 4801695
+2 Mohammed, Zozek Salah Mohammed	IRQ 1986 M 2049.8871032 71.9041596 4803361
+3 Ameer Dhafer Abdulameer	IRQ 2005 M 1449.9692934 73.0314545 4807537

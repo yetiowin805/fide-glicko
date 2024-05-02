@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Adnin, Rafa Azkario	INA 2014 M 1555.9423326 73.2141892 7126620
+1 Adnin, Rafa Azkario	INA 2014 M 1556.0956694 73.2227228 7126620

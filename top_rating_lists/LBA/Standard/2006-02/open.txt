@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Asabri, Hussien	LBA 1967 M 2118.1160799 74.8497372 9200177
+1 Asabri, Hussien	LBA 1967 M 2135.6635822 74.8424624 9200177

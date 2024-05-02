@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Azahari, Aliuddin	BRU 1991 M 1892.6130422 74.2491184 10500324
+1 Azahari, Aliuddin	BRU 1991 M 1892.6281928 74.2502135 10500324

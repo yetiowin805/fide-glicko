@@ -1,6 +1,6 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Laurrabaquio Ramirez, Bryan Rica	MEX 2005 M 1740.0344842 70.7074436 5129338
-2 Del, Razo Mendoza Andrea Ni	MEX 2003 M 1632.9471982 70.6444733 5137640
-3 Martinez Mares, Genesis Alejandra	MEX 2005 F 1574.9322801 71.6558317 5144264
-4 Barberena Gallardo , Alexander Ra	MEX 2010 M 1418.1226753 71.7479200 5147018
-5 Del Razo Mendoza, Nancy Ai	MEX 2006 M 1334.4500966 71.9975447 5137632
+1 Laurrabaquio Ramirez, Bryan Rica	MEX 2005 M 1740.0345403 70.7074440 5129338
+2 Del, Razo Mendoza Andrea Ni	MEX 2003 M 1632.9472692 70.6444737 5137640
+3 Martinez Mares, Genesis Alejandra	MEX 2005 F 1574.9322804 71.6558317 5144264
+4 Barberena Gallardo , Alexander Ra	MEX 2010 M 1418.1227245 71.7479205 5147018
+5 Del Razo Mendoza, Nancy Ai	MEX 2006 M 1334.4501577 71.9975463 5137632

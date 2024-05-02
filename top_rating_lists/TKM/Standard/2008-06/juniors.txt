@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hojamgulyev, Bahodur	TKM 1988 M 2094.6445013 59.7160114 14000970
-2 Hallaeva, Bahar	TKM 1988 F 2023.6804617 74.8554732 14000679
+1 Hojamgulyev, Bahodur	TKM 1988 M 2128.0846080 59.9943100 14000970

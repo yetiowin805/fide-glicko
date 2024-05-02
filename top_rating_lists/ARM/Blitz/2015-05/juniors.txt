@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gabuzyan, Hovhannes	ARM 1995 M 2381.8417168 61.9318417 13303732
+1 Gabuzyan, Hovhannes	ARM 1995 M 2382.1065501 61.9357000 13303732

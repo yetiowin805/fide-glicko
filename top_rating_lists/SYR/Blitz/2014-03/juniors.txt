@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Iyti, Basher	SYR 1995 M 2154.9634161 74.0228471 7601875
+1 Iyti, Basher	SYR 1995 M 2155.0596410 74.0321817 7601875

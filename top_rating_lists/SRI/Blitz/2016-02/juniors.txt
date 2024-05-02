@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rajapaksa, Miyuni Kavinya	SRI 2000 F 1609.2050488 73.3583611 9939210
-2 Nanayakkara, J A K Saranath	SRI 2003 M 1569.8582472 74.3804295 9924906
-3 Wickramasinghe, Dilhara Ishini	SRI 2000 F 1522.3670034 74.9607461 9906738
+1 Rajapaksa, Miyuni Kavinya	SRI 2000 F 1607.6352615 73.2566700 9939210
+2 Nanayakkara, J A K Saranath	SRI 2003 M 1569.6887781 74.3768727 9924906
+3 Wickramasinghe, Dilhara Ishini	SRI 2000 F 1522.4325300 74.9511405 9906738

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hayder Farhan Al- Hasnawi	IRQ 1992 M 1710.0113494 70.7958763 4803728
-2 kareen,K.Jalaluldeen	IRQ 1993 F 1628.2698838 69.8474374 4801776
+1 Hayder Farhan Al- Hasnawi	IRQ 1992 M 1719.6433961 71.0533340 4803728
+2 kareen,K.Jalaluldeen	IRQ 1993 F 1636.5937393 69.9594444 4801776

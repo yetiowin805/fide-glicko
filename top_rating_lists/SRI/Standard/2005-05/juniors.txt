@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Dissanayake, P.R.	SRI 1985 M 2087.1936501 68.5014831 9900403
+1 Dissanayake, P.R.	SRI 1985 M 2070.5741078 73.7990695 9900403

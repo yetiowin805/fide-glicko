@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kim, Alexey	KOR 1986 M 2408.0791062 54.1062391 4129776
+1 Kim, Alexey	KOR 1986 M 2422.1611001 54.0404496 4129776

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Zinmar Min Than	MYA 1978 F 1569.5819405 68.9223092 13002880
+1 Zinmar Min Than	MYA 1978 F 1573.3692633 68.7239781 13002880

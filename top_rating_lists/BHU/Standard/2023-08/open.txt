@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lhundrup M Dorji	BHU 2009 M 1451.3084049 73.0183439 17500664
+1 Lhundrup M Dorji	BHU 2009 M 1455.2717778 73.1522341 17500664

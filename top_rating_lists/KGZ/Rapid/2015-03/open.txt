@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ilinsky, Vladimir	KGZ 1900 M 2096.4266432 72.2073589 13800051
+1 Ilinsky, Vladimir	KGZ 1900 M 2101.1783321 72.2592763 13800051

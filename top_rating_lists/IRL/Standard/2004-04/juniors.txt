@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Dignam, Matthew	IRL 1988 M 2124.9417495 63.5576147 2501422
+1 Dignam, Matthew	IRL 1988 M 2131.4100768 63.0458465 2501422

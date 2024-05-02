@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Connolly Sams, Lukah	SCO 2002 M 1668.5659781 74.5441329 2405067
+1 Connolly Sams, Lukah	SCO 2002 M 1668.6142320 74.5454464 2405067

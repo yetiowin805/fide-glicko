@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Hernandez Bermudez, Manuela	COL 2004 1681.8589200 71.8689377 4483103
-2 Ceballos Castellanos, Isabela	COL 2004 1466.9452589 72.9175880 4452410
+1 Hernandez Bermudez, Manuela	COL 2004 1681.9452528 71.8715520 4483103
+2 Ceballos Castellanos, Isabela	COL 2004 1467.0015206 72.9204635 4452410

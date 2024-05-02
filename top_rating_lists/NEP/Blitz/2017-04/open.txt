@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Thing, Bibek	NEP 1995 M 1850.3019971 71.6602867 12303135
+1 Thing, Bibek	NEP 1995 M 1846.0786682 71.8286532 12303135

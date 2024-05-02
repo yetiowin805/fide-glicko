@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mohammed, Zozek Salah Mohammed	IRQ 1986 M 2075.4933229 73.9439195 4803361
+1 Mohammed, Zozek Salah Mohammed	IRQ 1986 M 2075.7686137 73.9626557 4803361

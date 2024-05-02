@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Somoff, Abdo	LIB 1961 M 1867.0327258 67.3524412 5300754
+1 Somoff, Abdo	LIB 1961 M 1867.0321669 67.3528614 5300754

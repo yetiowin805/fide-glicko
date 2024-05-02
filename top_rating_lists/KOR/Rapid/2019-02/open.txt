@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bin Nasrin, Nayyef Ashyraf	KOR 1993 M 1763.7033688 74.3530312 13207091
+1 Bin Nasrin, Nayyef Ashyraf	KOR 1993 M 1763.5786922 74.3635519 13207091

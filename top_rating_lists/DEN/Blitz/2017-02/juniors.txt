@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Olsen, Filip Boe	DEN 2003 M 2072.2021688 71.0334348 1440640
+1 Olsen, Filip Boe	DEN 2003 M 2078.3913167 71.3943747 1440640

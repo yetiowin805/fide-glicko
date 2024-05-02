@@ -1,6 +1,6 @@
 Rank Name Federation BirthYear Rating RD
-1 Munoz Cortez, Anahi Alexandra	NCA 2006 1531.5168902 60.6997455 6109527
-2 Cabezas Calero, Abigail Carolina	NCA 2008 1526.5661897 66.9243832 6105971
-3 Martinez Orozco, Cristiana Yorlene	NCA 2005 1489.1128865 58.1482014 6107079
-4 Serrano Herrera, Daniela de Andrea	NCA 2007 1364.4270106 72.7528312 6107168
-5 Pena Baltodano, Yaddolly	NCA 2007 1240.6271713 63.4598693 6111599
+1 Munoz Cortez, Anahi Alexandra	NCA 2006 1536.1821349 60.7459257 6109527
+2 Cabezas Calero, Abigail Carolina	NCA 2008 1531.0209891 66.9609816 6105971
+3 Martinez Orozco, Cristiana Yorlene	NCA 2005 1493.6990089 58.1994517 6107079
+4 Serrano Herrera, Daniela de Andrea	NCA 2007 1367.8738258 72.7958946 6107168
+5 Pena Baltodano, Yaddolly	NCA 2007 1244.1825367 63.4792146 6111599

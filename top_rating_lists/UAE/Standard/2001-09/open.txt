@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Jasim, A.R. Saleh	UAE 1979 M 2265.8891768 72.7606747 9300465
+1 Jasim, A.R. Saleh	UAE 1979 M 2265.8895710 72.7606855 9300465

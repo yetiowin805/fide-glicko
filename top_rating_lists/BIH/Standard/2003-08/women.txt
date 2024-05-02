@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Dimovski, Aleksandra	BIH  2130.8059638 74.4050441 931616
+1 Dimovski, Aleksandra	BIH 0 2128.9355139 73.8732566 931616

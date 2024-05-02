@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Enkhtuul, Altan-Ulzii	MGL 1994 2011.0410058 69.6610799 4901444
-2 Otgonjargal, Sengeravdan	MGL 1982 1835.0288214 72.5428705 4900790
+1 Enkhtuul, Altan-Ulzii	MGL 1994 2011.2143922 69.6892262 4901444
+2 Otgonjargal, Sengeravdan	MGL 1982 1835.1344629 72.5375622 4900790

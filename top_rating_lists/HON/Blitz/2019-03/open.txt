@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Solorzano, Andres	HON 1985 M 1802.6218524 71.7102351 8400440
+1 Solorzano, Andres	HON 1985 M 1801.0911329 71.7910475 8400440

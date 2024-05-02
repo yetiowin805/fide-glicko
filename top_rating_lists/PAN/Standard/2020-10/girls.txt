@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Vasquez Jaen, Lourdes Lorena	PAN 2003 1511.0112287 62.4882044 6605559
-2 Alvarez Chang, Claudia Mercedes	PAN 2004 1452.8465796 65.1374253 6604374
-3 Lobo Jimenez, Mariana	PAN 2008 1259.2822786 73.4739092 6605516
+1 Vasquez Jaen, Lourdes Lorena	PAN 2003 1515.1962654 62.5378240 6605559
+2 Alvarez Chang, Claudia Mercedes	PAN 2004 1457.1398505 65.1898887 6604374
+3 Lobo Jimenez, Mariana	PAN 2008 1261.4021926 73.5169744 6605516

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Vashchenko, Diana	FIN 2006 1745.5602982 71.0843973 34134603
+1 Vashchenko, Diana	FIN 2006 1745.4536980 71.1945806 34134603

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Moylan, Laura	AUS 1983 1984.6685625 72.7103895 3202542
+1 Moylan, Laura	AUS 1983 1963.0448253 70.0284152 3202542

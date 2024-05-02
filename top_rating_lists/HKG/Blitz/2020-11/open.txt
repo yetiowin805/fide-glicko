@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mahadevan, Aravind	HKG 1977 M 1479.6722302 74.0209017 6001998
+1 Mahadevan, Aravind	HKG 1977 M 1480.2147465 74.0250476 6001998

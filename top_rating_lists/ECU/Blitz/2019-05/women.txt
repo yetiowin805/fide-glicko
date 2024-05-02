@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Rating RD
-1 Ruiz Tipantasig, Mishell	ECU 2001 1722.9982314 71.5973136 3627640
-2 Quezada Pauker,Katheen Gabriela	ECU 2007 1624.9831611 67.7099863 3632261
-3 Martinez Zambrano, Karina Paola	ECU 1900 1585.4963313 71.0298157 3629651
-4 Artieda Berru,Ariadna Ameli	ECU 2007 1484.9227052 66.2969612 3630293
+1 Ruiz Tipantasig, Mishell	ECU 2001 1723.2170930 71.6027023 3627640
+2 Quezada Pauker,Katheen Gabriela	ECU 2007 1625.0261965 67.7111193 3632261
+3 Martinez Zambrano, Karina Paola	ECU 1900 1585.5632170 71.0300986 3629651
+4 Artieda Berru,Ariadna Ameli	ECU 2007 1484.9318548 66.2968400 3630293

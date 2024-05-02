@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Julien Casteleiro, Ariel	CUB 1972 M 1552.0853192 72.5678235 3516628
+1 Julien Casteleiro, Ariel	CUB 1972 M 1552.0762617 72.5699920 3516628

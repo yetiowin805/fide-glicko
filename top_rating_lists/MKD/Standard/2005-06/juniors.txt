@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Pancevski, Filip	MKD 1988 M 2317.1800216 64.1053202 15002187
+1 Pancevski, Filip	MKD 1988 M 2325.6559940 62.9439062 15002187

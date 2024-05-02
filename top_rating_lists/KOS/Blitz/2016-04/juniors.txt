@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Saraci, Nderim	KOS 1996 M 2300.0558766 58.7976730 6351921
+1 Saraci, Nderim	KOS 1996 M 2300.5763797 58.7847106 6351921

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Borigas, Edgardo	HKG 1958 M 1715.4836001 73.6544056 6000398
+1 Borigas, Edgardo	HKG 1958 M 1715.6576302 73.6625421 6000398

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kovalev, Vladislav	FID 1994 M 2426.6709670 59.4755803 13504398
+1 Kovalev, Vladislav	FID 1994 M 2454.5403292 67.0085025 13504398

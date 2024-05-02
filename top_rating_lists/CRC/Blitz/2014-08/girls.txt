@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Salas Torres, Pamela	CRC 1998 1653.4028763 70.4190473 6505716
-2 Ramirez Gonzalez, Maria Jose	CRC 1997 1591.9261861 74.4196717 6503349
+1 Salas Torres, Pamela	CRC 1998 1653.4114965 70.4187773 6505716
+2 Ramirez Gonzalez, Maria Jose	CRC 1997 1591.9477084 74.4200162 6503349

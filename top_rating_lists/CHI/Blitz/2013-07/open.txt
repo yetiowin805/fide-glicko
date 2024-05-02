@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Vasquez Schroeder, Rodrigo	CHI 1969 M 2495.8728807 57.0000825 3400042
+1 Vasquez Schroeder, Rodrigo	CHI 1969 M 2495.8691506 56.9975990 3400042
 2 Lopez Silva, Hugo	CHI 1984 M 2343.1295890 70.2505929 3403874
 3 Valdes Escobar, Alvaro	CHI 1989 M 2278.3152115 69.9949340 3405451
 4 Henriquez Villagra, Cristobal	CHI 1996 M 2261.7959618 63.4444661 3409350

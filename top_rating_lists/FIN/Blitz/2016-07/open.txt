@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Jarnstrom, Henrik	FIN 1952 M 1649.6487740 65.4888741 510572
+1 Jarnstrom, Henrik	FIN 1952 M 1649.9066542 65.4891112 510572

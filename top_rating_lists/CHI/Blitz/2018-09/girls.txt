@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Figueroa Bernal, Julia Dennis	CHI 2005 1561.2015991 72.3705599 3435300
-2 Zuniga Lara, Catalina Paz	CHI 2000 1560.9454368 70.4814305 3423433
+1 Figueroa Bernal, Julia Dennis	CHI 2005 1561.2880198 72.3736649 3435300
+2 Zuniga Lara, Catalina Paz	CHI 2000 1561.1977552 70.4899299 3423433

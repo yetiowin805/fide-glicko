@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Daubenfeld, Gilles	LUX 1985 M 2147.4010180 74.3353146 4000641
+1 Jeitz, Christian	LUX 1986 M 2154.2748217 73.0871339 4000803
+2 Daubenfeld, Gilles	LUX 1985 M 2123.0600391 71.4881247 4000641

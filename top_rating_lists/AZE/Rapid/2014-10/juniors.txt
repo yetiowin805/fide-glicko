@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Amrayeva, Aytan	AZE 1997 F 1850.1686806 74.7881626 13405101
+1 Amrayeva, Aytan	AZE 1997 F 1850.1367885 74.7900780 13405101

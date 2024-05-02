@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Alnami, Salaheddin	LBA 1993 M 1535.7693208 70.6854362 9200959
+1 Alnami, Salaheddin	LBA 1993 M 1542.9600189 70.7949301 9200959

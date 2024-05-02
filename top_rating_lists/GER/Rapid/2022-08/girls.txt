@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Wang, Minqing	GER 2004 1855.1179756 68.8898064 34613218
+1 Wang, Minqing	GER 2004 1854.9284807 68.9017529 34613218

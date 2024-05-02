@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Tomic, Bosko	BIH 1983 M 2292.9184633 73.5541615 14401401
+1 Tomic, Bosko	BIH 1983 M 2300.1658290 73.1229544 14401401

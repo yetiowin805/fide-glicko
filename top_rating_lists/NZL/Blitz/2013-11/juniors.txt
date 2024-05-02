@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Li, Zuhao Luke	NZL 1997 M 2064.0346568 70.5512164 4303431
+1 Li, Zuhao Luke	NZL 1997 M 2064.0272923 70.5513022 4303431

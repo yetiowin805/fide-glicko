@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Fernandes, Beatriz	BRA 2009 1504.2035037 74.6064073 22744193
+1 Fernandes, Beatriz	BRA 2009 1504.1141286 74.6060470 22744193

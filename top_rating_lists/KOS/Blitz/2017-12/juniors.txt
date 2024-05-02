@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Uruci, Endrit	KOS 2000 M 1830.3742699 63.8702059 22100199
+1 Uruci, Endrit	KOS 2000 M 1830.5112080 63.9194060 22100199

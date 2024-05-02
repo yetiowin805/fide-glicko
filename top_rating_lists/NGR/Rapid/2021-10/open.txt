@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Balogun, Oluwafemi	NGR 1987 M 1959.0262037 73.6576581 8501246
+1 Balogun, Oluwafemi	NGR 1987 M 1959.2367945 73.6566616 8501246

@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Zhindon Minchala, Andrea	ECU 2004 1686.4907442 68.7819685 3637689
-2 Melena Salvador, Alanis Karolina	ECU 2015 1504.3903725 71.6710872 3651100
-3 Ortiz Noguera, Samantha	ECU 2009 1409.4302152 74.8917151 3639304
+1 Zhindon Minchala, Andrea	ECU 2004 1686.4901286 68.7819690 3637689
+2 Melena Salvador, Alanis Karolina	ECU 2015 1504.3922963 71.6709967 3651100
+3 Ortiz Noguera, Samantha	ECU 2009 1409.4419028 74.8926474 3639304

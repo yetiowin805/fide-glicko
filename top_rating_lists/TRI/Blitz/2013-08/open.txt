@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Merritt, Mario	TRI 1977 M 1908.6662063 70.7441879 7700148
+1 Merritt, Mario	TRI 1977 M 1911.5021583 71.0006148 7700148

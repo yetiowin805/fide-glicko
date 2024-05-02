@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Orio, Rogelio L.	GUM 1956 M 1646.0193379 69.9063912 31000118
+1 Orio, Rogelio L.	GUM 1956 M 1651.8583548 70.0588982 31000118

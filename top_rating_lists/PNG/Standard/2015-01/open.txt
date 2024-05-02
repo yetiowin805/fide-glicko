@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Fancy, Stuart	PNG 1959 M 1852.9139192 73.8769443 9100024
+1 Fancy, Stuart	PNG 1959 M 1859.4915998 73.8736878 9100024

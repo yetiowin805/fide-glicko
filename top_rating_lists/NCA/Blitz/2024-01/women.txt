@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Rating RD
-1 Granados Diaz, Maria Esther	NCA 1995 1712.5086193 67.6219479 6101488
-2 Granados Ortiz, Maria Jose	NCA 2001 1681.5792043 67.9965473 6103812
-3 Alvarez Gutierrez, Patricia	NCA 2002 1552.3610587 73.9778550 6105548
-4 Serrano Herrera, Daniela de Andrea	NCA 2007 1425.4780253 69.5223342 6107168
+1 Granados Diaz, Maria Esther	NCA 1995 1712.6366639 67.6268885 6101488
+2 Granados Ortiz, Maria Jose	NCA 2001 1681.6731612 68.0033145 6103812
+3 Alvarez Gutierrez, Patricia	NCA 2002 1552.4606623 73.9836407 6105548
+4 Serrano Herrera, Daniela de Andrea	NCA 2007 1425.5357944 69.5249533 6107168

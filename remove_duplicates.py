@@ -5,6 +5,7 @@ import argparse
 
 # Sixth command in pipeline
 
+
 class Player:
     def __init__(self):
         self.num_opponents = 0
@@ -14,15 +15,17 @@ class Player:
         self.opponents_rds = []
         self.scores = []
 
+
 def display_progress_bar(total_files, processed_files):
     lock = threading.Lock()
     lock.acquire()
     bar_width = 50
     progress = processed_files / total_files
     pos = int(bar_width * progress)
-    bar = '[' + '=' * pos + '>' + ' ' * (bar_width - pos - 1) + ']'
-    print(f'\r{bar} {int(progress * 100)}%', end='', flush=True)
+    bar = "[" + "=" * pos + ">" + " " * (bar_width - pos - 1) + "]"
+    print(f"\r{bar} {int(progress * 100)}%", end="", flush=True)
     lock.release()
+
 
 def count_files_in_directory(dir_path):
     total_files = 0
@@ -30,9 +33,10 @@ def count_files_in_directory(dir_path):
         total_files += len(files)
     return total_files
 
+
 def process_file(path, local_players_map):
     print(f"Processing {path}")
-    with open(path, 'r') as file:
+    with open(path, "r") as file:
         while True:
             line = file.readline()
             if not line:
@@ -51,13 +55,18 @@ def process_file(path, local_players_map):
                     player.opponents_rds.append(float(parts[1]))
                     player.scores.append(float(parts[2]))
 
-    with open(path, 'w') as file:
+    with open(path, "w") as file:
         for fide_id, player in local_players_map.items():
-            file.write(f"{fide_id} {len(player.opponents_fide) + len(player.opponents_ratings)}\n")
+            file.write(
+                f"{fide_id} {len(player.opponents_fide) + len(player.opponents_ratings)}\n"
+            )
             for opponent_fide, result in zip(player.opponents_fide, player.results):
                 file.write(f"{opponent_fide} {result:.1f}\n")
-            for rating, rd, score in zip(player.opponents_ratings, player.opponents_rds, player.scores):
+            for rating, rd, score in zip(
+                player.opponents_ratings, player.opponents_rds, player.scores
+            ):
                 file.write(f"{rating} {rd} {score}\n")
+
 
 def process_directory(dir_path, total_files, processed_files=[0]):
     for entry in os.listdir(dir_path):
@@ -70,16 +79,21 @@ def process_directory(dir_path, total_files, processed_files=[0]):
         elif os.path.isdir(full_path):
             process_directory(full_path, total_files, processed_files)
 
+
 if __name__ == "__main__":
     # Set up argument parser
-    parser = argparse.ArgumentParser(description='Combines duplicate FIDE IDs into a single entry.')
-    parser.add_argument('--root_dir', type=str, help='Root directory to process', required=True)
+    parser = argparse.ArgumentParser(
+        description="Combines duplicate FIDE IDs into a single entry."
+    )
+    parser.add_argument(
+        "--root_dir", type=str, help="Root directory to process", required=True
+    )
 
     # Parse arguments
     args = parser.parse_args()
 
     root_dir = args.root_dir
-    
+
     total_files = count_files_in_directory(root_dir)
     process_directory(root_dir, total_files)
     print("\nAll files processed and updated!")

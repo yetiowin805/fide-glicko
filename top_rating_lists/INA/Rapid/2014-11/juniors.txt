@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Sean, Winshand Cuhendi	INA 1997 M 2221.1524957 73.4199782 7101554
-2 Elisabeth, Christine	INA 2002 F 1477.5792101 73.9686088 7106165
+1 Sean, Winshand Cuhendi	INA 1997 M 2221.1199955 73.4206059 7101554
+2 Elisabeth, Christine	INA 2002 F 1477.5792337 73.9686085 7106165

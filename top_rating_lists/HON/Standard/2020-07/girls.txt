@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Ramos Donaire, Maria Pradi	HON 2002 1511.8768305 66.2666651 8402337
-2 Caballero Sanabria, Margie	HON 2004 1375.8590391 69.1398807 8405433
+1 Ramos Donaire, Maria Pradi	HON 2002 1516.4872518 66.3110637 8402337
+2 Caballero Sanabria, Margie	HON 2004 1379.5023991 69.1998156 8405433

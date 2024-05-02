@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Villegas, Pierre	MNC 1992 M 2127.9851032 74.6648972 654183
+1 Villegas, Pierre	MNC 1992 M 2129.9452380 74.8383151 654183

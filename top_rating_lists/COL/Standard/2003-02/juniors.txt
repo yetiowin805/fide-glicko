@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Castano, Duvan Martin	COL 1985 M 2201.5435983 74.3884366 4401603
+1 Castano, Duvan Martin	COL 1985 M 2250.8117141 67.7899915 4401603

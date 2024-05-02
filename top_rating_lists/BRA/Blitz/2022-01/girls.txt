@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 De Freitas, Isabella Ribeiro Conti	BRA 2003 1688.7408750 74.9338621 2173328
-2 Rodrigues Mota, Sophia Lorena	BRA 2007 1494.8012881 70.2177993 2187280
+1 De Freitas, Isabella Ribeiro Conti	BRA 2003 1688.8461553 74.9381627 2173328
+2 Rodrigues Mota, Sophia Lorena	BRA 2007 1494.8633188 70.2226765 2187280

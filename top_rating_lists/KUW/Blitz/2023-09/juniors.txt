@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Sulaiman, Hussain	KUW 2013 M 1463.9204074 66.3527077 10306633
+1 Sulaiman, Hussain	KUW 2013 M 1463.9167874 66.3528798 10306633

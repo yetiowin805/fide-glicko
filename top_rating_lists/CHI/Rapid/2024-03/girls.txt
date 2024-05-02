@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Araos Diaz, Constanza Paz	CHI 2006 1678.0252597 74.2343777 3456471
-2 Herrera Catrilef, Alison	CHI 2010 1484.6130255 73.6409371 3463419
+1 Araos Diaz, Constanza Paz	CHI 2006 1677.8901430 74.2356184 3456471
+2 Herrera Catrilef, Alison	CHI 2010 1484.5996609 73.6411554 3463419

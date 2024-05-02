@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lazarte Anello, David Emiliano	ARG 1988 M 1790.2559154 74.1194036 140775
+1 Lazarte Anello, David Emiliano	ARG 1988 M 1790.3747060 74.1226039 140775

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Jayasinghe, M.S.	SRI  M 2138.7434645 73.8103500 9900349
+1 Jayasinghe, M.S.	SRI 0 M 2088.3130341 70.8878328 9900349

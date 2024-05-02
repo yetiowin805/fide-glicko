@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Djibtrouhi, Mustapha	ALG 2008 M 1657.5978032 73.0178195 7925123
-2 Ghezali,Abdelhalim essddik youcef	ALG 2006 M 1574.8367944 74.4138551 7925166
+1 Djibtrouhi, Mustapha	ALG 2008 M 1657.6604012 73.0189956 7925123
+2 Ghezali,Abdelhalim essddik youcef	ALG 2006 M 1574.9500615 74.4182078 7925166

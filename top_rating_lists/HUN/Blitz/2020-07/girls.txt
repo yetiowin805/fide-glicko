@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Juhasz, Judit	HUN 2004 1894.9079840 74.0780913 768499
-2 Majoros, Rozsa Evelin	HUN 2004 1827.7685515 63.5750596 767310
+1 Majoros, Rozsa Evelin	HUN 2004 1831.7797044 63.6881122 767310

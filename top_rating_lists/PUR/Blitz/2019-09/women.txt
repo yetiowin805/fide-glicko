@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Vazquez Maccarini, Danitza	PUR 2000 1917.8652961 73.4791871 3101193
-2 Maldonado Polo, Mariangeli	PUR 2006 1427.6543122 68.2897716 3107299
+1 Vazquez Maccarini, Danitza	PUR 2000 1918.2748412 73.4940944 3101193
+2 Maldonado Polo, Mariangeli	PUR 2006 1427.7122845 68.2927085 3107299

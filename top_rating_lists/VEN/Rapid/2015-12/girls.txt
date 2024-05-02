@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Calvete Gimenez, Johaslyn Aymer	VEN 1995 1707.9864941 68.5476612 3905578
-2 Yepez Moreno, Juliet Carolina	VEN 2001 1654.7746282 69.7498586 3905438
-3 Manaure Rodriguez, Cristina	VEN 1999 1306.7674921 72.7561517 3915557
+1 Calvete Gimenez, Johaslyn Aymer	VEN 1995 1707.9478884 68.5445295 3905578
+2 Yepez Moreno, Juliet Carolina	VEN 2001 1654.7988338 69.7509786 3905438
+3 Manaure Rodriguez, Cristina	VEN 1999 1306.7829175 72.7571643 3915557

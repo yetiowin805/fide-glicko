@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Sakhawaty, Sepehr	AFG 2003 M 1665.6632405 68.6655225 11701455
+1 Sakhawaty, Sepehr	AFG 2003 M 1665.8561294 68.6702198 11701455

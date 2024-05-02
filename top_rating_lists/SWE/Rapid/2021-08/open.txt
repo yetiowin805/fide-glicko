@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gajic, Mladen	SWE 1989 M 2139.3058324 70.3309183 1709178
+1 Gajic, Mladen	SWE 1989 M 2139.7637171 70.3232517 1709178

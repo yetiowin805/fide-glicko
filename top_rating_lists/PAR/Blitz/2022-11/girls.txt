@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Mayeregger Gonzalez, Renata	PAR 2007 1627.7228167 63.4191266 3708900
-2 Oviedo Acosta, Paula	PAR 2005 1584.3405118 70.2655425 3704394
-3 Mayeregger Gonzalez, Fiorella	PAR 2009 1485.1560619 65.4816249 3708845
+1 Mayeregger Gonzalez, Renata	PAR 2007 1627.7214630 63.4188853 3708900
+2 Oviedo Acosta, Paula	PAR 2005 1584.4007808 70.2770716 3704394
+3 Mayeregger Gonzalez, Fiorella	PAR 2009 1485.1636792 65.4834288 3708845

@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Azhar, Puteri Munajjah Az-Zahraa	MAS 2001 1909.2192088 70.2962619 5709040
-2 Azhar, Puteri Rifqah Fahada	MAS 2000 1831.7389412 69.7103304 5702879
-3 Mohsen, Nur Batrisya Wafa	MAS 2005 1457.3215997 69.6213332 5733901
+1 Azhar, Puteri Munajjah Az-Zahraa	MAS 2001 1917.1015424 70.3617067 5709040
+2 Azhar, Puteri Rifqah Fahada	MAS 2000 1838.7982080 69.7982856 5702879
+3 Mohsen, Nur Batrisya Wafa	MAS 2005 1462.1970840 69.8252813 5733901

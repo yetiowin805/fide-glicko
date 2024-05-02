@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Alvarado, Carlos	PER 1975 M 2124.7316328 67.7269478 3800555
+1 Alvarado, Carlos	PER 1975 M 2125.6356276 67.7631641 3800555

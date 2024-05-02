@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Martinez, Nelson	ESA 1985 M 2130.7273813 74.0547580 6700420
+1 Martinez, Nelson	ESA 1985 M 2153.9138237 74.3660640 6700420

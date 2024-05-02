@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bordi, Kevin	MNC 1987 M 2210.8491843 56.8089237 621862
+1 Bordi, Kevin	MNC 1987 M 2223.5536260 56.6927525 621862

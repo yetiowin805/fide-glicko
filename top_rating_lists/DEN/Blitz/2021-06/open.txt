@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Peschardt, Soren	DEN 1956 M 1809.9116495 74.1529678 1402927
+1 Peschardt, Soren	DEN 1956 M 1809.9406178 74.1517588 1402927

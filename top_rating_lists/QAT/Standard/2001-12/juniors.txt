@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nezad, Husein Aziz	QAT 1985 M 2277.4855720 69.8974062 12100293
+1 Nezad, Husein Aziz	QAT 1985 M 2276.9715881 70.0178296 12100293

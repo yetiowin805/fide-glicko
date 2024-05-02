@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Chan, Peng-Kong	SIN 1956 M 2385.2262246 70.3639122 5800129
+1 Chan, Peng-Kong	SIN 1956 M 2363.9266683 66.4670322 5800129

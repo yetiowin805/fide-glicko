@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Balandran Duarte, Tania	MEX 1991 1640.5270578 67.8420666 5104793
-2 Martinez Mares, Genesis Alejandra	MEX 2005 1506.0854804 69.2894790 5144264
-3 Gonzalez, Herrera Karen Regina	MEX 2002 1175.5203666 74.3060898 5150310
+1 Balandran Duarte, Tania	MEX 1991 1640.3757624 67.8477380 5104793
+2 Martinez Mares, Genesis Alejandra	MEX 2005 1506.4051832 69.3122315 5144264
+3 Gonzalez, Herrera Karen Regina	MEX 2002 1175.5252290 74.3060066 5150310

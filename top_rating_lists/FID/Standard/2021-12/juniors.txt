@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Aliyev, Tamer	FID 2004 M 1691.0083378 67.2937139 34517880
+1 Aliyev, Tamer	FID 2004 M 1693.9706295 67.3436995 34517880

@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Dominguez Perez, Leinier	CUB 1983 M 2679.1302784 71.7908383 3503240
+1 Dominguez Perez, Leinier	CUB 1983 M 2679.1300866 71.7908370 3503240
 2 Guerra Mendez, Jose Angel	CUB 1988 M 2374.2989845 72.8851480 3508129
 3 Fernandez Cardoso, Alexey	CUB 1981 M 2347.2563134 72.4555506 3504379
 4 Ragolta Franco, Eduardo	CUB 1981 M 2082.4076660 74.5176075 3505910

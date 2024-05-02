@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Aguirre Contreras, Cristian	CHI 1996 M 1967.0598761 72.4845070 3412776
+1 Aguirre Contreras, Cristian	CHI 1996 M 1967.0600476 72.4845401 3412776
 2 Castillo Rivera, Carlos Alberto	CHI 1998 M 1714.7153197 73.3944239 3413322

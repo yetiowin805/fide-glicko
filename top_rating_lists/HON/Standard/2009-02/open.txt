@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Huguet, Sergio	HON 1970 M 2054.2346010 58.5219396 2212552
+1 Guillen Ramirez, Jose Antonio	HON 1968 M 2132.4524664 73.4107387 8400016
+2 Huguet, Sergio	HON 1970 M 2071.2571805 58.6320560 2212552

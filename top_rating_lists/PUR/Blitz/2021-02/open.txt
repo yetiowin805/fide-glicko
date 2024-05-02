@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Soriano Pereira, Raymond	PUR 1994 M 1500.0283342 73.8268963 3107710
+1 Soriano Pereira, Raymond	PUR 1994 M 1500.1716418 73.8292015 3107710

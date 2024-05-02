@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hernandez, Alexander	VEN 0 M 2274.1112911 73.3042520 3900452
+1 Hernandez, Alexander	VEN 0 M 2278.1534259 73.1010772 3900452
+2 Hernandez, Gustavo	VEN 1972 M 2266.6464302 69.5937353 3900312

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Berend, Elvira	LUX 1965 F 2201.9294124 62.2290764 4000510
+1 Berend, Elvira	LUX 1965 F 2208.4327921 62.1932800 4000510

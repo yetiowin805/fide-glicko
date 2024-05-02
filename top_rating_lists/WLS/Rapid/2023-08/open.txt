@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ortiz Sanchez, Luis	WLS 1979 M 1827.1024690 56.2818197 24581160
+1 Ortiz Sanchez, Luis	WLS 1979 M 1827.5600192 56.3149264 24581160

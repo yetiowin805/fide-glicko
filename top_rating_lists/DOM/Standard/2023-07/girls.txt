@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Ramirez Luzon, Franchesca	DOM 2004 1593.9178775 51.2151178 6421792
-2 Blanc Bakirdjian, Emma Elisa	DOM 2008 1352.2817951 72.3385489 6426492
-3 Blanc Bakirdjian, Brielle Alicia	DOM 2009 1286.8085757 72.2986647 6426484
+1 Ramirez Luzon, Franchesca	DOM 2004 1601.2512469 51.2731438 6421792
+2 Blanc Bakirdjian, Emma Elisa	DOM 2008 1356.4909375 72.3910730 6426492
+3 Blanc Bakirdjian, Brielle Alicia	DOM 2009 1290.1619545 72.3617806 6426484

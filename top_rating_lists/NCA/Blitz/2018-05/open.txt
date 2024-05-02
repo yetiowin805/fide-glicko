@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Granados Diaz, Maria Esther	NCA 1995 F 1739.5027153 70.1907704 6101488
+1 Granados Diaz, Maria Esther	NCA 1995 F 1739.3946364 70.1971245 6101488

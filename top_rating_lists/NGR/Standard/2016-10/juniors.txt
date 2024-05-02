@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Anwuli Daniel	NGR 1997 M 2069.9656307 50.5755548 8504580
+1 Anwuli Daniel	NGR 1997 M 2080.5875845 50.6748810 8504580

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Gonzalez Gonzalez, Valentina Anto	CHI 2007 1588.7581788 71.9007181 3435156
-2 Carvajal Mendoza, Maria Belen	CHI 2010 1549.2525828 73.6694978 3334724
+1 Gonzalez Gonzalez, Valentina Anto	CHI 2007 1589.1326592 71.9245015 3435156
+2 Carvajal Mendoza, Maria Belen	CHI 2010 1549.3161547 73.6695563 3334724

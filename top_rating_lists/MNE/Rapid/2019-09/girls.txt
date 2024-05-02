@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Popovic, Mateja	MNE 2005 1579.8485069 70.7663513 16504518
+1 Popovic, Mateja	MNE 2005 1579.2886313 70.7295815 16504518

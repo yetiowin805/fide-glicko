@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Yothinnorratham, Tepparit	THA 1992 M 1906.3390922 73.3884772 6200770
-2 Wiwatanadate, Poompong	THA 1990 M 1875.8677645 71.3714212 6201083
-3 Thanarotrung, Ratchaphon	THA 1994 M 1613.2005786 73.1436265 6201059
+1 Yothinnorratham, Tepparit	THA 1992 M 1918.2643690 70.8611923 6200770
+2 Wiwatanadate, Poompong	THA 1990 M 1896.6207121 71.6078993 6201083
+3 Thanarotrung, Ratchaphon	THA 1994 M 1624.2368089 73.5369364 6201059

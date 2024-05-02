@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Samakov, Nurdin	KGZ 1985 M 2195.6737977 74.2657625 13800345
+1 Samakov, Nurdin	KGZ 1985 M 2223.0015332 71.6769386 13800345

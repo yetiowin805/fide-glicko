@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Olsen, Miriam F	DEN 1988 2118.5291106 69.7187200 1408259
+1 Olsen, Miriam F	DEN 1988 2110.2302085 69.3773912 1408259

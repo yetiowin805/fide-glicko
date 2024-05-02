@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Bayasgalan, Khishigbaatar	MGL 2007 1782.1430554 73.9408091 4904311
-2 Khulan, Bayarsaikhan	MGL 2009 1572.0958879 74.4735649 4910494
+1 Bayasgalan, Khishigbaatar	MGL 2007 1786.9904280 74.0326611 4904311
+2 Khulan, Bayarsaikhan	MGL 2009 1574.4833422 74.4991796 4910494

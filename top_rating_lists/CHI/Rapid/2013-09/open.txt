@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Vasquez Schroeder, Rodrigo	CHI 1969 M 2524.4367020 70.8212728 3400042
+1 Vasquez Schroeder, Rodrigo	CHI 1969 M 2524.4450394 70.8218261 3400042
 2 Barria Zuniga, Daniel	CHI 1974 M 2397.3375318 73.5085119 3400816
 3 Henriquez Villagra, Cristobal	CHI 1996 M 2259.7745382 73.5387169 3409350
 4 Cuevas Araya, Walter	CHI 1981 M 2123.3222785 69.8642948 3405028

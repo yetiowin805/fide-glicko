@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Cruz Lima, Kimberly Esmeralda	GUA 2001 1550.0462427 62.4714126 7301480
-2 Rodriguez G., Adriana M.	GUA 2002 1359.7858173 74.6890825 7301642
+1 Cruz Lima, Kimberly Esmeralda	GUA 2001 1555.3501524 62.5672735 7301480
+2 Rodriguez G., Adriana M.	GUA 2002 1363.3034738 74.8140683 7301642

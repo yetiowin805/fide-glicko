@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Corke, Anya	HKG 1990 F 2081.8636084 54.5859226 6000347
+1 Corke, Anya	HKG 1990 F 2094.0324867 54.8779219 6000347

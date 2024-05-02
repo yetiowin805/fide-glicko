@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Barria Zuniga, Daniel	CHI 1974 M 2402.0610541 65.9442602 3400816
-2 Estrada Lavin, Cristian Alexand	CHI 1999 M 1780.2301895 74.5575630 3411710
+1 Barria Zuniga, Daniel	CHI 1974 M 2402.0804138 65.9444662 3400816
+2 Estrada Lavin, Cristian Alexand	CHI 1999 M 1780.2344537 74.5579821 3411710

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gundavaa, Bayarsaikhan	MGL 1989 M 2430.7058913 71.7963515 4901045
+1 Gundavaa, Bayarsaikhan	MGL 1989 M 2430.7674578 71.7983387 4901045

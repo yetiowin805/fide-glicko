@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ameku, Philip Elikem	GHA 1989 M 1783.8274097 70.5961676 12600326
+1 Ameku, Philip Elikem	GHA 1989 M 1784.0968010 70.6063906 12600326

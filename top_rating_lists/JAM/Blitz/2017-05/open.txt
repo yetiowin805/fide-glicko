@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Blackwood, Ryan	JAM 1985 M 1844.2571514 73.1770435 7400640
+1 Blackwood, Ryan	JAM 1985 M 1844.1610435 73.1736611 7400640

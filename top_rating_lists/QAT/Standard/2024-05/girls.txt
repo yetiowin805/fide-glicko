@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Al Qassabi, Layan	QAT 2010 1272.4204486 62.7249553 12102059
+1 Al Qassabi, Layan	QAT 2010 1272.1743546 62.8683076 12102059

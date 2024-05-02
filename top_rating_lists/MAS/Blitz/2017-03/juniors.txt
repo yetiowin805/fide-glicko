@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Wong, Yinn Long	MAS 2002 M 1843.8569763 73.6522311 5707684
+1 Wong, Yinn Long	MAS 2002 M 1841.9191001 73.7875222 5707684

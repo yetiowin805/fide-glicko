@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Atabayev, Saparmyrat	TKM 1999 M 2054.0240485 74.1802618 14000571
+1 Atabayev, Saparmyrat	TKM 1999 M 2054.7231194 74.1621418 14000571

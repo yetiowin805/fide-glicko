@@ -2,4 +2,4 @@ Rank Name Federation BirthYear Rating RD
 1 Cardenas Ballester, Maydelin	CUB 1987 1964.7237053 66.7788406 3508242
 2 Cancio-Bello Ayes, Flavia	CUB 1993 1876.0489591 70.9822246 3512070
 3 Gonzalez Ochoa, Yoana	CUB 1992 1839.2700087 71.4032319 3507629
-4 Fernandez Rivero, Karla July	CUB 1997 1656.9183975 65.6732737 3517489
+4 Fernandez Rivero, Karla July	CUB 1997 1656.9184727 65.6732806 3517489

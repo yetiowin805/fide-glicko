@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bajarani, Ulvi	AZE 1995 M 2372.8325796 70.9806292 13403028
+1 Bajarani, Ulvi	AZE 1995 M 2372.8387493 70.9811293 13403028

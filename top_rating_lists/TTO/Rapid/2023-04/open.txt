@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lee, Hayden	TTO 1966 M 1806.4376904 73.4327206 7700350
+1 Lee, Hayden	TTO 1966 M 1806.4397504 73.4332484 7700350

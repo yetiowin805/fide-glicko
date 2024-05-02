@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Mekanova, Annagozel	TKM 2002 1636.3890307 70.6337190 14003902
+1 Mekanova, Annagozel	TKM 2002 1636.5240991 70.6337045 14003902

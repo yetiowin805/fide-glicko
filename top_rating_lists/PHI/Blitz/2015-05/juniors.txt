@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bersamina, Paulo	PHI 1998 M 2175.0018358 70.9404887 5206995
+1 Bersamina, Paulo	PHI 1998 M 2175.2591100 70.9515700 5206995

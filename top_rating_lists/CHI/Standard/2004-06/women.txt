@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Ramos, Daniela	CHI 1983 1831.1078044 70.0627235 3405923
+1 Ramos, Daniela	CHI 1983 1815.3306641 70.3670163 3405923

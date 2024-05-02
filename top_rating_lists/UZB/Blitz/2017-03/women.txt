@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Tokhirjonova, Gulrukhbegim	UZB 1999 1995.7237815 66.1555907 14203626
-2 Zayniddinova, Sabokhat	UZB 1991 1548.3560659 49.9803638 14204983
+1 Tokhirjonova, Gulrukhbegim	UZB 1999 2000.3413306 66.1926225 14203626
+2 Zayniddinova, Sabokhat	UZB 1991 1548.0065952 50.0527392 14204983

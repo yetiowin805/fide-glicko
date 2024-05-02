@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Pastor Carvajal, Jeigoth	CRC 2004 M 1848.2367591 74.3834040 6516718
+1 Pastor Carvajal, Jeigoth	CRC 2004 M 1848.2385182 74.3835210 6516718

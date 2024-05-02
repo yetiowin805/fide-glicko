@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mizzi, Jack	MLT 2006 M 1859.2042419 72.4253285 5602521
+1 Mizzi, Jack	MLT 2006 M 1860.3962225 72.4660505 5602521

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Tajidine, Sidi Mohamed	MTN 1965 M 1692.1160829 68.0277413 26030900
+1 Tajidine, Sidi Mohamed	MTN 1965 M 1701.9644074 68.2451127 26030900

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Vanegas Lopez, Natanael Emanuel	NCA 2006 M 1827.8999854 71.3947904 6108326
+1 Vanegas Lopez, Natanael Emanuel	NCA 2006 M 1827.9005032 71.3947564 6108326

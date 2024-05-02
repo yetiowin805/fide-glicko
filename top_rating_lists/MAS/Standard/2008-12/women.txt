@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Bakri, Alia Anin Azwa	MAS 1994 1799.9743972 74.2338456 5702712
+1 Bakri, Alia Anin Azwa	MAS 1994 1815.7667006 74.3836896 5702712
+2 Nur, Nabila Azman Hisham	MAS 0 1662.2291179 72.9129090 5702135

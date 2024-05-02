@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Marchesich, Giovanni	ITA 2004 M 2080.1712518 63.5060308 2824790
+1 Marchesich, Giovanni	ITA 2004 M 2079.9361012 63.6122188 2824790

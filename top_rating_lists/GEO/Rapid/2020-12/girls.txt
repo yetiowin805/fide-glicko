@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Janiashvili, Mariami	GEO 2000 1823.0321647 71.4499035 13612077
+1 Janiashvili, Mariami	GEO 2000 1822.9034147 71.4518797 13612077

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rodriguez Delfino, Tiago	URU 2004 M 1335.7386633 73.8042389 3007685
+1 Rodriguez Delfino, Tiago	URU 2004 M 1335.7557721 73.8049288 3007685

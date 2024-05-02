@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Harutyunian, Tigran K.	ARM 1997 M 2302.2974475 74.6169502 13303635
+1 Harutyunian, Tigran K.	ARM 1997 M 2303.5285763 74.7364680 13303635

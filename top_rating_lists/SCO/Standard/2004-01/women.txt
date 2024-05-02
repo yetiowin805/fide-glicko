@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Rutherford, Elaine	SCO 1983 2048.6066392 67.2514265 2401428
+1 Rutherford, Elaine	SCO 1983 2066.0494211 67.1805171 2401428

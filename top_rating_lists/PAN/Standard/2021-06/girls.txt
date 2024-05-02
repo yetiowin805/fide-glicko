@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Vasquez Jaen, Lourdes Lorena	PAN 2003 1563.2138204 61.5053713 6605559
-2 Alvarez Chang, Claudia Mercedes	PAN 2004 1536.4717462 69.1654450 6604374
+1 Vasquez Jaen, Lourdes Lorena	PAN 2003 1567.7081639 61.5636974 6605559
+2 Alvarez Chang, Claudia Mercedes	PAN 2004 1540.6500778 69.2079498 6604374

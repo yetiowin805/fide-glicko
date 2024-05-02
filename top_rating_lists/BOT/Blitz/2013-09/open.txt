@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Oatlhotse, Providence	BOT 1985 M 2086.3605543 73.6385106 11300507
+1 Oatlhotse, Providence	BOT 1985 M 2086.3791269 73.6374569 11300507

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Manukyan, Anton A.	ARM 1999 M 1805.4210580 65.0691825 13308734
+1 Manukyan, Anton A.	ARM 1999 M 1805.8392865 65.0904828 13308734

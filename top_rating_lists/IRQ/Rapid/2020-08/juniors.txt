@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rabar Bakhtyar Hama Saleh	IRQ 2000 M 1578.8425295 65.8169949 4809645
-2 Yashar, Didar Mohammed	IRQ 2008 M 1549.3890083 73.4483911 4816331
+1 Rabar Bakhtyar Hama Saleh	IRQ 2000 M 1578.9595760 65.8204670 4809645
+2 Yashar, Didar Mohammed	IRQ 2008 M 1549.4911776 73.4534480 4816331

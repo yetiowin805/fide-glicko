@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ahmed, Ishaq	UAE 1989 M 2050.5877350 64.6838222 9301275
+1 Ahmed, Ishaq	UAE 1989 M 2060.9960593 64.4952096 9301275

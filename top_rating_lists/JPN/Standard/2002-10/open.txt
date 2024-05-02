@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Watanabe, Akira	JPN 1972 M 2353.2414300 73.9230201 7000227
+2 Tanaka, Yuuki	JPN 1977 M 2234.7348761 73.8769114 7000332

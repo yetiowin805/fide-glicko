@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Van Foreest, Jorden	NED 1999 M 2455.7606519 74.9511433 1039784
+1 Van Foreest, Jorden	NED 1999 M 2456.3159060 74.9574220 1039784

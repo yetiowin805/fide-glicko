@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Cramling Bellon, Anna	SWE 2002 1674.3057547 60.9168534 32009232
+1 Cramling Bellon, Anna	SWE 2002 1674.3010794 60.9170966 32009232

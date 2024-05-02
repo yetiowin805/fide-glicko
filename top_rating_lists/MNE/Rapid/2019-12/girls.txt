@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Koljevic, Nikolina	MNE 2001 1617.0708378 72.1664656 16503945
+1 Koljevic, Nikolina	MNE 2001 1616.9786322 72.1642080 16503945

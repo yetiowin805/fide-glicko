@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Wang, Puchen	NZL 1990 M 2115.6776189 71.4716479 4300904
+1 Wang, Puchen	NZL 1990 M 2125.5817053 71.5403493 4300904

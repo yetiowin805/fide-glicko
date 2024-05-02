@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Drljevic, Ljilja	MNE 1984 2192.2021275 71.7596819 928879
+1 Drljevic, Ljilja	MNE 1984 2202.7913077 71.1384953 928879
+2 Mijovic, Aleksandra	MNE 1986 2083.0784569 74.9865455 933988

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Zimurinda, Ben Tom	RWA 1980 M 1573.3742644 72.3502284 16000293
+1 Zimurinda, Ben Tom	RWA 1980 M 1575.0971342 72.3801413 16000293

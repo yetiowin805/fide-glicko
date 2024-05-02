@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Atanasiu, Nicolae	BEL 1957 M 1843.8842943 70.4286845 262420
+1 Atanasiu, Nicolae	BEL 1957 M 1843.8832689 70.4286687 262420

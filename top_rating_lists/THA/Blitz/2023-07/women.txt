@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Kaewwattha, Natrada	THA 2007 1529.0327337 54.9263682 6212174
-2 Pinphetsawan, Sirikwan	THA 1993 1521.1895077 40.5612474 6203914
+1 Kaewwattha, Natrada	THA 2007 1529.2144397 54.9304152 6212174
+2 Pinphetsawan, Sirikwan	THA 1993 1521.4201876 40.5649952 6203914

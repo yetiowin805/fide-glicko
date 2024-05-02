@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gonzalez Perez, Arian	FID 1988 M 2376.9491245 73.8380343 3507777
+1 Gonzalez Perez, Arian	FID 1988 M 2376.9686593 73.8385534 3507777

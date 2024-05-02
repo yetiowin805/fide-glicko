@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Guillen Ramirez, Jose Antonio	HON 1968 M 2187.1179527 71.3706108 8400016
+1 Guillen Ramirez, Jose Antonio	HON 1968 M 2200.0630099 71.0888285 8400016

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Katande Moses	MAW 2004 M 1586.2797198 74.4418351 20508530
+1 Katande Moses	MAW 2004 M 1586.2861594 74.4424338 20508530

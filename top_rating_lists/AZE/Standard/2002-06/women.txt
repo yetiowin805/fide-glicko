@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Mamedjarova, Zeinab	AZE 0 2306.8025400 59.6178478 13401521
+1 Mamedjarova, Zeinab	AZE 0 2300.9060782 54.2608755 13401521
+2 Velikhanli, Firuza	AZE 0 2285.1133980 66.5212638 13400029

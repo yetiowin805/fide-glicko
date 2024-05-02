@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Fuentes Godoy, Lilia Ivonne	MEX 1998 F 1720.3533018 74.7076069 5104130
-2 Roque Sola, Maria Fernanda	MEX 2000 F 1557.6258164 71.6501206 5115833
+1 Fuentes Godoy, Lilia Ivonne	MEX 1998 F 1720.6622608 74.7253773 5104130
+2 Roque Sola, Maria Fernanda	MEX 2000 F 1558.1552148 71.7066559 5115833

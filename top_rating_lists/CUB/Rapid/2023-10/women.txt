@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Miranda Llanes, Yerisbel	CUB 1987 2071.5677704 57.4506481 3507700
-2 Forgas Moreno, Yaniela	CUB 1992 2042.7036524 62.6830430 3508072
+1 Miranda Llanes, Yerisbel	CUB 1987 2072.0673935 57.4881577 3507700
+2 Forgas Moreno, Yaniela	CUB 1992 2043.1637979 62.7406928 3508072

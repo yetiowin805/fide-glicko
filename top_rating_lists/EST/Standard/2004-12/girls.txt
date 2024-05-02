@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Bashkite, Viktoria	EST 1985 2137.7337066 47.0226686 4501284
-2 Golubenko, Valentina	EST 1990 2060.6671027 73.5076177 4501993
+1 Bashkite, Viktoria	EST 1985 2147.0039255 47.0160469 4501284

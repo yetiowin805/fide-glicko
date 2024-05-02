@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Frattini, Beatriz Maria	BRA 2004 1697.6675267 72.1005273 22715002
-2 Feller, Gabriela Luisa Vicente	BRA 2004 1660.8758726 74.1818866 2163322
+1 Frattini, Beatriz Maria	BRA 2004 1697.8242675 72.1060747 22715002
+2 Feller, Gabriela Luisa Vicente	BRA 2004 1660.9945675 74.1905067 2163322

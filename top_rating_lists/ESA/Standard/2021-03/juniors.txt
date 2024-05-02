@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ortez, Andrea	ESA 2001 F 1787.8777563 74.8290760 6702392
+1 Ortez, Andrea	ESA 2001 F 1794.7393943 74.9048554 6702392

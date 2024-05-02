@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Aizpurua, Patrick	PAN 1994 M 1911.3647956 67.9966113 6600522
+1 Aizpurua, Patrick	PAN 1994 M 1926.3958757 68.2909252 6600522

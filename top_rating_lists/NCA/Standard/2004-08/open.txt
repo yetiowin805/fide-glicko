@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Olivares, Danields	NCA 1983 M 2109.5968266 74.3884393 6100422
+1 Olivares, Danields	NCA 1983 M 2115.5426092 74.3461920 6100422

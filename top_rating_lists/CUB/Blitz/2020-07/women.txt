@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Gonzalez Ochoa, Yoana	CUB 1992 1900.7354987 68.9634974 3507629
-2 Mantilla Gras, Geydis De la C.	CUB 2000 1705.9813194 73.7865653 3521508
+1 Gonzalez Ochoa, Yoana	CUB 1992 1901.1202845 68.9721795 3507629
+2 Mantilla Gras, Geydis De la C.	CUB 2000 1706.0772701 73.7887500 3521508

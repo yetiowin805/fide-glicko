@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Aguirre Contreras, Cristian	CHI 1996 M 1967.0598761 74.1623524 3412776
+1 Aguirre Contreras, Cristian	CHI 1996 M 1967.0600476 74.1623847 3412776

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Klerides, Paris	CYP 1970 M 2144.4566963 70.4097564 5900158
+1 Klerides, Paris	CYP 1970 M 2159.0053353 70.3361080 5900158

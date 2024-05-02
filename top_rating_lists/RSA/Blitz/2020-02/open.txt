@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Modi, Yashil	RSA 2005 M 1738.8832612 72.0369930 14310880
+1 Modi, Yashil	RSA 2005 M 1739.5526472 72.0871544 14310880

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Prasca, Raphael	VEN 1983 M 2340.8427951 56.9089856 3900819
+1 Prasca, Raphael	VEN 1983 M 2343.2099716 56.7035425 3900819

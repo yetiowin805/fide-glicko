@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Matoussi, Wael	TUN 1979 M 1868.4415522 62.9435147 5502322
+1 Matoussi, Wael	TUN 1979 M 1868.6324975 62.9499928 5502322

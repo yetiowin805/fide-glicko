@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mekanova, Annagozel	TKM 1900 F 1487.6355120 71.0431656 14003902
+1 Mekanova, Annagozel	TKM 1900 F 1487.8402861 71.0144289 14003902

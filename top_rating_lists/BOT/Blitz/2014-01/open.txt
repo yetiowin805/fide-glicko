@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gaealafshwe, Barileng	BOT 1982 M 2070.3461692 74.4467692 11300310
-2 Oatlhotse, Providence	BOT 1985 M 2068.8064060 71.3595544 11300507
+1 Gaealafshwe, Barileng	BOT 1982 M 2070.3475670 74.4468141 11300310
+2 Oatlhotse, Providence	BOT 1985 M 2068.8211049 71.3592003 11300507

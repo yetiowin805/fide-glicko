@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Acevedo Mendez, Lisseth	CRC 1993 1770.9925711 64.2482683 6502938
+1 Acevedo Mendez, Lisseth	CRC 1993 1770.9875508 64.2484293 6502938

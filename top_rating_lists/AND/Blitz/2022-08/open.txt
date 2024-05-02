@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ribera Veganzones, Serni	AND 2007 M 1890.1319030 62.3373947 6900860
-2 Ribera Veganzones, Josep Maria	AND 2003 M 1872.0528289 66.0717074 6900763
-3 Cabarcos Baulina, Manuel	AND 1997 M 1642.8163484 70.1310487 6901166
+1 Ribera Veganzones, Serni	AND 2007 M 1891.2812505 62.3920506 6900860
+2 Ribera Veganzones, Josep Maria	AND 2003 M 1873.6663774 66.1561062 6900763
+3 Cabarcos Baulina, Manuel	AND 1997 M 1642.9215914 70.1389693 6901166

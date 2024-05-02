@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mafube, Masilo	LES 1984 M 1628.0736281 71.0599320 14317230
+1 Mafube, Masilo	LES 1984 M 1633.3407766 71.2385228 14317230

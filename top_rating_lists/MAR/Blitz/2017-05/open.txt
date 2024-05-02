@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Tissir, Mohamed	MAR 1976 M 2191.8526841 59.2649155 9000240
+1 Tissir, Mohamed	MAR 1976 M 2192.2483173 59.2345666 9000240

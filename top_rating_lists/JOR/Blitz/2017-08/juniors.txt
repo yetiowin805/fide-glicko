@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Thaer, Abu Alhaija	JOR 2004 M 1726.0269230 72.6154573 8106215
+1 Thaer, Abu Alhaija	JOR 2004 M 1726.4748167 72.6174387 8106215

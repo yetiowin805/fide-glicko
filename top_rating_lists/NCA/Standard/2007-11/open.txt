@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Davila, Carlos	NCA 1971 M 2262.4007377 74.7544348 6100040
+1 Davila, Carlos	NCA 1971 M 2279.1767634 74.6770057 6100040

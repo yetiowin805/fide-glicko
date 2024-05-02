@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Keinanen, Toivo	FIN 2002 M 2432.6025782 71.8277196 509825
+1 Keinanen, Toivo	FIN 2002 M 2433.5803945 71.8585114 509825

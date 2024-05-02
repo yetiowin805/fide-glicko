@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mulauzi, Joshua	ZAM 1996 M 1679.0089983 66.0170944 8700842
+1 Mulauzi, Joshua	ZAM 1996 M 1684.5439053 66.3208823 8700842

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Chahrani, Ibrahim	LBA  M 2201.4866296 71.7325770 9200215
+1 Chahrani, Ibrahim	LBA 0 M 2206.1166187 67.0531345 9200215

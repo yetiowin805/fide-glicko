@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Vanegas Lopez, Natanael Emanuel	NCA 2006 M 1827.8999854 73.0887286 6108326
-2 Lopez Murillo, Eliseo Josue	NCA 2010 M 1534.7384351 70.7816384 6109381
+1 Vanegas Lopez, Natanael Emanuel	NCA 2006 M 1827.9005032 73.0886954 6108326
+2 Lopez Murillo, Eliseo Josue	NCA 2010 M 1534.7384768 70.7816412 6109381

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ayyad, Maher	BRN 1978 M 2071.9042884 65.4805914 11200235
+1 Ayyad, Maher	BRN 1978 M 2072.9178138 65.4803915 11200235

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ahmed, Najla	BRN 2000 F 1271.2215429 70.6356836 11205270
+1 Ahmed, Najla	BRN 2000 F 1269.7177697 70.6970042 11205270

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Barbosa, Oliver	PHI 1986 M 2415.2794136 66.3624300 5201640
+1 Barbosa, Oliver	PHI 1986 M 2434.8845110 67.1219423 5201640

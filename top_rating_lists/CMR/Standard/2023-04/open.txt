@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Amba Oyon Marius Claude	CMR 1987 M 1860.4904844 74.4838121 16400240
+1 Amba Oyon Marius Claude	CMR 1987 M 1865.1249772 74.6346839 16400240

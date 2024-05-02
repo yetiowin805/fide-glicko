@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Esquivel, Luis	PAN 1983 M 2124.2469440 54.0951076 6600174
+1 Esquivel, Luis	PAN 1983 M 2160.5369250 53.7248884 6600174

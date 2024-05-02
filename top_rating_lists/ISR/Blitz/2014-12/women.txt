@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Bejashvili, Irma	ISR 1967 1499.2590138 67.0848918 2810662
+1 Bejashvili, Irma	ISR 1967 1499.0098238 67.0774606 2810662

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Wiratunga, Ishan	SRI 1974 M 1750.8728539 63.3280686 9985557
+1 Wiratunga, Ishan	SRI 1974 M 1750.8289146 63.3202152 9985557

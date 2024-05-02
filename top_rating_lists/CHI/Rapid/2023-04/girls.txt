@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Poddubnaya, Maria	CHI 2005 1476.5892628 73.2426297 3458440
+1 Poddubnaya, Maria	CHI 2005 1476.5805285 73.2427727 3458440

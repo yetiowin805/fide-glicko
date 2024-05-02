@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rodriguez Blanco, Manuel A.	DOM 1971 M 1872.8433940 73.1590273 6405207
+1 Rodriguez Blanco, Manuel A.	DOM 1971 M 1872.7235482 73.1682172 6405207

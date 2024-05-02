@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Georgieva, Liubka	BUL 1983 2258.5782582 74.0303398 2905612
+1 Georgieva, Liubka	BUL 1983 2221.5636947 64.6045925 2905612

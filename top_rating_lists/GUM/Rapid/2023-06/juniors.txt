@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ramas, Carmina Jasmine	GUM 2004 F 1541.4563303 72.7600714 31001548
+1 Ramas, Carmina Jasmine	GUM 2004 F 1541.4585645 72.7603772 31001548

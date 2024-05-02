@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Pericas Rechi, Marc	AND 1994 M 1530.7925045 74.1547183 22271279
+1 Pericas Rechi, Marc	AND 1994 M 1535.8457098 74.6313329 22271279

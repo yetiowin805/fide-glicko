@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Meskenas, Paulius	DEN 2005 M 1701.5243035 70.3550107 12809969
+1 Meskenas, Paulius	DEN 2005 M 1701.9924296 70.3722970 12809969

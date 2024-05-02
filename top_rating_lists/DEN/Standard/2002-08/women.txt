@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Hoiberg, Nina	DEN 1956 2237.0942362 68.3953465 1400720
+1 Hoiberg, Nina	DEN 1956 2235.2514672 68.0700790 1400720

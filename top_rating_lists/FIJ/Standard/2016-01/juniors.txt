@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Fareed, Menash	FIJ 2000 M 1514.4279862 74.5055508 11400528
+1 Fareed, Menash	FIJ 2000 M 1521.2464085 74.5126374 11400528

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Talsma, Paul	NED 1960 M 2141.3505932 71.9964547 1018779
+1 Talsma, Paul	NED 1960 M 2141.4625564 72.0023517 1018779

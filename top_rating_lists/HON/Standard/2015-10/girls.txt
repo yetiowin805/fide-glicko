@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Ortiz, Katherine Berenice	HON 1995 1730.2993733 64.7929282 8400474
-2 Ortiz, Rosa Daniela	HON 1999 1432.3447555 74.9650049 8400547
+1 Ortiz, Katherine Berenice	HON 1995 1738.1203244 64.9125182 8400474

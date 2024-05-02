@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 A-ALI, Sali Abbas Abdulzahra	IRQ 2001 1750.7572635 70.4561404 4804929
+1 A-ALI, Sali Abbas Abdulzahra	IRQ 2001 1750.7942780 70.4520447 4804929

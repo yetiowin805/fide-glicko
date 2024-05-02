@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ehlvest, Jaan	EST 1962 M 2628.3255715 45.2090772 4500016
+1 Ehlvest, Jaan	EST 1962 M 2633.5594570 44.4520373 4500016

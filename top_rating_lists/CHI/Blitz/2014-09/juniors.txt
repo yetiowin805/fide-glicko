@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Henriquez Villagra, Cristobal	CHI 1996 M 2321.9618627 71.6507559 3409350
-2 Aguirre Contreras, Cristian	CHI 1996 M 1817.6140192 63.9704667 3412776
+1 Henriquez Villagra, Cristobal	CHI 1996 M 2321.9666871 71.6503520 3409350
+2 Aguirre Contreras, Cristian	CHI 1996 M 1817.6141944 63.9704469 3412776
 3 Toro Medina, Mathias Alexander	CHI 1997 M 1420.5177028 72.6464847 3420949

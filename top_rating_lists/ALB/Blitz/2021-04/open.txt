@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bajraktari, Besnik	ALB 1957 M 1414.3932390 73.4002628 4702042
+1 Bajraktari, Besnik	ALB 1957 M 1409.4714366 73.5489862 4702042

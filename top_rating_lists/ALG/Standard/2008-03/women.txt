@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Hamza, Amira	ALG  1894.0171448 65.7064315 7901160
+1 Hamza, Amira	ALG 0 1845.6538654 73.3862930 7901160

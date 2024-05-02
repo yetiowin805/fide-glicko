@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Lobo Jimenez, Mariana Esther	PAN 2008 1648.4997614 74.5815334 6605516
-2 Chavarria Troya, Keytleen Denis	PAN 2011 1545.6212866 61.7588539 6608345
-3 Almengor De Gracia, Danahe Renee	PAN 2009 1392.5167693 64.8416277 6612741
+1 Lobo Jimenez, Mariana Esther	PAN 2008 1648.5030679 74.5815983 6605516
+2 Chavarria Troya, Keytleen Denis	PAN 2011 1545.6280843 61.7591869 6608345
+3 Almengor De Gracia, Danahe Renee	PAN 2009 1392.5229653 64.8414665 6612741

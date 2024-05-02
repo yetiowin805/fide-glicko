@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bekmukhanov, Sauran	DEN 2012 M 1730.5885564 67.3943363 1472844
+1 Bekmukhanov, Sauran	DEN 2012 M 1730.6545549 67.4085744 1472844

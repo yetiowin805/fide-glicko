@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Hernandez Bermudez, Manuela	COL 2004 1635.7441430 58.4385331 4483103
-2 Rativa Jimenez, Laura Milena	COL 2001 1527.3863750 63.2271933 4437357
-3 Agudelo Zapata, Yarli Alejandra	COL 2007 1441.8635969 74.0917790 4458222
+1 Hernandez Bermudez, Manuela	COL 2004 1635.9913680 58.4399319 4483103
+2 Rativa Jimenez, Laura Milena	COL 2001 1527.6225267 63.2291773 4437357
+3 Agudelo Zapata, Yarli Alejandra	COL 2007 1441.9278694 74.0949646 4458222

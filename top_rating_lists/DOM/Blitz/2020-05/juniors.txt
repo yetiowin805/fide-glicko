@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Araujo Sanchez, Josue	DOM 2001 M 2010.5615553 69.1176784 6416896
+1 Araujo Sanchez, Josue	DOM 2001 M 2010.7117182 69.1184417 6416896

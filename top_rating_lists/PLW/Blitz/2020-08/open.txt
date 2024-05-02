@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Parrado, Angelica	PLW 1968 F 1589.0778925 73.3346386 16600215
+1 Parrado, Angelica	PLW 1968 F 1589.0797127 73.3346269 16600215

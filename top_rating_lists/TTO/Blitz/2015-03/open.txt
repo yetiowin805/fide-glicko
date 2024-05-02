@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Harper, Ryan	TTO 1977 M 2005.0835845 74.2772542 7700156
+1 Harper, Ryan	TTO 1977 M 2005.1011221 74.2768067 7700156

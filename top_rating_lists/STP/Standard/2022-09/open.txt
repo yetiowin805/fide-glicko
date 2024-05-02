@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Espirito Santo, Waldyr	STP 1986 M 1778.2586825 73.0147655 16900049
+1 Espirito Santo, Waldyr	STP 1986 M 1784.2043488 73.1267019 16900049

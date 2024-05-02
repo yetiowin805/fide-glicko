@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Diaz Cesar, Wilsaida Pieranlly	DOM 1991 1723.8127463 64.6892770 6403557
-2 Rosario Almanzar, Raydili	DOM 1998 1449.1216202 73.2294622 6403573
+1 Diaz Cesar, Wilsaida Pieranlly	DOM 1991 1723.8423794 64.6927057 6403557
+2 Rosario Almanzar, Raydili	DOM 1998 1449.1277210 73.2302595 6403573

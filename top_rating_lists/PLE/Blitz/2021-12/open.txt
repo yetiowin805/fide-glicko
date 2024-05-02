@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Skaik, Nabil	PLE 1977 M 1286.5083757 67.6615348 11203633
+1 Skaik, Nabil	PLE 1977 M 1286.8106011 67.6562003 11203633

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Fierro Baquero, Martha L.	ECU 1977 2441.4408439 69.6120092 3600270
-2 Moncayo Romero, Evelyn	ECU 1981 2256.1633769 68.7498509 3600424
+1 Fierro Baquero, Martha L.	ECU 1977 2441.5661703 69.6039101 3600270
+2 Moncayo Romero, Evelyn	ECU 1981 2256.1964488 68.7486176 3600424

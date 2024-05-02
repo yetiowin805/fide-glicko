@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Tala Alnasser	JOR 2004 F 1341.8590037 63.3200861 8110328
+1 Tala Alnasser	JOR 2004 F 1342.3341596 63.3190491 8110328

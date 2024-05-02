@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ameer,Dhafer Abdulameer	IRQ 2005 M 1401.1181780 74.6918627 4807537
+1 Ameer,Dhafer Abdulameer	IRQ 2005 M 1401.2001101 74.6911859 4807537

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Methmani, Nelunika	SRI 1998 F 1596.6834887 72.7362251 9910050
+1 Methmani, Nelunika	SRI 1998 F 1596.6154694 72.7355559 9910050

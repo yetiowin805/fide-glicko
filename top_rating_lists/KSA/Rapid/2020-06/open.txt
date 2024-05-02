@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Alem, Ali Hussain	KSA 1976 M 1612.7576170 74.6409394 21500088
+1 Alem, Ali Hussain	KSA 1976 M 1613.0817711 74.6500352 21500088

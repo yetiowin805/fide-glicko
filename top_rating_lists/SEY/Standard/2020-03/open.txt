@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Meier, Peter	SEY 1985 M 1910.9999142 69.9379305 9800158
+1 Meier, Peter	SEY 1985 M 1924.6661576 69.9570730 9800158

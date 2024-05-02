@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Felgaer, Ruben	ARG 1981 M 2467.1158686 63.7303739 107069
+1 Felgaer, Ruben	ARG 1981 M 2469.9655235 63.6124469 107069

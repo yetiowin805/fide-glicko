@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Harder, Cindy	NED 1971 1131.0625540 65.5815106 1053914
+1 Harder, Cindy	NED 1971 1131.0706440 65.5819509 1053914

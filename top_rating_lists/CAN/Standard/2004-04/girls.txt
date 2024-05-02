@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Kagramanov, Dina	CAN 1986 1915.6435328 74.3472796 933953
+1 Charbonneau, Anne Marie	CAN 1985 1938.2683760 74.7811633 2603934
+2 Kagramanov, Dina	CAN 1986 1916.0834721 72.4857480 933953

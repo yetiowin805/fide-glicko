@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Dubois, Martine	MNC 1959 1880.2843954 69.2960827 601926
+1 Dubois, Martine	MNC 1959 1880.4211463 69.2990477 601926

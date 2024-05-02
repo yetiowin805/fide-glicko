@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Norris, Damian C	FIJ 1962 M 1744.0844118 70.3608122 11400048
+1 Norris, Damian C	FIJ 1962 M 1752.3257602 70.5593711 11400048

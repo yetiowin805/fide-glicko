@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Solomon, Kenny	RSA 1979 M 2340.5103357 67.0551617 14300192
+1 Solomon, Kenny	RSA 1979 M 2340.6503701 67.0599459 14300192

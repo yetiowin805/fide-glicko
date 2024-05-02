@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Antoniou, Antonis	CYP 1970 M 2112.8457770 74.2221475 5900123
+2 Abatzidis, Stelios	CYP 0 M 1973.3645197 71.5670560 4205707

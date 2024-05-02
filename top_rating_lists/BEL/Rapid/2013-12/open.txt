@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Dgebuadze, Alexandre	BEL 1971 M 2491.8906151 73.1076303 203882
+1 Dgebuadze, Alexandre	BEL 1971 M 2491.8891113 73.1081952 203882

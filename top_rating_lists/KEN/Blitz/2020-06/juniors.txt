@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Likoko,Elvis	KEN 2000 M 1650.8607573 71.9247866 10815090
+1 Likoko,Elvis	KEN 2000 M 1650.9333133 71.9265280 10815090

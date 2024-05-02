@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Vanegas Lopez, Natanael Emanuel	NCA 2006 M 1835.7817809 74.6822768 6108326
-2 Granados Ortiz, Maria Jose	NCA 2001 F 1613.6591861 72.1532994 6103812
+1 Vanegas Lopez, Natanael Emanuel	NCA 2006 M 1835.7965214 74.6825610 6108326
+2 Granados Ortiz, Maria Jose	NCA 2001 F 1613.6783157 72.1542338 6103812

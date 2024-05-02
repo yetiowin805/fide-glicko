@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Chahrour, Ibrahim	LIB 1997 M 1944.9399124 74.0631827 5301653
+1 Chahrour, Ibrahim	LIB 1997 M 1944.9615716 74.0716036 5301653

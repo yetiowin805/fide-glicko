@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Batsiashvili, Nino	GEO 1987 F 2253.2556432 72.0251960 13602993
+1 Batsiashvili, Nino	GEO 1987 F 2253.5135967 72.0246697 13602993

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Pourkashiyan, Atousa	IRI 1988 2201.7261310 71.6005902 12502014
-2 Khademalsharieh, Sarasadat	IRI 1997 2102.5884298 66.1935914 12512214
+1 Pourkashiyan, Atousa	IRI 1988 2201.7253642 71.6005210 12502014
+2 Khademalsharieh, Sarasadat	IRI 1997 2102.5884203 66.1935959 12512214

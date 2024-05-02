@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Boudaya, Ahmed	TUN 2009 M 1622.2074832 74.4370774 5509866
+1 Boudaya, Ahmed	TUN 2009 M 1622.1420013 74.4371925 5509866

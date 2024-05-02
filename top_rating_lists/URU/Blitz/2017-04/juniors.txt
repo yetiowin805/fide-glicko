@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kimelman, Gabriel	URU 1999 M 1880.2455528 73.6857999 3003035
+1 Kimelman, Gabriel	URU 1999 M 1880.3133790 73.6889447 3003035

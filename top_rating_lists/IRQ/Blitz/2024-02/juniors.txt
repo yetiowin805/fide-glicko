@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ali Firas Qassim	IRQ 2006 M 1849.3631741 72.3015209 4810139
+1 Ali Firas Qassim	IRQ 2006 M 1853.1645172 72.5321477 4810139

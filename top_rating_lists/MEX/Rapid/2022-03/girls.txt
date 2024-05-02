@@ -1,6 +1,6 @@
 Rank Name Federation BirthYear Rating RD
-1 Hernandez Ortega, Carolina	MEX 2005 1691.4079163 69.4790475 5132126
-2 Del Razo Mendoza, Andrea Nikole	MEX 2003 1581.2958046 66.4400420 5137640
-3 Aguilar Sanchez, Citlalli Genoveva	MEX 2004 1562.3644670 63.7660404 5119502
-4 Bautista Teran, Aleida Esmeralda	MEX 2008 1500.3312114 63.5991644 5145198
-5 Del Razo Mendoza, Nancy Ailine	MEX 2006 1329.8725535 70.4614186 5137632
+1 Hernandez Ortega, Carolina	MEX 2005 1691.4085924 69.4790499 5132126
+2 Del Razo Mendoza, Andrea Nikole	MEX 2003 1581.2973361 66.4401602 5137640
+3 Aguilar Sanchez, Citlalli Genoveva	MEX 2004 1562.3644676 63.7660404 5119502
+4 Bautista Teran, Aleida Esmeralda	MEX 2008 1500.3375007 63.5995417 5145198
+5 Del Razo Mendoza, Nancy Ailine	MEX 2006 1329.8726858 70.4614284 5137632

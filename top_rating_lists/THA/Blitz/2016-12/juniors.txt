@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nunbhakdi, Tawin Matthew	THA 1998 M 1714.3919694 67.0664993 6203310
-2 Prasitsoonthorn, Teerachoti	THA 2003 M 1631.5856447 66.4048320 6204422
+1 Nunbhakdi, Tawin Matthew	THA 1998 M 1715.3248151 67.1539445 6203310
+2 Prasitsoonthorn, Teerachoti	THA 2003 M 1631.9640989 66.4161526 6204422

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al Hosani, Omran	UAE 2002 M 2057.3939701 74.8271287 9308733
+1 Al Hosani, Omran	UAE 2002 M 2058.4526470 74.8518629 9308733

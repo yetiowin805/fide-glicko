@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Gonzalez Gonzalez, Valentina Anto	CHI 2007 1588.7581788 70.1797902 3435156
-2 Carvajal Mendoza, Maria Belen	CHI 2010 1549.2525828 71.9878031 3334724
-3 Heise Hidalgo, Claudia Sofia	CHI 2011 1359.6331185 74.6097575 3440524
+1 Gonzalez Gonzalez, Valentina Anto	CHI 2007 1589.1326592 70.2041411 3435156
+2 Carvajal Mendoza, Maria Belen	CHI 2010 1549.3161547 71.9878630 3334724
+3 Heise Hidalgo, Claudia Sofia	CHI 2011 1359.5620323 74.6096553 3440524

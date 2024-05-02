@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Mayorga Araya, Sofia	CRC 2009 1653.8817443 74.6644203 6514065
-2 Salazar Delgado, Aylin Naomi	CRC 2008 1528.7939828 69.1309472 6524800
+1 Mayorga Araya, Sofia	CRC 2009 1653.9097690 74.6702260 6514065
+2 Salazar Delgado, Aylin Naomi	CRC 2008 1528.8045638 69.1314300 6524800

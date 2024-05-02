@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Aristotelous, Vassilis	CYP 1956 M 1931.4351695 70.8232007 5900468
+1 Antoniou, Antonis	CYP 1970 M 2150.3304755 74.5433163 5900123

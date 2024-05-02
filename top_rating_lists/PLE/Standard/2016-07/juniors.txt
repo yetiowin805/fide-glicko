@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Allam, Mohamed	PLE 2001 M 1732.2828604 70.6584125 11501731
+1 Allam, Mohamed	PLE 2001 M 1737.7119680 70.7765510 11501731

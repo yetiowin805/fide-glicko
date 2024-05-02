@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Urbina Quiroz, Edwin	CRC 1989 M 1913.2936547 73.1565336 6500650
+1 Urbina Quiroz, Edwin	CRC 1989 M 1913.2956877 73.1568297 6500650

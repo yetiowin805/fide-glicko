@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lu, Lillian	AUS 2003 F 1442.0061964 73.9572737 3219208
+1 Lu, Lillian	AUS 2003 F 1442.0075762 73.9572909 3219208

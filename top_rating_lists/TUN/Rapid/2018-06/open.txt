@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kachti, Anouar	TUN 1967 M 1761.4387276 64.0170398 5502870
+1 Kachti, Anouar	TUN 1967 M 1761.4388000 64.0170379 5502870

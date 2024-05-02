@@ -1,6 +1,6 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Vanegas Lopez, Natanael Emanuel	NCA 2006 M 1830.4791797 69.4688058 6108326
-2 Cantero Turcios, Randy Jose	NCA 2007 M 1631.9294943 70.7191152 6108792
-3 Treminio Umanzor, Leonel Alejandro	NCA 2010 M 1621.3132250 71.6398209 6112048
-4 Espinoza Guerrero, Felix Alberto	NCA 2009 M 1581.9119471 68.0629508 6104762
-5 Serrano Herrera, Daniela de Andrea	NCA 2007 F 1425.4780253 72.9534218 6107168
+1 Vanegas Lopez, Natanael Emanuel	NCA 2006 M 1830.7410343 69.4748791 6108326
+2 Cantero Turcios, Randy Jose	NCA 2007 M 1632.0853253 70.7247154 6108792
+3 Treminio Umanzor, Leonel Alejandro	NCA 2010 M 1621.4903916 71.6456770 6112048
+4 Espinoza Guerrero, Felix Alberto	NCA 2009 M 1581.9696242 68.0652224 6104762
+5 Serrano Herrera, Daniela de Andrea	NCA 2007 F 1425.5357944 72.9559102 6107168

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Christie, Joshua	JAM 2001 M 2049.1046621 73.1452927 7402074
+1 Christie, Joshua	JAM 2001 M 2049.5976537 73.1841839 7402074

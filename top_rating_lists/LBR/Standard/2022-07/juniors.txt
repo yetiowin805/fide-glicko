@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Wallace O. Williams	LBR 2004 M 1665.1532847 67.7265323 22601058
+1 Wallace O. Williams	LBR 2004 M 1667.8072664 67.8218213 22601058

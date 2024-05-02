@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Chavez, Ricardo Ernesto	ESA 1982 M 1966.4700048 73.4717348 6700098
+1 Chavez, Ricardo Ernesto	ESA 1982 M 1966.0588792 73.4948239 6700098

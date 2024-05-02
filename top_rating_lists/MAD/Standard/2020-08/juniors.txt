@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ralison, Milanto Harifidy	MAD 2001 M 2168.1338010 72.6289292 13100351
-2 Razanadrakotoarisoa, Toavina	MAD 2003 M 1896.9638119 67.9251082 13101439
-3 Rakotoarisoa Itokiana	MAD 2005 M 1581.2723381 68.8554992 13101870
+1 Ralison, Milanto Harifidy	MAD 2001 M 2177.8973695 72.7239822 13100351
+2 Razanadrakotoarisoa, Toavina	MAD 2003 M 1902.4945733 68.0023309 13101439
+3 Rakotoarisoa Itokiana	MAD 2005 M 1584.1004768 68.8759764 13101870

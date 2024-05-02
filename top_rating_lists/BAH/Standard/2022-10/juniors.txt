@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Albury, Noah	BAH 2005 M 1505.0591134 73.7728972 10401130
+1 Albury, Noah	BAH 2005 M 1507.9092399 73.7752217 10401130

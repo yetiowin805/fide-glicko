@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Valenzuela Gomez, Fernando	CHI 1991 M 2244.7946963 70.7884174 3409392
+1 Valenzuela Gomez, Fernando	CHI 1991 M 2245.1000829 70.7908347 3409392

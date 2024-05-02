@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Enkhtuul Altan-Ulzii	MGL 1994 F 1936.0546553 67.1270008 4901444
+1 Enkhtuul Altan-Ulzii	MGL 1994 F 1935.6688250 67.3445511 4901444

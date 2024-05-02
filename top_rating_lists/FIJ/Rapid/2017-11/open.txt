@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Terubea, Cydel	FIJ 1998 F 1662.0684594 73.2988491 11400455
+1 Terubea, Cydel	FIJ 1998 F 1662.0684636 73.2988493 11400455

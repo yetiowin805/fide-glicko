@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rivera, Alberto	FID 1957 M 2090.0939631 72.2416705 3500390
+1 Rivera, Alberto	FID 1957 M 2090.6064987 72.2506886 3500390

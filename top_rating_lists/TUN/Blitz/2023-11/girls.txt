@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Farhat, Assil	TUN 2008 1506.0801619 72.6039258 5526892
+1 Farhat, Assil	TUN 2008 1505.9912082 72.6013044 5526892

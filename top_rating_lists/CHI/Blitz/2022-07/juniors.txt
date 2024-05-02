@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Marrujo Pardo, Mauricio Emmanuel	CHI 2010 M 1989.2521525 60.8407562 3943755
-2 Aravena Navarro, Alexis Andres	CHI 2002 M 1951.6649851 71.7729538 3426483
-3 Munoz Ramos, Christopher	CHI 2011 M 1824.1518192 70.8829968 3439615
+1 Marrujo Pardo, Mauricio Emmanuel	CHI 2010 M 1989.1276369 60.9015751 3943755
+2 Aravena Navarro, Alexis Andres	CHI 2002 M 1951.8730677 71.7736891 3426483
+3 Munoz Ramos, Christopher	CHI 2011 M 1824.2057868 70.8852163 3439615

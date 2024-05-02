@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
 1 Diaz Rosas, Julio Cesar	MEX 1994 M 2018.3914761 70.7733711 5105099
-2 Garcia Morales, Ivette Ale	MEX 1994 F 1850.8063769 73.6518707 5105994
+2 Garcia Morales, Ivette Ale	MEX 1994 F 1850.8034276 73.6534553 5105994

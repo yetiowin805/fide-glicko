@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Agibileg, Uurtsaikh	MGL 2001 M 2133.8215727 66.6410949 4901606
-2 Nomin-Erdene, Davaademberel	MGL 2000 F 2102.3367569 74.0066188 4900782
+1 Agibileg, Uurtsaikh	MGL 2001 M 2134.9004513 66.6066637 4901606
+2 Nomin-Erdene, Davaademberel	MGL 2000 F 2103.2255847 74.0216715 4900782

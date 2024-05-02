@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 kareen,K.Jalaluldeen	IRQ 1993 1663.8918937 65.4790957 4801776
-2 Sonia, Taha Ali	IRQ 1991 1493.0023427 74.8017871 4804821
+1 kareen,K.Jalaluldeen	IRQ 1993 1671.6494223 65.6409977 4801776

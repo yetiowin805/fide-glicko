@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Strovsky, Mikhail	TOG 1986 M 1662.2369044 62.3298969 24111627
+1 Strovsky, Mikhail	TOG 1986 M 1674.9714535 62.4670745 24111627

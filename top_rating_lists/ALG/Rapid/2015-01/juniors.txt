@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ziani, Racym	ALG 2000 M 1628.0304120 74.5208391 7904967
+1 Ziani, Racym	ALG 2000 M 1628.0304169 74.5208392 7904967

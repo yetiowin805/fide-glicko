@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Vasquez Schroeder, Rodrigo	CHI 1969 M 2436.4144837 74.9379660 3400042
+1 Vasquez Schroeder, Rodrigo	CHI 1969 M 2437.6283895 74.8945987 3400042

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Gamboa Alvarado, Olga Leticia	CRC 1990 1793.2317378 64.5351011 6502270
-2 Salas Torres, Pamela	CRC 1998 1698.7282742 73.5684315 6505716
+1 Gamboa Alvarado, Olga Leticia	CRC 1990 1793.2316690 64.5351009 6502270
+2 Salas Torres, Pamela	CRC 1998 1698.7401989 73.5677305 6505716

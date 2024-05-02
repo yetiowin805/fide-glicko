@@ -1,0 +1,3 @@
+Rank Name Federation BirthYear Sex Rating RD
+1 Solomon, Kenny	RSA 0 M 2309.0325373 70.2876380 14300192
+2 Greef, Melissa	RSA 1994 M 1979.0444152 73.9159353 14301504

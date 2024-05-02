@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rizvi, Nasir	WLS 1977 M 1958.4122599 73.3820692 1800540
+1 Rizvi, Nasir	WLS 1977 M 1945.7206958 73.2076443 1800540

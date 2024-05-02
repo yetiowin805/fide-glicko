@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lesbros, Bernard	SEN 1948 M 1790.0214186 73.4745142 614831
-2 Marochkina, Nadezhda Valerevna	SEN 1990 F 1654.1994446 63.2300185 19900490
+1 Lesbros, Bernard	SEN 1948 M 1795.2620958 73.5983848 614831
+2 Marochkina, Nadezhda Valerevna	SEN 1990 F 1657.8698207 63.2705938 19900490

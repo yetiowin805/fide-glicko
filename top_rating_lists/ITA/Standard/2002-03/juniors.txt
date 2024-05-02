@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Costantini, Roberto	ITA 1983 M 2324.5450290 60.3688494 807621
+1 Costantini, Roberto	ITA 1983 M 2321.6807207 59.8909955 807621

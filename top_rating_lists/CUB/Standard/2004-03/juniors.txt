@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Guerra Mendez, Jose Angel	CUB 1988 M 2247.2688958 71.8791569 3508129
-2 Cespedes, Manuel	CUB 1986 M 2154.4436944 65.6414071 3506851
+1 Cespedes, Manuel	CUB 1986 M 2163.2409591 64.5556095 3506851

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Yildirim, Ada	TUR 2007 1549.1028866 72.7918700 44507780
+1 Yildirim, Ada	TUR 2007 1549.1065263 72.7918252 44507780

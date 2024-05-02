@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Zakaria Ali Absieh	DJI 1994 M 1687.3066059 70.4508005 32502885
+1 Zakaria Ali Absieh	DJI 1994 M 1692.1947512 70.5243654 32502885

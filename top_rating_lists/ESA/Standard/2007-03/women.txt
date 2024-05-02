@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Zepeda, Lorena	ESA 1984 2130.9517931 73.2220912 6700233
+1 Zepeda, Lorena	ESA 1984 2147.0341387 73.2085676 6700233

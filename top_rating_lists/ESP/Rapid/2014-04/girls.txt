@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Capote Robayna, Johanna	ESP 1997 1719.7446256 71.9638087 2276178
+1 Capote Robayna, Johanna	ESP 1997 1719.7446281 71.9638089 2276178
 2 Redondo Benavente, Ana	ESP 2001 1479.6880172 66.3719782 32021674

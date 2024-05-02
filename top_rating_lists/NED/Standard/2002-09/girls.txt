@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Bensdorp, Marlies	NED 1985 2136.6809956 66.4185496 1009311
+1 Bensdorp, Marlies	NED 1985 2134.6202377 66.0439491 1009311

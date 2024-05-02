@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Martins de Aguiar, Marina	BRA 1999 1731.2750992 74.4307336 2143321
-2 De Freitas, Isabella Ribeiro Conti	BRA 2003 1688.7408750 71.5876529 2173328
-3 Campagnolo, Fabiola	BRA 1999 1657.9180524 73.7750030 2160030
+1 Martins de Aguiar, Marina	BRA 1999 1731.6705966 74.4429321 2143321
+2 De Freitas, Isabella Ribeiro Conti	BRA 2003 1688.8461553 71.5921470 2173328
+3 Campagnolo, Fabiola	BRA 1999 1658.0762605 73.7834887 2160030

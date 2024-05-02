@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nanjo, Ryosuke	JPN 1988 M 2139.4221473 70.4648386 7000634
+1 Nanjo, Ryosuke	JPN 1988 M 2163.3281816 71.3411673 7000634

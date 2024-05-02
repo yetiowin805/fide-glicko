@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ozen, Bahadir	TUR 2000 M 2292.7690211 73.3909092 6337058
+1 Ozen, Bahadir	TUR 2000 M 2293.5882395 73.4300989 6337058

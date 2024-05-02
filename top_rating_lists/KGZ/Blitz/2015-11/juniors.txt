@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Isaev, Chyngyz	KGZ 1999 M 1817.4160425 73.6686606 13801660
+1 Isaev, Chyngyz	KGZ 1999 M 1817.5549585 73.6858489 13801660

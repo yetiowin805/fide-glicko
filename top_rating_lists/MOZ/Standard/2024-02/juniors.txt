@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Joao Farisse	MOZ 2004 M 1700.3269200 74.2306269 14800730
+1 Joao Farisse	MOZ 2004 M 1702.6706951 74.2798642 14800730

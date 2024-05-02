@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Cho, Seongho	KOR 1990 M 1663.8421905 52.8030920 13200550
+1 Cho, Seongho	KOR 1990 M 1664.6963750 52.8150735 13200550

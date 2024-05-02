@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Saveliy Yakolev	TAN 2005 M 1648.3456280 74.7068919 21601194
+1 Saveliy Yakolev	TAN 2005 M 1650.6245662 74.7855889 21601194

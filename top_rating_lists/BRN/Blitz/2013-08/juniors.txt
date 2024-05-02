@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lakshminaryanan, Ishwaryaa	BRN 1999 F 1578.4976911 71.4303608 11201410
+1 Lakshminaryanan, Ishwaryaa	BRN 1999 F 1578.4969665 71.4303299 11201410

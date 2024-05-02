@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Kurcsics, Erika	HUN 2000 1562.8540541 74.0321350 713848
+1 Kurcsics, Erika	HUN 2000 1562.8615125 74.0324947 713848

@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Miller Matute, Marlon Eduardo	HON 2001 M 1869.0409413 64.1040370 8400555
-2 Vasquez Miranda, Lenin Jesed	HON 2001 M 1594.2620538 74.3774772 8403040
-3 Ramos Donaire, Maria Pradi	HON 2002 F 1387.8136793 74.1584490 8402337
+1 Miller Matute, Marlon Eduardo	HON 2001 M 1876.6409005 64.2786136 8400555
+2 Vasquez Miranda, Lenin Jesed	HON 2001 M 1599.1852071 74.5177626 8403040
+3 Ramos Donaire, Maria Pradi	HON 2002 F 1391.7065167 74.2642311 8402337

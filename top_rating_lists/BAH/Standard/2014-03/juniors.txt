@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gali, Sandeep	BAH 1999 M 1480.4971310 68.2831147 10400311
+1 Gali, Sandeep	BAH 1999 M 1482.3009068 68.2959486 10400311

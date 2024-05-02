@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 El Arousy, Abdul Hameed	EGY 1963 M 2262.3340278 73.2234171 10600086
+1 El Arousy, Abdul Hameed	EGY 1963 M 2262.8785025 73.1900244 10600086

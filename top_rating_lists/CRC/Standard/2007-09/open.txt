@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ramirez, Alejandro	CRC 1988 M 2470.1339462 60.1642105 6500617
+1 Ramirez, Alejandro	CRC 1988 M 2485.6358670 59.6768932 6500617

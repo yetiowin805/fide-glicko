@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Yusof, Kamaluddin	MAS 1967 M 1774.5774467 72.2434889 5701171
+1 Yusof, Kamaluddin	MAS 1967 M 1774.5292628 72.2409478 5701171

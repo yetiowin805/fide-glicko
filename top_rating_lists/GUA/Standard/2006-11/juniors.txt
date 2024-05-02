@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Figueroa, Marco	GUA 1986 M 2137.6804310 65.2270358 7300409
+1 Figueroa, Marco	GUA 1986 M 2160.4333535 65.3020693 7300409

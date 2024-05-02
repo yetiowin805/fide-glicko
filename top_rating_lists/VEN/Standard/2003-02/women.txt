@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Sanchez Castillo, Sarai	VEN 1981 2190.8227184 64.0704352 3900754
+1 Sanchez Castillo, Sarai	VEN 1981 2190.5965699 63.6294645 3900754

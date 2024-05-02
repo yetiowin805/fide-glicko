@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Niemann, Hans Moke	USA 2003 M 2471.3785825 72.5151534 2093596
-2 Lebedenka, Alexander	USA 2012 M 1119.3287614 65.6970688 30965055
+1 Lebedenka, Alexander	USA 2012 M 1108.5675946 66.2489283 30965055

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ramirez, Jorge Guillermo	PAR 1999 M 1796.4877951 73.9546231 3705099
+1 Ramirez, Jorge Guillermo	PAR 1999 M 1797.4012383 74.0347025 3705099

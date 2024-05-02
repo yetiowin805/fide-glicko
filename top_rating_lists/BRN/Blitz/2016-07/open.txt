@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Shaker, Mosab	BRN 1986 M 1577.0734247 73.7253267 11201789
+1 Shaker, Mosab	BRN 1986 M 1577.5084573 73.7224559 11201789

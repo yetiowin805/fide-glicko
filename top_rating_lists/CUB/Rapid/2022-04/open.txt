@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Fonte Sanchez, Paula	CUB 1997 F 1787.0968402 63.0849892 3509729
+1 Fonte Sanchez, Paula	CUB 1997 F 1787.3404037 63.0932008 3509729

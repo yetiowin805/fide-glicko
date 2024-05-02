@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Zivkovic, Milenko	DEN 1962 M 1786.3362896 42.1710207 1418343
+1 Zivkovic, Milenko	DEN 1962 M 1787.5256415 42.2155764 1418343

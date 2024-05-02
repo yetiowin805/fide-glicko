@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Aronov, Yuri	RSA 1977 M 2160.4613090 69.5013598 14300176
+1 Aronov, Yuri	RSA 1977 M 2171.4503253 69.3201205 14300176

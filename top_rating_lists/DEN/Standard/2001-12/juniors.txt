@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Palo, Davor	DEN 1985 M 2354.2606912 60.5583767 1405853
+1 Palo, Davor	DEN 1985 M 2355.7981106 60.5239446 1405853

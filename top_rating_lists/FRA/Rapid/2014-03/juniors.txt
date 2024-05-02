@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bellaiche, Elise	FRA 1997 F 1908.2343353 71.5686301 696366
+1 Bellaiche, Elise	FRA 1997 F 1908.2340654 71.5686007 696366

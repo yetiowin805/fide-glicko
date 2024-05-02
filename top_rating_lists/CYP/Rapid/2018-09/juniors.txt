@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nabil, Michael	CYP 2003 M 1908.2866818 65.4533982 5902002
+1 Nabil, Michael	CYP 2003 M 1908.2929549 65.4528531 5902002

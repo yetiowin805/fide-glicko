@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Thapa, Krishna	NEP 1975 M 1903.0914452 74.5186603 12300217
+1 Thapa, Krishna	NEP 1975 M 1903.8981133 74.5620457 12300217

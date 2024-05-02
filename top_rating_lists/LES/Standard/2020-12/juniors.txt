@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Malillo, Phera	LES 2005 F 1491.3028128 73.5540865 21300763
+1 Malillo, Phera	LES 2005 F 1493.4906086 73.5648004 21300763

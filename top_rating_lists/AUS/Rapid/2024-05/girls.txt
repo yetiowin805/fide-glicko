@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Williams, Elizabeth	AUS 2012 1498.0948491 72.2788955 3240754
+1 Williams, Elizabeth	AUS 2012 1498.1302167 72.2801314 3240754

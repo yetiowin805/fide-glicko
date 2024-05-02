@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kulik, Nicolas	URU 2007 M 1475.1469321 73.8311388 3009530
+1 Kulik, Nicolas	URU 2007 M 1475.0986439 73.8313257 3009530

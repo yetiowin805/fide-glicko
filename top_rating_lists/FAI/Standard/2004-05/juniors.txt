@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Poulsen, Martin	FAI 1984 M 2265.6681901 39.9730450 7200315
+1 Poulsen, Martin	FAI 1984 M 2273.5889592 39.6326536 7200315

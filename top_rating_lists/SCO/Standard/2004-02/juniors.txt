@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Redpath, Joseph	SCO 1985 M 2199.4916103 60.3783153 2401380
+1 Redpath, Joseph	SCO 1985 M 2211.5785840 60.2698378 2401380

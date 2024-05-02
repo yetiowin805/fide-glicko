@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Estrada Gaspar, Nelly Massiel	MEX 1987 1980.7300375 66.0988337 5106320
+1 Estrada Gaspar, Nelly Massiel	MEX 1987 2004.9298719 61.9495884 5106320
+2 Carreras Mendiolea, Paulina Adri	MEX 1989 1950.2489063 65.3092405 5105420

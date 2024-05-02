@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Phuyal, Aashish	NEP 1997 M 1840.7351284 74.9459832 12312649
+1 Phuyal, Aashish	NEP 1997 M 1840.7423099 74.9462787 12312649

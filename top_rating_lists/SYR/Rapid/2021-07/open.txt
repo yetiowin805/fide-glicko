@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Alawash, Firass	SYR 1980 M 1735.4469460 73.0390958 7605838
+1 Alawash, Firass	SYR 1980 M 1735.6429026 73.0468953 7605838

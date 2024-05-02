@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Preotu, Razvan	CAN 1999 M 2245.6841757 67.2154418 2613280
+1 Preotu, Razvan	CAN 1999 M 2246.7755379 67.2649240 2613280

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Bayasgalan, Khishigbaatar	MGL 2007 1951.9775654 68.3985423 4904311
-2 Margadgua Erdenebayar	MGL 2005 1772.7342158 69.9449046 4904052
+1 Bayasgalan, Khishigbaatar	MGL 2007 1951.3893347 68.4470690 4904311
+2 Margadgua Erdenebayar	MGL 2005 1773.3809166 69.9679749 4904052

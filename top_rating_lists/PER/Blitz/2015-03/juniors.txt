@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Escalante Ramirez, Brian Sebasti	PER 1999 M 2047.9718610 69.3805694 3819566
+1 Escalante Ramirez, Brian Sebasti	PER 1999 M 2047.9741402 69.3805248 3819566

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Alhejab, Meshal	KUW 2007 M 1588.5328763 62.2637175 10302603
+1 Alhejab, Meshal	KUW 2007 M 1588.5728400 62.2665745 10302603

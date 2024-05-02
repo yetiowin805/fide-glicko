@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Karimov, Alisher	TJK 1997 M 2038.8075683 46.6859706 14700280
+1 Karimov, Alisher	TJK 1997 M 2040.0582273 46.7019998 14700280

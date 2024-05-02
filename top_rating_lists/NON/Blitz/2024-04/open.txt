@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gareyev, Timur	NON 1988 M 2389.4331710 54.9651975 14200937
+1 Gareyev, Timur	NON 1988 M 2391.4521215 54.9444486 14200937

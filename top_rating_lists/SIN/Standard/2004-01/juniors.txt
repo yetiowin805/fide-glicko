@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Leong, Luke	SIN 1986 M 2214.1126061 58.4174100 5800820
+1 Leong, Luke	SIN 1986 M 2252.6242641 55.4712603 5800820

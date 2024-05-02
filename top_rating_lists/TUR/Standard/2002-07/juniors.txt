@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Laciner, Kerem	TUR 1982 M 2210.8703484 54.0662262 6301550
+1 Laciner, Kerem	TUR 1982 M 2210.8707306 54.3758926 6301550

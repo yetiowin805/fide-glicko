@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Panelo, Marcelo	ARG 1973 M 2365.7136397 70.4112596 104213
-2 Lazarte Anello, David Emiliano	ARG 1988 M 1822.4349041 71.4287237 140775
+1 Panelo, Marcelo	ARG 1973 M 2365.7253715 70.4100178 104213
+2 Lazarte Anello, David Emiliano	ARG 1988 M 1822.5560122 71.4331616 140775

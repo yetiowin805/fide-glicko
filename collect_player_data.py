@@ -15,9 +15,10 @@ from countries import countries
 fide_ratings = {}
 glicko_ratings = {}
 
+
 def write_fide_data(
     source_file, destination_file, time_control, month, year, end_month, end_year
-):  
+):
     players = []
 
     # Read the source file
@@ -46,7 +47,9 @@ def write_fide_data(
         # Extract the month and year from the datetime object
         tournament_month = date_object.month
         tournament_year = date_object.year
-        if tournament_year > end_year or (tournament_year == end_year and tournament_month > end_month):
+        if tournament_year > end_year or (
+            tournament_year == end_year and tournament_month > end_month
+        ):
             return
 
         file_time_control = f.readline().split(":")[1].strip()
@@ -60,10 +63,16 @@ def write_fide_data(
             interval = 3 if year <= 2008 or (year == 2009 and month < 7) else 2
             if month % interval == 2:
                 return
-            
-            past_date = tournament_year < year or (tournament_year == year and tournament_month < month)
-            future_date = tournament_year > year or (tournament_year == year and tournament_month > month)
-            if (month % interval == 1 and not past_date) or (month % interval == 0 and not future_date):
+
+            past_date = tournament_year < year or (
+                tournament_year == year and tournament_month < month
+            )
+            future_date = tournament_year > year or (
+                tournament_year == year and tournament_month > month
+            )
+            if (month % interval == 1 and not past_date) or (
+                month % interval == 0 and not future_date
+            ):
                 return
         if "No Crosstable" in first_line:
             # TODO:
@@ -77,7 +86,7 @@ def write_fide_data(
             if fide_ratings.get(f"{year}-{month}") is None:
                 # TODO: get fide ratings from file
                 player_info_path = f"./player_info/processed/{year:04d}-{month:02d}.txt"
-            
+
                 temp_month, temp_year = month, year
                 while not os.path.exists(player_info_path):
                     # If the player_info file for the current month doesn't exist, move to the previous month
@@ -86,19 +95,31 @@ def write_fide_data(
                         temp_month = 12
                     else:
                         temp_month -= 1
-                    player_info_path = f"./player_info/processed/{temp_year:04d}-{temp_month:02d}.txt"
-                with open(player_info_path, 'r', encoding='utf-8', errors='replace') as f2:
+                    player_info_path = (
+                        f"./player_info/processed/{temp_year:04d}-{temp_month:02d}.txt"
+                    )
+                with open(
+                    player_info_path, "r", encoding="utf-8", errors="replace"
+                ) as f2:
                     temp_players = {}
                     for line in f2:
                         temp_player = eval(line.strip())
                         temp_players[temp_player["id"]] = temp_player
                 fide_ratings[f"{year}-{month}"] = temp_players
             if glicko_ratings.get(f"{year}-{month}") is None:
-                with open(f"./rating_lists/{time_control}/{year:04d}-{month:02d}.txt") as f2:
+                with open(
+                    f"./rating_lists/{time_control}/{year:04d}-{month:02d}.txt"
+                ) as f2:
                     temp_players = {}
                     for line in f2:
                         components = line.split()
-                        temp_player = dict(zip(["id","rating","rd","volatility"],[int(components[0])]+[float(x) for x in components[1:]]))
+                        temp_player = dict(
+                            zip(
+                                ["id", "rating", "rd", "volatility"],
+                                [int(components[0])]
+                                + [float(x) for x in components[1:]],
+                            )
+                        )
                         temp_players[temp_player["id"]] = temp_player
                 glicko_ratings[f"{year}-{month}"] = temp_players
             raw_players = []
@@ -108,39 +129,72 @@ def write_fide_data(
                 player = eval(line.strip())
                 raw_players.append(player)
                 fide_ids.append(player["fide_id"])
-            
-            tournament_fide_ratings = [int(fide_ratings[f"{year}-{month}"].get(fide_id)["rating"]) for fide_id in fide_ids
-                                        if fide_ratings[f"{year}-{month}"].get(fide_id) is not None]
-            tournament_glicko_ratings = [glicko_ratings[f"{year}-{month}"].get(int(fide_id), {"rating":1500})["rating"] for fide_id in fide_ids
-                                        if fide_ratings[f"{year}-{month}"].get(fide_id) is not None]
-            tournament_rds = [glicko_ratings[f"{year}-{month}"].get(int(fide_id), {"rd":350})["rd"] for fide_id in fide_ids
-                                        if fide_ratings[f"{year}-{month}"].get(fide_id) is not None]
+
+            tournament_fide_ratings = [
+                int(fide_ratings[f"{year}-{month}"].get(fide_id)["rating"])
+                for fide_id in fide_ids
+                if fide_ratings[f"{year}-{month}"].get(fide_id) is not None
+            ]
+            tournament_glicko_ratings = [
+                glicko_ratings[f"{year}-{month}"].get(int(fide_id), {"rating": 1500})[
+                    "rating"
+                ]
+                for fide_id in fide_ids
+                if fide_ratings[f"{year}-{month}"].get(fide_id) is not None
+            ]
+            tournament_rds = [
+                glicko_ratings[f"{year}-{month}"].get(int(fide_id), {"rd": 350})["rd"]
+                for fide_id in fide_ids
+                if fide_ratings[f"{year}-{month}"].get(fide_id) is not None
+            ]
+            # tournament_fide_ratings = [
+            #     int(fide_ratings[f"{year}-{month}"].get(fide_id)["rating"])
+            #     if fide_ratings[f"{year}-{month}"].get(fide_id) is not None
+            #     else 1500
+            #     for fide_id in fide_ids
+            # ]
+            # tournament_glicko_ratings = [
+            #     glicko_ratings[f"{year}-{month}"].get(int(fide_id), {"rating": 1500})[
+            #         "rating"
+            #     ]
+            #     if fide_ratings[f"{year}-{month}"].get(fide_id) is not None
+            #     else 1500
+            #     for fide_id in fide_ids
+            # ]
+            # tournament_rds = [
+            #     glicko_ratings[f"{year}-{month}"].get(int(fide_id), {"rd": 350})["rd"]
+            #     if fide_ratings[f"{year}-{month}"].get(fide_id) is not None
+            #     else 350
+            #     for fide_id in fide_ids
+            # ]
             if tournament_fide_ratings:
                 m, b = np.polyfit(tournament_fide_ratings, tournament_glicko_ratings, 1)
-                average_rd = sum(tournament_rds)/len(tournament_rds)
+                average_rd = sum(tournament_rds) / len(tournament_rds)
             else:
                 m, b = 0, 1500
                 average_rd = 350
 
             with open(destination_file, "a") as f2:
                 for player in raw_players:
-                    average_glicko = m*float(player["RC"])+b
-                    average_score = float(player["score"])/float(player["N"])
+                    average_glicko = m * float(player["RC"]) + b
+                    average_score = float(player["score"]) / float(player["N"])
                     f2.write(f"{player['fide_id']} {player['N']}\n")
                     for _ in range(int(player["N"])):
                         f2.write(f"{average_glicko} {average_rd} {average_score}\n")
-                
+
         else:
             for line in f:
                 player = eval(line.strip())
                 players.append(player)
 
-            fide_id_to_player = {player["number"]: player["fide_id"] for player in players}
+            fide_id_to_player = {
+                player["number"]: player["fide_id"] for player in players
+            }
 
             # Append to the destination file
             with open(destination_file, "a") as f2:
                 for player in players:
-                    if not player['opponents']:
+                    if not player["opponents"]:
                         continue
                     f2.write(f"{player['fide_id']} {len(player['opponents'])}\n")
 
@@ -149,7 +203,9 @@ def write_fide_data(
                             raise ValueError(
                                 f"No result found for opponent {opponent['name']} of player {player['name']}"
                             )
-                        f2.write(f"{fide_id_to_player[opponent['id']]} {opponent['result']}\n")
+                        f2.write(
+                            f"{fide_id_to_player[opponent['id']]} {opponent['result']}\n"
+                        )
 
 
 def write_fide_data_helper(args):
@@ -158,15 +214,25 @@ def write_fide_data_helper(args):
 
 if __name__ == "__main__":
     # Set up argument parser
-    parser = argparse.ArgumentParser(description='Download FIDE player information.')
-    parser.add_argument('--start_month', type=str, help='Start month for the download in YYYY-MM format', required=True)
-    parser.add_argument('--end_month', type=str, help='End month for the download in YYYY-MM format', required=True)
+    parser = argparse.ArgumentParser(description="Download FIDE player information.")
+    parser.add_argument(
+        "--start_month",
+        type=str,
+        help="Start month for the download in YYYY-MM format",
+        required=True,
+    )
+    parser.add_argument(
+        "--end_month",
+        type=str,
+        help="End month for the download in YYYY-MM format",
+        required=True,
+    )
     # Parse arguments
     args = parser.parse_args()
 
     # Parse start and end month/year
-    start_year, start_month = map(int, args.start_month.split('-'))
-    end_year, end_month = map(int, args.end_month.split('-'))
+    start_year, start_month = map(int, args.start_month.split("-"))
+    end_year, end_month = map(int, args.end_month.split("-"))
     tasks = []
 
     # Calculate total iterations considering the range of dates and time controls
@@ -175,14 +241,21 @@ if __name__ == "__main__":
     progress_bar = tqdm(total=total_iterations, desc="Generating tasks")
 
     for year, month, time_control in itertools.product(
-        range(start_year, end_year+1), range(1, 13), ["Standard", "Rapid", "Blitz"]
+        range(start_year, end_year + 1), range(1, 13), ["Standard", "Rapid", "Blitz"]
     ):
-        if (year == start_year and month < start_month) or (year == end_year and month > end_month):
+        if (year == start_year and month < start_month) or (
+            year == end_year and month > end_month
+        ):
             progress_bar.update(1)
             continue
 
         # Set data_month based on the given conditions
-        if year <= 2008 or (year == 2009 and month < 7) or (year == 2012 and month < 7) or year < 2012:
+        if (
+            year <= 2008
+            or (year == 2009 and month < 7)
+            or (year == 2012 and month < 7)
+            or year < 2012
+        ):
             interval = 3 if year <= 2008 or (year == 2009 and month < 7) else 2
             data_month = (12 + ((month - 1) // interval + 1) * interval) % 12 + 1
         else:
@@ -216,7 +289,9 @@ if __name__ == "__main__":
 
         for country in countries:
             # Define the directory for the processed data
-            directory_path = os.path.join("raw_tournament_data", country, data_formatted_str, "processed")
+            directory_path = os.path.join(
+                "raw_tournament_data", country, data_formatted_str, "processed"
+            )
             # Check if the directory exists
             if os.path.exists(directory_path):
                 # Iterate through all files in the directory
@@ -240,9 +315,23 @@ if __name__ == "__main__":
     progress_bar.close()
 
     # Using tqdm to display a progress bar
-    for source_path, destination_path, time_control, month, year, end_month, end_year in tqdm(
-        tasks, desc="Processing files"
-    ):
+    for (
+        source_path,
+        destination_path,
+        time_control,
+        month,
+        year,
+        end_month,
+        end_year,
+    ) in tqdm(tasks, desc="Processing files"):
         write_fide_data_helper(
-            (source_path, destination_path, time_control, month, year, end_month, end_year)
+            (
+                source_path,
+                destination_path,
+                time_control,
+                month,
+                year,
+                end_month,
+                end_year,
+            )
         )

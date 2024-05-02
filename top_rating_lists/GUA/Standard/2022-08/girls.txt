@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Juarez Garcia, Daniela	GUA 2006 1561.7053446 59.5922977 7302703
-2 Santiago Sontay, Jenny Fernanda	GUA 2002 1560.3360098 74.9688631 7303084
+1 Juarez Garcia, Daniela	GUA 2006 1565.7374179 59.6267308 7302703

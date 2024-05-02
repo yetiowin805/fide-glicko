@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Espinoza Solano, Jose Nahum	NCA 2003 M 1969.1245811 72.4964676 6104428
+1 Espinoza Solano, Jose Nahum	NCA 2003 M 1969.1247003 72.4964714 6104428

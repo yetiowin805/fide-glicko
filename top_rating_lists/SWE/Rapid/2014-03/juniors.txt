@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Westerberg, Jonathan	SWE 1994 M 2201.3008064 58.8660791 1701754
+1 Westerberg, Jonathan	SWE 1994 M 2201.4094756 58.8603873 1701754

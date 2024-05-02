@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mencos Castillo, Maria	GUA 1996 F 1676.8305469 67.0448379 7300867
-2 Figueroa Gonzalez, Karen Luvia	GUA 1998 M 1609.5851349 72.3969543 7301383
+1 Mencos Castillo, Maria	GUA 1996 F 1687.2951218 67.1978813 7300867
+2 Figueroa Gonzalez, Karen Luvia	GUA 1998 M 1619.8035228 72.6721465 7301383

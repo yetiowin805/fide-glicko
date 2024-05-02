@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Abigail Karyah	LBR 2008 F 1594.7688147 74.5031649 22601147
+1 Abigail Karyah	LBR 2008 F 1597.0257779 74.5741796 22601147

@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Hernandez Bermudez, Manuela	COL 2004 1635.7441430 62.4890964 4483103
-2 Perez Valcarcel, Maria Jose	COL 2003 1533.6726937 73.5258319 4417178
-3 Rativa Jimenez, Laura Milena	COL 2001 1527.3863750 66.9909217 4437357
+1 Hernandez Bermudez, Manuela	COL 2004 1635.9913680 62.4903958 4483103
+2 Perez Valcarcel, Maria Jose	COL 2003 1533.9128959 73.5284206 4417178
+3 Rativa Jimenez, Laura Milena	COL 2001 1527.6225267 66.9928023 4437357

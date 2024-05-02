@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Annaberdiev, Meilis	TKM 1985 M 2381.1578855 53.8128572 14000563
+1 Annaberdiev, Meilis	TKM 1985 M 2367.3694369 53.3094559 14000563

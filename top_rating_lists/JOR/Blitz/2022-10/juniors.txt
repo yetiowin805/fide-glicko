@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Fares Qanair	JOR 2010 M 1501.7641880 39.4012849 8119481
+1 Fares Qanair	JOR 2010 M 1501.9894606 39.4028591 8119481

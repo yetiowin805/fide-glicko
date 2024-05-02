@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mueller, Leonhard	NAM 1967 M 2183.8708306 67.7644248 15200019
+1 Mueller, Leonhard	NAM 1967 M 2192.4403718 67.5197308 15200019

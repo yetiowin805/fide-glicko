@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gontcharov, Dimitri	BER 2007 M 1553.9156127 73.2874366 8800979
+1 Gontcharov, Dimitri	BER 2007 M 1554.5925626 73.2570122 8800979

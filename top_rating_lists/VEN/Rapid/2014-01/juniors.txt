@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mendoza Aguilar, Gustavo Andres	VEN 1995 M 1936.5242963 65.9073650 3902587
+1 Mendoza Aguilar, Gustavo Andres	VEN 1995 M 1936.1045387 65.9989893 3902587
 2 Gutierrez Anaya, Yeison Joel	VEN 1997 M 1906.9683516 70.1404992 3903273
 3 Perez Sanchez, Ricardo Jose	VEN 1996 M 1897.1303351 54.1243450 3903923
 4 Aponte, Oriana Isabel	VEN 1997 F 1815.3798140 70.2991351 3902439

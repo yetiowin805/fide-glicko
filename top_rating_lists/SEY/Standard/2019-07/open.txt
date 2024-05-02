@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Figaro, Dericka	SEY 1994 F 1572.1698397 72.2950815 9800034
+1 Figaro, Dericka	SEY 1994 F 1575.5352168 72.3094864 9800034

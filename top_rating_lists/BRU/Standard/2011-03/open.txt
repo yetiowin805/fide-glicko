@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Yee, Soon Wei	BRU 0 M 2145.0046938 62.5006941 10500553
+1 Yee, Soon Wei	BRU 0 M 2166.0113727 62.9678394 10500553

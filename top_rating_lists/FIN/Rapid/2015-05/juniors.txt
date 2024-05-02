@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nazarova, Anastasia	FIN 2001 F 1701.5540087 66.9324979 34101737
+1 Nazarova, Anastasia	FIN 2001 F 1701.4240640 66.9388943 34101737

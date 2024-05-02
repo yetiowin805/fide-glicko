@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Sharhorodsky, Yaroslav	WLS 2010 M 1560.1258369 74.9006624 34163913
+1 Sharhorodsky, Yaroslav	WLS 2010 M 1560.1560423 74.9063568 34163913

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Smith, Javanna	TTO 1997 F 1482.1793092 72.5076348 7700466
+1 Smith, Javanna	TTO 1997 F 1481.9745981 72.5255669 7700466

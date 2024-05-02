@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Escalona Landi, Samid Eduardo	VEN 2002 M 2035.6173251 72.6718411 3937437
-2 Jaramillo Lopez, Ali Aaron	VEN 2006 M 1825.3341614 71.9440104 3943275
+1 Escalona Landi, Samid Eduardo	VEN 2002 M 2036.1113650 72.6787555 3937437
+2 Jaramillo Lopez, Ali Aaron	VEN 2006 M 1825.4831630 71.9523373 3943275

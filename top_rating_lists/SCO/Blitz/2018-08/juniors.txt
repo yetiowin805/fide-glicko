@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Koehn, Lennart	SCO 1999 M 2048.0569629 73.7859274 12938041
+1 Koehn, Lennart	SCO 1999 M 2048.1511895 73.7918895 12938041

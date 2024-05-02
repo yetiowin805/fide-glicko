@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bai, Adelard	TPE 2007 M 2186.2961224 55.4375998 16301188
+1 Bai, Adelard	TPE 2007 M 2198.0082871 55.4749747 16301188

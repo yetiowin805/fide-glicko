@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Raharimanana, Faratiana	MAD 1991 1599.5431394 73.5669213 13100378
-2 Andriatsiferana, Irina	MAD 2000 1518.6417247 69.3894511 13100220
+1 Raharimanana, Faratiana	MAD 1991 1602.5331038 73.7065445 13100378
+2 Andriatsiferana, Irina	MAD 2000 1521.9231901 69.5244952 13100220

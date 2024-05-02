@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 MacNeil, Elliott	WLS 1998 M 1598.3826844 74.8461507 1803530
+1 MacNeil, Elliott	WLS 1998 M 1598.7207697 74.8830083 1803530

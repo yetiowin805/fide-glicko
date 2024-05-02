@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Montalvo, Alejandro	PUR 0 M 2206.1649074 67.1942956 3100260
+1 Montalvo, Alejandro	PUR 0 M 2231.4898419 66.0423878 3100260

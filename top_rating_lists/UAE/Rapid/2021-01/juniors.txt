@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hamad Essam	UAE 2004 M 1851.1755916 74.9283605 9313397
-2 Rashid Husain Alhammadi	UAE 2012 M 1478.7988371 73.8542436 9321020
+1 Rashid Husain Alhammadi	UAE 2012 M 1478.8477397 73.8630193 9321020

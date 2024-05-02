@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Burdot, Louis	LUX 2006 M 1623.4056600 74.4492034 4004760
+1 Burdot, Louis	LUX 2006 M 1631.0613843 74.5227668 4004760

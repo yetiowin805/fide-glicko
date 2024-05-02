@@ -1,7 +1,7 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Razanadrakotoarisoa, Toavina	MAD 2003 M 2000.9949311 67.5540472 13101439
-2 Nomenjanahary, Fanilo	MAD 2006 M 1706.0019285 60.7803696 13104101
-3 Rajoarimanana, Fanahy Fortunat	MAD 2003 M 1691.6422594 63.5890639 13104365
-4 Tsinjoviniavo, Aina Mahasambatra	MAD 2012 F 1559.8066545 70.8578401 13105450
-5 Andriajafisoa, Fitia Antoninhio	MAD 2008 M 1550.3199340 73.9996189 13104578
-6 Rabarison, Ny Andolalaina Fitia Noah	MAD 2011 M 1508.0694201 71.1460409 13105205
+1 Razanadrakotoarisoa, Toavina	MAD 2003 M 2006.7538417 67.6759962 13101439
+2 Nomenjanahary, Fanilo	MAD 2006 M 1709.5998335 60.8350276 13104101
+3 Rajoarimanana, Fanahy Fortunat	MAD 2003 M 1694.5270201 63.6345699 13104365
+4 Tsinjoviniavo, Aina Mahasambatra	MAD 2012 F 1561.3242768 70.8808709 13105450
+5 Andriajafisoa, Fitia Antoninhio	MAD 2008 M 1554.3397988 74.1053510 13104578
+6 Rabarison, Ny Andolalaina Fitia Noah	MAD 2011 M 1511.6862817 71.2213126 13105205

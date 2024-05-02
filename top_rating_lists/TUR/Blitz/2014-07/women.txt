@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Erece, Ece Alkim	TUR 2001 1649.3092823 61.0830624 6346006
+1 Erece, Ece Alkim	TUR 2001 1649.3093769 61.0830665 6346006

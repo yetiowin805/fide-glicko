@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
 1 Hegarty, Sarah N	ENG 1988 2005.3374158 68.3689450 2501465
-2 Kalaiyalahan, Akshaya	ENG 2001 1552.1501874 72.1047250 422894
+2 Kalaiyalahan, Akshaya	ENG 2001 1544.1348379 74.7351593 422894

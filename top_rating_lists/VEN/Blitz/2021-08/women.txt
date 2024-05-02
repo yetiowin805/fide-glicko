@@ -1,10 +1,10 @@
 Rank Name Federation BirthYear Rating RD
-1 Pena Gonzalez, Clara Isabel	VEN 2004 1531.2904156 63.0755468 3924203
-2 Guadalajara Barrios, Jacksilany	VEN 2006 1472.9976471 69.1447235 3931242
-3 Araujo Briceno, Gilary Ahilyn	VEN 2007 1399.8595032 70.2954075 3935841
-4 Hernandez Mora, Nohelia Virginia	VEN 2005 1373.1848560 58.1269379 3915344
-5 Marin Murguey, Valentina Jatniel	VEN 2005 1283.5599435 70.9179818 3955478
-6 Quijada Delgado, Eliana Paola	VEN 2005 1251.0994988 74.0845662 3955494
-7 Cabeza Marquez, Mariangel Alejandra	VEN 2007 1195.5906275 74.8007491 3934527
-8 Larez Grinstein, Katherine Sofia	VEN 2007 1136.6041856 72.3928220 3965295
-9 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1128.1708665 64.4141034 3964051
+1 Pena Gonzalez, Clara Isabel	VEN 2004 1531.5405685 63.0813624 3924203
+2 Guadalajara Barrios, Jacksilany	VEN 2006 1473.1542576 69.1466523 3931242
+3 Araujo Briceno, Gilary Ahilyn	VEN 2007 1400.0021675 70.2971927 3935841
+4 Hernandez Mora, Nohelia Virginia	VEN 2005 1372.9184298 58.1464646 3915344
+5 Marin Murguey, Valentina Jatniel	VEN 2005 1282.9396839 70.9592501 3955478
+6 Quijada Delgado, Eliana Paola	VEN 2005 1250.6525991 74.1060396 3955494
+7 Cabeza Marquez, Mariangel Alejandra	VEN 2007 1195.3144347 74.8099855 3934527
+8 Larez Grinstein, Katherine Sofia	VEN 2007 1135.5844170 72.4808721 3965295
+9 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1127.3182391 64.4471882 3964051

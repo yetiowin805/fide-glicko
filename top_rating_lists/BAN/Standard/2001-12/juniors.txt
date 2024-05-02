@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hossain, Enamul	BAN 1981 M 2430.1581083 47.8024689 10200649
+1 Hossain, Enamul	BAN 1981 M 2431.8339531 47.7760014 10200649

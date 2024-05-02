@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nguyen, Thien Ngan	VIE 2005 F 1817.0386420 70.8047993 12414816
+1 Nguyen, Thien Ngan	VIE 2005 F 1817.1931485 70.8081708 12414816

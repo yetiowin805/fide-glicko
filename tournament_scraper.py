@@ -8,20 +8,23 @@ from countries import countries
 
 # Third command in pipeline
 
+
 def scrape_tournament_data(country, month, year):
     # Pad the month with a leading zero if it's less than 10
     month_str = f"{month:02d}"
     # Create the formatted string
     formatted_str = f"{year}-{month_str}"
     # Create the path
-    path = os.path.join("raw_tournament_data", country, formatted_str, "tournaments.txt")
+    path = os.path.join(
+        "raw_tournament_data", country, formatted_str, "tournaments.txt"
+    )
 
     # Check if the file exists
     if os.path.isfile(path):
         print(path)
-        with open(path, 'r') as f:
+        with open(path, "r") as f:
             lines = f.readlines()
-        
+
         # Define base URL
         base_url = "https://ratings.fide.com/"
 
@@ -31,8 +34,8 @@ def scrape_tournament_data(country, month, year):
             code = line[:-1]
 
             # Create the file path for the new file
-            new_path = os.path.join(os.path.dirname(path), 'info', f'{code}.txt')
-            
+            new_path = os.path.join(os.path.dirname(path), "info", f"{code}.txt")
+
             # Check if the new file path exists and is not empty
             if os.path.exists(new_path) and os.path.getsize(new_path) > 0:
                 # File exists and is not empty, skip this iteration
@@ -40,19 +43,19 @@ def scrape_tournament_data(country, month, year):
 
             # If the file doesn't exist or is empty, fetch data from the URL
             # Form the complete URL
-            url = base_url + 'tournament_details.phtml?event=' + code
+            url = base_url + "tournament_details.phtml?event=" + code
 
             # Make the HTTP request
             response = requests.get(url)
 
             # Parse the HTML content
-            soup = BeautifulSoup(response.text, 'html.parser')
+            soup = BeautifulSoup(response.text, "html.parser")
 
             # Make sure the directory exists
             os.makedirs(os.path.dirname(new_path), exist_ok=True)
-            
+
             # Write the contents of 'soup' into the file
-            with open(new_path, 'w', encoding='utf-8') as f:
+            with open(new_path, "w", encoding="utf-8") as f:
                 f.write(str(soup))
 
         # Loop through each line in the file
@@ -61,8 +64,8 @@ def scrape_tournament_data(country, month, year):
             code = line[:-1]
 
             # Create the file path for the new file
-            new_path = os.path.join(os.path.dirname(path), 'crosstables', f'{code}.txt')
-            
+            new_path = os.path.join(os.path.dirname(path), "crosstables", f"{code}.txt")
+
             # Check if the new file path exists and is not empty
             if os.path.exists(new_path) and os.path.getsize(new_path) > 0:
                 # File exists and is not empty, skip this iteration
@@ -70,19 +73,19 @@ def scrape_tournament_data(country, month, year):
 
             # If the file doesn't exist or is empty, fetch data from the URL
             # Form the complete URL
-            url = base_url + 'view_source.phtml?code=' + code
+            url = base_url + "view_source.phtml?code=" + code
 
             # Make the HTTP request
             response = requests.get(url)
 
             # Parse the HTML content
-            soup = BeautifulSoup(response.text, 'html.parser')
+            soup = BeautifulSoup(response.text, "html.parser")
 
             # Make sure the directory exists
             os.makedirs(os.path.dirname(new_path), exist_ok=True)
-            
+
             # Write the contents of 'soup' into the file
-            with open(new_path, 'w', encoding='utf-8') as f:
+            with open(new_path, "w", encoding="utf-8") as f:
                 f.write(str(soup))
 
         # Loop through each line in the file
@@ -90,18 +93,21 @@ def scrape_tournament_data(country, month, year):
             # Extract the code from the line
             code = line[:-1]
 
-            new_path = os.path.join(os.path.dirname(path),"crosstables", f"{code}.txt")
-            with open(new_path, encoding='utf-8') as fp:
+            new_path = os.path.join(os.path.dirname(path), "crosstables", f"{code}.txt")
+            with open(new_path, encoding="utf-8") as fp:
                 try:
-                    soup = BeautifulSoup(fp, 'lxml')
+                    soup = BeautifulSoup(fp, "lxml")
                 except Exception as x:
                     logging.error(f"Unexpected result at path: {path}")
                     raise x
-                if not soup.find(string=lambda string: "Tournament report was updated or replaced, please view Tournament Details for more information." in string):
+                if not soup.find(
+                    string=lambda string: "Tournament report was updated or replaced, please view Tournament Details for more information."
+                    in string
+                ):
                     continue
             # Create the file path for the new file
-            new_path = os.path.join(os.path.dirname(path), 'report', f"{code}.txt")
-            
+            new_path = os.path.join(os.path.dirname(path), "report", f"{code}.txt")
+
             # Check if the new file path exists and is not empty
             if os.path.exists(new_path) and os.path.getsize(new_path) > 0:
                 # File exists and is not empty, skip this iteration
@@ -109,20 +115,21 @@ def scrape_tournament_data(country, month, year):
 
             # If the file doesn't exist or is empty, fetch data from the URL
             # Form the complete URL
-            url = base_url + 'tournament_report.phtml?event16=' + code
+            url = base_url + "tournament_report.phtml?event16=" + code
 
             # Make the HTTP request
             response = requests.get(url)
 
             # Parse the HTML content
-            soup = BeautifulSoup(response.text, 'html.parser')
+            soup = BeautifulSoup(response.text, "html.parser")
 
             # Make sure the directory exists
             os.makedirs(os.path.dirname(new_path), exist_ok=True)
-            
+
             # Write the contents of 'soup' into the file
-            with open(new_path, 'w', encoding='utf-8') as f:
+            with open(new_path, "w", encoding="utf-8") as f:
                 f.write(str(soup))
+
 
 def scrape_country_month_year(args):
     return scrape_tournament_data(*args)
@@ -130,36 +137,48 @@ def scrape_country_month_year(args):
 
 if __name__ == "__main__":
     # Set up argument parser
-    parser = argparse.ArgumentParser(description='Extract FIDE tournament information from files for a certain month range')
-    parser.add_argument('--start_month', type=str, help='Start month for the download in YYYY-MM format', required=True)
-    parser.add_argument('--end_month', type=str, help='End month for the download in YYYY-MM format', required=True)
+    parser = argparse.ArgumentParser(
+        description="Extract FIDE tournament information from files for a certain month range"
+    )
+    parser.add_argument(
+        "--start_month",
+        type=str,
+        help="Start month for the download in YYYY-MM format",
+        required=True,
+    )
+    parser.add_argument(
+        "--end_month",
+        type=str,
+        help="End month for the download in YYYY-MM format",
+        required=True,
+    )
 
     # Parse arguments
     args = parser.parse_args()
 
     # Parse start and end month/year
-    start_year, start_month = map(int, args.start_month.split('-'))
-    end_year, end_month = map(int, args.end_month.split('-'))
+    start_year, start_month = map(int, args.start_month.split("-"))
+    end_year, end_month = map(int, args.end_month.split("-"))
 
     tasks = []
 
     for country in countries:
-        for year in range(start_year,end_year+1):
+        for year in range(start_year, end_year + 1):
             if start_year == end_year:
-                for month in range(start_month,end_month+1):
+                for month in range(start_month, end_month + 1):
                     tasks.append((country, month, year))
             elif year == start_year:
-                for month in range(start_month,13):
+                for month in range(start_month, 13):
                     tasks.append((country, month, year))
             elif year == end_year:
-                for month in range(1,end_month+1):
+                for month in range(1, end_month + 1):
                     tasks.append((country, month, year))
             else:
-                for month in range(1,13):
+                for month in range(1, 13):
                     tasks.append((country, month, year))
 
     # Number of processes to use
-    num_processes = 6 # Adjust this as necessary
+    num_processes = 6  # Adjust this as necessary
 
     # Using a multiprocessing Pool to run tasks concurrently
     with Pool(num_processes) as p:

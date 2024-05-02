@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al Ghamdi, Ahmed M	KSA 1970 M 1926.1651819 73.7799164 21500150
+1 Al Ghamdi, Ahmed M	KSA 1970 M 1926.8809229 73.8230941 21500150

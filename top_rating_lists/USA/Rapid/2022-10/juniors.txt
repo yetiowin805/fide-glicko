@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Udovenko, Daniel	USA 2011 M 1713.5581803 71.0390002 30957508
+1 Udovenko, Daniel	USA 2011 M 1713.6943699 71.0374017 30957508

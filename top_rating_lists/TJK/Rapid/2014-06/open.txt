@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Khusenkhojaev, Muhammad	TJK 1987 M 2288.7300113 74.4073201 14700247
+1 Khusenkhojaev, Muhammad	TJK 1987 M 2288.7525716 74.4125286 14700247

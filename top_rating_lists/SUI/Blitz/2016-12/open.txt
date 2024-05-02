@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Filipovic, Branko	SUI 1957 M 2191.3440117 74.2352372 14507951
+1 Filipovic, Branko	SUI 1957 M 2197.3966908 74.0332665 14507951

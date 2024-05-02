@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Teoh, Yi Hearn Lawrence	MAS 1900 M 1795.3909697 74.4547626 5706882
+1 Teoh, Yi Hearn Lawrence	MAS 1900 M 1795.5262666 74.4636953 5706882

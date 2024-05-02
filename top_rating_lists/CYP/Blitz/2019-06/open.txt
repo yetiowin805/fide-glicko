@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Michaelides, Konstantinos	CYP 2002 M 2070.2069303 68.9912044 5901871
-2 Skettos, Nicolas	CYP 1996 M 1864.8484571 53.3126221 5900670
+1 Michaelides, Konstantinos	CYP 2002 M 2070.2909959 68.9901314 5901871
+2 Skettos, Nicolas	CYP 1996 M 1864.9512588 53.3150514 5900670

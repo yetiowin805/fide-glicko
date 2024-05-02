@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Asefi, Zaheeruddeen	AFG 1965 M 1938.6588928 72.0946546 11700025
-2 Jamshedy, Mohammad Ismail	AFG 1944 M 1597.6995510 74.9309014 11700190
+1 Asefi, Zaheeruddeen	AFG 1965 M 1961.2151630 71.9175773 11700025
