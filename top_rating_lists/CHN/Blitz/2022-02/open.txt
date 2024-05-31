@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Zhou, Jianchao	CHN 1988 M 2351.7891195 68.9468962 8603537
+1 Zhou, Jianchao	CHN 1988 M 2368.2574447 69.0112067 8603537

@@ -1,4 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Ortiz Avila, Samantha Carolina	VEN 2005 1577.5619797 74.9965971 3947548
-2 Hernandez Mora, Nohelia Virginia	VEN 2005 1511.3952157 70.1465741 3915344
-3 Ordaz Diaz, Lourdes Sarahi	VEN 2009 1129.9349119 71.4355701 3950697
+1 Hernandez Mora, Nohelia Virginia	VEN 2005 1512.6885866 70.1705533 3915344
+2 Ordaz Diaz, Lourdes Sarahi	VEN 2009 1130.6735984 71.4382084 3950697

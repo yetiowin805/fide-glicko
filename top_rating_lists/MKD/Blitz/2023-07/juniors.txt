@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Jovanovski, Teodor	MKD 2005 M 1828.2295604 68.0819466 15008266
+1 Jovanovski, Teodor	MKD 2005 M 1836.8852589 68.1930105 15008266

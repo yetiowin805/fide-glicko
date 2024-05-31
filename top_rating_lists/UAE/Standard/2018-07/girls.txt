@@ -38,3 +38,4 @@ Rank Name Federation BirthYear Rating RD
 37 Alyazya hamad R Alkharoossi	UAE 2010 1062.4046668 57.2439907 9315217
 38 Mera Abdulaziz Aidarous	UAE 2008 1050.0078505 59.5108498 9318119
 39 Noor Khalfan Alshamsi	UAE 2009 1039.0510999 54.7954522 9317414
+40 Alia ali Mabkhout Y Almenhali	UAE 2008 938.5973501 72.3989983 9315934

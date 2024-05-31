@@ -9,3 +9,4 @@ Rank Name Federation BirthYear Sex Rating RD
 8 Narvaez Talavera, Joanie Ellen	NCA 2002 F 1508.8367660 57.2069863 6105840
 9 Alvarez Gutierrez, Patricia	NCA 2002 F 1505.2180372 67.1271868 6105548
 10 Medrano, Maria Luisa	NCA 1999 F 1493.8555084 69.9382261 6103200
+11 Serrano Herrera, Daniela de Andrea	NCA 2007 F 1130.2672029 62.2732618 6107168

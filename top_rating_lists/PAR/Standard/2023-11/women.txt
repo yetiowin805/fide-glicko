@@ -14,4 +14,5 @@ Rank Name Federation BirthYear Rating RD
 13 Portillo Arriola, Andrea Magali	PAR 2011 1358.4345770 59.8406966 3710726
 14 Gonzalez Ortiz, Veronica Gisselle	PAR 2011 1289.1274149 60.4183697 3712966
 15 Ruiz Espinola, Larissa Aleli	PAR 2013 1285.5419633 47.7814052 3713814
-16 Franco Franchi, Sol Larissa	PAR 2005 1112.2227757 67.3457224 3709213
+16 Silvero Delgado, Liz Montserrat	PAR 2012 1271.8684973 65.0807016 3713741
+17 Franco Franchi, Sol Larissa	PAR 2005 1112.2227757 67.3457224 3709213

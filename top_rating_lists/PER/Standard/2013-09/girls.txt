@@ -23,3 +23,4 @@ Rank Name Federation BirthYear Rating RD
 22 Huaranca Espinoza, Franchezka	PER 2000 1466.7932502 73.6085602 3814793
 23 Bustamante Malpartida, Nayeli Al	PER 2003 1461.6348272 68.0290065 3820696
 24 Najar, Marcela	PER 2002 1341.4675264 68.6327069 3825019
+25 Espinoza Davila, Geraldine	PER 2002 1292.2377961 74.0725565 3815439

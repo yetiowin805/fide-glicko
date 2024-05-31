@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Maksimovic, Bojan	BIH 2002 M 1873.5016678 68.1837817 14408120
+1 Maksimovic, Bojan	BIH 2002 M 1882.8439961 68.4552343 14408120

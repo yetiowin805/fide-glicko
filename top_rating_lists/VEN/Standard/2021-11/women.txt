@@ -11,5 +11,4 @@ Rank Name Federation BirthYear Rating RD
 10 Hernandez Mora, Nohelia Virginia	VEN 2005 1296.7403540 50.8521143 3915344
 11 Leon De Canha, Yassell Arianne	VEN 2008 1283.0448238 57.6141666 3974898
 12 Matute Ferrer, Rosa Angelina	VEN 1967 1269.8452640 72.3433899 3969177
-13 Rangel Teran, Mariangel	VEN 2008 1169.2033573 63.0286745 3965546
-14 Herrera Rodriguez, Flavia del Valle	VEN 2010 1136.6550224 71.6911191 3963730
+13 Herrera Rodriguez, Flavia del Valle	VEN 2010 1136.6550224 71.6911191 3963730

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Thomas, James	WLS 1994 M 1737.8799145 74.2958706 1802020
+1 Thomas, James	WLS 1994 M 1748.4761030 74.4828180 1802020

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Sinkar, Anagha Aniket	USA 2012 1713.4936017 73.5305097 30974780
-2 Rallabandi, Sahasra Krishna	USA 2010 1603.4772074 72.8109337 25913549
+1 Sinkar, Anagha Aniket	USA 2012 1714.8942677 73.6178330 30974780
+2 Rallabandi, Sahasra Krishna	USA 2010 1604.7523652 72.8916639 25913549

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Whelan, Joseph	ENG 2008 M 1592.4888418 74.6297718 465887
+1 Whelan, Joseph	ENG 2008 M 1596.0585652 74.6801743 465887

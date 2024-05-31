@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rabeea, Sabah Nori	IRQ 2002 M 1622.0375086 74.4489011 4806212
-2 Al Falahi, Ziad Tarik Mohammad	IRQ 1973 M 1391.3842466 57.1882657 4807235
+1 Rabeea, Sabah Nori	IRQ 2002 M 1624.5305419 74.5308848 4806212
+2 Al Falahi, Ziad Tarik Mohammad	IRQ 1973 M 1392.8906505 57.2376317 4807235

@@ -34,3 +34,4 @@ Rank Name Federation BirthYear Rating RD
 33 Porras Chavarria, Pamela Maria	CRC 2000 1324.4150229 68.8710199 6504949
 34 Chaves Sanchez, Ana Sofia	CRC 1999 1272.7231579 73.7304107 6511678
 35 Jimenez Corella, Jimena	CRC 2003 1271.4312551 70.3863862 6511830
+36 Gonzalez Torres, Raquel	CRC 2005 1211.4234626 65.4710460 6512356

@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Derakhshani, Dorsa	FID 1998 F 1999.5008391 61.2383411 12500330
-2 Derakhshani, Borna	FID 2002 M 1905.3158669 59.4980662 12518450
+1 Derakhshani, Borna	FID 2002 M 1915.8671270 59.5759298 12518450

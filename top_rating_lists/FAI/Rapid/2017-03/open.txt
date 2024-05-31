@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Apol, Luitjen Akselsson	FAI 2006 M 1560.2447987 71.5019437 7202466
-2 Olsen, Kaj	FAI 2001 M 1400.6560128 74.9980996 7202490
+1 Apol, Luitjen Akselsson	FAI 2006 M 1553.1996980 71.6033081 7202466

@@ -69,4 +69,3 @@ Rank Name Federation BirthYear Sex Rating RD
 68 Hreinsson, Johann Helgi	ISL 2009 M 1041.7423937 69.5855576 2317540
 69 Petursson, Olafur Fannar	ISL 2009 M 1000.1754558 64.2738039 2317575
 70 Kjartansson, Arnar Logi	ISL 2009 M 995.6824722 73.4547460 2318342
-71 Kristbergsson, Bjorgvin	ISL 1963 M 913.5318590 74.0467265 2305232

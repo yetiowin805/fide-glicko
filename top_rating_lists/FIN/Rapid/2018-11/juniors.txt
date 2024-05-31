@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nazarova, Anastasia	FIN 2001 F 1810.8200815 71.1694091 34101737
+1 Salykin, Aleksandr	FIN 2001 M 1824.5420895 74.7111691 44107730
+2 Nazarova, Anastasia	FIN 2001 F 1820.7454640 71.3097811 34101737

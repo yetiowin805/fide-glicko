@@ -4,4 +4,3 @@ Rank Name Federation BirthYear Rating RD
 3 Yepez Montenegro, Gloria Luz	BOL 2005 1592.9732870 70.6812220 3318001
 4 Kilibarda Acebey, Veroska Isabela	BOL 2011 1468.1703051 74.3666460 3318419
 5 El Hage Serrano, Caely	BOL 2010 1398.2650097 73.5272622 3318389
-6 Salazar Salinas, Maria Jose	BOL 2009 1209.1726335 74.3710679 3331601

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Agung, Rinaldi Santoso	INA 1987 M 1540.6669325 73.7681172 7105185
+1 Agung, Rinaldi Santoso	INA 1987 M 1544.0202441 73.8462434 7105185

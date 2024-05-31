@@ -42,5 +42,3 @@ Rank Name Federation BirthYear Rating RD
 41 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1186.7751934 51.6020958 3964051
 42 Cabeza Marquez, Mariangel Alejandra	VEN 2007 1155.1152020 51.7978445 3934527
 43 Vargas Chacon, Yoialne Bemar	VEN 2003 1141.8812380 63.7472877 3939626
-44 Ordaz Diaz, Lourdes Sarahi	VEN 2009 1107.7220746 73.6558075 3950697
-45 Ortega Sanabria, Massiel Del Valle	VEN 2006 1088.2780377 61.4701512 3964558

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Tohirjonova, Gulruhbegim	UZB 1999 1735.4485695 71.3899115 14203626
-2 Abdusattorova, Bakhora	UZB 1999 1651.9128850 70.4419213 14204126
+1 Tohirjonova, Gulruhbegim	UZB 1999 1747.5923863 71.6145433 14203626
+2 Abdusattorova, Bakhora	UZB 1999 1659.6099997 70.5709385 14204126

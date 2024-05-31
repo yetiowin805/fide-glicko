@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bali, Hanen	TUN 1991 F 1506.7509492 69.9788627 5507251
+1 Bali, Hanen	TUN 1991 F 1515.4050141 69.8087354 5507251

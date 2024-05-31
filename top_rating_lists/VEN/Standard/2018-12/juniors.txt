@@ -42,7 +42,7 @@ Rank Name Federation BirthYear Sex Rating RD
 41 Rojas Molina, Jesus Ricardo	VEN 2001 M 1655.6040660 60.0543959 3932184
 42 Villalobos Carrillo, Gabriel Antonio	VEN 2003 M 1640.6769170 49.7746140 3950760
 43 Ramirez Vergara, Jemmily	VEN 2003 F 1639.5454508 52.5519121 3903451
-44 Palacios Figueroa, Barbara	VEN 2000 F 1637.6489060 73.5272512 3903249
+44 Palacios Figueroa, Barbara del Valle	VEN 2000 F 1637.6489060 73.5272512 3903249
 45 Pena Gonzalez, Clara Isabel	VEN 2004 F 1636.4732270 42.3209504 3924203
 46 Mata Alfaro, Christian Daniel	VEN 1998 M 1633.3567957 52.6467820 3924718
 47 Rodil Fermin, Leonardo Enrique	VEN 2003 M 1629.1385298 52.5916276 3914631
@@ -85,7 +85,7 @@ Rank Name Federation BirthYear Sex Rating RD
 84 Barreto Bastidas, Jose Daniel	VEN 2005 M 1539.4176196 55.8514584 3942104
 85 Naranjo Nunez, Estefany Daniela	VEN 1998 F 1537.3764153 71.1307541 3905489
 86 Saab Escalona, Karim Nijib	VEN 2001 M 1531.2218510 69.0255999 3904350
-87 Gonzalez Gonzalez, Maria A.	VEN 2005 F 1526.6903365 72.1496076 3936040
+87 Gonzalez Gonzalez, Maria Alejandra	VEN 2005 F 1526.6903365 72.1496076 3936040
 88 Salinas De Andrade, Cristina	VEN 2001 F 1521.7120445 58.5512083 3915743
 89 Quijada Alonzo, Gisell del Valle	VEN 2002 F 1520.2445259 66.8492851 3915727
 90 Guadalajara Barrios, Jacksilany	VEN 2006 F 1519.1320911 50.2774835 3931242

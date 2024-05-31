@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Haddouche, Mohamed	ALG 1984 M 2381.7713377 71.0357289 7900660
-2 Latreche, Sabrina	ALG 1993 F 1876.9196801 74.7881333 7901798
+1 Haddouche, Mohamed	ALG 1984 M 2400.1953971 71.2343888 7900660

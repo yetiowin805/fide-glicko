@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Maisuradze, Nino	FRA 1982 2130.2516375 61.7299202 13601717
-2 Navrotescu, Andreea-Cristiana	FRA 1996 2012.2337366 74.5007125 675946
+1 Maisuradze, Nino	FRA 1982 2144.8206367 61.8938011 13601717
+2 Navrotescu, Andreea-Cristiana	FRA 1996 2022.9478369 74.6188660 675946

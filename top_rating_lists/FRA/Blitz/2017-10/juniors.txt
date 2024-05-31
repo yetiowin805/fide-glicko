@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Corrente, Roberto	FRA 2004 M 1470.1093609 64.8626992 36018562
+1 Corrente, Roberto	FRA 2004 M 1478.9851565 65.2640819 36018562

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ashurov, Ibrokhim	TJK 2009 M 1593.6930863 74.1277712 14701715
+1 Ashurov, Ibrokhim	TJK 2009 M 1600.6202087 74.2200351 14701715

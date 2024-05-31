@@ -28,4 +28,3 @@ Rank Name Federation BirthYear Sex Rating RD
 27 Torres Chavarria, Mario Adrian	PAN 2011 M 1313.4594715 63.9729218 6611222
 28 Mendez Machado, Fatima	PAN 2011 F 1301.2980148 63.0142062 6606970
 29 Cortes Luk, Jose Alejandro	PAN 2008 M 1274.3749233 57.1337537 6607705
-30 Requena Acosta, Jose Angel	PAN 2011 M 1165.4605071 62.6151983 6613799

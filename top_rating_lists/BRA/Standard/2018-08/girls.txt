@@ -45,3 +45,4 @@ Rank Name Federation BirthYear Rating RD
 44 Da Silva Pinto, Maria Cecilia	BRA 2006 1168.1518442 68.1422070 22730702
 45 Feller, Isadora Cristina Vicente	BRA 2007 1143.4651947 69.3426455 22716769
 46 Valcarcel,Marianne Barbosa	BRA 2008 1124.2695396 70.9188452 22705376
+47 Zucco Simoes, Maria Teresa	BRA 2010 1071.1387595 70.2652747 22730613

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kayonde, Andrew	ZAM 1988 M 2152.3184140 74.2413541 8700281
+1 Kayonde, Andrew	ZAM 1988 M 2165.1449554 74.4435785 8700281

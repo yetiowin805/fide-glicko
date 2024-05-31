@@ -52,6 +52,6 @@ Rank Name Federation BirthYear Sex Rating RD
 51 Fridgeirsson, Dagur Andri	ISL 1995 M 1772.5143703 59.5908925 2303124
 52 Palsson, Svanberg Mar	ISL 1993 M 1769.0650332 49.5627243 2302721
 53 Fridthjofsdottir, Sigurl. Regina	ISL 1961 F 1715.2739313 60.6995144 2300788
-54 Kristinardottir, Elsa Maria	ISL 0 F 1670.9552337 58.8592723 2300370
+54 Thorfinnsdottir, Elsa Maria	ISL 0 F 1670.9552337 58.8592723 2300370
 55 Helgadottir, Sigridur Bjorg	ISL 1992 F 1628.6381885 72.4467379 2303701
 56 Johannsdottir, Johanna Bjorg	ISL 0 F 1582.4970161 62.8909306 2303108

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Cherepanov, Daniil A	NED 2010 M 1375.8214261 72.3130241 1072226
+1 Cherepanov, Daniil A	NED 2010 M 1380.7975437 72.3406065 1072226

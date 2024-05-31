@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Karenza, Dita	INA 2000 F 1817.9989333 74.1322815 7101473
+1 Karenza, Dita	INA 2000 F 1824.7729195 74.3926351 7101473

@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Palacios, Celina	ESA 1999 1636.5832224 74.6221912 6703135
-2 Vasquez Vasquez, Marielos	ESA 2007 1595.0415330 66.0776784 6705723
+1 Vasquez Vasquez, Marielos	ESA 2007 1603.1400935 66.2735565 6705723

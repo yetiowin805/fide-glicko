@@ -12,3 +12,4 @@ Rank Name Federation BirthYear Rating RD
 11 Mendez Machado, Fatima	PAN 2011 1343.1020497 54.4675993 6606970
 12 Barcia Dominguez, Andrea Alejandra	PAN 2008 1277.5995387 74.9759678 6612580
 13 Gonzalez Rodriguez, Genesis	PAN 2008 1276.3585785 73.3712566 6608620
+14 Lopez Villarreal, Melissa Paola	PAN 2006 1250.6681022 67.2689311 6608167

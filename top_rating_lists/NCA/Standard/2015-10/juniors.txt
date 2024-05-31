@@ -10,3 +10,4 @@ Rank Name Federation BirthYear Sex Rating RD
 9 Sequeira Guadamuz, Jhoel	NCA 2001 M 1503.8734587 70.4967458 6103952
 10 Salazar Cabezas, Alberto Javier	NCA 2002 M 1481.4734958 73.6922127 6104401
 11 Espinoza Solano, Jose Nahum	NCA 2003 M 1373.0712390 73.5430929 6104428
+12 Conrado, Roger	NCA 2002 M 1342.9495677 70.5213091 6102794

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Caprio, Guido	ITA 1994 M 2344.6400704 65.9666246 834580
+1 Caprio, Guido	ITA 1994 M 2361.2527833 65.9855616 834580

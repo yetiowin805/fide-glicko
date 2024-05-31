@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Joao, Amaral	ANG 1994 M 1655.2818725 74.2592491 10100539
+1 Joao, Amaral	ANG 1994 M 1662.7976806 74.4379779 10100539

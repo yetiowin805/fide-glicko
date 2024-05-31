@@ -2,3 +2,4 @@ Rank Name Federation BirthYear Rating RD
 1 Acevedo Mendez, Lisseth	CRC 1993 1716.6522092 60.1862055 6502938
 2 Nunez Gonzalez, Neeshmy	CRC 1995 1596.6157627 70.6459685 6504396
 3 Ramirez Gonzalez, Maria Jose	CRC 1997 1558.8772498 74.8056317 6503349
+4 Salas Torres, Pamela	CRC 1998 1533.5669380 65.5987654 6505716

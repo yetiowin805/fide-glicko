@@ -67,4 +67,3 @@ Rank Name Federation BirthYear Sex Rating RD
 66 Avendano, Yader A.	NCA 1900 M 1347.9994886 70.0887998 6103677
 67 Martinez Orozco, Cristiana Yorlene	NCA 2005 F 1346.6897804 71.9192853 6107079
 68 Allen Montes, Charles Mijail	NCA 1981 M 1326.5933527 68.3226361 6105602
-69 Serrano Herrera, Daniela de Andrea	NCA 2007 F 1163.2287852 61.5705449 6107168

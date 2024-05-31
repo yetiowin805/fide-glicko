@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Giraldo Segovia, Angely	VEN 1998 1654.1429231 70.1647355 3900606
-2 Carreno Planas, Manuela	VEN 1996 1523.9191626 73.5022815 3906019
+1 Giraldo Segovia, Angely	VEN 1998 1659.8512813 70.3805759 3900606
+2 Carreno Planas, Manuela	VEN 1996 1527.6120941 73.5258911 3906019

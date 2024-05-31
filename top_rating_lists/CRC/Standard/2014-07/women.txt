@@ -9,3 +9,4 @@ Rank Name Federation BirthYear Rating RD
 8 Morera Campos, Hazel Maria	CRC 1997 1545.2059159 60.4989330 6505910
 9 Acevedo Mendez, Jennifer	CRC 1999 1541.2307934 68.1721666 6504442
 10 Castillo Morales, Thais	CRC 1999 1490.5265294 59.8665656 6507395
+11 Salazar Gould, Melannie	CRC 1900 1442.5853246 61.3324583 6505090

@@ -39,4 +39,3 @@ Rank Name Federation BirthYear Rating RD
 38 Contreras Toro, Gisell Patricia	VEN 2007 1280.3663304 66.7105481 3978044
 39 Larez Grinstein, Katherine Sofia	VEN 2007 1237.0432234 70.1644963 3965295
 40 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1224.8398188 70.0327426 3964051
-41 Lopez Marcano, Jade Delvalle	VEN 2010 1128.5900952 58.2701701 23902256

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Husbands, Orlando	BAR 1997 M 1779.0912121 74.3975942 11101644
+1 Husbands, Orlando	BAR 1997 M 1785.3311110 74.4690828 11101644

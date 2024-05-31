@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nauto Munoz, Isaias	CHI 2004 M 1752.8346940 60.2564318 3431746
+1 Nauto Munoz, Isaias	CHI 2004 M 1755.0933190 60.3996207 3431746
+2 Marrujo Pardo, Mauricio Emmanuel	CHI 2010 M 1448.9701861 67.7228780 3943755

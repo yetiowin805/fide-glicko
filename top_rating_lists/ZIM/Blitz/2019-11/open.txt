@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Chakanyuka, Charles	ZIM 1973 M 1958.6771189 60.0364221 11000341
-2 Chipanga, Takaedza	ZIM 1980 M 1918.9261741 74.4617407 11000260
+1 Chakanyuka, Charles	ZIM 1973 M 1967.6107274 60.2408126 11000341

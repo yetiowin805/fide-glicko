@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Barria Zuniga, Daniel	CHI 1974 M 2403.2463269 70.1494798 3400816
+1 Barria Zuniga, Daniel	CHI 1974 M 2421.0992119 70.1437561 3400816

@@ -27,3 +27,4 @@ Rank Name Federation BirthYear Sex Rating RD
 26 Joseph, Samuel Alexander	INA 2011 M 1397.7150144 57.3646515 7131011
 27 Rondonuwu, Josephine Grace	INA 2012 F 1321.6679759 69.4528784 7130023
 28 Makalew, Veronica Jefany Sheryl Kichi	INA 2015 F 1306.2588042 74.8228419 7128088
+29 Lovly, Arini Angelina	INA 2010 F 1302.5168074 66.7133756 7130856

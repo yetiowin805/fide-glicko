@@ -86,3 +86,4 @@ Rank Name Federation BirthYear Rating RD
 85 Narvaez Vaquiro, Alejandra	COL 2006 1322.3960439 61.4848520 4453239
 86 Campos Perilla, Angie Catalina	COL 2003 1270.7533591 57.0519850 4473108
 87 Rico Velasco, Juliana Sofia	COL 2005 1257.1226319 64.5318720 4459105
+88 Gomez Gomez, Maria Camila	COL 2007 1180.6155084 74.3970961 4460308

@@ -1,7 +1,7 @@
 Rank Name Federation BirthYear Rating RD
-1 Guadalajara Barrios, Jacksilany	VEN 2006 1524.5614990 70.4874655 3931242
-2 Acuna Castillo, Yohalis del Valle	VEN 2007 1510.8931301 74.4031345 3943674
-3 Hernandez Mora, Nohelia Virginia	VEN 2005 1494.5764182 70.5439531 3915344
-4 Araujo Briceno, Gilary Ahilyn	VEN 2007 1373.1550896 73.3700947 3935841
-5 Cabeza Marquez, Mariangel Alejandra	VEN 2007 1311.8072314 74.3714438 3934527
-6 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1301.5232440 71.0131374 3964051
+1 Guadalajara Barrios, Jacksilany	VEN 2006 1526.4299781 70.5032631 3931242
+2 Acuna Castillo, Yohalis del Valle	VEN 2007 1511.6659894 74.4113622 3943674
+3 Hernandez Mora, Nohelia Virginia	VEN 2005 1495.7287973 70.5531256 3915344
+4 Araujo Briceno, Gilary Ahilyn	VEN 2007 1374.6665937 73.3864982 3935841
+5 Cabeza Marquez, Mariangel Alejandra	VEN 2007 1312.5356285 74.3780444 3934527
+6 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1302.3308667 71.0185387 3964051

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Suslin, Altai	FIN 2012 M 1327.5888858 43.6228214 519529
+1 Suslin, Altai	FIN 2012 M 1332.6298562 43.6083873 519529

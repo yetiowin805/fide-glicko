@@ -5,3 +5,4 @@ Rank Name Federation BirthYear Rating RD
 4 Sanchez Bobadilla, Valeria Belen	PAR 2006 1490.5883385 73.9959243 3712206
 5 Mayeregger Gonzalez, Fiorella	PAR 2009 1439.8524723 52.1996235 3708845
 6 Munoz Orozco, Shirley Grace	PAR 2004 1430.7698779 61.6207007 3910857
+7 Lugo Martinez, Jimena Sofia	PAR 2012 1190.4368611 62.1948470 3710793

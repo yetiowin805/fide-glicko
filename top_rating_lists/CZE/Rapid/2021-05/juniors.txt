@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Moravec, Hynek	CZE 2003 M 1585.4794492 74.0881196 23716738
+1 Moravec, Hynek	CZE 2003 M 1593.8103312 74.1450218 23716738

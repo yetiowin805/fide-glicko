@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mohammed, Zozek Salah Mohammed	IRQ 1986 M 2113.2385033 68.9366138 4803361
-2 Rabeea, Sabah Nori	IRQ 2002 M 1675.1171118 74.9200975 4806212
+1 Mohammed, Zozek Salah Mohammed	IRQ 1986 M 2126.7617477 69.0159106 4803361

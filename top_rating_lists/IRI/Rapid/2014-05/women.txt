@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Khademalsharieh, Sarasadat	IRI 1997 2115.6970885 70.7284797 12512214
-2 Alinasab, Mobina	IRI 2000 1701.4663589 74.9558630 12528897
+1 Khademalsharieh, Sarasadat	IRI 1997 2130.0344809 70.9236648 12512214

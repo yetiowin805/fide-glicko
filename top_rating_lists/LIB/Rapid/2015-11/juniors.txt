@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 El Jawich, Amro	LIB 1995 M 2137.2603042 74.3055202 5300380
+1 El Jawich, Amro	LIB 1995 M 2146.2771943 74.9824104 5300380

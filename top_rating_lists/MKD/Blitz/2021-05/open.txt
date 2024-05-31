@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kralevski, Aleksander	MKD 1956 M 2030.3256517 71.4262656 15000664
+1 Kralevski, Aleksander	MKD 1956 M 2039.7584162 71.5582596 15000664

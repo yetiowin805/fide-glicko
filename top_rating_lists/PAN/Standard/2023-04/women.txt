@@ -28,4 +28,3 @@ Rank Name Federation BirthYear Rating RD
 27 Arevalo Guerra, Danna Isabella	PAN 2011 1275.2488510 64.5707692 6612458
 28 Gonzalez Rodriguez, Genesis	PAN 2008 1229.9502143 67.9786590 6608620
 29 Montezuma Camarena, Dayana Cristel	PAN 2009 1160.9834393 62.6112217 6611060
-30 Liu Qiu, Angie Loraine	PAN 2010 1092.0379578 74.2389858 6611850

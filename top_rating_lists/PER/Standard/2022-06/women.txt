@@ -64,3 +64,4 @@ Rank Name Federation BirthYear Rating RD
 63 Pantigoso Porras, Katherine Guadalupe	PER 2009 1305.8003276 45.5338470 3855260
 64 Arias Ochoa, Adriana Maddyel	PER 2008 1287.8740626 63.3480938 3868214
 65 Morales Francia Olenka Isabel	PER 2010 1177.5899930 72.9337989 3879852
+66 Herrada Blanco, Luciana Franchesca	PER 2008 1033.9541821 60.3546506 3845044

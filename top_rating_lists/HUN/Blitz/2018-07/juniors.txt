@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Papp, Bence	HUN 2003 M 1808.3931425 71.7228977 788384
+1 Papp, Bence	HUN 2003 M 1817.7864864 71.9981566 788384

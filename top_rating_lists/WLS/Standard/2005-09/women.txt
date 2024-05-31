@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Smith, Olivia	WLS 1900 2021.3401996 74.9711017 411850
+1 Smith, Olivia	WLS 0 2021.3401996 74.9711017 411850

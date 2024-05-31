@@ -4,3 +4,4 @@ Rank Name Federation BirthYear Rating RD
 3 Jonsdottir, Katrin Maria	ISL 2008 1256.9789197 65.2627370 2316706
 4 B. Berglindardottir, Emilia Embla	ISL 2012 1237.7815551 51.1524537 2318946
 5 Sigurdardottir, Sigrun Tara	ISL 2012 1168.2725105 66.6411643 2322030
+6 Jonsdottir, Silja Run	ISL 2011 1029.5912193 73.6840490 2324253

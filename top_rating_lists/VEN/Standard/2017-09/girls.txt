@@ -49,4 +49,3 @@ Rank Name Federation BirthYear Rating RD
 48 Dumont Peroza, Agnes Coromoto	VEN 2001 1237.1273788 55.4499235 3924254
 49 Hernandez Mora, Nohelia Virginia	VEN 2005 1236.0140869 52.5245730 3915344
 50 Lopez Romero, Virginia Del Valle	VEN 2000 1216.2819132 66.7751135 3915549
-51 Vargas Chacon, Yoialne Bemar	VEN 2003 1109.5911684 61.9680970 3939626

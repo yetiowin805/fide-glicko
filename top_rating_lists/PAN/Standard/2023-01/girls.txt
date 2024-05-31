@@ -14,3 +14,4 @@ Rank Name Federation BirthYear Rating RD
 13 Barcia Dominguez, Andrea Alejandra	PAN 2008 1255.6544526 69.8821394 6612580
 14 Gonzalez Rodriguez, Genesis	PAN 2008 1254.9805932 68.3245621 6608620
 15 Lopez Villarreal, Melissa Paola	PAN 2006 1250.6681022 69.0678709 6608167
+16 Montezuma Camarena, Dayana Cristel	PAN 2009 1149.7095204 68.9280254 6611060

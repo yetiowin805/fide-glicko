@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ermias , Caleb Yared	ETH 2010 M 1459.9394285 71.9643295 15708977
+1 Ermias , Caleb Yared	ETH 2010 M 1462.1395189 72.0217283 15708977

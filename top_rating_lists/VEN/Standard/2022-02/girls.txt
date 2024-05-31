@@ -18,6 +18,5 @@ Rank Name Federation BirthYear Rating RD
 17 Luzardo Lopez, Aranza Victoria	VEN 2011 1207.7974430 53.2995539 3956733
 18 Herrera Rodriguez, Flavia del Valle	VEN 2010 1169.2080245 71.0859737 3963730
 19 Rivera Salazar, Anmarie Giorgina	VEN 2007 1164.6830910 63.0528404 3974251
-20 Ordaz Diaz, Lourdes Sarahi	VEN 2009 1150.1578847 61.5191160 3950697
-21 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1132.5823673 72.4488869 3964051
-22 Larez Grinstein, Katherine Sofia	VEN 2007 1127.1483623 73.0992389 3965295
+20 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1132.5823673 72.4488869 3964051
+21 Larez Grinstein, Katherine Sofia	VEN 2007 1127.1483623 73.0992389 3965295

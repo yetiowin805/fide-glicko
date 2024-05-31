@@ -25,3 +25,4 @@ Rank Name Federation BirthYear Sex Rating RD
 24 Fauaz Bringas, Matias	CRC 2008 M 1369.4650834 73.2747698 6515410
 25 Diaz Charpentier, Ashly Valeri	CRC 2007 F 1364.1105924 62.8954014 6513646
 26 Salazar Delgado, Aylin Naomi	CRC 2008 F 1284.0101653 66.6699830 6524800
+27 Hernandez Brenes, Keicy Pamela	CRC 2008 F 1270.3978685 71.3319184 6520170

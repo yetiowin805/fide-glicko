@@ -1,4 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Sztokbant, Bernardo Vainzoff	BRA 1993 M 1913.7720333 65.0255848 2115956
-2 Barbosa, Jefferson Lucas Munhoz	BRA 1995 M 1850.1598771 69.2231582 2130793
-3 Coelho, Ramyres Santana	BRA 1998 F 1733.2420154 74.8761692 2120690
+1 Sztokbant, Bernardo Vainzoff	BRA 1993 M 1928.0351313 65.1199209 2115956
+2 Barbosa, Jefferson Lucas Munhoz	BRA 1995 M 1861.1036763 69.6603548 2130793

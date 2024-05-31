@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Song, Yuxin	CHN 2005 F 2064.4201697 73.2260688 8614300
+1 Song, Yuxin	CHN 2005 F 2077.7428656 73.2873329 8614300

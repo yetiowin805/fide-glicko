@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Tavcar, Jaka	FID 2005 M 1572.8524645 74.3136728 73001279
+1 Tavcar, Jaka	FID 2005 M 1574.6618365 74.3229175 73001279

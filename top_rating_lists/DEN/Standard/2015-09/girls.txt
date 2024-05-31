@@ -5,3 +5,4 @@ Rank Name Federation BirthYear Rating RD
 4 Durrfeld, Sofie Bech	DEN 1995 1554.7184063 70.7407959 1451324
 5 Jensen, Anna Hedelykke	DEN 2001 1509.8534084 73.5562713 1449834
 6 Moller, Elisabeth Mechlenburg	DEN 2004 1386.0139834 67.0410629 1447815
+7 Wul Micalizio, Caterina	DEN 2004 1279.1844104 74.0851665 1444930

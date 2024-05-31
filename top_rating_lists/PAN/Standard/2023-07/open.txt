@@ -89,4 +89,5 @@ Rank Name Federation BirthYear Sex Rating RD
 88 Sheffer Ledesma, Aldair Thomas	PAN 2009 M 1262.2000421 73.0809384 6615171
 89 Lasso Mollick, Luis Daniel	PAN 2009 M 1257.5202058 73.8379503 6611672
 90 Gonzalez Rodriguez, Genesis	PAN 2008 F 1229.9502143 73.1731370 6608620
-91 Montezuma Camarena, Dayana Cristel	PAN 2009 F 1171.3363411 66.1435051 6611060
+91 Ramos Ceballos, Jose Andres	PAN 2011 M 1200.3710767 67.4084986 6615600
+92 Montezuma Camarena, Dayana Cristel	PAN 2009 F 1171.3363411 66.1435051 6611060

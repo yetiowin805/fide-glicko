@@ -1,6 +1,6 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Espinoza Solano, Jose Nahum	NCA 2003 M 2036.2507196 62.2495082 6104428
-2 Vanegas Lopez, Natanael Emanuel	NCA 2006 M 1821.2726347 64.0018749 6108326
-3 Treminio Umanzor, Leonel Alejandro	NCA 2010 M 1606.6118154 72.9014666 6112048
-4 Pilarte Castro, Rene Ozmar	NCA 2004 M 1599.2689342 67.5118192 6104690
-5 Espinoza Guerrero, Felix Alberto	NCA 2009 M 1558.7154716 68.3882776 6104762
+1 Espinoza Solano, Jose Nahum	NCA 2003 M 2043.5875282 62.3764754 6104428
+2 Vanegas Lopez, Natanael Emanuel	NCA 2006 M 1827.0533598 64.0875220 6108326
+3 Treminio Umanzor, Leonel Alejandro	NCA 2010 M 1609.9253590 73.0211167 6112048
+4 Pilarte Castro, Rene Ozmar	NCA 2004 M 1602.9151683 67.5987152 6104690
+5 Espinoza Guerrero, Felix Alberto	NCA 2009 M 1562.1930030 68.4871691 6104762

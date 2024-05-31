@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ozbek, Gorkem	TUR 1986 M 1654.1509740 70.3584686 34568719
+1 Ozbek, Gorkem	TUR 1986 M 1656.3801537 70.4346415 34568719

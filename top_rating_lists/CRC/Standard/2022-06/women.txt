@@ -14,4 +14,3 @@ Rank Name Federation BirthYear Rating RD
 13 Rojas Mora, Maria Salvadora	CRC 2006 1430.8196661 72.0358815 6513441
 14 Diaz Charpentier, Ashly Valeri	CRC 2007 1364.1105924 66.6749901 6513646
 15 Hernandez Brenes, Keicy Pamela	CRC 2008 1270.3978685 74.6766332 6520170
-16 Salazar Delgado, Aylin Naomi	CRC 2008 1265.4368195 65.8483908 6524800

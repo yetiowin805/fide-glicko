@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Anup Kumar, Vihaan	AUS 2010 M 1329.7392838 74.9088236 3234517
+1 Anup Kumar, Vihaan	AUS 2010 M 1332.7900571 74.9438684 3234517

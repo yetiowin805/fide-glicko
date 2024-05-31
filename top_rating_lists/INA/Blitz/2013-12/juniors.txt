@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Sihite, Chelsie Monica	INA 1995 F 2086.7671688 74.9893022 7101198
-2 Medina, Warda Aulia	INA 1997 F 2084.4886181 71.6127033 7101570
+1 Medina, Warda Aulia	INA 1997 F 2102.4747007 71.6749558 7101570

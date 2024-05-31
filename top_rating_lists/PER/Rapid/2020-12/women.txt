@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Vega Paucar, Emely Bachellet	PER 2006 1799.7542674 72.9444278 3836550
-2 Garcia Andrada, Heidy Nicole	PER 2004 1775.2322091 71.2516945 3831779
-3 Rojas Salas, Rihanna Irina	PER 2012 1313.5452526 74.3774384 3839850
+1 Vega Paucar, Emely Bachellet	PER 2006 1803.0299676 73.0401750 3836550
+2 Garcia Andrada, Heidy Nicole	PER 2004 1778.1369272 71.3033364 3831779
+3 Rojas Salas, Rihanna Irina	PER 2012 1314.7765976 74.4149306 3839850

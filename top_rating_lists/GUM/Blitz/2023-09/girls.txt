@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Ramas, Carmina Jasmine	GUM 2004 1609.6602395 65.2798374 31001548
+1 Ramas, Carmina Jasmine	GUM 2004 1610.3709498 65.3005805 31001548
+2 Justo, Alexis Rian	GUM 2013 1440.1915072 50.3984655 31002951

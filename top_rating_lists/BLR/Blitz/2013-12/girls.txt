@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Ziaziulkina, Nastassia	BLR 1995 2126.4800299 71.7434991 13505211
-2 Stsepkina, Katsiaryna	BLR 1999 1606.6804452 73.5461976 13507575
+1 Ziaziulkina, Nastassia	BLR 1995 2143.8789264 71.8847888 13505211
+2 Stsepkina, Katsiaryna	BLR 1999 1615.3593085 73.7716517 13507575

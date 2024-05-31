@@ -87,4 +87,5 @@ Rank Name Federation BirthYear Sex Rating RD
 86 Sanchez Aragon, Michael Alejandro	COL 2007 M 1315.7160684 73.4101085 4488059
 87 Campos Perilla, Angie Catalina	COL 2003 F 1310.2834962 72.9789587 4473108
 88 Tipiani Martinez, Paula Sofia	COL 2005 F 1297.7001662 73.2159659 4484576
-89 Susunaga Duran, Madelen Fernanda	COL 2007 F 1210.1375111 72.1492036 4488067
+89 Montoya, Mariangel	COL 2011 F 1253.2023089 72.6977743 4482760
+90 Susunaga Duran, Madelen Fernanda	COL 2007 F 1210.1375111 72.1492036 4488067

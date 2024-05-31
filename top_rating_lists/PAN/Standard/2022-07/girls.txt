@@ -11,4 +11,3 @@ Rank Name Federation BirthYear Rating RD
 10 Lobo Jimenez, Marielys Judith	PAN 2007 1355.3009070 60.8213748 6605508
 11 Mendez Machado, Fatima	PAN 2011 1283.4186458 61.4056046 6606970
 12 Gonzalez Rodriguez, Genesis	PAN 2008 1251.8642543 71.9653656 6608620
-13 Almengor De Gracia, Danahe Renee	PAN 2009 1246.8871650 52.3584361 6612741

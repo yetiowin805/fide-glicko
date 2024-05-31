@@ -43,4 +43,3 @@ Rank Name Federation BirthYear Rating RD
 42 Canaviri, Gabriela	BOL 2008 1281.5706355 64.5383082 3312593
 43 Rosas Navarro, Dominic Giselle	BOL 2012 1273.7066171 44.6311340 3336581
 44 Terceros Ynturias, Cristel	BOL 2008 1268.0328886 73.8593279 3331334
-45 Montevilla Cahuasa, Amanda	BOL 2014 1209.9927771 53.9409858 3335887

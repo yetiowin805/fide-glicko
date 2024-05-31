@@ -97,5 +97,5 @@ Rank Name Federation BirthYear Sex Rating RD
 96 Lapa Cunias, Marco Antonio	PER 2006 M 1515.6266125 57.2393853 3872661
 97 Zapana Huarza, Fabricio Elvis	PER 2009 M 1515.0934813 59.7570252 3849767
 98 Montoya Jorge, Richard Lionel	PER 2014 M 1513.7691973 68.7698187 3876640
-99 Machaca Mina, Adamaris Luciana	PER 2013 F 1513.6613854 47.4420556 3860957
+99 Machacca Mina, Adamaris Luciana	PER 2013 F 1513.6613854 47.4420556 3860957
 100 Ramirez Espino, Alessandro	PER 2009 M 1513.3785011 38.7925103 3880907

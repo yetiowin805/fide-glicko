@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bousehla, Manel	ALG 2007 M 1622.4242465 70.8006726 7925085
+1 Bousehla, Manel	ALG 2007 M 1624.1358807 70.8436147 7925085

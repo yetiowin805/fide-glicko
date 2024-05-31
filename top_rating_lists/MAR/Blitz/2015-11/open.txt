@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Choukri, Adel	MAR 1900 M 2260.5369826 72.1377042 9000399
+1 Choukri, Adel	MAR 1900 M 2280.7413259 72.2479469 9000399

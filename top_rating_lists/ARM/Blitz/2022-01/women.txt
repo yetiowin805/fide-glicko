@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Danielian, Elina	ARM 1978 2086.6871552 65.5435343 13300210
+1 Danielian, Elina	ARM 1978 2100.0163234 65.6948398 13300210

@@ -4,3 +4,4 @@ Rank Name Federation BirthYear Rating RD
 3 Gamboa Alvarado, Leticia	CRC 1900 1762.5714691 59.4194346 6502270
 4 Acevedo Mendez, Lisseth	CRC 1993 1719.1975431 54.0818333 6502938
 5 Nunez Gonzalez, Neeshmy	CRC 1900 1629.0665654 68.6991075 6504396
+6 Chaves Alfaro, Pamela	CRC 1900 1571.6321436 70.0231742 6504116

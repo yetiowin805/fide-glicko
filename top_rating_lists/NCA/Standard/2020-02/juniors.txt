@@ -13,3 +13,4 @@ Rank Name Federation BirthYear Sex Rating RD
 12 Alvarez Gutierrez, Patricia	NCA 2002 F 1488.6320253 55.8194502 6105548
 13 Martinez Orozco, Cristiana Yorlene	NCA 2005 F 1393.4090040 61.9707581 6107079
 14 Vanegas Lopez, Natanael Emanuel	NCA 2006 M 1335.1339039 62.4708881 6108326
+15 Serrano Herrera, Daniela de Andrea	NCA 2007 F 1218.2108011 63.1846103 6107168

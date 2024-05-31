@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Rating RD
 1 Nesic, Dragana	BIH 1993 1751.3874552 64.1861923 14403200
-2 Jacimovic, Sara	BIH 1997 1723.7420788 63.4455083 14403668

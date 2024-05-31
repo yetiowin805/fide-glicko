@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Picchi, Darina Francesca	ITA 1997 1561.9882628 74.8579535 880329
-2 De Filomeno, Elisa	ITA 1999 1322.4558260 70.8720929 875805
+1 De Filomeno, Elisa	ITA 1999 1327.0040036 70.9769244 875805

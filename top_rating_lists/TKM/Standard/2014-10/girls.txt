@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
 1 Velieva, Hurma	TKM 1995 1927.0661406 64.9323685 14002272
+2 Ezizova, Bagul	TKM 2006 1514.6166708 63.2351846 14003864

@@ -3,7 +3,7 @@ Rank Name Federation BirthYear Rating RD
 2 Figueroa Bernal, Julia Dennis	CHI 2005 1702.1049356 72.0404835 3435300
 3 Sanchez Tobar, Francisca Valenti	CHI 2004 1693.8090907 60.3575264 3431304
 4 Lemus Pena, Macarena	CHI 2002 1690.3366240 71.6353762 3429083
-5 Hormazabal Figueroa, Constanza Va	CHI 2004 1619.6749854 64.9464317 3435679
+5 Hormazabal Figueroa, Constanza Valentina	CHI 2004 1619.6749854 64.9464317 3435679
 6 Romero Troncoso, Liset Anais	CHI 2005 1597.0293478 72.9034354 3426084
 7 Contreras Suazo, Rocio	CHI 2005 1596.3524465 71.0645960 3424880
 8 Aguilera Merlet, Melisa Paz	CHI 2002 1594.2483742 69.4732922 3431215

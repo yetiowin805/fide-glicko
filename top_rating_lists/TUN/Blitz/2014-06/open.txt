@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kaabi, Mejdi	TUN 1961 M 2266.6376299 72.8724212 5500044
+1 Kaabi, Mejdi	TUN 1961 M 2286.3745404 73.0355660 5500044

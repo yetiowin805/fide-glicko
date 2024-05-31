@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Ivanov, Elizabeth	ENG 2001 1501.2573588 73.5476065 427284
+1 Ivanov, Elizabeth	ENG 2001 1505.0167854 73.6584866 427284

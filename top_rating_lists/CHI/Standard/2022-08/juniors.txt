@@ -80,4 +80,3 @@ Rank Name Federation BirthYear Sex Rating RD
 79 Ramos Pizarro, Camila	CHI 2006 F 1277.1677577 73.0984480 3454045
 80 Meneses Riveros, Franco Naim	CHI 2005 M 1250.8395036 71.0858654 3446417
 81 Lopez Vivanco, Gregorio	CHI 2011 M 1249.0552745 60.7183103 3451208
-82 Vergara Arenas, Amapola Angely	CHI 2007 F 1143.6212437 71.1182863 3450430

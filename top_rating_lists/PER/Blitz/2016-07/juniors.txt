@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Puppi Lazo, Jorge Luis	PER 1996 M 1952.4344701 74.9727483 3807363
-2 Rengifo Blancas, Renzo Jhonathan	PER 2000 M 1795.7453586 73.2548499 3807185
+1 Rengifo Blancas, Renzo Jhonathan	PER 2000 M 1800.5138716 73.3356654 3807185

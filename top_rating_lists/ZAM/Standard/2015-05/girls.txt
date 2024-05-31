@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Rating RD
 1 Lubuuto Bwalya Mulwale	ZAM 2001 1444.7793978 74.2007536 8706964
-2 Sorensen, Alva	ZAM 2003 1261.2142049 74.4962263 8703876

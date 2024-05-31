@@ -34,3 +34,4 @@ Rank Name Federation BirthYear Rating RD
 33 Yarpas Flores, Heidy	ECU 2012 1329.7834089 55.3657613 3640264
 34 Orozco Caceres, Raisa Victoria	ECU 2013 1320.9056647 53.2694514 3643735
 35 Freire Tanguila, Selene Maholy	ECU 2009 1297.7707254 70.7501154 3639207
+36 Melena Salvador, Alanis Karolina	ECU 2015 1290.9645046 71.9928256 3651100

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Allan, Brian	SCO 1934 M 1557.9642579 61.8844409 2402050
+1 Allan, Brian	SCO 1934 M 1563.8017718 61.9590937 2402050

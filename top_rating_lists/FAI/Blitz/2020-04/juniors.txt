@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Apol, Luitjen Akselsson	FAI 2006 M 1850.1734817 56.2673714 7202466
-2 Tummasarson, Flovin M.	FAI 2003 M 1546.4496588 73.5380259 7202431
+1 Apol, Luitjen Akselsson	FAI 2006 M 1856.7851415 56.4749884 7202466
+2 Tummasarson, Flovin M.	FAI 2003 M 1545.7878064 73.6596207 7202431

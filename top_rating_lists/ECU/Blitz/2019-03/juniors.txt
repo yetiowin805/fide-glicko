@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Noboa Silva, Kevin	ECU 1999 M 1955.9242033 74.7879389 3618471
-2 Ruiz Tipantasig, Mishell	ECU 2001 F 1723.2170930 68.0996497 3627640
+1 Ruiz Tipantasig, Mishell	ECU 2001 F 1728.1426828 68.2664585 3627640

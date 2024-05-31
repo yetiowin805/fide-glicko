@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Islam, Mohammed	BAN 1981 M 1556.1495441 74.6174557 10211870
+1 Islam, Mohammed	BAN 1981 M 1562.3109565 74.8290055 10211870

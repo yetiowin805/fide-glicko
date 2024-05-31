@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mohtaat, Homayoun	AFG 1972 M 1603.4732798 74.2244877 11701552
+1 Mohtaat, Homayoun	AFG 1972 M 1613.2961550 74.4423902 11701552

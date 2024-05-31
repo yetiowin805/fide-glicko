@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Palsdottir, Soley Lind	ISL 1999 1428.9395891 72.8073365 2306824
-2 Magnusdottir, Veronika Steinunn	ISL 1998 1396.4677139 74.2776301 2309114
+1 Palsdottir, Soley Lind	ISL 1999 1432.7261122 72.9866980 2306824
+2 Magnusdottir, Veronika Steinunn	ISL 1998 1401.4591095 74.4715582 2309114

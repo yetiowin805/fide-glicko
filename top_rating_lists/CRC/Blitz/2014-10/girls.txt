@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Salas Torres, Pamela	CRC 1998 1681.1336258 67.3036751 6505716
+1 Salas Torres, Pamela	CRC 1998 1685.6333622 67.4366093 6505716
+2 Salazar Gould, Melanie	CRC 2003 1401.9381436 70.3936429 6505090

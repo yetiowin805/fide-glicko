@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Matamoros Franco, Carlos S.	ECU 1966 M 2282.0466302 64.2369823 3600017
-2 Naranjo Zolotov, Mijail	ECU 1979 M 1720.8899614 70.8189009 3600637
+1 Matamoros Franco, Carlos S.	ECU 1966 M 2296.0351426 64.3412468 3600017
+2 Naranjo Zolotov, Mijail	ECU 1979 M 1727.5513574 70.9465021 3600637

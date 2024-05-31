@@ -72,8 +72,5 @@ Rank Name Federation BirthYear Sex Rating RD
 71 Sotillo Moneguis, Jhonaiker	VEN 2008 M 1254.5483615 63.6567642 3946274
 72 Caterine Visconti, Ismael David	VEN 2008 M 1233.1046819 64.2511997 3967611
 73 Herrera Rodriguez, Doriant Alberto	VEN 2011 M 1202.0775374 71.2470730 3963748
-74 Rangel Teran, Mariangel	VEN 2008 F 1169.2033573 63.0286745 3965546
-75 Montilva Muller, Sebastian Daniel	VEN 2007 M 1151.7544610 60.2659849 3955656
-76 Herrera Rodriguez, Flavia del Valle	VEN 2010 F 1136.6550224 71.6911191 3963730
-77 Hernandez Salazar, Eli Samuel	VEN 2007 M 1093.3381449 65.5594153 3974162
-78 Quijada Marcano, Armando Rafael	VEN 2007 M 1082.5022163 66.4216941 3974685
+74 Herrera Rodriguez, Flavia del Valle	VEN 2010 F 1136.6550224 71.6911191 3963730
+75 Hernandez Salazar, Eli Samuel	VEN 2007 M 1093.3381449 65.5594153 3974162

@@ -4,3 +4,4 @@ Rank Name Federation BirthYear Rating RD
 3 Fermin Dicent, Ellian Lissette	DOM 1995 1548.6953926 69.3731225 6408060
 4 Hilario, Fabel	DOM 1996 1547.6828106 67.4685632 6406548
 5 Rodriguez Espaillat, Escarlet M.	DOM 1997 1365.6330795 68.5765782 6412149
+6 Camacho Rosario, Cristal	DOM 2002 1330.1155002 72.0377572 6411673

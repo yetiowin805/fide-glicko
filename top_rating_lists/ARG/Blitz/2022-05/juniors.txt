@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Cumpe, Lucas	ARG 2004 M 1833.0679104 73.5633559 183920
+1 Cumpe, Lucas	ARG 2004 M 1840.5830277 73.8335671 183920

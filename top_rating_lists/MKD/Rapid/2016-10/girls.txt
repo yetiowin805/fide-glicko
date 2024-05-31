@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Manova, Ivana	MKD 2001 1493.3600156 73.8342143 15003590
+1 Manova, Ivana	MKD 2001 1501.3514628 74.0182503 15003590

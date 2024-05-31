@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Megaranto, Susanto	INA 1987 M 2466.9870198 64.6309660 7101384
-2 Sukandar, Irine Kharisma	INA 1992 F 2289.3549481 69.9061654 7101937
+1 Megaranto, Susanto	INA 1987 M 2489.5758540 64.6228221 7101384
+2 Sukandar, Irine Kharisma	INA 1992 F 2309.9712544 69.9467464 7101937

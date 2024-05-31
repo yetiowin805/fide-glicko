@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Sarkhadov, Ibrakhim	TJK 1957 M 1612.0185796 74.3372581 14700360
+1 Sarkhadov, Ibrakhim	TJK 1957 M 1617.4836554 74.5253673 14700360

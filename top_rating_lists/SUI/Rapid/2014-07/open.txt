@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Milov, Vadim	SUI 1972 M 2563.0024535 69.7819009 1304364
+1 Milov, Vadim	SUI 1972 M 2580.4621286 69.7839430 1304364

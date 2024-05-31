@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al Abdali, Zeyad Saleh	KSA 1985 M 1732.6085209 72.9952483 21501505
+1 Al Abdali, Zeyad Saleh	KSA 1985 M 1734.4529527 73.0483349 21501505

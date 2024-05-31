@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al Namas, Kanan	JOR 1900 M 1713.4714789 71.6794206 8100098
+1 Al Namas, Kanan	JOR 1900 M 1716.6028574 71.7793040 8100098

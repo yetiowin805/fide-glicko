@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Naipal, Ekaterina	SUR 1991 1709.9918356 74.9993955 8200629
-2 Ramos Dos, Rosangela	SUR 1996 1615.3109642 72.0823101 8200521
+1 Ramos Dos, Rosangela	SUR 1996 1620.5467862 72.1665828 8200521

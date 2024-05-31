@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Mejia Granados, Paulina Isabel	MEX 2002 1713.3819706 73.8688792 5125081
+1 Mejia Granados, Paulina Isabel	MEX 2002 1713.7917166 73.8678500 5125081
+2 Aguilar Sanchez, Citlali	MEX 2004 1499.2565355 57.6040781 5119502

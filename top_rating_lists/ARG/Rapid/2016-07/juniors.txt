@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Pichot, Alan	ARG 1998 M 2429.0519139 72.7230560 110973
+1 Pichot, Alan	ARG 1998 M 2447.5346116 72.8085097 110973

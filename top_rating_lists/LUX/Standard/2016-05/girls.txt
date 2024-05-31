@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
 1 Blond Hanten, Elsa	LUX 2001 1540.2183904 54.3769828 4001516
+2 Burdot, Clara	LUX 2004 1316.6243186 70.9072286 4004779

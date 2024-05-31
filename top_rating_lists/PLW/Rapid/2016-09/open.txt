@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Balbalosa, Jeffrey	PLW 1979 M 1793.5090271 72.9401946 16600240
+1 Balbalosa, Jeffrey	PLW 1979 M 1794.3645086 72.9536209 16600240

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Enkhtuul, Altanulzii	MGL 1994 2041.6162394 61.4786962 4901444
-2 Saikhanzaya, Ganbaatar	MGL 1997 1734.4502011 70.9662412 4900030
+1 Enkhtuul, Altanulzii	MGL 1994 2061.2841444 61.5663960 4901444
+2 Saikhanzaya, Ganbaatar	MGL 1997 1743.5508452 71.2209520 4900030

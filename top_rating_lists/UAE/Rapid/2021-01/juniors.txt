@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rashid Husain Alhammadi	UAE 2012 M 1478.8477397 73.8630193 9321020
+1 Rashid Husain Alhammadi	UAE 2012 M 1480.8904863 73.8865454 9321020

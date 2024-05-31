@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Valcu, Lavinia	SWE 2009 1591.1874224 74.9323012 1752197
-2 Truskavetska, Solomia	SWE 2005 1454.4188712 57.4533107 1744658
+1 Truskavetska, Solomia	SWE 2005 1457.6152298 57.5058301 1744658

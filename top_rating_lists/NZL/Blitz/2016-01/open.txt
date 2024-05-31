@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Thornton, Giovanni Antonio	NZL 1987 M 2056.9261152 65.3414412 4300963
-2 Nylund, Benjamin	NZL 2004 M 1520.6224523 73.5698672 4305019
+1 Thornton, Giovanni Antonio	NZL 1987 M 2073.0374877 65.5446731 4300963
+2 Nylund, Benjamin	NZL 2004 M 1524.3813201 73.7605238 4305019

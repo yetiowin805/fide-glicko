@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mamatov, Melis	KGZ 1996 M 1877.1726122 67.5256954 13800027
+1 Mamatov, Melis	KGZ 1996 M 1889.9421789 67.9215231 13800027

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Michaelides, Konstantinos	CYP 2002 M 2095.2509849 65.0107650 5901871
-2 Antoniou, Rafail	CYP 2008 M 1598.4012685 74.6378108 5904390
+1 Michaelides, Konstantinos	CYP 2002 M 2102.0465861 65.0370085 5901871
+2 Antoniou, Rafail	CYP 2008 M 1602.1144653 74.8404330 5904390

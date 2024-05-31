@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rojas Keim, Luis	CHI 1975 M 2247.0230755 68.2372527 3400646
+1 Rojas Keim, Luis	CHI 1975 M 2262.3930550 68.3226971 3400646

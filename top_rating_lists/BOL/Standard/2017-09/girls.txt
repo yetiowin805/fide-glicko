@@ -30,3 +30,4 @@ Rank Name Federation BirthYear Rating RD
 29 Pacheco Arteaga, Natalia	BOL 2007 1216.8865980 64.8586634 3317153
 30 Pacheco Lopez, Carla Viviana	BOL 2006 1205.2579002 60.0620072 3318605
 31 Gutierrez Candia, Daira Suemy	BOL 2008 1111.9437582 56.2332968 3315657
+32 Quispe Mamani, Briseyda Belen	BOL 2009 994.0311188 59.1138171 3314162

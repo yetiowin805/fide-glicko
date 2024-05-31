@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gavarrete, Nahun	HON 1994 M 2137.4379884 71.8212381 8400709
-2 Obregon Amador, Jose Francisco	HON 1985 M 1770.7936270 67.3765767 8400857
+1 Gavarrete, Nahun	HON 1994 M 2150.9853541 71.9602238 8400709
+2 Obregon Amador, Jose Francisco	HON 1985 M 1772.1279635 67.4483271 8400857

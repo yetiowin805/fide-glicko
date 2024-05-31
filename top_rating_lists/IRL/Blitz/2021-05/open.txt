@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Carroll, Peter	IRL 2002 M 1811.9764577 69.7608209 2510243
+1 Carroll, Peter	IRL 2002 M 1819.8848574 69.8498872 2510243

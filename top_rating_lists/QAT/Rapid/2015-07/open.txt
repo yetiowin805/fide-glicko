@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al-Modiahki, Mohamad	QAT 1974 M 2420.6814695 74.1430352 12100030
+1 Al-Modiahki, Mohamad	QAT 1974 M 2440.0198582 74.1550404 12100030

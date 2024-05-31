@@ -42,4 +42,5 @@ Rank Name Federation BirthYear Sex Rating RD
 41 Ramirez Mori, Angel Farid	PER 2009 M 1315.3196913 68.1268615 3845796
 42 Guzman Vera, Xiomara Anahi	PER 2012 F 1308.2699887 67.3246162 3857948
 43 Rojas Salas, Rihanna Irina	PER 2012 F 1284.1676056 53.1852256 3839850
-44 Reyes Zavaleta, Sergio Gabriel	PER 2011 M 1220.6409404 62.3103192 3845494
+44 Cardenas Huachaca, Alessandro Jair	PER 2010 M 1221.0394487 73.1828878 3845133
+45 Reyes Zavaleta, Sergio Gabriel	PER 2011 M 1220.6409404 62.3103192 3845494

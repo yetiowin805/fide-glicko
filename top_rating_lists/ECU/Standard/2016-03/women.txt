@@ -24,3 +24,4 @@ Rank Name Federation BirthYear Rating RD
 23 Santos, Angeline	ECU 1996 1445.2116014 71.4848986 3621928
 24 Pinos Cevallos, Belen	ECU 2002 1444.7992115 72.1797848 3620832
 25 Martinez Zambrano, Karina Paola	ECU 1900 1433.8635137 70.2834622 3629651
+26 Quezada Pauker,Katheen Gabriela	ECU 2007 1368.5671754 71.2535740 3632261

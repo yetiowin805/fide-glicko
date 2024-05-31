@@ -5,7 +5,7 @@ Rank Name Federation BirthYear Sex Rating RD
 4 Polanco Fernandez, Sahiean	DOM 2011 M 1687.9433015 53.7547488 6425240
 5 Fondeur Fernandez, Adrian Francisco	DOM 2003 M 1664.8793808 68.8540933 6426271
 6 Ramirez Luzon, Franchesca	DOM 2004 F 1601.2512469 51.2731438 6421792
-7 Lara Santos Angel Sebastian	DOM 2012 M 1597.3834400 72.4069078 6430910
+7 Angel Sebastian, Lara Santos	DOM 2012 M 1597.3834400 72.4069078 6430910
 8 Polanco Fernandez, Reynie	DOM 2009 M 1587.6025111 53.1390007 6424821
 9 Simo Paulino, Leonardo Michael	DOM 2012 M 1470.5811597 55.8293187 6426565
 10 Cruz Familia, Dewinson Manuel	DOM 2004 M 1385.7728162 74.0571232 6421300

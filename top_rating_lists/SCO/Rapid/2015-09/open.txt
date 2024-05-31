@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Torrance, John	SCO 1946 M 1450.5772320 74.6944524 418099
+1 Torrance, John	SCO 1946 M 1456.2750619 74.7748655 418099

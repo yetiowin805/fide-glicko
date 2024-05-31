@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Goldberg, Shmuel	RSA 1998 M 1809.0902962 66.2833187 14317737
+1 Goldberg, Shmuel	RSA 1998 M 1815.7974878 66.9387927 14317737

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Gomez Barrera, Javiera Belen	CHI 2002 1815.5069828 69.0265771 3418723
-2 Mundaca Bermedo, Pia	CHI 2007 1572.5026613 74.4198068 3430170
+1 Gomez Barrera, Javiera Belen	CHI 2002 1822.9360269 69.2307479 3418723
+2 Mundaca Bermedo, Pia	CHI 2007 1574.4353782 74.4655543 3430170

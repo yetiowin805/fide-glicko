@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Miturova, Magdalena	CZE 1993 2056.4919200 73.9047080 330221
-2 Novosadova, Kristyna	CZE 1990 1976.3565658 71.5727693 328065
+1 Miturova, Magdalena	CZE 1993 2073.6613135 74.1111994 330221
+2 Novosadova, Kristyna	CZE 1990 1992.8416369 71.7305093 328065

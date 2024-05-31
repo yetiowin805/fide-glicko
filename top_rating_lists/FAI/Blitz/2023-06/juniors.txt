@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Petersen, Elias	FAI 2007 M 1466.2930502 74.3812906 7202725
+1 Petersen, Elias	FAI 2007 M 1467.4464759 74.4060044 7202725

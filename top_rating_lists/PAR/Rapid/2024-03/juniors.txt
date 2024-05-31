@@ -1,7 +1,7 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Amarilla Ettiene, Ezequiel	PAR 2009 M 1741.3574153 67.7151120 3708403
-2 Mayeregger Gonzalez, Renata	PAR 2007 F 1625.8295385 73.2298341 3708900
-3 Navarro Canete, Facundo Javier	PAR 2009 M 1576.8991453 73.9065042 3712532
-4 Veloso Tintel, Emmanuel Ian	PAR 2016 M 1530.2051972 63.2231756 3713202
-5 Benitez Sanabria, Diego Isaias	PAR 2012 M 1453.0384558 72.0447808 3712605
-6 Gonzalez Mendez, Martin Ezequiel	PAR 2015 M 1368.9487393 74.0098070 3714845
+1 Amarilla Ettiene, Ezequiel	PAR 2009 M 1744.9693382 67.8405213 3708403
+2 Mayeregger Gonzalez, Renata Valentina	PAR 2007 F 1628.2723050 73.2633748 3708900
+3 Navarro Canete, Facundo Javier	PAR 2009 M 1579.3645401 73.9443801 3712532
+4 Veloso Tintel, Emmanuel Ian	PAR 2016 M 1531.8256327 63.2452310 3713202
+5 Benitez Sanabria, Diego Isaias	PAR 2012 M 1454.7395980 72.0518960 3712605
+6 Gonzalez Mendez, Martin Ezequiel	PAR 2015 M 1370.1621577 74.0283984 3714845

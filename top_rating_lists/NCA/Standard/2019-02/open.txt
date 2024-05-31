@@ -63,3 +63,4 @@ Rank Name Federation BirthYear Sex Rating RD
 62 Avendano, Yader A.	NCA 1900 M 1367.3787506 73.5496475 6103677
 63 Allen Montes, Charles Mijail	NCA 1981 M 1326.5933527 64.6476305 6105602
 64 Pomares, Roberto Carlos	NCA 1900 M 1320.0527571 74.6200111 6103480
+65 Serrano Herrera, Daniela de Andrea	NCA 2007 F 1130.2672029 62.2732618 6107168

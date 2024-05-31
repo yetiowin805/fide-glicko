@@ -3,4 +3,4 @@ Rank Name Federation BirthYear Rating RD
 2 Gamboa Alvarado, Leticia	CRC 0 1773.9115400 55.4513050 6502270
 3 Rodriguez Arrieta, Maria Elena	CRC 1990 1649.2287962 73.0701817 6502911
 4 Nunez Gonzalez, Neeshmy	CRC 0 1634.9671684 72.4690449 6504396
-5 Acevedo Mendez, Lisseth	CRC 0 1627.5550212 63.7313751 6502938
+5 Acevedo Mendez, Lisseth	CRC 1993 1627.5550212 63.7313751 6502938

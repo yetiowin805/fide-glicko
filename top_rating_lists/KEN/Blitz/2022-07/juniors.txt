@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mwabu, Timothy	KEN 2003 M 1759.9515314 68.0385209 10805796
+1 Mwabu, Timothy	KEN 2003 M 1761.0238043 68.0711713 10805796

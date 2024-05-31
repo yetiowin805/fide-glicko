@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mero,Aghiad.	SYR 2004 M 1619.5478274 68.2535315 7608420
+1 Mero,Aghiad.	SYR 2004 M 1621.1398133 68.2890899 7608420

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Soberov, Emil	CAN 2010 M 1721.4759832 52.1062540 34344217
+1 Soberov, Emil	CAN 2010 M 1730.7538878 52.1663404 34344217

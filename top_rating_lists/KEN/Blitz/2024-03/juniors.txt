@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Oluka Robert Mcligeyo	KEN 2005 M 1679.9884367 67.9811528 10814647
+1 Oluka Robert Mcligeyo	KEN 2005 M 1681.3082247 68.0001070 10814647

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Davletbakov, Saddam	KGZ 1991 M 2291.3097256 72.9837336 13800566
+1 Davletbakov, Saddam	KGZ 1991 M 2316.5574028 72.9834271 13800566

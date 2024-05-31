@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Rating RD
 1 Tuzi, Bruna	ALB 1995 1762.0771076 66.4555256 4701100
+2 Shuqja, Klean	ALB 2006 1449.4936811 58.3422785 4701585

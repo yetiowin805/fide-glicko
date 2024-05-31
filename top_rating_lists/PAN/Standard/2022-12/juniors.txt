@@ -40,3 +40,5 @@ Rank Name Federation BirthYear Sex Rating RD
 39 Barcia Dominguez, Andrea Alejandra	PAN 2008 F 1277.5995387 74.9759678 6612580
 40 Gonzalez Rodriguez, Genesis	PAN 2008 F 1276.3585785 73.3712566 6608620
 41 Cortes Luk, Jose Alejandro	PAN 2008 M 1274.3749233 63.2292926 6607705
+42 Lopez Villarreal, Melissa Paola	PAN 2006 F 1250.6681022 67.2689311 6608167
+43 Lasso Mollick, Luis Daniel	PAN 2009 M 1243.7958386 74.2195636 6611672

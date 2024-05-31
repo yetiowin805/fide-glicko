@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Malakhatko, Vadim	BEL 1977 M 2470.3264533 72.1719618 14104202
+1 Malakhatko, Vadim	BEL 1977 M 2489.4865149 72.0433504 14104202

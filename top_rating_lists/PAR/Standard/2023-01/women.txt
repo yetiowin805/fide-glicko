@@ -11,4 +11,3 @@ Rank Name Federation BirthYear Rating RD
 10 Portillo Arriola, Andrea Magali	PAR 2011 1330.3702439 68.7091943 3710726
 11 Lugo Martinez, Jimena Sofia	PAR 2012 1314.9705316 45.5557009 3710793
 12 Torres Caballero, Sofia Anabela	PAR 2011 1281.6639585 63.2567088 3709434
-13 Duarte Laconich, Emma Violeta	PAR 2010 1102.1871900 72.4824934 3710246

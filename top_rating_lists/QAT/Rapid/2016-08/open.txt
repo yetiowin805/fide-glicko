@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 AL-Sayed, Mohammed	QAT 1981 M 2392.8831537 71.4725257 12100196
+1 AL-Sayed, Mohammed	QAT 1981 M 2411.6806971 71.4821575 12100196

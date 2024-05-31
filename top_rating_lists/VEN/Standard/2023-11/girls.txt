@@ -45,3 +45,4 @@ Rank Name Federation BirthYear Rating RD
 44 Rangel Teran, Mariangel	VEN 2008 1239.6758018 71.1909448 3965546
 45 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1224.8398188 62.6683286 3964051
 46 Ordaz Diaz, Lourdes Sarahi	VEN 2009 1216.8843484 69.3865104 3950697
+47 Lopez Marcano, Jade Delvalle	VEN 2010 1160.8721353 73.8912760 23902256

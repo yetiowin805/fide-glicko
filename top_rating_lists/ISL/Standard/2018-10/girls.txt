@@ -5,3 +5,4 @@ Rank Name Federation BirthYear Rating RD
 4 Birkisdottir, Freyja	ISL 2006 1334.5466198 67.5365449 2311860
 5 Thoroddsen, Anna Katarina	ISL 2008 1018.6135856 55.6216833 2315726
 6 Helgadottir, Idunn	ISL 2007 993.7262322 60.5816427 2314118
+7 Berndsen, Soffia Arndis	ISL 2008 985.7518422 55.7942299 2316811

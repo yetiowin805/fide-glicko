@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Smith, Javanna	TRI 1997 1536.1789440 68.3394265 7700466
+1 Smith, Javanna	TRI 1997 1541.4968759 68.4200222 7700466

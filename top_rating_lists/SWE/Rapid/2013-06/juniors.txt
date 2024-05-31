@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lindgren, Philip	SWE 1994 M 2173.1330775 74.6411955 1713230
+1 Lindgren, Philip	SWE 1994 M 2193.1051320 74.5678053 1713230

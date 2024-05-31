@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Guach Rodriguez, Marcos Antonio	CUB 2009 M 1672.9162332 71.6892704 3530221
-2 Gotti Rodriguez, Leinier	CUB 2009 M 1607.9402934 74.8984372 3531902
+1 Guach Rodriguez, Marcos Antonio	CUB 2009 M 1678.2722517 71.8825875 3530221

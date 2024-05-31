@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Obregon Amador, Jose Francisco	HON 1985 M 1777.2951851 69.1374934 8400857
-2 Castillo Aguilar, Angel Emilio	HON 2011 M 1583.3032232 74.6056643 8409501
+1 Obregon Amador, Jose Francisco	HON 1985 M 1778.6346276 69.2054908 8400857
+2 Castillo Aguilar, Angel Emilio	HON 2011 M 1583.7531052 74.6272666 8409501

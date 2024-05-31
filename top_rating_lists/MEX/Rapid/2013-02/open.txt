@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gonzalez Garcia, Jose	MEX 1973 M 2455.3650331 70.2042035 5101174
+1 Gonzalez Garcia, Jose	MEX 1973 M 2476.1417624 70.1959779 5101174

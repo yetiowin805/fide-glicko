@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Abdulwahhab, Ahmed Abdulsattar A	IRQ 1975 M 2184.3234285 74.9793532 4801849
-2 Ismael, Namir Mohammed Ismael	IRQ 1971 M 2030.1911340 73.9594201 4800800
+1 Ismael, Namir Mohammed Ismael	IRQ 1971 M 2045.3183168 74.0860895 4800800

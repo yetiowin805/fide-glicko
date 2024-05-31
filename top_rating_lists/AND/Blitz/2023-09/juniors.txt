@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Henderson de La Fuente, Lance	AND 2003 M 2331.0299731 71.8255715 32096585
-2 Ribera Veganzones, Serni	AND 2007 M 1897.0565780 66.5298479 6900860
+1 Henderson de La Fuente, Lance	AND 2003 M 2345.3802192 71.9727303 32096585
+2 Ribera Veganzones, Serni	AND 2007 M 1907.2163016 66.6327479 6900860

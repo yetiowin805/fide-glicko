@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gil Marquez, Anahi	BOL 2006 F 1661.1616825 67.2480604 3325130
-2 Ramirez Pinto, Juan Alberto	BOL 2008 M 1638.9083635 74.9808388 3325199
+1 Gil Marquez, Anahi	BOL 2006 F 1662.0655794 67.2718121 3325130

@@ -40,5 +40,5 @@ Rank Name Federation BirthYear Rating RD
 39 Vargas Gonzales, Wanda Mariana	BOL 2012 1269.7881019 52.6252475 3336590
 40 Paucara Manzaneda, Maite Noelia	BOL 2011 1252.1804628 73.5750670 3325385
 41 Quispe Choquehuanca, Angeles Aydee	BOL 2012 1240.1559479 68.6452539 3339769
-42 Torrejon Teran, Valeria Emily	BOL 2011 1218.8665589 49.6009665 3322297
+42 Quispe Mamani, Briseyda Belen	BOL 2009 1192.5773718 70.4079767 3314162
 43 Iporre Romero, Kirna Jhocabed	BOL 2016 1187.4571666 74.1933854 3339033

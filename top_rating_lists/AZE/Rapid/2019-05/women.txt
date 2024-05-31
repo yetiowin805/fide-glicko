@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Fataliyeva, Ulviyya	AZE 1996 2192.0157165 60.2400675 13403052
-2 Mamedjarova, Turkan	AZE 1989 2169.5136234 74.9507266 13402005
+1 Fataliyeva, Ulviyya	AZE 1996 2203.0456238 60.3532276 13403052

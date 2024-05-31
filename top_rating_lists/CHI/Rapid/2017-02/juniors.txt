@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Estrada Lavin, Cristian Alexand	CHI 1999 M 1802.7486792 70.9925174 3411710
+1 Estrada Lavin, Cristian Alexand	CHI 1999 M 1805.0417418 71.0270138 3411710

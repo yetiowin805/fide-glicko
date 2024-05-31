@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Camacho Villarreal, Beatriz Giov	VEN 2000 1564.4328622 71.5962281 3909093
-2 Pena Gonzalez, Clara Isabel	VEN 2004 1542.8624457 70.7878617 3924203
-3 Castro Paitan, Maria Raquel	VEN 2003 1539.6222851 73.8120341 3915387
+1 Camacho Villarreal, Beatriz Giov	VEN 2000 1567.5189451 71.7301874 3909093
+2 Pena Gonzalez, Clara Isabel	VEN 2004 1544.5457195 70.8438006 3924203
+3 Castro Paitan, Maria Raquel	VEN 2003 1542.0698487 73.9037035 3915387

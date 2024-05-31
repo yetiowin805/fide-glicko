@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Dangol, Bijaya	NEP 1997 M 1820.3572064 68.1700362 12303038
+1 Dangol, Bijaya	NEP 1997 M 1824.0696732 68.2595432 12303038

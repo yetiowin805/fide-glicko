@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Sukandar, Irine Kharisma	INA 1992 2118.0036106 64.0307713 7101937
-2 Liuviann, Cecilia Natalie	INA 2005 1790.2240617 74.7759633 7111932
+1 Sukandar, Irine Kharisma	INA 1992 2130.2354623 64.1675102 7101937
+2 Liuviann, Cecilia Natalie	INA 2005 1793.3415095 74.8866764 7111932

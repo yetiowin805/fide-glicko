@@ -21,3 +21,4 @@ Rank Name Federation BirthYear Rating RD
 20 Hernandez Brenes, Keicy Pamela	CRC 2008 1354.4002544 68.7906404 6520170
 21 Rojas Mora, Elena	CRC 2010 1317.1832934 71.7485975 6513417
 22 Lobo Meneses, Andrea Alejandra	CRC 2007 1261.8936938 74.3483017 6511562
+23 Bermudez Hernandez, Amanda	CRC 2007 1090.3095599 70.2837823 6521240

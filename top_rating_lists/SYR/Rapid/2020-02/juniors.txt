@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Alsabbagh,Ahmed	SYR 2012 M 1316.0347237 67.7038068 7609884
+1 Alsabbagh,Ahmed	SYR 2012 M 1317.5245821 67.7223753 7609884

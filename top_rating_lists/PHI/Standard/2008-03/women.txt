@@ -1,4 +1,3 @@
 Rank Name Federation BirthYear Rating RD
 1 Lomibao, Sheerie Joy	PHI 1979 1968.4181731 64.1163745 5201217
 2 Mendoza, Beverly	PHI 1981 1944.6535659 58.8176513 5201250
-3 Bernales, Christy Lamiel	PHI 0 1810.5845674 71.8158729 5204534

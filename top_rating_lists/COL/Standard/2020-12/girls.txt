@@ -29,4 +29,5 @@ Rank Name Federation BirthYear Rating RD
 28 Medina Baquiro, Paula Andrea	COL 2006 1328.4525620 73.6319807 4484568
 29 Campos Perilla, Angie Catalina	COL 2003 1310.2834962 72.9789587 4473108
 30 Tipiani Martinez, Paula Sofia	COL 2005 1297.7001662 73.2159659 4484576
-31 Susunaga Duran, Madelen Fernanda	COL 2007 1210.1375111 72.1492036 4488067
+31 Montoya, Mariangel	COL 2011 1253.2023089 72.6977743 4482760
+32 Susunaga Duran, Madelen Fernanda	COL 2007 1210.1375111 72.1492036 4488067

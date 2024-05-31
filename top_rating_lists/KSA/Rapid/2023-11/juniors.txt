@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Aljameel, Sultan Anwar	KSA 2005 M 1658.2694746 73.4804438 21525692
+1 Aljameel, Sultan Anwar	KSA 2005 M 1659.9715919 73.5575675 21525692
+2 Alsenari, Yousef Mohammed	KSA 2006 M 1641.0328299 73.4747232 21525455

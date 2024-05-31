@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Doroy Allaney Jia G	PHI 2001 1672.7715931 74.8874199 5216729
-2 Causo, Julie Ann Mendez	PHI 1992 1501.4343766 70.1282941 5217695
+1 Causo, Julie Ann Mendez	PHI 1992 1507.8060330 70.2556674 5217695

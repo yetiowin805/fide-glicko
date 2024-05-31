@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Vazquez, Facundo	URU 2004 M 1864.2051031 72.2273246 3007669
+1 Vazquez, Facundo	URU 2004 M 1873.9528747 72.4289560 3007669

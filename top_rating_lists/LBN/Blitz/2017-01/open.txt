@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Somoff, Abdo	LBN 1961 M 1884.9977400 64.6346831 5300754
+1 Somoff, Abdo	LBN 1961 M 1895.6044281 64.8387774 5300754

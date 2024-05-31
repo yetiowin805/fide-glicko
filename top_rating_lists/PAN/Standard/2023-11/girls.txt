@@ -17,4 +17,5 @@ Rank Name Federation BirthYear Rating RD
 16 Quiroz Santamaria, Victoria Isabel	PAN 2013 1323.5062111 73.4384062 6615252
 17 Arevalo Guerra, Danna Isabella	PAN 2011 1296.1176984 72.1947634 6612458
 18 Lopez Villarreal, Melissa Paola	PAN 2006 1281.8748963 67.0921733 6608167
-19 Montezuma Camarena, Dayana Cristel	PAN 2009 1181.7193043 65.5327325 6611060
+19 Almengor De Gracia, Danahe Renee	PAN 2009 1262.4961175 65.0293818 6612741
+20 Montezuma Camarena, Dayana Cristel	PAN 2009 1181.7193043 65.5327325 6611060

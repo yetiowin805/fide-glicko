@@ -30,6 +30,7 @@ Rank Name Federation BirthYear Rating RD
 29 Matute Ferrer, Rosa Angelina	VEN 1967 1308.8495964 66.2541721 3969177
 30 Herrera Rodriguez, Flavia del Valle	VEN 2010 1271.4203516 58.3352635 3963730
 31 Luzardo Lopez, Aranza Victoria	VEN 2011 1263.6037272 52.3551078 3956733
-32 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1183.0788370 63.3260848 3964051
-33 Rivera Salazar, Anmarie Giorgina	VEN 2007 1152.0145205 67.4602342 3974251
-34 Larez Grinstein, Katherine Sofia	VEN 2007 1150.9852124 74.8804159 3965295
+32 Rangel Teran, Mariangel	VEN 2008 1261.6431255 63.9827790 3965546
+33 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1183.0788370 63.3260848 3964051
+34 Rivera Salazar, Anmarie Giorgina	VEN 2007 1152.0145205 67.4602342 3974251
+35 Larez Grinstein, Katherine Sofia	VEN 2007 1150.9852124 74.8804159 3965295

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Etienne, Angelo	HAI 2002 M 2095.8712865 74.8183007 361096937
+1 Etienne, Angelo	HAI 2002 M 2105.7106369 74.9800731 361096937

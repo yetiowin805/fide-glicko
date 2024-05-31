@@ -81,3 +81,4 @@ Rank Name Federation BirthYear Rating RD
 80 Quispe Jorge, Maria Fernanda	PER 2004 1245.4975391 63.9619059 3841391
 81 Chavarria Soto, Ariana Lucia	PER 2005 1211.9419641 65.3597614 3845818
 82 Herrada Blanco, Luciana Franchesca	PER 2008 1136.4643096 72.7943949 3845044
+83 Caballero Ordonez, Valeska	PER 2009 1121.5580385 74.5471498 3839699

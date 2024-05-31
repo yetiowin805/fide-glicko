@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Adol Makuach Dau	SSD 2003 M 1817.4269457 70.5667305 32501145
+1 Adol Makuach Dau	SSD 2003 M 1818.5079482 70.5839611 32501145

@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Martinez Mares, Genesis Alejandra	MEX 2005 1574.9322804 66.3511529 5144264
-2 Aguilar Sanchez, Citlali	MEX 2004 1531.0011765 74.6281223 5119502
+1 Martinez Mares, Genesis Alejandra	MEX 2005 1574.3239675 66.3589694 5144264
+2 Aguilar Sanchez, Citlali	MEX 2004 1530.7307434 74.6547987 5119502

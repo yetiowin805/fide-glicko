@@ -15,4 +15,3 @@ Rank Name Federation BirthYear Rating RD
 14 Moscoso Paz, Esther Angela	BOL 2009 1328.3862897 62.8014964 3332136
 15 Salazar Salinas, Maria Jose	BOL 2009 1325.6775039 55.6784305 3331601
 16 Ameller Flores, Catalina	BOL 2011 1225.8952077 72.7801220 3323080
-17 Quispe Mamani, Briseyda Belen	BOL 2009 1171.4471205 67.6382197 3314162

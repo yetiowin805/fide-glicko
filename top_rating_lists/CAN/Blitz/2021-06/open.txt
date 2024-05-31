@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gribanov, Anton	CAN 1989 M 1576.1224988 74.4746534 2639220
+1 Gribanov, Anton	CAN 1989 M 1584.4791718 74.7074864 2639220

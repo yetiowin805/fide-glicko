@@ -31,4 +31,5 @@ Rank Name Federation BirthYear Rating RD
 30 Larez Grinstein, Katherine Sofia	VEN 2007 1248.5985005 65.4184676 3965295
 31 Contreras Toro, Gisell Patricia	VEN 2007 1243.5612220 74.3439672 3978044
 32 Rivera Salazar, Anmarie Giorgina	VEN 2007 1212.3838395 61.7117673 3974251
-33 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1184.8385096 59.7941391 3964051
+33 Ordaz Diaz, Lourdes Sarahi	VEN 2009 1193.4865757 60.5534767 3950697
+34 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1184.8385096 59.7941391 3964051

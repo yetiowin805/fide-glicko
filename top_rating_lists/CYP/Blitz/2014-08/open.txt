@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Aristotelous, Vassilis	CYP 1956 M 1800.5466127 74.5312214 5900468
-2 Georgiou, Andreas	CYP 1973 M 1563.4328000 69.0089359 5900360
+1 Georgiou, Andreas	CYP 1973 M 1564.3409701 69.1371222 5900360

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kaslan, Catherine	SUR 2003 F 1686.5615894 70.1618227 8201390
+1 Kaslan, Catherine	SUR 2003 F 1690.6222912 70.2463303 8201390

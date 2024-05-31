@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Tokhirjonova, Gulrukhbegim	UZB 1999 2020.2301278 56.4757384 14203626
-2 Yakubbaeva, Nilufar	UZB 2000 1659.6903713 74.4485171 14204487
+1 Tokhirjonova, Gulrukhbegim	UZB 1999 2037.6390012 56.7179096 14203626
+2 Yakubbaeva, Nilufar	UZB 2000 1664.5300578 74.7752506 14204487

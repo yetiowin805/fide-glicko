@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Giraldo Segovia, Angely	VEN 1998 1654.1429231 71.8872521 3900606
-2 Aumaitre Rojas, Nairymar Nazaret	VEN 1998 1494.4508385 66.1618364 3915603
-3 Mustafa Suarez, Nadia Veruska	VEN 1998 1407.6172401 73.3375943 3915638
+1 Giraldo Segovia, Angely	VEN 1998 1659.8512813 72.0983393 3900606
+2 Aumaitre Rojas, Nairymar Nazaret	VEN 1998 1497.1701495 66.2167783 3915603
+3 Mustafa Suarez, Nadia Veruska	VEN 1998 1409.3439167 73.3700095 3915638

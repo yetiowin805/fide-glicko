@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Qazi, Rafeh	USA 1994 M 1670.3517805 71.8843611 2068974
+1 Qazi, Rafeh	USA 1994 M 1675.5018711 72.0612415 2068974

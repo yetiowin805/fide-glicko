@@ -1,4 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hayder Farhan Al- Hasnawi	IRQ 1992 M 1745.3185601 73.6888296 4803728
-2 Jalaluldeen, Kareen Kamal J.	IRQ 1993 F 1639.0606926 71.6669758 4801776
-3 Al-Khalidi, Aisha Ali Ahmed	IRQ 1996 F 1459.3138478 74.7805176 4806042
+1 Hayder Farhan Al- Hasnawi	IRQ 1992 M 1755.9622550 73.8576547 4803728
+2 Jalaluldeen, Kareen Kamal J.	IRQ 1993 F 1648.2034753 71.7739216 4801776

@@ -5,3 +5,4 @@ Rank Name Federation BirthYear Rating RD
 4 Conde Mares, Vanya Briseyda	MEX 2007 1566.4402229 72.8064169 5129656
 5 Hernandez Diaz, Paula Sofia	MEX 2006 1545.6795001 67.3589166 5146798
 6 Hernandez, Ortega Carolina	MEX 2005 1526.6011687 74.1400394 5132126
+7 Del Razo Mendoza, Nancy Ailine	MEX 2006 1268.3392291 73.3212343 5137632

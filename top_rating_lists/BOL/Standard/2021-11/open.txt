@@ -50,4 +50,3 @@ Rank Name Federation BirthYear Sex Rating RD
 49 Bracamonte, Leonel	BOL 2009 M 1278.4761735 72.6478628 3311716
 50 Cortez Chuviru, Gael Marbel	BOL 2012 M 1264.4634724 73.9805045 3333728
 51 Ameller Flores, Catalina	BOL 2011 F 1225.8952077 72.7801220 3323080
-52 Quispe Mamani, Briseyda Belen	BOL 2009 F 1171.4471205 67.6382197 3314162

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Wyss, Jonas	SUI 1987 M 2141.5803474 72.8165624 1311387
+1 Wyss, Jonas	SUI 1987 M 2159.9358918 72.9214464 1311387

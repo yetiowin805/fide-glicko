@@ -18,6 +18,5 @@ Rank Name Federation BirthYear Rating RD
 17 Lopez Villarreal, Melissa Paola	PAN 2006 1305.2915394 60.4853902 6608167
 18 Arevalo Guerra, Danna Isabella	PAN 2011 1296.1176984 61.1951730 6612458
 19 Abrego Tugri, Adaina Michell	PAN 2007 1287.6952493 65.9352973 6610820
-20 Valdez Molina, Suyen Yamileth	PAN 2007 1245.2363715 71.9189434 6606679
-21 Gonzalez Rodriguez, Genesis	PAN 2008 1229.9502143 69.7531460 6608620
-22 Montezuma Camarena, Dayana Cristel	PAN 2009 1171.3363411 62.3126044 6611060
+20 Gonzalez Rodriguez, Genesis	PAN 2008 1229.9502143 69.7531460 6608620
+21 Montezuma Camarena, Dayana Cristel	PAN 2009 1171.3363411 62.3126044 6611060

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Edet, Udeme	NGR 1987 M 1825.1470190 73.8047920 8503125
+1 Edet, Udeme	NGR 1987 M 1827.5291959 73.8454320 8503125

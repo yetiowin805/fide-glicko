@@ -59,6 +59,5 @@ Rank Name Federation BirthYear Rating RD
 58 Camargo Picon, Mariangel	VEN 2007 1323.9880205 58.7233518 3933598
 59 Quijada Amundarain, Rosanny	VEN 1998 1299.6408197 74.7526537 3915654
 60 Gelviz Rodriguez, Emily Antonella	VEN 2002 1292.5818859 69.7834780 3928020
-61 Noriega Ramos, Amanda Victoria	VEN 2006 1256.4996972 64.0823295 3935850
-62 Lopez Romero, Virginia Del Valle	VEN 2000 1244.4024473 74.9201123 3915549
-63 Hernandez Mora, Nohelia Virginia	VEN 2005 1186.5124271 69.8731311 3915344
+61 Lopez Romero, Virginia Del Valle	VEN 2000 1244.4024473 74.9201123 3915549
+62 Hernandez Mora, Nohelia Virginia	VEN 2005 1186.5124271 69.8731311 3915344

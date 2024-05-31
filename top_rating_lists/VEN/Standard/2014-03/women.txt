@@ -34,3 +34,4 @@ Rank Name Federation BirthYear Rating RD
 33 Pinerua Salazar, Vicmarys	VEN 1997 1428.5173946 74.2048164 3915786
 34 Yepez Moreno, Juliet Carolina	VEN 2001 1381.8027519 52.4987208 3905438
 35 Rodriguez Perez, Mirian Elena	VEN 1992 1338.8813036 74.2744370 3906140
+36 Yepez Moreno, Catherine Celeste	VEN 2003 1320.4767086 66.6782491 3905292

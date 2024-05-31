@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Jodorcovsky, Alejandro David	PAR 2007 M 1741.1323003 74.0439358 3705625
-2 Montiel, Angel Nathanael	PAR 2004 M 1697.2598997 68.1608724 3706923
-3 Amarilla Ettiene, Ezequiel	PAR 2009 M 1626.6241728 64.7879902 3708403
-4 Miranda Fernandez, Marcos Manuel	PAR 2010 M 1602.1421321 74.5182635 3708802
+1 Jodorcovsky, Alejandro David	PAR 2007 M 1745.2862501 74.1677436 3705625
+2 Montiel, Angel Nathanael	PAR 2004 M 1701.7198040 68.2742422 3706923
+3 Amarilla Ettiene, Ezequiel	PAR 2009 M 1629.9274258 64.8676017 3708403
+4 Miranda Fernandez, Marcos Manuel	PAR 2010 M 1604.8943631 74.6084567 3708802

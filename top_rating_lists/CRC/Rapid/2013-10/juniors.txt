@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Jimenez Garcia, Emmanuel	CRC 1997 M 1859.0386335 73.8859413 6504779
+1 Jimenez Garcia, Emmanuel	CRC 1997 M 1864.9378767 74.0575341 6504779

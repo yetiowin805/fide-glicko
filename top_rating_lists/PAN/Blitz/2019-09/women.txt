@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Barria Baker, Raisa Melissa	PAN 1987 1755.8420529 70.4226400 6600336
-2 Carrillo Marval, Maria Angelica	PAN 1991 1675.9511119 72.0319087 3911853
+1 Barria Baker, Raisa Melissa	PAN 1987 1762.7357517 70.6375386 6600336
+2 Carrillo Marval, Maria Angelica	PAN 1991 1681.4178828 72.2322412 3911853

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lwanga, Aguda	KEN 2006 M 1607.4014414 70.1614367 10801529
+1 Lwanga, Aguda	KEN 2006 M 1608.5273509 70.1864124 10801529

@@ -53,6 +53,5 @@ Rank Name Federation BirthYear Sex Rating RD
 52 Abrego Tugri, Adaina Michell	PAN 2007 F 1287.6952493 65.9352973 6610820
 53 Cortes Luk, Jose Alejandro	PAN 2008 M 1274.3749233 72.2546850 6607705
 54 Sheffer Ledesma, Aldair Thomas	PAN 2009 M 1262.2000421 69.6520058 6615171
-55 Valdez Molina, Suyen Yamileth	PAN 2007 F 1245.2363715 71.9189434 6606679
-56 Gonzalez Rodriguez, Genesis	PAN 2008 F 1229.9502143 69.7531460 6608620
-57 Montezuma Camarena, Dayana Cristel	PAN 2009 F 1171.3363411 62.3126044 6611060
+55 Gonzalez Rodriguez, Genesis	PAN 2008 F 1229.9502143 69.7531460 6608620
+56 Montezuma Camarena, Dayana Cristel	PAN 2009 F 1171.3363411 62.3126044 6611060

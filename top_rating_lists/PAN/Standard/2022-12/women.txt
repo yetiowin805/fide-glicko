@@ -20,3 +20,4 @@ Rank Name Federation BirthYear Rating RD
 19 Shayegan Fernandez, Yeisie Behroo	PAN 1990 1287.4248903 65.8258632 6614051
 20 Barcia Dominguez, Andrea Alejandra	PAN 2008 1277.5995387 74.9759678 6612580
 21 Gonzalez Rodriguez, Genesis	PAN 2008 1276.3585785 73.3712566 6608620
+22 Lopez Villarreal, Melissa Paola	PAN 2006 1250.6681022 67.2689311 6608167

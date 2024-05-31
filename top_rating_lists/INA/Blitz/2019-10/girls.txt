@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Karenza, Dita	INA 2000 1773.6138911 74.9149596 7101473
-2 Elisabeth, Christine	INA 2002 1764.2910652 66.7568152 7106165
+1 Elisabeth, Christine	INA 2002 1767.9580677 66.8143851 7106165

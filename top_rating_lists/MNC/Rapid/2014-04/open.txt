@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Van Hoolandt, Patrick	MNC 1958 M 2134.9117351 74.7396360 200999
+1 Butnorius, Algimantas	MNC 1946 M 2300.1168733 73.1976632 12800066
+2 Van Hoolandt, Patrick	MNC 1958 M 2149.7053226 74.8059902 200999

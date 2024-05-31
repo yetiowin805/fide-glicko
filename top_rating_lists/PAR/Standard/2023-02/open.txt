@@ -55,3 +55,4 @@ Rank Name Federation BirthYear Sex Rating RD
 54 Cabrera Gonzalez, Benjamin Antonio	PAR 2012 M 1210.7217032 66.9643204 3712613
 55 Benitez Galeano, Gonzalo	PAR 2009 M 1168.8717971 70.1702703 3706826
 56 Rodriguez Pedrozo, Jesus Miguel	PAR 2012 M 1094.2245111 74.5390896 3713199
+57 Franco Franchi, Sol Larissa	PAR 2005 F 1088.9665259 68.5064347 3709213

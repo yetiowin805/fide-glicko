@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Amdouni, Zoubaier	TUN 1987 M 2062.2787900 72.5751013 5500419
+1 Amdouni, Zoubaier	TUN 1987 M 2075.0690321 72.6154927 5500419

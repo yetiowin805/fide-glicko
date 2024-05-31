@@ -35,5 +35,6 @@ Rank Name Federation BirthYear Rating RD
 34 Herrera Rodriguez, Flavia del Valle	VEN 2010 1271.4203516 60.3975301 3963730
 35 Luzardo Lopez, Aranza Victoria	VEN 2011 1263.6037272 54.6440183 3956733
 36 Rangel Teran, Mariangel	VEN 2008 1261.6431255 65.8719621 3965546
-37 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1183.0788370 65.2277497 3964051
-38 Rivera Salazar, Anmarie Giorgina	VEN 2007 1152.0145205 69.2544839 3974251
+37 Contreras Toro, Gisell Patricia	VEN 2007 1257.0543399 74.3704356 3978044
+38 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1183.0788370 65.2277497 3964051
+39 Rivera Salazar, Anmarie Giorgina	VEN 2007 1152.0145205 69.2544839 3974251

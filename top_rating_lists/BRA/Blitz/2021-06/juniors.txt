@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Do Valle Cardoso, Lucas	BRA 2002 M 2234.1714279 71.8535297 2163144
-2 Silva, Kaua Marques	BRA 2005 M 1917.3320519 74.9296951 22701168
+1 Do Valle Cardoso, Lucas	BRA 2002 M 2246.6071752 71.9638791 2163144

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Low, Zhen Yu Cyrus	SGP 2002 M 2157.7992090 73.8394489 5804175
+1 Low, Zhen Yu Cyrus	SGP 2002 M 2171.5931047 73.9455452 5804175

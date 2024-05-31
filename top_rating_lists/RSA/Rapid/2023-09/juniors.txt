@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Schwartz, Michael	RSA 2012 M 1546.9047071 68.8294876 14351048
+1 Schwartz, Michael	RSA 2012 M 1552.0006533 69.0885689 14351048

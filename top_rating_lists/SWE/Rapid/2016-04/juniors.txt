@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Crevatin, Leo	SWE 2001 M 1666.6006660 71.9685258 1726307
+1 Crevatin, Leo	SWE 2001 M 1673.5732258 72.3416257 1726307

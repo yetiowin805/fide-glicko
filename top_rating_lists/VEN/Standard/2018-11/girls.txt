@@ -37,7 +37,7 @@ Rank Name Federation BirthYear Rating RD
 36 Acosta Camarillo, Neyslin Sophia	VEN 2009 1373.8530099 69.9741861 3935680
 37 Contreras Quintero, Brigit Vyany	VEN 2007 1372.7581182 60.1110978 3941469
 38 Rangel Sanabria, Yuruanny	VEN 2007 1362.9790098 71.1316622 3947564
-39 Ortiz Avila, Samanta Carolina	VEN 2005 1341.3215678 66.4973636 3947548
+39 Ortiz Avila, Samantha Carolina	VEN 2005 1341.3215678 66.4973636 3947548
 40 Acuna Castillo, Yohalis del Valle	VEN 2007 1338.7456612 61.8778173 3943674
 41 Munoz Gonzalez, Ailyn Alejandra	VEN 2008 1319.9092386 73.4590254 3931633
 42 Caballero Alvarado, Alexandra I.	VEN 2007 1317.6573228 72.7509067 3935671

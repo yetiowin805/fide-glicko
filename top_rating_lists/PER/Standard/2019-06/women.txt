@@ -98,4 +98,4 @@ Rank Name Federation BirthYear Rating RD
 97 Velarde Munante, Cecilia Esthefa	PER 2002 1286.7133656 67.0288551 3835162
 98 Vasquez Rojas, Camila	PER 2008 1284.7430102 71.3328973 3854639
 99 Chavarria Soto, Ariana Lucia	PER 2005 1282.4880243 58.4069739 3845818
-100 Nole Alvarez, Antuannet Huguette	PER 2005 1275.9689232 58.2255304 3841316
+100 Contreras Condori, Luzalba Sofia	PER 2010 1280.5646526 72.4935382 3844447

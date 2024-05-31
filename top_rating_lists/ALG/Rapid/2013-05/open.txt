@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nouali, Djouher	ALG 1987 F 1676.7437242 73.6291685 7900414
+1 Nouali, Djouher	ALG 1987 F 1683.5088806 73.8877780 7900414

@@ -19,4 +19,3 @@ Rank Name Federation BirthYear Rating RD
 18 Villegas Ampuero, Consuelo	CHI 2008 1420.1948471 68.3720526 3433129
 19 Castillo Ahumada, Yessica	CHI 1970 1346.6488106 70.3733636 3449564
 20 Ramos Pizarro, Camila	CHI 2006 1277.1677577 73.0984480 3454045
-21 Vergara Arenas, Amapola Angely	CHI 2007 1143.6212437 71.1182863 3450430

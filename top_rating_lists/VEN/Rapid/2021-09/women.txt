@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Rating RD
-1 Patino Garcia, Corals	VEN 1999 1810.3772332 54.0424492 3902781
-2 Chghale Perez, Rosmarly Josefina	VEN 1996 1793.6205957 68.1431266 3915360
-3 Brito Marquez, Sophia Valentina	VEN 2008 1658.0226299 73.8891320 3951529
-4 Ortiz Avila, Samantha Carolina	VEN 2005 1577.5619797 73.3508852 3947548
+1 Patino Garcia, Corals	VEN 1999 1817.5143046 54.1553338 3902781
+2 Chghale Perez, Rosmarly Josefina	VEN 1996 1796.9244867 68.2979330 3915360
+3 Brito Marquez, Sophia Valentina	VEN 2008 1659.7669554 73.9711206 3951529
+4 Ortiz Avila, Samantha Carolina	VEN 2005 1578.6720469 73.4030254 3947548

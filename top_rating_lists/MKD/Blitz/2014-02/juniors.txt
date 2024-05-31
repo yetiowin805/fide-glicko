@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nikolovska, Dragana	MKD 1996 F 1712.2411753 72.0137604 15000133
+1 Nikolovska, Dragana	MKD 1996 F 1720.4658351 72.2317587 15000133

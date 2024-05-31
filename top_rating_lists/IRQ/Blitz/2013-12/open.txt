@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Ismael, Namir Mohammed Ismael	IRQ 1971 M 2169.7567309 68.6914558 4800800
-2 Abdulwahhab, Ahmed Abdulsattar A	IRQ 1975 M 2144.8965634 73.2783196 4801849
-3 Mohammed, Zozek Salah Mohammed	IRQ 1986 M 2070.0020978 71.6734241 4803361
-4 chiya mder hamad	IRQ 1987 M 1780.3234410 68.9656807 4801296
+1 Ismael, Namir Mohammed Ismael	IRQ 1971 M 2187.0454958 68.7900366 4800800
+2 Abdulwahhab, Ahmed Abdulsattar A	IRQ 1975 M 2163.3072763 73.2683650 4801849
+3 Mohammed, Zozek Salah Mohammed	IRQ 1986 M 2081.2694654 71.4313746 4803361
+4 chiya mder hamad	IRQ 1987 M 1800.0299906 69.3490138 4801296

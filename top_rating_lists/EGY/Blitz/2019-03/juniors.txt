@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Fawzy, Adham	EGY 2000 M 2274.7923408 67.5616281 10613129
+1 Fawzy, Adham	EGY 2000 M 2289.7958017 67.6887745 10613129

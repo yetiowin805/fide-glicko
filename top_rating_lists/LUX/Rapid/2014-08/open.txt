@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Wagener, Claude	LUX 1976 M 2105.8705865 69.5192835 4000471
+1 Wagener, Claude	LUX 1976 M 2124.6322754 69.5636763 4000471

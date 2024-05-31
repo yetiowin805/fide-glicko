@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Mendoza Velazquez, Lorena Alejan	MEX 1994 1862.1582094 73.5226610 5101794
-2 Garcia Morales, Ivette Ale	MEX 1994 1850.8034276 68.4945682 5105994
+1 Mendoza Velazquez, Lorena Alejan	MEX 1994 1878.7191546 73.6064719 5101794
+2 Garcia Morales, Ivette Ale	MEX 1994 1867.3285200 68.7147216 5105994

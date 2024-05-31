@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Kurbonboeva, Sarvinoz	UZB 1994 1929.8358722 71.6142170 14201780
-2 Kakhramonova, Mokhinur	UZB 1996 1824.4286167 74.7235631 14201771
+1 Kurbonboeva, Sarvinoz	UZB 1994 1947.3684437 71.8923528 14201780

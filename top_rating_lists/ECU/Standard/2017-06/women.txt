@@ -45,3 +45,4 @@ Rank Name Federation BirthYear Rating RD
 44 Tuarez Jimenez, Keyssie Janelle	ECU 2000 1367.4864820 59.8252354 3618331
 45 Salas Ona, Leslie Tatiana	ECU 2003 1329.3096694 74.0904361 3631974
 46 Campos Gonzalez, Natalia	ECU 2001 1321.2614568 67.4194080 3631737
+47 Artieda Berru,Ariadna Amely	ECU 2007 1287.0464269 70.3076978 3630293

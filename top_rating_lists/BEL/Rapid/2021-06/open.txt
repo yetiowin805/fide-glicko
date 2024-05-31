@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lombart, Philippe	BEL 1954 M 1700.0414336 72.2699610 202789
+1 Lombart, Philippe	BEL 1954 M 1706.8796187 72.3439817 202789

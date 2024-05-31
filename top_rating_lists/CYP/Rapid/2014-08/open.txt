@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Aristotelous, Vassilis	CYP 1956 M 1910.8901179 73.5565628 5900468
+1 Aristotelous, Vassilis	CYP 1956 M 1920.6500987 73.7560212 5900468

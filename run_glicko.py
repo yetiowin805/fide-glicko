@@ -13,24 +13,6 @@ def run_glicko(folder, start_year, start_month, end_year, end_month):
         end_m = end_month if year == end_year else 12
 
         for month in range(start_m, end_m + 1):
-            player_info_path = f"./player_info/processed/{year:04d}-{month:02d}.txt"
-
-            temp_year, temp_month = year, month
-            while not os.path.exists(player_info_path) and month <= end_m:
-                # If the player_info file for the current month doesn't exist, move to the next month
-                if temp_month == 12:
-                    temp_year += 1
-                    temp_month = 1
-                else:
-                    temp_month += 1
-                player_info_path = (
-                    f"./player_info/processed/{temp_year:04d}-{temp_month:02d}.txt"
-                )
-                if temp_year > end_year and temp_month == end_month:
-                    break
-            if temp_year > end_year and temp_month == end_month:
-                break
-
             next_month = month + 1
             next_year = year
 
@@ -38,6 +20,24 @@ def run_glicko(folder, start_year, start_month, end_year, end_month):
             if next_month > 12:
                 next_month = 1
                 next_year += 1
+                
+            player_info_path = f"./player_info/processed/{next_year:04d}-{next_month:02d}.txt"
+
+            temp_year, temp_month = next_year, next_month
+            while not os.path.exists(player_info_path):
+                # If the player_info file for the current month doesn't exist, move to the previous month
+                if temp_month == 1:
+                    temp_year -= 1
+                    temp_month = 12
+                else:
+                    temp_month -= 1
+                player_info_path = (
+                    f"./player_info/processed/{temp_year:04d}-{temp_month:02d}.txt"
+                )
+                if temp_year < start_year - 1:
+                    break
+            if temp_year < start_year - 1:
+                break
 
             cmd = (
                 f"python3 glicko2.py rating_lists/{folder}/{year:04d}-{month:02d}.txt "

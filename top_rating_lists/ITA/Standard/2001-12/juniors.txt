@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
 1 Genocchio, Daniele	ITA 1981 M 2301.6205635 54.6861733 806463
-2 Costantini, Roberto	ITA 1983 M 2300.9479911 61.0942146 807621

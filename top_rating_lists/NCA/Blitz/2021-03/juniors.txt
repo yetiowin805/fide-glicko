@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Espinoza Solano, Jose Nahum	NCA 2003 M 1892.3054033 68.7421574 6104428
-2 Marquez Carrero, Rafael Alfonso	NCA 2008 M 1280.5371822 71.0562870 6107532
+1 Espinoza Solano, Jose Nahum	NCA 2003 M 1899.6459283 68.9074909 6104428
+2 Marquez Carrero, Rafael Alfonso	NCA 2008 M 1282.6072457 71.1205936 6107532

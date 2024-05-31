@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Al Qudaimi, Basheer	YEM 1984 M 2233.7756991 70.2096846 9400346
+1 Al Qudaimi, Basheer	YEM 1984 M 2247.2038208 70.4165207 9400346

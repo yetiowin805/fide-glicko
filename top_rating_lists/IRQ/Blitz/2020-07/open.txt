@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Abdullah , Layth Ahmed	IRQ 1991 M 1774.5460324 74.7603613 4812433
+1 Abdullah , Layth Ahmed	IRQ 1991 M 1780.6466490 74.9171314 4812433

@@ -33,7 +33,7 @@ Rank Name Federation BirthYear Rating RD
 32 Vivas Espinosa, Ashly Carolina	VEN 2007 1480.1739232 68.0587760 3921395
 33 Castro Paitan, Maria Raquel	VEN 2003 1476.5065994 61.8557706 3915387
 34 Navas Guillen, Nayarith Lohana	VEN 2000 1463.6920618 65.8347653 3905357
-35 Pesantes Villanera, Diana	VEN 2001 1454.3715288 62.8764287 3915719
+35 Pesantes Villanera, Diana Carolina	VEN 2001 1454.3715288 62.8764287 3915719
 36 Graterol Burgos, Greys Carolina	VEN 1999 1454.3210235 63.4427879 3905470
 37 Guillen Carrillo, Macjos Neritza	VEN 2002 1453.9694441 54.5356162 3915689
 38 Guillen Carrillo, Neritza Esther	VEN 2005 1450.5840001 60.4416600 3915336
@@ -42,7 +42,7 @@ Rank Name Federation BirthYear Rating RD
 41 Perez Hernandez, Vicmary C.	VEN 2005 1442.0024123 66.3158667 3930831
 42 Vargas Ortiz, Grecia Valentina	VEN 2003 1437.4474284 74.4801805 3941990
 43 Ubertin Gomez, Katherin Rossmary	VEN 2002 1436.3932820 65.3117423 3916391
-44 Guerrero Corniel, Gabriela Aleja	VEN 2004 1434.9551623 67.5906400 3905110
+44 Guerrero Corniel, Gabriela Alejandra	VEN 2004 1434.9551623 67.5906400 3905110
 45 Hernandez Proto, Maria Angelina	VEN 2001 1434.6770606 52.1307146 3915697
 46 Salinas De Andrade, Cristina	VEN 2001 1434.6700261 59.7241329 3915743
 47 Yepez Moreno, Catherine Celeste	VEN 2003 1431.3079077 57.9955796 3905292

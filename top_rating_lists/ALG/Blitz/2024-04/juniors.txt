@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Djerroud, Chahrazed	ALG 2006 F 1698.0540669 66.7651837 7910762
+1 Djerroud, Chahrazed	ALG 2006 F 1701.8523459 66.9428174 7910762

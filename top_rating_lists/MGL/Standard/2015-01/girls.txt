@@ -2,3 +2,4 @@ Rank Name Federation BirthYear Rating RD
 1 Nomin-Erdene, Davaademberel	MGL 2000 2086.6779041 43.1895365 4900782
 2 Bayarmaa, Bayarjargal	MGL 1995 2054.9423199 69.3569780 4900260
 3 Badamkhand, Norovsambuu	MGL 1995 1860.0929289 65.9775958 4901681
+4 Altantuya, Boldbaatar	MGL 2005 1461.5934716 69.1618833 4902785

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Sharon, Rafael	ZAM 2008 M 1879.4772739 70.2136942 74601580
+1 Sharon, Rafael	ZAM 2008 M 1884.6657547 70.3823880 74601580

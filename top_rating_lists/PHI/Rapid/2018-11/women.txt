@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Mariano-Wagman, Cristine Rose	PHI 1973 1973.5740879 70.2250714 5201071
-2 Celeste, Patricia	PHI 1991 1508.2519465 72.7195372 5226473
+1 Mariano-Wagman, Cristine Rose	PHI 1973 1988.1567851 70.6552116 5201071
+2 Celeste, Patricia	PHI 1991 1510.6478255 72.7998411 5226473

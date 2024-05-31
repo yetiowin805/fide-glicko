@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Pazos Gambarrotti, Plinio	ECU 1960 M 2027.4050241 74.6219452 3600068
-2 Bejar Caceres, Brayan	ECU 1997 M 1830.6568686 73.0259401 3621286
+1 Bejar Caceres, Brayan	ECU 1997 M 1837.8030127 73.0579514 3621286

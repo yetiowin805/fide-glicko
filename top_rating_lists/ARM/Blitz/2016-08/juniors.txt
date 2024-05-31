@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Petrosyan, Manuel	ARM 1998 M 2443.4061740 70.3611867 13300857
+1 Petrosyan, Manuel	ARM 1998 M 2462.4086492 70.4554504 13300857

@@ -7,3 +7,4 @@ Rank Name Federation BirthYear Rating RD
 6 Espinoza Balza, Abril Nathaly	VEN 2006 1368.4488105 74.2019981 3962830
 7 Leon De Canha, Yassell Arianne	VEN 2008 1303.4104635 58.2459558 3974898
 8 Hernandez Mora, Nohelia Virginia	VEN 2005 1279.0058166 54.5761563 3915344
+9 Herrera Rodriguez, Flavia del Valle	VEN 2010 1136.6550224 69.9633970 3963730

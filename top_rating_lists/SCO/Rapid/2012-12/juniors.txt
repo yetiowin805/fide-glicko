@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Sreeves, Clement	SCO 1992 M 2149.3070787 72.5513279 2402564
+1 Sreeves, Clement	SCO 1992 M 2166.0742972 72.6452803 2402564

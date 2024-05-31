@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Rating RD
-1 Da Cruz, Karoliny Taiane	BRA 1992 1661.8602629 74.8606891 2136910
-2 Reis,Virginia Lagrange M.	BRA 1968 1562.8146046 73.6884104 2134730
+1 Reis,Virginia Lagrange M.	BRA 1968 1575.0081385 73.8896318 2134730

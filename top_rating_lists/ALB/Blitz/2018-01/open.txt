@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Dervishi, Erald	ALB 1979 M 2350.8400089 72.5409540 4700236
+1 Dervishi, Erald	ALB 1979 M 2367.7559315 72.6527695 4700236

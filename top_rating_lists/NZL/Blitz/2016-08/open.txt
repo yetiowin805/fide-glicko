@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Thornton, Giovanni Antonio	NZL 1987 M 2087.4370938 73.1963833 4300963
+1 Thornton, Giovanni Antonio	NZL 1987 M 2103.0625199 73.3563007 4300963

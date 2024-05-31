@@ -16,3 +16,4 @@ Rank Name Federation BirthYear Rating RD
 15 Ruiz Espinola, Larissa Aleli	PAR 2013 1322.5367228 53.2918768 3713814
 16 Rivarola Zayas, Danna Belen	PAR 2010 1246.0245271 55.3270725 3714160
 17 Mereles Samaniego, Mia Aylin	PAR 2011 1240.2158655 73.4022731 3716015
+18 Brozon Arevalos, Agata Nair	PAR 2013 1213.9360677 61.8624916 3713997

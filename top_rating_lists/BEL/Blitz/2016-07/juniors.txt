@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Marchal, Laurent	BEL 2000 M 1744.4342837 72.6973297 234630
+1 Marchal, Laurent	BEL 2000 M 1754.0354160 72.8609224 234630

@@ -1,4 +1,4 @@
 Rank Name Federation BirthYear Rating RD
-1 Kristinardottir, Elsa Maria	ISL 1989 1883.7865418 69.6392357 2300370
-2 Thorsteinsdottir, Hallgerdur	ISL 1992 1845.7188766 67.6531617 2302454
-3 Birkisdottir, Freyja	ISL 2006 1440.9082251 65.4538922 2311860
+1 Kristinardottir, Elsa Maria	ISL 1989 1894.2085756 69.6972907 2300370
+2 Thorsteinsdottir, Hallgerdur	ISL 1992 1855.7071386 67.7615175 2302454
+3 Birkisdottir, Freyja	ISL 2006 1442.5285171 65.4840108 2311860

@@ -3,4 +3,3 @@ Rank Name Federation BirthYear Rating RD
 2 Sanchez Santana, Celsa Carolina	VEN 0 1945.7546532 66.2520163 3902188
 3 Hernandez, Zaida	VEN 0 1943.6665377 68.4986418 3901041
 4 Moreno Garcia, Elizabeth Paola	VEN 0 1936.2517399 64.1676317 3901556
-5 Gutierrez, Leonela	VEN 1992 1831.8380638 71.8695941 3900401

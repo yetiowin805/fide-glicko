@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Garcia Mendez, Alcira Guadalupe	ESA 1998 1621.0503791 70.8494582 6702945
-2 De Leon, Stephanie	ESA 2000 1547.5383149 63.5713053 6703127
+1 Garcia Mendez, Alcira Guadalupe	ESA 1998 1626.6466354 70.9936207 6702945
+2 De Leon, Stephanie	ESA 2000 1552.5560764 63.6472011 6703127

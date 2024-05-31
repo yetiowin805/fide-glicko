@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hansen, Eric	CAN 1992 M 2457.1835378 63.2092689 2606771
+1 Hansen, Eric	CAN 1992 M 2467.8357011 63.5612906 2606771

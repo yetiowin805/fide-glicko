@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Davies, Cledwyn	WLS 1959 M 1608.0039810 72.4145221 1803212
+1 Davies, Cledwyn	WLS 1959 M 1611.7288849 72.3932259 1803212

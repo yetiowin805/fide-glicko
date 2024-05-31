@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Raznikov, Danny	ISR 1993 M 2392.5963057 73.3438800 2811154
+1 Raznikov, Danny	ISR 1993 M 2413.0958534 73.3243697 2811154

@@ -1,4 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Hernandez Gonzalez, William	CUB 1995 M 2100.9916804 74.9556751 3509915
-2 Bueno Perez, Jesus Angel	CUB 1997 M 1942.0372319 73.9652521 3515400
-3 Lopez Gonzalez, Abel Fabian	CUB 1997 M 1884.9742004 72.2113939 3512673
+1 Bueno Perez, Jesus Angel	CUB 1997 M 1974.4614432 74.0860354 3515400
+2 Lopez Gonzalez, Abel Fabian	CUB 1997 M 1916.8883187 72.4724259 3512673

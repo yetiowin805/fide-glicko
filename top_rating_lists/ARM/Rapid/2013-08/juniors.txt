@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Baghdasaryan, Vahe	ARM 1993 M 2304.1475515 74.0061929 13303139
+1 Baghdasaryan, Vahe	ARM 1993 M 2323.0787090 74.0569588 13303139

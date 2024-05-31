@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Granados Diaz, Maria Esther	NCA 1995 1712.6366639 74.5199162 6101488
-2 Granados Ortiz, Maria Jose	NCA 2001 1681.6731612 74.8443248 6103812
+1 Granados Diaz, Maria Esther	NCA 1995 1717.5924172 74.6242560 6101488
+2 Granados Ortiz, Maria Jose	NCA 2001 1687.0963853 74.9121040 6103812

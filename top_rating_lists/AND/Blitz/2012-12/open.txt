@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Jose Queralto, Daniel	AND 1973 M 2005.5115107 72.9957230 6900089
+1 Jose Queralto, Daniel	AND 1973 M 2023.1035574 73.0895798 6900089

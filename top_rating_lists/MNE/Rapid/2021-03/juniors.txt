@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Alivodic, Dario	MNE 2002 M 1926.6405942 73.7832265 16501632
+1 Alivodic, Dario	MNE 2002 M 1936.4974933 73.8198998 16501632

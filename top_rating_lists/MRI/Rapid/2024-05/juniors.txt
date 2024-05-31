@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Andhin, Chethanah	MRI 2004 F 1675.0886262 63.9145965 9700463
+1 Andhin, Chethanah	MRI 2004 F 1677.7295697 63.9735344 9700463

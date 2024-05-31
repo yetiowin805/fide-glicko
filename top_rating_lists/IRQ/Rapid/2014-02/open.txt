@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Abdulwahhab, Ahmed Abdulsattar A	IRQ 1975 M 2205.1463936 74.6897125 4801849
-2 Nameer, Noor. Al-Deen	IRQ 1972 M 2098.4171979 74.8859050 4801890
+1 Abdulwahhab, Ahmed Abdulsattar A	IRQ 1975 M 2221.4445845 74.8115995 4801849
+2 Nameer, Noor. Al-Deen	IRQ 1972 M 2114.3264933 74.9175557 4801890

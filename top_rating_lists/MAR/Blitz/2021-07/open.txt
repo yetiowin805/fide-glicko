@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 El Adnani, Mokliss	MAR 1983 M 2233.1699599 72.2581859 9000410
+1 El Adnani, Mokliss	MAR 1983 M 2245.6820826 72.4056651 9000410

@@ -67,3 +67,5 @@ Rank Name Federation BirthYear Sex Rating RD
 66 Gomez Barrera, Gonzalo Andres	CHI 2004 M 1382.1480320 52.2896640 3419096
 67 Ruiz Zamorano, Maximiliano Benja	CHI 2003 M 1363.3947340 65.8010153 3420027
 68 Marchant Salgado, Victoria	CHI 1997 F 1316.8280075 62.2774467 3415422
+69 Del Pedregal Altamirano, Tarkan	CHI 2000 M 1285.5353807 70.7065882 3417689
+70 Manriquez Abarzua, Maria Belen	CHI 2001 F 1269.0422010 69.2269671 3418235

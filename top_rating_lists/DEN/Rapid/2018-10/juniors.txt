@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Christensen, John Christopher Hojstrup	DEN 2008 M 1494.0853740 74.6286538 1453947
+1 Christensen, John Christopher Hojstrup	DEN 2008 M 1497.2788543 74.7229043 1453947

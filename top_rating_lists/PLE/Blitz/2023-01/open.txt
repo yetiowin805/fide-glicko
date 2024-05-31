@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 AbuAzizah, Raji	PLE 2006 M 1873.7987848 55.7692490 11503327
+1 AbuAzizah, Raji	PLE 2006 M 1879.6576433 55.9051065 11503327

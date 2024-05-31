@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Dos Anjos, Diovana Ferreira	BRA 1999 1531.2785519 72.1847678 2152282
-2 Oliveira, Janaina Paixao de	BRA 1992 1511.0256624 73.6823834 2141140
+1 Dos Anjos, Diovana Ferreira	BRA 1999 1534.1689947 72.2617329 2152282
+2 Oliveira, Janaina Paixao de	BRA 1992 1520.0892169 74.1095811 2141140

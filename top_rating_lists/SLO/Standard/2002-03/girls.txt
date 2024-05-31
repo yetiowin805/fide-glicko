@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Rating RD
 1 Srebrnic, Ana	SLO 1984 2198.6645550 65.9401560 14603314
-2 Hari, Veronika	SLO 1985 1975.7191974 69.8847558 14603586

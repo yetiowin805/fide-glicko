@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Kjartansson, Gudmundur	ISL 1988 M 2185.4748283 73.4060644 2301318
+1 Kjartansson, Gudmundur	ISL 1988 M 2203.5578250 73.4709838 2301318

@@ -11,3 +11,4 @@ Rank Name Federation BirthYear Rating RD
 10 Portillo Arriola, Andrea Magali	PAR 2011 1330.3702439 70.4690506 3710726
 11 Lugo Martinez, Jimena Sofia	PAR 2012 1314.9705316 48.1747689 3710793
 12 Torres Caballero, Sofia Anabela	PAR 2011 1281.6639585 65.1720034 3709434
+13 Franco Franchi, Sol Larissa	PAR 2005 1088.9665259 68.5064347 3709213

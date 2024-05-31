@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Li, Johnson	NZL 1996 M 1971.5082346 69.0357865 4304284
+1 Li, Johnson	NZL 1996 M 1980.8720690 69.2257244 4304284

@@ -27,6 +27,7 @@ Rank Name Federation BirthYear Rating RD
 26 Hernandez Mora, Nohelia Virginia	VEN 2005 1314.5706460 49.1377877 3915344
 27 Herrera Rodriguez, Flavia del Valle	VEN 2010 1271.4203516 58.3352635 3963730
 28 Luzardo Lopez, Aranza Victoria	VEN 2011 1263.6037272 52.3551078 3956733
-29 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1183.0788370 63.3260848 3964051
-30 Rivera Salazar, Anmarie Giorgina	VEN 2007 1152.0145205 67.4602342 3974251
-31 Larez Grinstein, Katherine Sofia	VEN 2007 1150.9852124 74.8804159 3965295
+29 Rangel Teran, Mariangel	VEN 2008 1261.6431255 63.9827790 3965546
+30 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1183.0788370 63.3260848 3964051
+31 Rivera Salazar, Anmarie Giorgina	VEN 2007 1152.0145205 67.4602342 3974251
+32 Larez Grinstein, Katherine Sofia	VEN 2007 1150.9852124 74.8804159 3965295

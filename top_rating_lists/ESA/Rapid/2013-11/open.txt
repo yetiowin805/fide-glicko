@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Sanchez, David	ESA 1997 M 1635.2139142 72.7542693 6701493
+1 Sanchez, David	ESA 1997 M 1644.3694350 72.9446751 6701493

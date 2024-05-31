@@ -44,5 +44,7 @@ Rank Name Federation BirthYear Rating RD
 43 Gonzalez Leon, Valeria del Carmen	VEN 2008 1252.2698143 64.2011512 3962261
 44 Rangel Teran, Mariangel	VEN 2008 1222.2437065 69.1477433 3965546
 45 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1201.1636760 51.7032595 3964051
-46 Larez Grinstein, Katherine Sofia	VEN 2007 1133.7755438 68.3789984 3965295
-47 Vargas Chacon, Yoialne Bemar	VEN 2003 1054.2444565 60.5562882 3939626
+46 Cabeza Marquez, Mariangel Alejandra	VEN 2007 1139.9240345 52.2805028 3934527
+47 Larez Grinstein, Katherine Sofia	VEN 2007 1133.7755438 68.3789984 3965295
+48 Vargas Chacon, Yoialne Bemar	VEN 2003 1054.2444565 60.5562882 3939626
+49 Ortega Sanabria, Massiel Del Valle	VEN 2006 1028.6918738 56.3370164 3964558

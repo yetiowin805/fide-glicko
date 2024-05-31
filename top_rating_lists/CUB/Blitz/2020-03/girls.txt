@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Sierra Cartaya, Ana Barbara	CUB 2002 1840.1273260 71.8406951 3524035
-2 Mantilla Gras, Geydis De la C.	CUB 2000 1706.0772701 66.8214300 3521508
+1 Sierra Cartaya, Ana Barbara	CUB 2002 1860.3795580 71.9238919 3524035
+2 Mantilla Gras, Geydis De la C.	CUB 2000 1720.9283956 67.0508125 3521508

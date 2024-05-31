@@ -9,3 +9,4 @@ Rank Name Federation BirthYear Rating RD
 8 Syahirah, Quinsha Adinda	INA 2009 1552.2266174 66.0527575 7122055
 9 Rondonuwu, Josephine Grace	INA 2012 1321.6679759 69.4528784 7130023
 10 Makalew, Veronica Jefany Sheryl Kichi	INA 2015 1306.2588042 74.8228419 7128088
+11 Lovly, Arini Angelina	INA 2010 1302.5168074 66.7133756 7130856

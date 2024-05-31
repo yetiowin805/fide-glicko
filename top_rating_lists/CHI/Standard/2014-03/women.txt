@@ -18,3 +18,4 @@ Rank Name Federation BirthYear Rating RD
 17 Henriquez Agurto, Antonia	CHI 2001 1453.2735583 70.2002453 3417034
 18 Aguirre Saavedra, Gabriela	CHI 1996 1409.6497162 73.2799854 3416011
 19 Marchant Salgado, Victoria	CHI 1997 1316.8280075 62.2774467 3415422
+20 Manriquez Abarzua, Maria Belen	CHI 2001 1269.0422010 69.2269671 3418235

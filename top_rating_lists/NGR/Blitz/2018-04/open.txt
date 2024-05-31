@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Dasaolu, Rotimi	NGR 1969 M 1886.0106032 74.3675722 8500150
+1 Dasaolu, Rotimi	NGR 1969 M 1890.2808348 74.4014641 8500150

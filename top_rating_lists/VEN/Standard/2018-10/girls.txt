@@ -18,7 +18,7 @@ Rank Name Federation BirthYear Rating RD
 17 Guillen Carrillo, Neritza Esther	VEN 2005 1525.5753762 58.9867328 3915336
 18 Pesantes Villanera, Diana Carolina	VEN 2001 1517.1986226 66.8512494 3915719
 19 Chavez Garcia, Vidaluz Gregoria	VEN 2002 1504.6682660 68.7540971 3921883
-20 Naranjo Nunez, Emily	VEN 2003 1481.1688539 66.8953434 3905241
+20 Naranjo Nunez, Emily Dariana	VEN 2003 1481.1688539 66.8953434 3905241
 21 Ubertin Gomez, Katherin Rossmary	VEN 2002 1476.8874879 55.0987477 3916391
 22 Gonzalez Gomez, Daniela Carolina	VEN 2003 1468.7563468 66.3061717 3915417
 23 Guerrero Corniel, Gabriela Alejandra	VEN 2004 1466.0044698 66.7324803 3905110

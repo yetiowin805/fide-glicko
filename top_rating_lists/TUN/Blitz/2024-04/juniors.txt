@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Abdallah, Mohamed Khalil	TUN 2009 M 1771.5235788 73.9067214 5529506
+1 Abdallah, Mohamed Khalil	TUN 2009 M 1774.4321293 74.0048667 5529506

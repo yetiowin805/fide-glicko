@@ -74,7 +74,5 @@ Rank Name Federation BirthYear Sex Rating RD
 73 Luzardo Lopez, Aranza Victoria	VEN 2011 F 1207.7974430 53.2995539 3956733
 74 Herrera Rodriguez, Flavia del Valle	VEN 2010 F 1169.2080245 71.0859737 3963730
 75 Rivera Salazar, Anmarie Giorgina	VEN 2007 F 1164.6830910 63.0528404 3974251
-76 Ordaz Diaz, Lourdes Sarahi	VEN 2009 F 1150.1578847 61.5191160 3950697
-77 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 F 1132.5823673 72.4488869 3964051
-78 Larez Grinstein, Katherine Sofia	VEN 2007 F 1127.1483623 73.0992389 3965295
-79 Hernandez Salazar, Eli Samuel	VEN 2007 M 1054.5888082 58.3848648 3974162
+76 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 F 1132.5823673 72.4488869 3964051
+77 Larez Grinstein, Katherine Sofia	VEN 2007 F 1127.1483623 73.0992389 3965295

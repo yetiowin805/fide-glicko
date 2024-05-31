@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nevska, Gerda	GCI 1988 F 1743.3777636 64.6204115 10700366
+1 Nevska, Gerda	GCI 1988 F 1752.8417638 64.8068791 10700366

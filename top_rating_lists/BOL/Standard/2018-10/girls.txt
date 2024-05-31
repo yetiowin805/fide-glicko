@@ -48,4 +48,3 @@ Rank Name Federation BirthYear Rating RD
 47 Saavedra Baptista, Patricia	BOL 2005 1227.7598058 68.3867295 3320669
 48 Garcia Vacaflor, Zuleyka	BOL 2009 1195.4590727 66.2031009 3320006
 49 Quispe Mamani, Briseyda Belen	BOL 2009 1157.8547966 52.7101258 3314162
-50 Gutierrez Candia, Daira Suemy	BOL 2008 1121.2309487 48.8688907 3315657

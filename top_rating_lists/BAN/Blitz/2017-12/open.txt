@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rahman, Syed Mahfuzur	BAN 1979 M 2044.7663106 72.9082035 10200738
+1 Rahman, Syed Mahfuzur	BAN 1979 M 2050.1620596 72.9695333 10200738

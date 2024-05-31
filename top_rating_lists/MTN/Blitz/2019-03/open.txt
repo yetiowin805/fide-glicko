@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mohamed Lemine, Mohamed	MTN 1994 M 1638.4709976 72.6934227 19601409
-2 med mahd med beiba	MTN 1956 M 1553.7332644 74.8011172 19600917
+1 Mohamed Lemine, Mohamed	MTN 1994 M 1643.3318856 72.8335623 19601409
+2 med mahd med beiba	MTN 1956 M 1557.7405219 74.8704937 19600917

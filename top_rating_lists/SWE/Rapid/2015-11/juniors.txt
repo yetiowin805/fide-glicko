@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Trost, Edvin	SWE 2007 M 1461.8419654 74.3084475 1729519
+1 Trost, Edvin	SWE 2007 M 1463.4053464 74.4190422 1729519

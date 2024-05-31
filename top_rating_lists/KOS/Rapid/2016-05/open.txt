@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rukovci, Shemsi	KOS 1963 M 1744.4607204 56.2068614 1528629
+1 Rukovci, Shemsi	KOS 1963 M 1755.8011263 56.3995919 1528629

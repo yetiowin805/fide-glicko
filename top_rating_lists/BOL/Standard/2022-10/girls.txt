@@ -46,4 +46,5 @@ Rank Name Federation BirthYear Rating RD
 45 Terceros Ynturias, Cristel	BOL 2008 1256.1529129 60.1754363 3331334
 46 Quispe Choquehuanca, Angeles Aydee	BOL 2012 1247.9675758 56.2448341 3339769
 47 Quispe Mamani, Briseyda Belen	BOL 2009 1230.0531476 67.9405752 3314162
-48 Iporre Romero, Kirna Jhocabed	BOL 2016 1199.9566597 67.9797394 3339033
+48 Torrejon Teran, Valeria Emily	BOL 2011 1221.5927065 50.5605983 3322297
+49 Iporre Romero, Kirna Jhocabed	BOL 2016 1199.9566597 67.9797394 3339033

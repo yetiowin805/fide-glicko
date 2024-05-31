@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bukannan, Ahmed A	KSA 1999 M 1835.0588064 68.3118255 21504164
+1 Bukannan, Ahmed A	KSA 1999 M 1837.5591567 68.4253143 21504164

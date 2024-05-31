@@ -58,5 +58,6 @@ Rank Name Federation BirthYear Sex Rating RD
 57 Marin Murguey, Santiago Andres	VEN 2008 M 1262.9042472 69.5589358 3955583
 58 Caterine Visconti, Ismael David	VEN 2008 M 1237.0296018 66.6306723 3967611
 59 Herrera Rodriguez, Doriant Alberto	VEN 2011 M 1202.0775374 69.5094794 3963748
-60 Montilva Muller, Sebastian Daniel	VEN 2007 M 1133.4208605 67.6092978 3955656
-61 Hernandez Salazar, Eli Samuel	VEN 2007 M 1061.4521832 68.5377065 3974162
+60 Herrera Rodriguez, Flavia del Valle	VEN 2010 F 1136.6550224 69.9633970 3963730
+61 Montilva Muller, Sebastian Daniel	VEN 2007 M 1133.4208605 67.6092978 3955656
+62 Hernandez Salazar, Eli Samuel	VEN 2007 M 1061.4521832 68.5377065 3974162

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Vogelsanger,Nicolas	SUI 2008 M 1573.9675950 58.4151969 1337122
+1 Vogelsanger,Nicolas	SUI 2008 M 1576.4071677 58.4710647 1337122

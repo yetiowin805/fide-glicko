@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gutierrez, Oscar	NCA 1960 M 1923.5120275 65.9719686 6100147
+1 Gutierrez, Oscar	NCA 1960 M 1931.2300772 66.0989367 6100147

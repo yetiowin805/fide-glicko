@@ -44,4 +44,5 @@ Rank Name Federation BirthYear Rating RD
 43 Noriega Ramos, Amanda Victoria	VEN 2006 1298.1526762 71.4173587 3935850
 44 Hernandez Mora, Nohelia Virginia	VEN 2005 1235.1652009 54.9086404 3915344
 45 Dumont Peroza, Agnes Coromoto	VEN 2001 1231.6947566 57.9780059 3924254
-46 Lopez Romero, Virginia Del Valle	VEN 2000 1216.2819132 73.7431676 3915549
+46 Cabeza Marquez, Mariangel	VEN 2007 1220.5495441 68.2698457 3934527
+47 Lopez Romero, Virginia Del Valle	VEN 2000 1216.2819132 73.7431676 3915549

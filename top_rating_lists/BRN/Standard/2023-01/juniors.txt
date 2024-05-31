@@ -1,2 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
 1 Almusawi, Maram	BRN 2008 F 1339.5645063 64.8942885 11205458
+2 Obaid, Sondos	BRN 2007 F 1157.9824737 74.7179042 11205377

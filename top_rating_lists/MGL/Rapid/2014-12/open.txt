@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Gundavaa, Bayarsaikhan	MGL 1989 M 2438.9542422 74.2326903 4901045
-2 Nomin-Erdene, Davaademberel	MGL 2000 F 1930.9118955 68.8442981 4900782
+1 Gundavaa, Bayarsaikhan	MGL 1989 M 2460.8958863 74.2204810 4901045
+2 Nomin-Erdene, Davaademberel	MGL 2000 F 1940.1813680 69.1012488 4900782

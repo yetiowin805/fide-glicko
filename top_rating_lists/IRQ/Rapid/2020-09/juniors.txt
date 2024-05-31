@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Rabar Bakhtyar Hama Saleh	IRQ 2000 M 1578.9595760 67.6490705 4809645
+1 Rabar Bakhtyar Hama Saleh	IRQ 2000 M 1581.9312085 67.7265439 4809645

@@ -37,3 +37,4 @@ Rank Name Federation BirthYear Rating RD
 36 Barrientos Mamani, Andrea	BOL 2011 1325.6299232 58.4584466 3324672
 37 Escobar Rojas, Marizol	BOL 2011 1324.8543666 64.3177595 3333779
 38 Montevilla Cahuasa, Amanda	BOL 2014 1257.6661500 60.5922381 3335887
+39 Montoya Alarcon, Elisa Belen	BOL 2006 1134.4696134 74.9905046 3335402

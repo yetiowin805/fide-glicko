@@ -92,4 +92,3 @@ Rank Name Federation BirthYear Sex Rating RD
 91 Cortes Luk, Jose Alejandro	PAN 2008 M 1274.3749233 70.5420463 6607705
 92 Gonzalez Rodriguez, Genesis	PAN 2008 F 1229.9502143 67.9786590 6608620
 93 Montezuma Camarena, Dayana Cristel	PAN 2009 F 1160.9834393 62.6112217 6611060
-94 Liu Qiu, Angie Loraine	PAN 2010 F 1092.0379578 74.2389858 6611850

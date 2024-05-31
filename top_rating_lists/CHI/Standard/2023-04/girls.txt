@@ -22,3 +22,4 @@ Rank Name Federation BirthYear Rating RD
 21 Heise Hidalgo, Claudia Sofia	CHI 2011 1255.0309143 66.0285922 3440524
 22 Henriquez Prado, Victoria	CHI 2012 1241.4060113 63.0154917 3449173
 23 Rossel Grandon, Maria Ignacia	CHI 2010 1183.0550554 64.3780518 3431509
+24 Fernandez Tejada, Isabella Paz	CHI 2014 1154.7028303 71.2618573 3459250

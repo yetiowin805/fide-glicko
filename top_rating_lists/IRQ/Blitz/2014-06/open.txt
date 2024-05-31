@@ -1,5 +1,4 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Mohammed, Zozek Salah Mohammed	IRQ 1986 M 2079.1434083 66.6228355 4803361
-2 Abdulwahhab, Ahmed Abdulsattar A	IRQ 1975 M 2074.5252066 74.3654780 4801849
-3 Muhsen, Abdulla.mohmmed	IRQ 1989 M 2049.3874040 72.7225553 4801695
-4 Jalaluldeen, Kareen Kamal J.	IRQ 1993 F 1646.7094170 74.8680071 4801776
+1 Abdulwahhab, Ahmed Abdulsattar A	IRQ 1975 M 2092.3307880 74.4204777 4801849
+2 Mohammed, Zozek Salah Mohammed	IRQ 1986 M 2090.8401095 66.5833941 4803361
+3 Muhsen, Abdulla.mohmmed	IRQ 1989 M 2066.1008584 72.7872596 4801695

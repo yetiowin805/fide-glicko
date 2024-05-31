@@ -37,4 +37,3 @@ Rank Name Federation BirthYear Rating RD
 36 Guevara Ceciliano, Maria Celeste	CRC 2001 1326.4140794 71.7693567 6504744
 37 Porras Chavarria, Pamela Maria	CRC 2000 1319.1892284 66.5965536 6504949
 38 Quiros Acuna, Nicole	CRC 2002 1309.3363963 69.7310494 6511333
-39 Diaz Charpentier, Ashly Valeri	CRC 2007 1238.0506850 52.4564500 6513646

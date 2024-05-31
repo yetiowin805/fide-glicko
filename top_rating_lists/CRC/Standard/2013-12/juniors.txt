@@ -11,3 +11,4 @@ Rank Name Federation BirthYear Sex Rating RD
 10 Buitrago Mosquera, Antonio	CRC 1998 M 1617.9100111 72.8397838 6504213
 11 Nunez Gonzalez, Neeshmy	CRC 1995 F 1596.6157627 70.6459685 6504396
 12 Ramirez Gonzalez, Maria Jose	CRC 1997 F 1558.8772498 74.8056317 6503349
+13 Salas Torres, Pamela	CRC 1998 F 1533.5669380 65.5987654 6505716

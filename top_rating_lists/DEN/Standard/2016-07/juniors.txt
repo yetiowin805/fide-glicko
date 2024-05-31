@@ -73,4 +73,4 @@ Rank Name Federation BirthYear Sex Rating RD
 72 Fjellerad, Frederik	DEN 2000 M 1294.3694523 71.8567932 1446886
 73 Stage-Steffensen, Theo	DEN 2004 M 1277.0154430 67.9787586 1455818
 74 Christoffersen, Micki Aron	DEN 2003 M 1191.3958194 72.3572033 1454021
-75 Christensen, John Christoffer H	DEN 2008 M 1113.0712440 66.0077427 1453947
+75 Christensen, John Christopher Hojstrup	DEN 2008 M 1113.0712440 66.0077427 1453947

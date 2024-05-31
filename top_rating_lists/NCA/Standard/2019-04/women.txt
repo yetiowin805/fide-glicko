@@ -8,4 +8,3 @@ Rank Name Federation BirthYear Rating RD
 7 Alvarez Gutierrez, Patricia	NCA 2002 1482.2470917 63.6362250 6105548
 8 Arevalo, Maria Gabriela	NCA 1900 1423.2142366 66.7542446 6103138
 9 Martinez Orozco, Cristiana Yorlene	NCA 2005 1346.6897804 71.9192853 6107079
-10 Serrano Herrera, Daniela de Andrea	NCA 2007 1163.2287852 61.5705449 6107168

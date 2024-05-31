@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Grandelius, Nils	SWE 1993 M 2477.5220055 73.0968774 1710400
+1 Grandelius, Nils	SWE 1993 M 2495.3417042 73.0560227 1710400

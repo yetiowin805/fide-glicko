@@ -37,3 +37,4 @@ Rank Name Federation BirthYear Sex Rating RD
 36 Lopez Bobadilla, Fernando	PAR 2009 M 1384.5731657 72.0152660 3708799
 37 Frutos Moreno, Erico Nicolas	PAR 2009 M 1343.1188935 72.4127808 3708780
 38 Vera Villalba, Marcelo Amin	PAR 2009 M 1333.1861894 68.3501577 3711773
+39 Lugo Martinez, Jimena Sofia	PAR 2012 F 1190.4368611 62.1948470 3710793

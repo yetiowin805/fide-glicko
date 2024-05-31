@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Brown, Paul	SCO 1900 M 1861.2777248 73.2914600 2401150
+1 Brown, Paul	SCO 1900 M 1865.4646786 73.4867393 2401150

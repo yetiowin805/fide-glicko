@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Nunbhakdi, Tawin Matthew	THA 1998 M 1664.5722409 57.1677024 6203310
-2 Khumnorkaew, Tupfah	THA 1998 M 1636.3802837 74.8287424 6202071
+1 Nunbhakdi, Tawin Matthew	THA 1998 M 1673.3371078 57.3032015 6203310

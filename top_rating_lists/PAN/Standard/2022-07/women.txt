@@ -19,4 +19,3 @@ Rank Name Federation BirthYear Rating RD
 18 Arevalo Guerra, Danna Isabella	PAN 1978 1276.0857697 74.8355394 6612458
 19 Shayegan Fernandez, Yeisie Behroo	PAN 1990 1271.3156321 64.8012214 6614051
 20 Gonzalez Rodriguez, Genesis	PAN 2008 1251.8642543 71.9653656 6608620
-21 Almengor De Gracia, Danahe Renee	PAN 2009 1246.8871650 52.3584361 6612741

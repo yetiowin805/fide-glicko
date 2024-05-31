@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
-1 Sukandar, Irine Kharisma	INA 1992 2177.3492613 73.3983827 7101937
-2 Elisabeth, Christine	INA 2002 1758.0168561 71.5519957 7106165
+1 Sukandar, Irine Kharisma	INA 1992 2192.6065571 73.5083572 7101937
+2 Elisabeth, Christine	INA 2002 1761.5897063 71.5907860 7106165

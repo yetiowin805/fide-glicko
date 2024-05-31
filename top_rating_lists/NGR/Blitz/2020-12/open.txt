@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Adewole, Adeyinka	NGR 1973 M 1807.0252861 74.2011633 8502544
+1 Adewole, Adeyinka	NGR 1973 M 1810.0850925 74.2894767 8502544

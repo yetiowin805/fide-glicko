@@ -1,3 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Bekurti, Mehmet	ALB 1956 M 1792.9115654 74.6198899 4701712
-2 Bajraktari, Besnik	ALB 1957 M 1492.9209597 73.6485408 4702042
+1 Bajraktari, Besnik	ALB 1957 M 1496.3060432 73.6800750 4702042

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lai, Sai Wing	HKG 1971 M 1746.0832758 67.4421986 6001521
+1 Lai, Sai Wing	HKG 1971 M 1749.4315570 67.6854405 6001521

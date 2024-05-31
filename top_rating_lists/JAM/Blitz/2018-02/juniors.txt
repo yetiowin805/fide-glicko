@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Lyn, Christopher	JAM 2002 M 1659.0793175 74.2270819 7402775
+1 Lyn, Christopher	JAM 2002 M 1661.4741300 74.2806464 7402775

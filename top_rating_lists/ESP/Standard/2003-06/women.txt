@@ -6,4 +6,3 @@ Rank Name Federation BirthYear Rating RD
 5 Sanchez Martin, Vanessa	ESP 0 2135.9812649 72.5856757 2224097
 6 Gutierrez Castillo, Paloma	ESP 1985 2109.6550724 55.6564385 2250764
 7 Trujillo Delgado, Dafnae	ESP 1983 2085.1978693 73.9378803 2226189
-8 De Los Santos Honrubia, Maria	ESP 1984 2022.5057255 62.9978460 2221802

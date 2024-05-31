@@ -59,7 +59,7 @@ Rank Name Federation BirthYear Sex Rating RD
 58 Vergara Duplaquet,Pablo Alejandr	VEN 1938 M 1929.2851948 55.4701400 3902331
 59 Moreno Garcia, Elizabeth Paola	VEN 1993 F 1928.7499288 67.8953144 3901556
 60 Sequeda Ramirez, Pablo	VEN 1973 M 1928.1145758 73.3323731 3901130
-61 Sanchez Castellanos, German Alex	VEN 1982 M 1926.0211209 56.9270137 3907589
+61 Sanchez Castellanos, German Alex	VEN 1984 M 1926.0211209 56.9270137 3907589
 62 Franco Martinez, Franvier Jose	VEN 1994 M 1925.4279886 73.8002119 3905160
 63 Rovira Contreras, Tairu Manuela	VEN 1995 F 1924.8722109 58.0784537 3900533
 64 Gutierrez Salazar, Leonela	VEN 1992 F 1922.7460599 59.4412445 3900401

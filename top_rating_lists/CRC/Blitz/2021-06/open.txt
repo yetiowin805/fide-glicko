@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Avendano Porras, Rodrigo	CRC 1999 M 1787.9161575 74.4194572 6503357
+1 Avendano Porras, Rodrigo	CRC 1999 M 1791.3599501 74.4489054 6503357

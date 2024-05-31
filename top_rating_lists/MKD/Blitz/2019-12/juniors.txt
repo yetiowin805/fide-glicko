@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Petrovic, Lazar	MKD 2002 M 1672.0722760 71.7198219 15003078
+1 Petrovic, Lazar	MKD 2002 M 1682.5833441 71.8966497 15003078
