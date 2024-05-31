@@ -1,5 +1,7 @@
 *.txt
-!top_rating_lists/**
+!top_rating_lists/Standard/**
+!top_rating_lists/Rapid/**
+!top_rating_lists/Blitz/**
 
 .vscode/
 glicko2
