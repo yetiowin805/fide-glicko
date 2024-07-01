@@ -36,10 +36,10 @@ if __name__ == "__main__":
     # run pipeline commands with start and end months
     print("Running pipeline commands...")
     if args.download_data == "y":
-        # print(f"python3 download_player_data.py --save_path {SAVE_PATH} --start_month {args.start_month} --end_month {args.end_month}")
-        # os.system(
-        #     f"python3 download_player_data.py --save_path {SAVE_PATH} --start_month {args.start_month} --end_month {args.end_month}"
-        # )
+        print(f"python3 download_player_data.py --save_path {SAVE_PATH} --start_month {args.start_month} --end_month {args.end_month}")
+        os.system(
+            f"python3 download_player_data.py --save_path {SAVE_PATH} --start_month {args.start_month} --end_month {args.end_month}"
+        )
 
         print(
             f"python3 fide_scraper.py --start_month {args.start_month} --end_month {args.end_month}"
