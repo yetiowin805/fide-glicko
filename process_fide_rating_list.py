@@ -24,8 +24,8 @@ def process_file(input_filename, output_filename, lengths, keys):
 # Example usage
 import datetime
 
-start_date = datetime.date(2024, 8, 1)
-end_date = datetime.date(2024, 8, 1)
+start_date = datetime.date(2024, 9, 1)
+end_date = datetime.date(2024, 9, 1)
 
 current_date = start_date
 import json
