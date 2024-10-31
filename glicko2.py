@@ -342,6 +342,59 @@ def write_to_pretty_file_FED(dir, filename, players, players_info, year):
                     f.write(line)
                     f.close()
 
+def write_age_file(dir, filename, players, players_info, year):
+    # Sort players by rating in descending order
+    os.makedirs(os.path.join(dir, filename), exist_ok=True)
+    f = open(os.path.join(dir, filename, "open.txt"), "w")
+    f.close()
+    sorted_players = sorted(players.values(), key=lambda p: p.rating, reverse=True)
+    top_players = {}
+    count = 0
+    for player in sorted_players:
+        # if count >= 100:
+        #     break
+        player_info = players_info.get(player.id, {})
+        if player.rd > 75:
+            continue
+        count += 1
+        name = player_info.get("name", "")
+        if name == "":
+            continue
+        federation = player_info.get("federation", "")
+        if len(federation) != 3:
+            print(federation, name, player.id)
+        b_year = player_info.get("b_year", "")
+        if b_year.isdigit():
+            b_year = int(b_year)
+            if b_year < 100:
+                b_year += 1900
+                if year - b_year < 0:
+                    b_year += 100
+            if not top_players.get(b_year):
+                top_players[b_year] = [player]
+            elif len(top_players[b_year]) < 5:
+                top_players[b_year].append(player)
+        else:
+            continue
+    for year in range(1901, 2024):
+        if top_players.get(year):
+            line = ""
+            for player in top_players[year]:
+                player_info = players_info.get(player.id, {})
+                name = player_info.get("name", "")
+                federation = player_info.get("federation", "")
+                rating = player.rating
+                line += f"{rating}\t"
+            line += "\n"
+            f = open(os.path.join(dir, filename, "open.txt"), "a")
+            f.write(line)
+            f.close()
+        else:
+            f = open(os.path.join(dir, filename, "open.txt"), "a")
+            f.write("\n")
+            f.close()
+        
+    
 
 def apply_new_ratings(players):
     for player in players.values():
@@ -437,6 +490,7 @@ def main(
         top_rating_list_dir, top_rating_list_filename, players, players_info, year
     )
     print(f"Rating lists written to {top_rating_list_dir}")
+    write_age_file("age", top_rating_list_filename, players, players_info, year)
 
 
 if __name__ == "__main__":
