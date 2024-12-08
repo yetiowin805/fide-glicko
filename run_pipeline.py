@@ -36,14 +36,14 @@ if __name__ == "__main__":
     # run pipeline commands with start and end months
     print("Running pipeline commands...")
     if args.download_data == "y":
-        print(f"python3 download_player_data.py --save_path {SAVE_PATH} --start_month {args.start_month} --end_month {args.end_month}")
+        print(
+            f"python3 download_player_data.py --save_path {SAVE_PATH} --start_month {args.start_month} --end_month {args.end_month}"
+        )
         os.system(
             f"python3 download_player_data.py --save_path {SAVE_PATH} --start_month {args.start_month} --end_month {args.end_month}"
         )
-        
-        os.system(
-            f"python3 process_fide_rating_list.py"
-        )
+
+        os.system(f"python3 process_fide_rating_list.py")
 
         print(
             f"python3 fide_scraper.py --start_month {args.start_month} --end_month {args.end_month}"
@@ -59,8 +59,12 @@ if __name__ == "__main__":
             f"python3 tournament_scraper.py --start_month {args.start_month} --end_month {args.end_month}"
         )
 
-    print(f"python3 extract_tournament_data.py --start_month {args.start_month} --end_month {args.end_month}")
-    os.system(f"python3 extract_tournament_data.py --start_month {args.start_month} --end_month {args.end_month}")
+    print(
+        f"python3 extract_tournament_data.py --start_month {args.start_month} --end_month {args.end_month}"
+    )
+    os.system(
+        f"python3 extract_tournament_data.py --start_month {args.start_month} --end_month {args.end_month}"
+    )
 
     # Shift start month and end month back one month
     start_month = start_month - 1

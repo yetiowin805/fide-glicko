@@ -1,5 +1,5 @@
 def extract_player_info(input_filename, output_filename):
-    with open(input_filename, 'r') as f:
+    with open(input_filename, "r") as f:
         lines = f.readlines()
 
     # Skip the header line
@@ -17,7 +17,6 @@ def extract_player_info(input_filename, output_filename):
 
         # Append extracted data to the result list
         extracted_data.append((fide_id, name, federation, sex, b_day))
-
 
 
 # Test with the provided table file

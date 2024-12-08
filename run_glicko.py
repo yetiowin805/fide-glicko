@@ -20,8 +20,10 @@ def run_glicko(folder, start_year, start_month, end_year, end_month):
             if next_month > 12:
                 next_month = 1
                 next_year += 1
-                
-            player_info_path = f"./player_info/processed/{next_year:04d}-{next_month:02d}.txt"
+
+            player_info_path = (
+                f"./player_info/processed/{next_year:04d}-{next_month:02d}.txt"
+            )
 
             temp_year, temp_month = next_year, next_month
             while not os.path.exists(player_info_path):

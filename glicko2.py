@@ -342,6 +342,7 @@ def write_to_pretty_file_FED(dir, filename, players, players_info, year):
                     f.write(line)
                     f.close()
 
+
 def write_age_file(dir, filename, players, players_info, year):
     # Sort players by rating in descending order
     os.makedirs(os.path.join(dir, filename), exist_ok=True)
@@ -393,8 +394,7 @@ def write_age_file(dir, filename, players, players_info, year):
             f = open(os.path.join(dir, filename, "open.txt"), "a")
             f.write("\n")
             f.close()
-        
-    
+
 
 def apply_new_ratings(players):
     for player in players.values():
