@@ -43,7 +43,12 @@ if __name__ == "__main__":
             f"python3 download_player_data.py --save_path {SAVE_PATH} --start_month {args.start_month} --end_month {args.end_month}"
         )
 
-        os.system(f"python3 process_fide_rating_list.py")
+        print(
+            f"python3 python3 process_fide_rating_list.py --start_month {args.start_month} --end_month {args.end_month}"
+        )
+        os.system(
+            f"python3 python3 process_fide_rating_list.py --start_month {args.start_month} --end_month {args.end_month}"
+        )
 
         print(
             f"python3 fide_scraper.py --start_month {args.start_month} --end_month {args.end_month}"
