@@ -30,6 +30,7 @@ def main(start_month, end_month):
     start_year, start_month = map(int, start_month.split("-"))
     end_year, end_month = map(int, end_month.split("-"))
 
+    #TODO: Legacy values?
     lengths = [
         15,
         61,

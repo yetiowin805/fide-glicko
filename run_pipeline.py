@@ -1,5 +1,24 @@
 import argparse
 import os
+from datetime import datetime, date
+
+def get_months_between(start_month_str, end_month_str):
+    start_year, start_month = map(int, start_month_str.split("-"))
+    end_year, end_month = map(int, end_month_str.split("-"))
+    
+    start_date = date(start_year, start_month, 1)
+    end_date = date(end_year, end_month, 1)
+    
+    months = []
+    current_date = start_date
+    while current_date <= end_date:
+        months.append(f"{current_date.year:04d}-{current_date.month:02d}")
+        # Move to next month
+        if current_date.month == 12:
+            current_date = date(current_date.year + 1, 1, 1)
+        else:
+            current_date = date(current_date.year, current_date.month + 1, 1)
+    return months
 
 if __name__ == "__main__":
     # Set up argument parser
@@ -26,90 +45,50 @@ if __name__ == "__main__":
 
     # Parse arguments
     args = parser.parse_args()
-
-    # Parse start and end month/year
-    start_year, start_month = map(int, args.start_month.split("-"))
-    end_year, end_month = map(int, args.end_month.split("-"))
-
     SAVE_PATH = "./player_info/raw"
 
-    # run pipeline commands with start and end months
-    print("Running pipeline commands...")
-    if args.download_data == "y":
-        print(
-            f"python3 download_player_data.py --save_path {SAVE_PATH} --start_month {args.start_month} --end_month {args.end_month}"
-        )
-        os.system(
-            f"python3 download_player_data.py --save_path {SAVE_PATH} --start_month {args.start_month} --end_month {args.end_month}"
-        )
+    # Get list of all months between start and end
+    months = get_months_between(args.start_month, args.end_month)
+    
+    # Currently, this is the best way to do this. It looks dumb, and the downstream commands should be modified
+    # to be called for just one month. In the future, we should default to a pipeline and works for modern data,
+    # and create fallback code in case we wish to re-run on old data. Or maybe not, that way is not really faster, to be honest
 
-        print(
-            f"python3 python3 process_fide_rating_list.py --start_month {args.start_month} --end_month {args.end_month}"
-        )
-        os.system(
-            f"python3 python3 process_fide_rating_list.py --start_month {args.start_month} --end_month {args.end_month}"
-        )
+    # Process each month
+    for month in months:
+        print(f"\nProcessing month: {month}")
+        
+        if args.download_data == "y":
+            print(f"python3 download_player_data.py --save_path {SAVE_PATH} --start_month {month} --end_month {month}")
+            os.system(f"python3 download_player_data.py --save_path {SAVE_PATH} --start_month {month} --end_month {month}")
 
-        print(
-            f"python3 fide_scraper.py --start_month {args.start_month} --end_month {args.end_month}"
-        )
-        os.system(
-            f"python3 fide_scraper.py --start_month {args.start_month} --end_month {args.end_month}"
-        )
+            print(f"python3 process_fide_rating_list.py --start_month {month} --end_month {month}")
+            os.system(f"python3 process_fide_rating_list.py --start_month {month} --end_month {month}")
 
-        print(
-            f"python3 tournament_scraper.py --start_month {args.start_month} --end_month {args.end_month}"
-        )
-        os.system(
-            f"python3 tournament_scraper.py --start_month {args.start_month} --end_month {args.end_month}"
-        )
+            print(f"python3 fide_scraper.py --start_month {month} --end_month {month}")
+            os.system(f"python3 fide_scraper.py --start_month {month} --end_month {month}")
 
-    print(
-        f"python3 extract_tournament_data.py --start_month {args.start_month} --end_month {args.end_month}"
-    )
-    os.system(
-        f"python3 extract_tournament_data.py --start_month {args.start_month} --end_month {args.end_month}"
-    )
+            print(f"python3 tournament_scraper.py --start_month {month} --end_month {month}")
+            os.system(f"python3 tournament_scraper.py --start_month {month} --end_month {month}")
 
-    # Shift start month and end month back one month
-    start_month = start_month - 1
-    end_month = end_month - 1
+        print(f"python3 extract_tournament_data.py --start_month {month} --end_month {month}")
+        os.system(f"python3 extract_tournament_data.py --start_month {month} --end_month {month}")
 
-    # Adjust start year and end year if necessary
-    if start_month == 0:
-        start_month = 12
-        start_year -= 1
+        # Get previous month for collect_player_data
+        year, month_num = map(int, month.split("-"))
+        if month_num == 1:
+            prev_year = year - 1
+            prev_month = 12
+        else:
+            prev_year = year
+            prev_month = month_num - 1
+        prev_month_str = f"{prev_year:04d}-{prev_month:02d}"
 
-    if end_month == 0:
-        end_month = 12
-        end_year -= 1
+        print(f"python3 collect_player_data.py --start_month {prev_month_str} --end_month {prev_month_str}")
+        os.system(f"python3 collect_player_data.py --start_month {prev_month_str} --end_month {prev_month_str}")
 
-    args.start_month = f"{start_year:04d}-{start_month:02d}"
-    args.end_month = f"{end_year:04d}-{end_month:02d}"
+        print(f"python3 remove_duplicates.py --root_dir ./clean_numerical/{prev_month_str}")
+        os.system(f"python3 remove_duplicates.py --root_dir ./clean_numerical/{prev_month_str}")
 
-    # loop through months and call remove_duplicates on folder
-    for year in range(start_year, end_year + 1):
-        for month in range(
-            start_month if year == start_year else 1,
-            end_month + 1 if year == end_year else 13,
-        ):
-            print(
-                f"python3 collect_player_data.py --start_month {year:04d}-{month:02d} --end_month {year:04d}-{month:02d}"
-            )
-            os.system(
-                f"python3 collect_player_data.py --start_month {year:04d}-{month:02d} --end_month {year:04d}-{month:02d}"
-            )
-
-            print(
-                f"python3 remove_duplicates.py --root_dir ./clean_numerical/{year:04d}-{month:02d}"
-            )
-            os.system(
-                f"python3 remove_duplicates.py --root_dir ./clean_numerical/{year:04d}-{month:02d}"
-            )
-
-            print(
-                f"python3 run_glicko.py --start_month {year:04d}-{month:02d} --end_month {year:04d}-{month:02d}"
-            )
-            os.system(
-                f"python3 run_glicko.py --start_month {year:04d}-{month:02d} --end_month {year:04d}-{month:02d}"
-            )
+        print(f"python3 run_glicko.py --start_month {prev_month_str} --end_month {prev_month_str}")
+        os.system(f"python3 run_glicko.py --start_month {prev_month_str} --end_month {prev_month_str}")
