@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Melian, Juan Sebastian	PAR 2006 M 2068.6210684 42.6580307 3706575
+1 Melian, Juan Sebastian	PAR 2006 M 2068.6210742 42.6580308 3706575
 2 Caceres Benitez, Arturo Eduardo	PAR 2009 M 2007.2261566 53.2361923 3710769
 3 Allo Collante, Enrique	PAR 2004 M 1870.5170486 56.0214977 3705021
 4 Montiel, Angel Nathanael	PAR 2004 M 1837.9362946 50.2421327 3706923
@@ -14,7 +14,7 @@ Rank Name Federation BirthYear Sex Rating RD
 13 Caceres Benitez, Fernando Israel	PAR 2007 M 1644.1004664 55.0429972 3710777
 14 Mayeregger Gonzalez, Renata Valentina	PAR 2007 F 1615.3676032 42.6286028 3708900
 15 Frutos Moreno, Carlos Manuel	PAR 2007 M 1602.2726599 60.8612790 3708888
-16 Mayeregger Gonzalez, Fiorella Allegra	PAR 2009 F 1596.9882785 43.9315194 3708845
+16 Mayeregger Gonzalez, Fiorella Allegra	PAR 2009 F 1596.9881626 43.9315097 3708845
 17 Navarro Canete, Facundo Javier	PAR 2009 M 1566.3987102 44.9656492 3712532
 18 Sanchez Bobadilla, Valeria Belen	PAR 2006 F 1563.4584191 61.7958558 3712206
 19 Cespedes Alonso, Walter Fabian	PAR 2005 M 1546.6531815 51.8005044 3712222

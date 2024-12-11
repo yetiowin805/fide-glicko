@@ -16,6 +16,6 @@ Rank Name Federation BirthYear Rating RD
 15 Arevalo Guerra, Danna Isabella	PAN 2011 1330.1553870 69.6856301 6612458
 16 Gonzalez Rodriguez, Genesis	PAN 2008 1306.9730390 67.8969044 6608620
 17 Almengor De Gracia, Danahe Renee	PAN 2009 1262.4961175 73.8704881 6612741
-18 Gomes Barranco, Isabela Sofia	PAN 2009 1222.8067634 59.7873328 6607500
+18 Gomes Barranco, Isabela Sofia	PAN 2009 1226.7190954 59.6362163 6607500
 19 Garcia Marroquin, Lily Adriana	PAN 2012 1193.2424979 71.0643024 6614094
 20 Montezuma Camarena, Dayana Cristel	PAN 2009 1181.7193043 74.3271536 6611060

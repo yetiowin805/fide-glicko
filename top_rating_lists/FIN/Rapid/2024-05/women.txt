@@ -1,3 +1,3 @@
 Rank Name Federation BirthYear Rating RD
 1 Paasikangas, Johanna	FIN 1974 2016.3115657 64.5980925 500879
-2 Keinanen, Anastasia	FIN 2001 1908.3649856 59.5323457 34101737
+2 Keinanen, Anastasia	FIN 2001 1908.7561392 59.5252806 34101737

@@ -273,46 +273,25 @@ def get_tournament_data_helper(args):
 
 
 if __name__ == "__main__":
-    # Set up argument parser
     parser = argparse.ArgumentParser(
-        description="Get FIDE tournaments information from a certain month range."
+        description="Get FIDE tournaments information for a specific month."
     )
     parser.add_argument(
-        "--start_month",
+        "--month",
         type=str,
-        help="Start month for the download in YYYY-MM format",
-        required=True,
-    )
-    parser.add_argument(
-        "--end_month",
-        type=str,
-        help="End month for the download in YYYY-MM format",
+        help="Month for processing in YYYY-MM format",
         required=True,
     )
 
-    # Parse arguments
     args = parser.parse_args()
 
-    # Parse start and end month/year
-    start_year, start_month = map(int, args.start_month.split("-"))
-    end_year, end_month = map(int, args.end_month.split("-"))
+    # Parse month/year
+    year, month = map(int, args.month.split("-"))
 
     tasks = []
 
     for country in countries:
-        for year in range(start_year, end_year + 1):
-            if start_year == end_year:
-                for month in range(start_month, end_month + 1):
-                    tasks.append((country, month, year))
-            elif year == start_year:
-                for month in range(start_month, 13):
-                    tasks.append((country, month, year))
-            elif year == end_year:
-                for month in range(1, end_month + 1):
-                    tasks.append((country, month, year))
-            else:
-                for month in range(1, 13):
-                    tasks.append((country, month, year))
+        tasks.append((country, month, year))
 
     # Number of processes to use
     num_processes = 6  # Adjust this as necessary

@@ -1,2 +1,2 @@
 Rank Name Federation BirthYear Sex Rating RD
-1 Pereira, Sergio	STP 1979 M 1890.2493882 68.5125812 1908316
+1 Pereira, Sergio	STP 1979 M 1889.8106628 68.5014499 1908316

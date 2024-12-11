@@ -1,7 +1,7 @@
 Rank Name Federation BirthYear Sex Rating RD
 1 Cabezas Solano, David Alejandro	CRC 2004 M 2028.8107676 54.5487800 6507522
 2 Pastor Carvajal, Jeigoth	CRC 2004 M 1920.1328742 50.5241793 6516718
-3 Diaz Charpentier, Kristel Meliss	CRC 2004 F 1864.6179892 50.4978202 6511708
+3 Diaz Charpentier, Kristel Meliss	CRC 2004 F 1864.6244189 50.4984208 6511708
 4 Mayorga Araya, Sofia	CRC 2009 F 1785.6526671 46.9965028 6514065
 5 Quesada Fallas, Esteban	CRC 2006 M 1771.6474786 52.1836595 6513743
 6 Barboza Viquez, Martin Eduardo	CRC 2007 M 1750.2913537 47.9148148 6508200

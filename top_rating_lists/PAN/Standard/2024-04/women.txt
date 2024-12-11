@@ -22,6 +22,6 @@ Rank Name Federation BirthYear Rating RD
 21 Shayegan Fernandez, Yeisie Behroo	PAN 1990 1322.4241118 62.3105105 6614051
 22 Gonzalez Rodriguez, Genesis	PAN 2008 1306.9730390 67.8969044 6608620
 23 Almengor De Gracia, Danahe Renee	PAN 2009 1262.4961175 73.8704881 6612741
-24 Gomes Barranco, Isabela Sofia	PAN 2009 1222.8067634 59.7873328 6607500
+24 Gomes Barranco, Isabela Sofia	PAN 2009 1226.7190954 59.6362163 6607500
 25 Garcia Marroquin, Lily Adriana	PAN 2012 1193.2424979 71.0643024 6614094
 26 Montezuma Camarena, Dayana Cristel	PAN 2009 1181.7193043 74.3271536 6611060

@@ -1,5 +1,5 @@
 Rank Name Federation BirthYear Rating RD
-1 Diaz Charpentier, Kristel Meliss	CRC 2004 1864.6179892 50.4978202 6511708
+1 Diaz Charpentier, Kristel Meliss	CRC 2004 1864.6244189 50.4984208 6511708
 2 Rodriguez Arrieta, Maria Elena	CRC 1990 1825.0739847 62.8565134 6502911
 3 Mayorga Araya, Sofia	CRC 2009 1785.6526671 46.9965028 6514065
 4 Ramirez Gonzalez, Maria Jose	CRC 1997 1675.1545483 61.4640495 6503349

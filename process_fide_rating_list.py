@@ -26,9 +26,8 @@ def process_file(input_filename, output_filename, lengths, keys):
             output_file.write(f"{json.dumps(json_object)}\n")
 
 
-def main(start_month, end_month):
-    start_year, start_month = map(int, start_month.split("-"))
-    end_year, end_month = map(int, end_month.split("-"))
+def main(month):
+    year, month = map(int, month.split("-"))
 
     #TODO: Legacy values?
     lengths = [
@@ -62,46 +61,28 @@ def main(start_month, end_month):
         "flag",
     ]
 
-    current_year, current_month = start_year, start_month
+    month_year = f"{year:04d}-{month:02d}"
+    input_filename = f"./player_info/raw/{month_year}.txt"
+    output_filename = f"./player_info/processed/{month_year}.txt"
 
-    while (current_year < end_year) or (
-        current_year == end_year and current_month <= end_month
-    ):
-        month_year = f"{current_year:04d}-{current_month:02d}"
-        input_filename = f"./player_info/raw/{month_year}.txt"
-        output_filename = f"./player_info/processed/{month_year}.txt"
-
-        # Check if file exists and process
-        if os.path.exists(input_filename):
-            print(f"Processing file: {input_filename}")
-            process_file(input_filename, output_filename, lengths, keys)
-        else:
-            print(f"File not found: {input_filename}. Skipping...")
-
-        # Increment the month
-        if current_month == 12:
-            current_month = 1
-            current_year += 1
-        else:
-            current_month += 1
+    # Check if file exists and process
+    if os.path.exists(input_filename):
+        print(f"Processing file: {input_filename}")
+        process_file(input_filename, output_filename, lengths, keys)
+    else:
+        print(f"File not found: {input_filename}. Skipping...")
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        description="Process player information from a certain month range."
+        description="Process player information for a specific month."
     )
     parser.add_argument(
-        "--start_month",
+        "--month",
         type=str,
-        help="Start month for processing in YYYY-MM format",
-        required=True,
-    )
-    parser.add_argument(
-        "--end_month",
-        type=str,
-        help="End month for processing in YYYY-MM format",
+        help="Month for processing in YYYY-MM format",
         required=True,
     )
 
     args = parser.parse_args()
-    main(args.start_month, args.end_month)
+    main(args.month)
