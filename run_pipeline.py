@@ -36,9 +36,16 @@ if __name__ == "__main__":
         required=True,
     )
     parser.add_argument(
-        "--download_data",
+        "--download_player_data",
         type=str,
-        help="Determines whether to download data first, y/n",
+        help="Download and process FIDE rating lists, y/n",
+        required=False,
+        default="n",
+    )
+    parser.add_argument(
+        "--scrape_fide",
+        type=str,
+        help="Scrape FIDE website for player and tournament data, y/n",
         required=False,
         default="y",
     )
@@ -58,13 +65,14 @@ if __name__ == "__main__":
     for month in months:
         print(f"\nProcessing month: {month}")
         
-        if args.download_data == "y":
+        if args.download_player_data == "y":
             print(f"python3 download_player_data.py --save_path {SAVE_PATH} --month {month}")
             os.system(f"python3 download_player_data.py --save_path {SAVE_PATH} --month {month}")
 
             print(f"python3 process_fide_rating_list.py --month {month}")
             os.system(f"python3 process_fide_rating_list.py --month {month}")
 
+        if args.scrape_fide == "y":
             print(f"python3 fide_scraper.py --month {month}")
             os.system(f"python3 fide_scraper.py --month {month}")
 
