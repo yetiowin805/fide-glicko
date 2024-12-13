@@ -4,21 +4,42 @@ from bs4 import BeautifulSoup
 import argparse
 from countries import countries
 import re
+import logging
+from typing import Set
+from datetime import date
 
-# Second command in pipeline
+# Add constants at the top
+BASE_URL = "https://ratings.fide.com/tournament_list.phtml"
+TOURNAMENT_REPORT_URL = "tournament_report.phtml"
 
 
-def scrape_fide_data(country, month, year):
-    if year < 2009 and month % 3 != 1:
+def is_valid_rating_period(year: int, month: int) -> bool:
+    """
+    Validate if the given year and month combination is a valid FIDE rating period.
+    """
+    if year < 2009:
+        return month % 3 == 1
+    if year == 2009:
+        return month < 7 and month % 3 == 1 or month >= 7 and month % 2 == 1
+    if year < 2012:
+        return month % 2 == 1
+    if year == 2012:
+        return month < 7 and month % 2 == 1
+    return True
+
+
+def scrape_fide_data(country: str, month: int, year: int) -> None:
+    """
+    Scrape FIDE tournament data for a specific country and rating period.
+
+    Args:
+        country: Country code
+        month: Month (1-12)
+        year: Year (>=2001)
+    """
+    if not is_valid_rating_period(year, month):
         return
-    if year == 2009 and month < 7 and month % 3 != 1:
-        return
-    if year == 2009 and month >= 7 and month % 2 != 1:
-        return
-    if year > 2009 and year < 2012 and month % 2 != 1:
-        return
-    if year == 2012 and month < 7 and month % 2 != 1:
-        return
+
     # Pad the month with a leading zero if it's less than 10
     month_str = f"{month:02d}"
     # Create the formatted string
@@ -31,12 +52,16 @@ def scrape_fide_data(country, month, year):
         return
 
     # Generate the URL for the specific month and year
-    url = (
-        f"https://ratings.fide.com/tournament_list.phtml?moder=ev_code&{formatted_str}"
-    )
-    print(url)
-    # Make the HTTP request
-    response = requests.get(url)
+    url = f"{BASE_URL}?moder=ev_code&{formatted_str}"
+
+    logging.info(f"Scraping data from: {url}")
+
+    try:
+        response = requests.get(url, timeout=30)
+        response.raise_for_status()
+    except requests.RequestException as e:
+        logging.error(f"Failed to fetch data for {country} {year}-{month:02d}: {e}")
+        return
 
     # Parse the HTML content
     soup = BeautifulSoup(response.text, "html.parser")
@@ -62,6 +87,11 @@ def scrape_fide_data(country, month, year):
 
 
 if __name__ == "__main__":
+    # Set up logging
+    logging.basicConfig(
+        level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
+    )
+
     parser = argparse.ArgumentParser(
         description="Get FIDE tournaments from a specific month."
     )

@@ -45,9 +45,7 @@ if __name__ == "__main__":
     month_str = month_mappings[month]
     year_str = str(year)[2:]
 
-    expected_txt_file = os.path.join(
-        SAVE_PATH, f"{year}-{month:02}.txt"
-    )
+    expected_txt_file = os.path.join(SAVE_PATH, f"{year}-{month:02}.txt")
     if os.path.exists(expected_txt_file):
         print(
             f"File {expected_txt_file} already exists. Skipping download for {month}/{year}."

@@ -1,3 +1,7 @@
+import logging
+from typing import List
+from pathlib import Path
+from dataclasses import dataclass
 import os
 import requests
 from bs4 import BeautifulSoup
@@ -6,136 +10,112 @@ from multiprocessing import Pool
 import argparse
 from countries import countries
 
-# Third command in pipeline
+# Constants
+BASE_URL = "https://ratings.fide.com"
+TOURNAMENT_DETAILS_PATH = "tournament_details.phtml?event="
+TOURNAMENT_SOURCE_PATH = "view_source.phtml?code="
+TOURNAMENT_REPORT_PATH = "tournament_report.phtml?event16="
 
 
-def scrape_tournament_data(country, month, year):
-    # Pad the month with a leading zero if it's less than 10
-    month_str = f"{month:02d}"
-    # Create the formatted string
-    formatted_str = f"{year}-{month_str}"
-    # Create the path
-    path = os.path.join(
-        "raw_tournament_data", country, formatted_str, "tournaments.txt"
+@dataclass
+class TournamentPaths:
+    """Container for tournament-related file paths"""
+
+    info: Path
+    crosstable: Path
+    report: Path
+
+
+def get_tournament_paths(base_path: Path, code: str) -> TournamentPaths:
+    """Generate all required paths for a tournament"""
+    return TournamentPaths(
+        info=base_path / "info" / f"{code}.txt",
+        crosstable=base_path / "crosstables" / f"{code}.txt",
+        report=base_path / "report" / f"{code}.txt",
     )
 
-    # Check if the file exists
-    if os.path.isfile(path):
-        print(path)
-        with open(path, "r") as f:
-            lines = f.readlines()
 
-        # Define base URL
-        base_url = "https://ratings.fide.com/"
+def fetch_and_save(url: str, save_path: Path) -> None:
+    """Fetch data from URL and save to file with error handling"""
+    try:
+        response = requests.get(url, timeout=30)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, "html.parser")
 
-        # Loop through each line in the file
-        for line in lines:
-            # Extract the code from the line
-            code = line[:-1]
+        save_path.parent.mkdir(parents=True, exist_ok=True)
+        save_path.write_text(str(soup), encoding="utf-8")
+    except requests.RequestException as e:
+        logging.error(f"Failed to fetch {url}: {e}")
+    except IOError as e:
+        logging.error(f"Failed to save to {save_path}: {e}")
 
-            # Create the file path for the new file
-            new_path = os.path.join(os.path.dirname(path), "info", f"{code}.txt")
 
-            # Check if the new file path exists and is not empty
-            if os.path.exists(new_path) and os.path.getsize(new_path) > 0:
-                # File exists and is not empty, skip this iteration
-                continue
+def scrape_tournament_data(country: str, month: int, year: int) -> None:
+    """
+    Scrape detailed tournament data for a specific country and period.
 
-            # If the file doesn't exist or is empty, fetch data from the URL
-            # Form the complete URL
-            url = base_url + "tournament_details.phtml?event=" + code
+    Args:
+        country: Country code
+        month: Month (1-12)
+        year: Year
+    """
+    base_path = Path("raw_tournament_data") / country / f"{year}-{month:02d}"
+    tournament_file = base_path / "tournaments.txt"
 
-            # Make the HTTP request
-            response = requests.get(url)
+    if not tournament_file.is_file():
+        logging.info(f"No tournament file found at {tournament_file}")
+        return
 
-            # Parse the HTML content
-            soup = BeautifulSoup(response.text, "html.parser")
+    tournament_codes = tournament_file.read_text().splitlines()
 
-            # Make sure the directory exists
-            os.makedirs(os.path.dirname(new_path), exist_ok=True)
+    for code in tournament_codes:
+        paths = get_tournament_paths(base_path, code.strip())
 
-            # Write the contents of 'soup' into the file
-            with open(new_path, "w", encoding="utf-8") as f:
-                f.write(str(soup))
+        # Fetch tournament details if needed
+        if not paths.info.exists() or paths.info.stat().st_size == 0:
+            fetch_and_save(f"{BASE_URL}/{TOURNAMENT_DETAILS_PATH}{code}", paths.info)
 
-        # Loop through each line in the file
-        for line in lines:
-            # Extract the code from the line
-            code = line[:-1]
+        # Fetch crosstable if needed
+        if not paths.crosstable.exists() or paths.crosstable.stat().st_size == 0:
+            fetch_and_save(
+                f"{BASE_URL}/{TOURNAMENT_SOURCE_PATH}{code}", paths.crosstable
+            )
 
-            # Create the file path for the new file
-            new_path = os.path.join(os.path.dirname(path), "crosstables", f"{code}.txt")
+        # Check if we need to fetch the report
+        if paths.crosstable.exists():
+            try:
+                soup = BeautifulSoup(
+                    paths.crosstable.read_text(encoding="utf-8"), "lxml"
+                )
+                needs_report = soup.find(
+                    string=lambda s: "Tournament report was updated or replaced"
+                    in str(s)
+                )
 
-            # Check if the new file path exists and is not empty
-            if os.path.exists(new_path) and os.path.getsize(new_path) > 0:
-                # File exists and is not empty, skip this iteration
-                continue
-
-            # If the file doesn't exist or is empty, fetch data from the URL
-            # Form the complete URL
-            url = base_url + "view_source.phtml?code=" + code
-
-            # Make the HTTP request
-            response = requests.get(url)
-
-            # Parse the HTML content
-            soup = BeautifulSoup(response.text, "html.parser")
-
-            # Make sure the directory exists
-            os.makedirs(os.path.dirname(new_path), exist_ok=True)
-
-            # Write the contents of 'soup' into the file
-            with open(new_path, "w", encoding="utf-8") as f:
-                f.write(str(soup))
-
-        # Loop through each line in the file
-        for line in lines:
-            # Extract the code from the line
-            code = line[:-1]
-
-            new_path = os.path.join(os.path.dirname(path), "crosstables", f"{code}.txt")
-            with open(new_path, encoding="utf-8") as fp:
-                try:
-                    soup = BeautifulSoup(fp, "lxml")
-                except Exception as x:
-                    logging.error(f"Unexpected result at path: {path}")
-                    raise x
-                if not soup.find(
-                    string=lambda string: "Tournament report was updated or replaced, please view Tournament Details for more information."
-                    in string
+                if needs_report and (
+                    not paths.report.exists() or paths.report.stat().st_size == 0
                 ):
-                    continue
-            # Create the file path for the new file
-            new_path = os.path.join(os.path.dirname(path), "report", f"{code}.txt")
-
-            # Check if the new file path exists and is not empty
-            if os.path.exists(new_path) and os.path.getsize(new_path) > 0:
-                # File exists and is not empty, skip this iteration
-                continue
-
-            # If the file doesn't exist or is empty, fetch data from the URL
-            # Form the complete URL
-            url = base_url + "tournament_report.phtml?event16=" + code
-
-            # Make the HTTP request
-            response = requests.get(url)
-
-            # Parse the HTML content
-            soup = BeautifulSoup(response.text, "html.parser")
-
-            # Make sure the directory exists
-            os.makedirs(os.path.dirname(new_path), exist_ok=True)
-
-            # Write the contents of 'soup' into the file
-            with open(new_path, "w", encoding="utf-8") as f:
-                f.write(str(soup))
+                    fetch_and_save(
+                        f"{BASE_URL}/{TOURNAMENT_REPORT_PATH}{code}", paths.report
+                    )
+            except Exception as e:
+                logging.error(f"Error processing crosstable for {code}: {e}")
 
 
-def scrape_country_month_year(args):
-    return scrape_tournament_data(*args)
+def scrape_country_month_year(args: tuple) -> None:
+    """Wrapper function for multiprocessing"""
+    try:
+        scrape_tournament_data(*args)
+    except Exception as e:
+        logging.error(f"Error processing {args}: {e}")
 
 
 if __name__ == "__main__":
+    # Set up logging
+    logging.basicConfig(
+        level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
+    )
+
     parser = argparse.ArgumentParser(
         description="Extract FIDE tournament information from files for a specific month"
     )

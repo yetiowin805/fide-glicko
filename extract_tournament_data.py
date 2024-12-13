@@ -6,112 +6,92 @@ from multiprocessing import Pool
 import logging
 import argparse
 from countries import countries
+from dataclasses import dataclass
+from typing import List, Dict, Optional, Union
+from pathlib import Path
+from bs4 import BeautifulSoup, Tag
+from datetime import datetime
 
 # Fourth command in pipeline
 
 # Set up logging
 logging.basicConfig(filename="error_log.txt", level=logging.ERROR)
 
+# Constants
+BGCOLOR_PLAYER = "#CBD8F9"
+BGCOLOR_OPPONENT = "#FFFFFF"
+VALID_RESULTS = {"0", "0.5", "1.0", "Forfeit"}
 
-def parse_crosstable(country, month, year, code):
-    # Pad the month with a leading zero if it's less than 10
-    month_str = f"{month:02d}"
-    # Create the formatted string
-    formatted_str = f"{year}-{month_str}"
-    # Create the path
-    path = os.path.join(
-        "raw_tournament_data", country, formatted_str, "crosstables", f"{code}.txt"
+
+@dataclass
+class Opponent:
+    name: str
+    id: str
+    result: float
+
+
+@dataclass
+class Player:
+    fide_id: str
+    name: str
+    number: str
+    opponents: List[Opponent]
+
+
+@dataclass
+class MissingCrosstablePlayer:
+    fide_id: str
+    RC: str
+    score: str
+    N: str
+
+
+def parse_player_row(td_tags: List[Tag]) -> Optional[Player]:
+    """Parse a row containing player information."""
+    if len(td_tags) < 2:
+        return None
+
+    tdisa = td_tags[1].find("a")
+    if not tdisa:
+        return None
+
+    return Player(
+        fide_id=td_tags[0].text,
+        name=tdisa.text,
+        number=tdisa.get("name", ""),
+        opponents=[],
     )
 
-    with open(path, encoding="utf-8") as fp:
-        try:
-            soup = BeautifulSoup(fp, "lxml")
-        except Exception as x:
-            logging.error(f"Unexpected result at path: {path}")
-            raise x
-        if soup.find(
-            string=lambda string: "Tournament report was updated or replaced, please view Tournament Details for more information."
-            in string
-        ):
-            return missing_crosstable_generate_data(country, month, year, code)
 
-        # Find all the <tr> tags
-        tr_tags = soup.find_all("tr")
+def parse_opponent_row(td_tags: List[Tag], path: Path) -> Optional[Opponent]:
+    """Parse a row containing opponent information."""
+    if len(td_tags) < 2:
+        return None
 
-        players_and_opponents = []
+    tdisa = td_tags[1].find("a")
+    if not tdisa or "NOT Rated Game" in td_tags[0].get_text():
+        return None
 
-        player_info = None
+    result = parse_result(td_tags[-2], path)
+    if not result or result == "Forfeit":
+        return None
 
-        # For each <tr> tag
-        for tr in tr_tags:
-            td_tags = tr.find_all("td")
+    return Opponent(
+        name=tdisa.text, id=tdisa.get("href", "").strip("#"), result=float(result)
+    )
 
-            bgcolor = td_tags[0].get("bgcolor")
-            if len(td_tags) > 1:
-                tdisa = td_tags[1].find("a")
-            else:
-                tdisa = None
-            # If the first <td> tag's bgcolor is '#CBD8F9' and it contains an <a> tag
-            if bgcolor == "#CBD8F9" and tdisa is not None:
-                # If we have previous player info, add it to the list
-                if player_info is not None:
-                    players_and_opponents.append(player_info)
-                # Start new player info
-                fide_id = td_tags[0].text
-                name = tdisa.text
-                number = tdisa.get("name")
-                player_info = {
-                    "fide_id": fide_id,
-                    "name": name,
-                    "number": number,
-                    "opponents": [],
-                }
-            # Else if the first <td> tag's bgcolor is '#FFFFFF' and it contains an <a> tag
-            elif (
-                bgcolor == "#FFFFFF"
-                and tdisa is not None
-                and "NOT Rated Game" not in tr.get_text()
-            ):
-                # If we have current player info, add this opponent to the list
-                if player_info is not None:
-                    opponent_tag = tdisa
-                    opponent_name = opponent_tag.text
-                    # Only add opponent if the name is not empty
-                    if opponent_name.strip():
-                        opponent_id = opponent_tag.get("href").strip("#")
-                        result_tag = td_tags[-2].find("font")
-                        if result_tag:
-                            result = result_tag.text.strip()
-                        else:
-                            result = td_tags[
-                                -2
-                            ].text.strip()  # Extract the text directly from the td tag
-                            if result[-1] == "0":
-                                result = "0"
-                            else:
-                                logging.error(
-                                    f"Unexpected result at path: {path}, td_tags: {td_tags}"
-                                )
-                                raise Exception(result)
-                        if result in ["0", "0.5", "1.0"]:
-                            player_info["opponents"].append(
-                                {
-                                    "name": opponent_name,
-                                    "id": opponent_id,
-                                    "result": float(result),
-                                }
-                            )
-                        elif result != "Forfeit":
-                            logging.error(
-                                f"Unexpected result at path: {path}, result: {result}"
-                            )
-                            raise Exception(result)
 
-        # Add last player info
-        if player_info is not None:
-            players_and_opponents.append(player_info)
+def parse_crosstable(
+    country: str, month: int, year: int, code: str
+) -> Union[List[Player], List[MissingCrosstablePlayer]]:
+    """Main function to parse a crosstable file."""
+    path = get_crosstable_path(country, month, year, code)
+    soup = parse_html_file(path)
 
-        return players_and_opponents
+    if is_missing_crosstable(soup):
+        return parse_missing_crosstable(country, month, year, code)
+
+    return parse_regular_crosstable(soup, path)
 
 
 def missing_crosstable_generate_data(country, month, year, code):

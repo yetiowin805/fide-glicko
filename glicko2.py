@@ -4,19 +4,25 @@ import math
 import os
 from countries import countries
 
-BASE_RATING = 1500.0
-BASE_RD = 350.0
-BASE_VOLATILITY = 0.09
-TAU = 0.2
+# Constants moved to top and grouped logically
+RATING_CONSTANTS = {
+    "BASE_RATING": 1500.0,
+    "BASE_RD": 350.0,
+    "BASE_VOLATILITY": 0.09,
+    "TAU": 0.2,
+    "SCALE": 173.7178,
+    "MAX_RD": 500,
+    "MAX_VOLATILITY": 0.1,
+}
 
-# Pre-computed constants
-PI_SQUARED = math.pi ** 2
-SCALE = 173.7178
+MATH_CONSTANTS = {"PI_SQUARED": math.pi ** 2}
 
 FEDERATIONS = countries
 
 
 class GameResult:
+    """Represents the result of a game between two players."""
+
     def __init__(
         self, opponent_id=None, score=None, opponent_rating=None, opponent_rd=None
     ):
@@ -34,12 +40,18 @@ class GameResult:
             self.score = score
             self.generatedGame = True
         else:
-            raise ValueError("Invalid arguments")
+            raise ValueError("Invalid arguments for GameResult")
 
 
 class Player:
+    """Represents a player with Glicko-2 rating attributes."""
+
     def __init__(
-        self, player_id, rating=BASE_RATING, rd=BASE_RD, volatility=BASE_VOLATILITY
+        self,
+        player_id,
+        rating=RATING_CONSTANTS["BASE_RATING"],
+        rd=RATING_CONSTANTS["BASE_RD"],
+        volatility=RATING_CONSTANTS["BASE_VOLATILITY"],
     ):
         self.id = player_id
         self.rating = rating
@@ -60,20 +72,23 @@ def add_game(player_id, game, players_dict):
 def f(x, delta, v, A):
     ex = math.exp(x)
     ex_v_sum = v + ex
-    return (ex * (delta ** 2 - v - ex)) / (2 * ex_v_sum ** 2) - (x - A) / TAU ** 2
+    return (ex * (delta ** 2 - v - ex)) / (2 * ex_v_sum ** 2) - (
+        x - A
+    ) / RATING_CONSTANTS["TAU"] ** 2
 
 
 def glicko2_update(target, players):
-    if len(target.games) == 0:
-        phi = target.rd / SCALE
+    # Add early return for no games
+    if not target.games:
+        phi = target.rd / RATING_CONSTANTS["SCALE"]
         phi_star = math.sqrt(phi ** 2 + target.volatility ** 2)
-        target.new_rd = phi_star * SCALE
-        if target.new_rd > 500:
-            target.new_rd = 500
+        target.new_rd = min(
+            phi_star * RATING_CONSTANTS["SCALE"], RATING_CONSTANTS["MAX_RD"]
+        )
         return
 
-    mu = (target.rating - 1500.0) / SCALE
-    phi = target.rd / SCALE
+    mu = (target.rating - RATING_CONSTANTS["BASE_RATING"]) / RATING_CONSTANTS["SCALE"]
+    phi = target.rd / RATING_CONSTANTS["SCALE"]
 
     v_inv = 0
     delta_sum = 0
@@ -81,13 +96,19 @@ def glicko2_update(target, players):
     for game in target.games:
         if not game.generatedGame:
             opponent = players[game.opponent_id]
-            mu_j = (opponent.rating - 1500.0) / SCALE
-            phi_j = opponent.rd / SCALE
+            mu_j = (
+                opponent.rating - RATING_CONSTANTS["BASE_RATING"]
+            ) / RATING_CONSTANTS["SCALE"]
+            phi_j = opponent.rd / RATING_CONSTANTS["SCALE"]
         else:
-            mu_j = (game.opponent_rating - 1500.0) / SCALE
-            phi_j = game.opponent_rd / SCALE
+            mu_j = (
+                game.opponent_rating - RATING_CONSTANTS["BASE_RATING"]
+            ) / RATING_CONSTANTS["SCALE"]
+            phi_j = game.opponent_rd / RATING_CONSTANTS["SCALE"]
 
-        g_phi_j = 1.0 / math.sqrt(1.0 + (3.0 * phi_j ** 2) / PI_SQUARED)
+        g_phi_j = 1.0 / math.sqrt(
+            1.0 + (3.0 * phi_j ** 2) / MATH_CONSTANTS["PI_SQUARED"]
+        )
 
         e_val = 1.0 / (1.0 + math.exp(-g_phi_j * (mu - mu_j)))
 
@@ -104,9 +125,9 @@ def glicko2_update(target, players):
         B = math.log(delta ** 2 - phi ** 2 - v)
     else:
         k = 1
-        while f(a - k * TAU, delta, v, a) < 0:
+        while f(a - k * RATING_CONSTANTS["TAU"], delta, v, a) < 0:
             k += 1
-        B = a - k * TAU
+        B = a - k * RATING_CONSTANTS["TAU"]
 
     epsilon = 0.000001
     fa = f(A, delta, v, a)
@@ -133,25 +154,18 @@ def glicko2_update(target, players):
     new_volatility = math.exp(A / 2.0)
     phi_star = math.sqrt(phi ** 2 + new_volatility ** 2)
     new_phi = 1.0 / math.sqrt(1.0 / phi_star ** 2 + 1.0 / v)
-    if new_phi ** 2 * delta_sum > 1000.0 / SCALE:
-        new_mu = mu + 1000.0 / SCALE
-    elif new_phi ** 2 * delta_sum < -1000.0 / SCALE:
-        new_mu = mu - 1000.0 / SCALE
+    if new_phi ** 2 * delta_sum > 1000.0 / RATING_CONSTANTS["SCALE"]:
+        new_mu = mu + 1000.0 / RATING_CONSTANTS["SCALE"]
+    elif new_phi ** 2 * delta_sum < -1000.0 / RATING_CONSTANTS["SCALE"]:
+        new_mu = mu - 1000.0 / RATING_CONSTANTS["SCALE"]
     else:
         new_mu = mu + new_phi ** 2 * delta_sum
 
-    target.new_rating = new_mu * SCALE + 1500.0
-    target.new_rd = new_phi * SCALE
-    target.volatility = new_volatility
-
-    # if target.new_rating < 0:
-    #     target.new_rating = 0
-    # elif target.new_rating > 3500:
-    #     target.new_rating = 3500
-    if target.new_rd > 500:
-        target.new_rd = 500
-    if target.volatility > 0.1:
-        target.volatility = 0.1
+    target.new_rating = (
+        new_mu * RATING_CONSTANTS["SCALE"] + RATING_CONSTANTS["BASE_RATING"]
+    )
+    target.new_rd = min(new_phi * RATING_CONSTANTS["SCALE"], RATING_CONSTANTS["MAX_RD"])
+    target.volatility = min(new_volatility, RATING_CONSTANTS["MAX_VOLATILITY"])
 
 
 def extract_player_info(input_filename):
@@ -180,220 +194,189 @@ def extract_player_info(input_filename):
     return players_dict
 
 
-def write_to_file(filename, players):
-    lines = [
-        f"{player.id} {player.rating:.7f} {player.rd:.7f} {player.volatility:.7f}\n"
-        for player in players.values()
-    ]
+class RatingListWriter:
+    """Handles writing rating lists in various formats"""
 
-    with open(filename, "w") as out_file:
-        out_file.writelines(lines)
+    def __init__(self, players, players_info, year):
+        self.players = players
+        self.players_info = players_info
+        self.year = year
+        self.sorted_players = sorted(
+            players.values(), key=lambda p: p.rating, reverse=True
+        )
 
+    def write_raw_ratings(self, filename):
+        """Writes raw rating data in space-separated format"""
+        lines = [
+            f"{player.id} {player.rating:.7f} {player.rd:.7f} {player.volatility:.7f}\n"
+            for player in self.players.values()
+        ]
+        with open(filename, "w") as out_file:
+            out_file.writelines(lines)
 
-def write_to_pretty_file(filename, players, players_info, year):
-    # Sort players by rating in descending order
-    sorted_players = sorted(players.values(), key=lambda p: p.rating, reverse=True)
+    def _get_player_details(self, player):
+        """Extract and normalize player details"""
+        info = self.players_info.get(player.id, {})
+        details = {
+            "name": info.get("name", ""),
+            "federation": info.get("federation", ""),
+            "sex": info.get("sex", ""),
+            "b_year": self._normalize_birth_year(info.get("b_year", "")),
+        }
+        return details
 
-    count = 0
-    count_women = 0
-    count_juniors = 0
-    count_girls = 0
+    def _normalize_birth_year(self, b_year):
+        """Normalize birth year to 4-digit format"""
+        if not b_year.isdigit():
+            return 0
+        year = int(b_year)
+        if year < 100:
+            year += 1900
+            if self.year - year < 0:
+                year += 100
+        return year
 
-    os.makedirs(filename, exist_ok=True)
-
-    for player in sorted_players:
-        player_info = players_info.get(player.id, {})
-        if player.rd > 75:
-            continue
-        name = player_info.get("name", "")
-        if name == "":
-            continue
-        federation = player_info.get("federation", "")
-        b_year = player_info.get("b_year", "")
-        if b_year.isdigit():
-            b_year = int(b_year)
-            if b_year < 100:
-                b_year += 1900
-                if year - b_year < 0:
-                    b_year += 100
-        else:
-            b_year = 0
-        sex = player_info.get("sex", "")
-        if count == 0:
-            os.makedirs(os.path.join(filename), exist_ok=True)
-            f = open(os.path.join(filename, "open.txt"), "w")
-            f.write("Rank Name Federation BirthYear Sex Rating RD\n")
-            f.close()
-        if count < 100:
-            count += 1
-            line = f"{count} {name}\t{federation} {b_year} {sex} {player.rating:.7f} {player.rd:.7f} {player.id}\n"
-            f = open(os.path.join(filename, "open.txt"), "a")
-            f.write(line)
-            f.close()
-        if year - b_year <= 20:
-            if count_juniors == 0:
-                f = open(os.path.join(filename, "juniors.txt"), "w")
-                f.write("Rank Name Federation BirthYear Sex Rating RD\n")
-                f.close()
-            if count_juniors < 100:
-                count_juniors += 1
-                line = f"{count_juniors} {name}\t{federation} {b_year} {sex} {player.rating:.7f} {player.rd:.7f} {player.id}\n"
-                f = open(os.path.join(filename, "juniors.txt"), "a")
+    def _write_category_file(self, filepath, header, players_with_rank):
+        """Generic method to write a category file"""
+        os.makedirs(os.path.dirname(filepath), exist_ok=True)
+        with open(filepath, "w") as f:
+            f.write(header + "\n")
+            for rank, player, details in players_with_rank:
+                line = (
+                    f"{rank} {details['name']}\t{details['federation']} "
+                    f"{details['b_year']} {details.get('sex', '')} "
+                    f"{player.rating:.7f} {player.rd:.7f} {player.id}\n"
+                )
                 f.write(line)
-                f.close()
-        if sex == "F":
-            if count_women == 0:
-                f = open(os.path.join(filename, "women.txt"), "w")
-                f.write("Rank Name Federation BirthYear Rating RD\n")
-                f.close()
-            if count_women < 100:
-                count_women += 1
-                line = f"{count_women} {name}\t{federation} {b_year} {player.rating:.7f} {player.rd:.7f} {player.id}\n"
-                f = open(os.path.join(filename, "women.txt"), "a")
-                f.write(line)
-                f.close()
-            if year - b_year <= 20:
-                if count_girls == 0:
-                    f = open(os.path.join(filename, "girls.txt"), "w")
-                    f.write("Rank Name Federation BirthYear Rating RD\n")
-                    f.close()
-                if count_girls < 100:
-                    count_girls += 1
-                    line = f"{count_girls} {name}\t{federation} {b_year} {player.rating:.7f} {player.rd:.7f} {player.id}\n"
-                    f = open(os.path.join(filename, "girls.txt"), "a")
-                    f.write(line)
-                    f.close()
-                    if count_girls == 100:
+
+    def write_global_lists(self, output_dir):
+        """Writes global rating lists for different categories"""
+        categories = {
+            "open": {"max_count": 100, "condition": lambda p, d: True},
+            "women": {"max_count": 100, "condition": lambda p, d: d["sex"] == "F"},
+            "juniors": {
+                "max_count": 100,
+                "condition": lambda p, d: self.year - d["b_year"] <= 20,
+            },
+            "girls": {
+                "max_count": 100,
+                "condition": lambda p, d: d["sex"] == "F"
+                and self.year - d["b_year"] <= 20,
+            },
+        }
+
+        for category, settings in categories.items():
+            qualified_players = []
+            count = 0
+
+            for player in self.sorted_players:
+                if player.rd > 75:
+                    continue
+
+                details = self._get_player_details(player)
+                if not details["name"]:
+                    continue
+
+                if settings["condition"](player, details):
+                    count += 1
+                    qualified_players.append((count, player, details))
+                    if count >= settings["max_count"]:
                         break
 
+            if qualified_players:
+                filepath = os.path.join(output_dir, f"{category}.txt")
+                header = "Rank Name Federation BirthYear Sex Rating RD"
+                self._write_category_file(filepath, header, qualified_players)
 
-def write_to_pretty_file_FED(dir, filename, players, players_info, year):
-    # Sort players by rating in descending order
+
+def write_federation_lists(dir, filename, players, players_info, year):
+    """Writes rating lists for each federation, separated by category (open, women, juniors, girls)"""
     sorted_players = sorted(players.values(), key=lambda p: p.rating, reverse=True)
-    federation_counts = {x: 0 for x in FEDERATIONS}
-    federation_counts_women = {x: 0 for x in FEDERATIONS}
-    federation_counts_juniors = {x: 0 for x in FEDERATIONS}
-    federation_counts_girls = {x: 0 for x in FEDERATIONS}
+    federation_files = {}
+    federation_counts = {
+        fed: {"open": 0, "women": 0, "juniors": 0, "girls": 0} for fed in FEDERATIONS
+    }
+
+    def get_file_handle(federation, category):
+        """Gets or creates file handle for federation/category combination"""
+        key = (federation, category)
+        if key not in federation_files:
+            path = os.path.join(dir, federation, filename)
+            os.makedirs(path, exist_ok=True)
+            filepath = os.path.join(path, f"{category}.txt")
+            header = "Rank Name Federation BirthYear Sex Rating RD\n"
+            if category in ["women", "girls"]:  # These categories don't need Sex column
+                header = "Rank Name Federation BirthYear Rating RD\n"
+            with open(filepath, "w") as f:
+                f.write(header)
+        return os.path.join(dir, federation, filename, f"{category}.txt")
+
+    def write_player_line(
+        filepath, rank, player, player_info, b_year, include_sex=True
+    ):
+        """Writes a single player entry to the specified file"""
+        sex = player_info.get("sex", "")
+        line_parts = [
+            str(rank),
+            player_info.get("name", ""),
+            player_info.get("federation", ""),
+            str(b_year),
+        ]
+        if include_sex:
+            line_parts.append(sex)
+        line_parts.extend([f"{player.rating:.7f}", f"{player.rd:.7f}", str(player.id)])
+        line = f"{line_parts[0]} {line_parts[1]}\t{' '.join(line_parts[2:])}\n"
+        with open(filepath, "a") as f:
+            f.write(line)
 
     for player in sorted_players:
         player_info = players_info.get(player.id, {})
-        if player.rd > 75:
+
+        # Skip invalid entries
+        if (
+            player.rd > 75
+            or not player_info.get("name")
+            or len(player_info.get("federation", "")) != 3
+        ):
             continue
-        name = player_info.get("name", "")
-        if name == "":
-            continue
-        federation = player_info.get("federation", "")
-        if len(federation) != 3:
-            print(federation, name, player.id)
-        if federation_counts_girls[federation] == 100:
-            continue
+
+        federation = player_info["federation"]
         b_year = player_info.get("b_year", "")
+
+        # Normalize birth year
         if b_year.isdigit():
             b_year = int(b_year)
             if b_year < 100:
-                b_year += 1900
-                if year - b_year < 0:
-                    b_year += 100
+                b_year += 1900 + (100 if year - b_year < 0 else 0)
         else:
             b_year = 0
+
         sex = player_info.get("sex", "")
-        if federation_counts[federation] == 0:
-            os.makedirs(os.path.join(dir, federation, filename), exist_ok=True)
-            f = open(os.path.join(dir, federation, filename, "open.txt"), "w")
-            f.write("Rank Name Federation BirthYear Sex Rating RD\n")
-            f.close()
-        if federation_counts[federation] < 100:
-            federation_counts[federation] += 1
-            line = f"{federation_counts[federation]} {name}\t{federation} {b_year} {sex} {player.rating:.7f} {player.rd:.7f} {player.id}\n"
-            f = open(os.path.join(dir, federation, filename, "open.txt"), "a")
-            f.write(line)
-            f.close()
-        if year - b_year <= 20:
-            if federation_counts_juniors[federation] == 0:
-                f = open(os.path.join(dir, federation, filename, "juniors.txt"), "w")
-                f.write("Rank Name Federation BirthYear Sex Rating RD\n")
-                f.close()
-            if federation_counts_juniors[federation] < 100:
-                federation_counts_juniors[federation] += 1
-                line = f"{federation_counts_juniors[federation]} {name}\t{federation} {b_year} {sex} {player.rating:.7f} {player.rd:.7f} {player.id}\n"
-                f = open(os.path.join(dir, federation, filename, "juniors.txt"), "a")
-                f.write(line)
-                f.close()
-        if sex == "F":
-            if federation_counts_women[federation] == 0:
-                f = open(os.path.join(dir, federation, filename, "women.txt"), "w")
-                f.write("Rank Name Federation BirthYear Rating RD\n")
-                f.close()
-            if federation_counts_women[federation] < 100:
-                federation_counts_women[federation] += 1
-                line = f"{federation_counts_women[federation]} {name}\t{federation} {b_year} {player.rating:.7f} {player.rd:.7f} {player.id}\n"
-                f = open(os.path.join(dir, federation, filename, "women.txt"), "a")
-                f.write(line)
-                f.close()
-            if year - b_year <= 20:
-                if federation_counts_girls[federation] == 0:
-                    f = open(os.path.join(dir, federation, filename, "girls.txt"), "w")
-                    f.write("Rank Name Federation BirthYear Rating RD\n")
-                    f.close()
-                if federation_counts_girls[federation] < 100:
-                    federation_counts_girls[federation] += 1
-                    line = f"{federation_counts_girls[federation]} {name}\t{federation} {b_year} {player.rating:.7f} {player.rd:.7f} {player.id}\n"
-                    f = open(os.path.join(dir, federation, filename, "girls.txt"), "a")
-                    f.write(line)
-                    f.close()
+        is_junior = year - b_year <= 20 if b_year else False
 
+        # Write to appropriate category files if count < 100
+        categories = []
+        if federation_counts[federation]["open"] < 100:
+            categories.append(("open", True))
+        if sex == "F" and federation_counts[federation]["women"] < 100:
+            categories.append(("women", False))
+        if is_junior:
+            if federation_counts[federation]["juniors"] < 100:
+                categories.append(("juniors", True))
+            if sex == "F" and federation_counts[federation]["girls"] < 100:
+                categories.append(("girls", False))
 
-def write_age_file(dir, filename, players, players_info, year):
-    # Sort players by rating in descending order
-    os.makedirs(os.path.join(dir, filename), exist_ok=True)
-    f = open(os.path.join(dir, filename, "open.txt"), "w")
-    f.close()
-    sorted_players = sorted(players.values(), key=lambda p: p.rating, reverse=True)
-    top_players = {}
-    count = 0
-    for player in sorted_players:
-        # if count >= 100:
-        #     break
-        player_info = players_info.get(player.id, {})
-        if player.rd > 75:
-            continue
-        count += 1
-        name = player_info.get("name", "")
-        if name == "":
-            continue
-        federation = player_info.get("federation", "")
-        if len(federation) != 3:
-            print(federation, name, player.id)
-        b_year = player_info.get("b_year", "")
-        if b_year.isdigit():
-            b_year = int(b_year)
-            if b_year < 100:
-                b_year += 1900
-                if year - b_year < 0:
-                    b_year += 100
-            if not top_players.get(b_year):
-                top_players[b_year] = [player]
-            elif len(top_players[b_year]) < 5:
-                top_players[b_year].append(player)
-        else:
-            continue
-    for year in range(1901, 2024):
-        if top_players.get(year):
-            line = ""
-            for player in top_players[year]:
-                player_info = players_info.get(player.id, {})
-                name = player_info.get("name", "")
-                federation = player_info.get("federation", "")
-                rating = player.rating
-                line += f"{rating}\t"
-            line += "\n"
-            f = open(os.path.join(dir, filename, "open.txt"), "a")
-            f.write(line)
-            f.close()
-        else:
-            f = open(os.path.join(dir, filename, "open.txt"), "a")
-            f.write("\n")
-            f.close()
+        for category, include_sex in categories:
+            federation_counts[federation][category] += 1
+            filepath = get_file_handle(federation, category)
+            write_player_line(
+                filepath,
+                federation_counts[federation][category],
+                player,
+                player_info,
+                b_year,
+                include_sex,
+            )
 
 
 def apply_new_ratings(players):
@@ -480,17 +463,21 @@ def main(
 
     apply_new_ratings(players)
 
-    # Write updated ratings to the output file
-    write_to_file(output_filename, players)
+    # Create a RatingListWriter instance
+    writer = RatingListWriter(players, players_info, year)
+
+    # Write raw ratings to output file
+    writer.write_raw_ratings(output_filename)
     print(f"Results written to {output_filename}")
-    write_to_pretty_file(
-        top_rating_list_dir + top_rating_list_filename, players, players_info, year
-    )
-    write_to_pretty_file_FED(
+
+    # Write global rating lists
+    writer.write_global_lists(top_rating_list_dir)
+
+    # Write federation-specific lists
+    write_federation_lists(
         top_rating_list_dir, top_rating_list_filename, players, players_info, year
     )
     print(f"Rating lists written to {top_rating_list_dir}")
-    write_age_file("age", top_rating_list_filename, players, players_info, year)
 
 
 if __name__ == "__main__":

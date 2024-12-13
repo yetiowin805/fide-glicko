@@ -2,13 +2,14 @@ import argparse
 import os
 from datetime import datetime, date
 
+
 def get_months_between(start_month_str, end_month_str):
     start_year, start_month = map(int, start_month_str.split("-"))
     end_year, end_month = map(int, end_month_str.split("-"))
-    
+
     start_date = date(start_year, start_month, 1)
     end_date = date(end_year, end_month, 1)
-    
+
     months = []
     current_date = start_date
     while current_date <= end_date:
@@ -19,6 +20,7 @@ def get_months_between(start_month_str, end_month_str):
         else:
             current_date = date(current_date.year, current_date.month + 1, 1)
     return months
+
 
 if __name__ == "__main__":
     # Set up argument parser
@@ -56,7 +58,7 @@ if __name__ == "__main__":
 
     # Get list of all months between start and end
     months = get_months_between(args.start_month, args.end_month)
-    
+
     # Currently, this is the best way to do this. It looks dumb, and the downstream commands should be modified
     # to be called for just one month. In the future, we should default to a pipeline and works for modern data,
     # and create fallback code in case we wish to re-run on old data. Or maybe not, that way is not really faster, to be honest
@@ -64,10 +66,14 @@ if __name__ == "__main__":
     # Process each month
     for month in months:
         print(f"\nProcessing month: {month}")
-        
+
         if args.download_player_data == "y":
-            print(f"python3 download_player_data.py --save_path {SAVE_PATH} --month {month}")
-            os.system(f"python3 download_player_data.py --save_path {SAVE_PATH} --month {month}")
+            print(
+                f"python3 download_player_data.py --save_path {SAVE_PATH} --month {month}"
+            )
+            os.system(
+                f"python3 download_player_data.py --save_path {SAVE_PATH} --month {month}"
+            )
 
             print(f"python3 process_fide_rating_list.py --month {month}")
             os.system(f"python3 process_fide_rating_list.py --month {month}")
@@ -85,7 +91,7 @@ if __name__ == "__main__":
     # Calculate adjusted start and end months (one month earlier)
     start_year, start_month = map(int, args.start_month.split("-"))
     end_year, end_month = map(int, args.end_month.split("-"))
-    
+
     # Adjust start month
     if start_month == 1:
         adj_start_year = start_year - 1
@@ -93,7 +99,7 @@ if __name__ == "__main__":
     else:
         adj_start_year = start_year
         adj_start_month = start_month - 1
-        
+
     # Adjust end month
     if end_month == 1:
         adj_end_year = end_year - 1
@@ -101,13 +107,17 @@ if __name__ == "__main__":
     else:
         adj_end_year = end_year
         adj_end_month = end_month - 1
-        
+
     adj_start_month_str = f"{adj_start_year:04d}-{adj_start_month:02d}"
     adj_end_month_str = f"{adj_end_year:04d}-{adj_end_month:02d}"
 
     # Run the final three commands with adjusted dates
-    print(f"python3 collect_player_data.py --start_month {adj_start_month_str} --end_month {adj_end_month_str}")
-    os.system(f"python3 collect_player_data.py --start_month {adj_start_month_str} --end_month {adj_end_month_str}")
+    print(
+        f"python3 collect_player_data.py --start_month {adj_start_month_str} --end_month {adj_end_month_str}"
+    )
+    os.system(
+        f"python3 collect_player_data.py --start_month {adj_start_month_str} --end_month {adj_end_month_str}"
+    )
 
     # Get months between adjusted dates for remove_duplicates.py
     adj_months = get_months_between(adj_start_month_str, adj_end_month_str)
@@ -116,5 +126,9 @@ if __name__ == "__main__":
         os.system(f"python3 remove_duplicates.py --root_dir ./clean_numerical/{month}")
 
     # Run glicko with adjusted dates
-    print(f"python3 run_glicko.py --start_month {adj_start_month_str} --end_month {adj_end_month_str}")
-    os.system(f"python3 run_glicko.py --start_month {adj_start_month_str} --end_month {adj_end_month_str}")
+    print(
+        f"python3 run_glicko.py --start_month {adj_start_month_str} --end_month {adj_end_month_str}"
+    )
+    os.system(
+        f"python3 run_glicko.py --start_month {adj_start_month_str} --end_month {adj_end_month_str}"
+    )

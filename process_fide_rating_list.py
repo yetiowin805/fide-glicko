@@ -29,7 +29,7 @@ def process_file(input_filename, output_filename, lengths, keys):
 def main(month):
     year, month = map(int, month.split("-"))
 
-    #TODO: Legacy values?
+    # TODO: Legacy values?
     lengths = [
         15,
         61,
