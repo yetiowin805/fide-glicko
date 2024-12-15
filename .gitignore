@@ -3,6 +3,7 @@
 !src/**/*.py
 !.gitignore
 !README.md
+!tester
 
 *.txt
 !data/top_rating_lists/Standard/**
