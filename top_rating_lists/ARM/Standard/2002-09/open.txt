@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mkrtchian, Lilit	ARM 1982 F 2445.0943883 62.7989525 13300601

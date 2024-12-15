@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Harper, Ryan	TRI 0 M 2226.4966433 73.8658875 7700156
-2 Merritt, Mario	TRI 0 M 2124.0279857 65.9642308 7700148

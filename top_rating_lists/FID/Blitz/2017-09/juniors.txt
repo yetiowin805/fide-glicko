@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Derakhshani, Borna	FID 2002 M 1915.8671270 59.5759298 12518450

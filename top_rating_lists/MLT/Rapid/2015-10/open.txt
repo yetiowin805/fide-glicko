@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vella, Duncan	MLT 1971 M 1939.6927924 74.4874124 5600243
-2 Gauci, David	MLT 1900 M 1326.7357336 72.4669141 5600715

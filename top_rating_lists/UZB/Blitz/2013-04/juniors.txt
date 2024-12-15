@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kurbonboeva, Sarvinoz	UZB 1994 F 2038.2990415 71.6409941 14201780
-2 Igonin, Temur	UZB 2000 M 1872.2515872 72.6604519 14203049

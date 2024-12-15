@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Moges,Flower Habtu	ETH 1993 M 1723.7180263 74.8023985 15701662

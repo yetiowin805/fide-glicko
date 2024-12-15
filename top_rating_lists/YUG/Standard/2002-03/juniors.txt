@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sedlak, Nikola	YUG 1983 M 2531.7606880 63.3672361 922900
-2 Markus, Robert	YUG 1983 M 2482.2134418 58.5176364 921637

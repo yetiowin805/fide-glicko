@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Zhao, Xue	CHN 1985 F 2437.7889400 73.4875434 8601283

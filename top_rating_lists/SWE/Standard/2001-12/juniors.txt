@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Berg, Emanuel	SWE 1981 M 2535.0896152 58.7035061 1704060
-2 Tikkanen, Hans	SWE 1985 M 2252.8443401 73.5108320 1706446

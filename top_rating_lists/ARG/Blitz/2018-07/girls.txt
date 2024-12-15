@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Bosco, Giuliana	ARG 2004 1703.6810448 68.0445715 142611
-2 Borda Rodas, Anapaola S.	ARG 2004 1679.7311063 68.0722302 152781
-3 Francisco Guecamburu, Candela Be	ARG 2006 1602.6427832 68.6253680 160911
-4 Scarsi, Anna Laura	ARG 2006 1483.1749000 53.5379814 159328

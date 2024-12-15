@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Sammalvuo, Niina	FIN 1971 2256.3198977 64.9458510 500755
-2 Rantanen, Tanja	FIN 1979 2079.7907559 70.3112250 502340

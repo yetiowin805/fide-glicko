@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Njili, Kamel	TUN 1982 M 2060.0140040 67.2501214 5500869
-2 Matoussi, Wael	TUN 1979 M 2009.4351469 72.1605247 5502322

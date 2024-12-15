@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Agrest, Inna	SWE 1991 1951.1203838 51.4246442 1708830
-2 Almer, Julia	SWE 1986 1907.1782374 67.2707030 1708848

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Arif, Mouad	MAR 1995 M 1786.4124820 72.7230860 9000151
-2 Zrikem, Nassim	MAR 2002 M 1630.7776460 67.8117338 9002693

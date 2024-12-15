@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rindlisbacher, Lars	SUI 1996 M 2202.0980104 69.4119215 1304178
-2 Studer, Noel	SUI 1996 M 2181.7628525 72.5069865 1319620

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Zepeda, Lorena	ESA 1984 F 2009.3753885 71.3537886 6700233
-2 Tobar, Jorge	ESA 1963 M 1840.8527562 73.9528877 6700497

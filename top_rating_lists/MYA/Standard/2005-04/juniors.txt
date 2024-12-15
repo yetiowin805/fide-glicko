@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sie Thu	MYA 1985 M 2372.6954065 63.6964647 13002767

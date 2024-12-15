@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ruiz Zurita, Cesar	ECU 2005 M 1945.1308498 68.2090958 3624072
-2 Romero Acevedo, Jozef Isaac	ECU 2012 M 1671.5443274 59.9558467 3647048
-3 Melena Salvador, Alan Jesus	ECU 2009 M 1543.2128200 74.6115449 3650731

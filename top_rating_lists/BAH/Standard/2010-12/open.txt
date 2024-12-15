@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Byron Small	BAH 1966 M 1627.1075619 71.5696904 10400044
-2 Chappel Whymns	BAH 1969 M 1510.2761611 73.2003370 10400125

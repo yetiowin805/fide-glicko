@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Benitez Lozano, Javier	MEX 1993 M 2155.1444872 70.8909600 5102472
-2 Vega Garcia, Jorge Arturo	MEX 1960 M 2007.0313526 72.9895532 5100453
-3 Ramirez Garcia, Jorge Alberto	MEX 1983 M 1962.9853069 73.4950533 5108101
-4 Benitez Diaz, Francisco Javier	MEX 1953 M 1618.6599015 73.4833380 5103533

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vos, Tjark	AHO 1996 M 2122.1130660 74.8363378 1020870
-2 Sanchez, Mariana	AHO 2001 F 1580.7456066 70.2002279 7501307

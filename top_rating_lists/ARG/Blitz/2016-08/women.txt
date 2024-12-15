@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Martinez, Ayelen	ARG 1993 2011.2964631 72.9255930 118702
-2 Fernandez, Maria Florencia	ARG 1991 1990.0369866 66.9373647 116459
-3 Carraro, Denise	ARG 1988 1975.1870280 73.9653882 111791

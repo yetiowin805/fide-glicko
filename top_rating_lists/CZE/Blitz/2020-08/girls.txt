@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Pribylova, Sofie	CZE 2002 1834.9167180 68.6776769 371726
-2 Laurincova, Kristyna	CZE 2003 1829.0062569 73.8797847 368270
-3 Bartosova, Hana	CZE 2002 1718.2829458 69.6516238 394106

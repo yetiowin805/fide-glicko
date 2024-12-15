@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ragger, Markus	AUT 1988 M 2348.6559503 51.8006805 1610856
-2 Sprenger, Wendelin	AUT 1984 M 2154.5774264 67.8895941 1612794
-3 Kopinits, Anna-Christina	AUT 1985 F 2062.3502393 61.0249523 1614142

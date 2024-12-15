@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Niemann, Hans Moke	USA 2003 M 2426.7333914 72.9713776 2093596
-2 Ayyappan, Santhosh	USA 2014 M 1881.3178004 72.1267314 30979870
-3 Lebedenka, Alexander	USA 2012 M 1086.6025679 71.8137329 30965055

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Solari, Pablo	URU 1972 M 1581.1094057 72.4201658 3000753

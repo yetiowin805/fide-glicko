@@ -1,7 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al-Ali, Hussein Ali Hussein	IRQ 1968 M 2232.2858797 66.2836519 4800192
-2 Ismael, Namir Mohammed Ismael	IRQ 1971 M 2156.0337556 67.2196159 4800800
-3 Abdulwahhab, Ahmed Abdulsattar A	IRQ 1975 M 2147.2973520 63.4713742 4801849
-4 Mohammed, Zozek Salah Mohammed	IRQ 1986 M 2137.7073424 72.4518740 4803361
-5 Al-Saadi, Jumaa A.Gatea	IRQ 1961 M 2083.6098971 72.5572908 4800087
-6 Al-Khattab, Ghassan M. Ali Ajmed	IRQ 1956 M 2040.3438796 74.4025140 4800168

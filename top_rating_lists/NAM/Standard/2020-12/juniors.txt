@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Beukes, Dante M	NAM 2003 M 1980.6067600 70.2014646 15200540
-2 Gaoseb, Manfredo	NAM 2003 M 1601.2971906 73.7047289 15200930

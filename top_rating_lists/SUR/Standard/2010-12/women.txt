@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Naipal, Victoria	SUR 1989 1725.9686420 67.6768399 8200149
-2 Naipal, Ekaterina	SUR 1991 1632.4209226 69.5767749 8200629
-3 Ramos Dos, Rosangela	SUR 0 1532.1093721 68.9587535 8200521

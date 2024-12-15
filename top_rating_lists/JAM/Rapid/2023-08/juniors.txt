@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Brown, Raehanna	JAM 2005 F 1734.6344474 69.4467606 7402740
-2 Leake, Emilia-Rose	JAM 2014 F 1496.0182267 72.3892837 7407238

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Aliakbarov, Anar	AZE 1993 M 2166.0638601 71.9673396 13401858

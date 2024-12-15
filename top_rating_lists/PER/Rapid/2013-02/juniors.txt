@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Cori, Jorge	PER 1995 M 2381.3574557 69.1555692 3802272
-2 Cori T., Deysi	PER 1993 F 2306.6450223 64.1345080 3801934

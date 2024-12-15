@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Boulos, Carlos	LBN 2004 M 1851.7952975 71.3773492 5302749

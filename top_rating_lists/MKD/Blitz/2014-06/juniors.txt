@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lazov, Toni	MKD 2000 M 1905.3693811 74.2921193 15000770

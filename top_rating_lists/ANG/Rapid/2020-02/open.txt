@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Silva, David	ANG 1998 M 2211.1637091 70.9999794 10101314
-2 Francisco, Joao	ANG 1964 M 1630.8550779 71.2153881 10100210

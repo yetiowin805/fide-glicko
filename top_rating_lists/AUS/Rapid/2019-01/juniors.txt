@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Jia, Frank	AUS 2002 M 1623.6796936 72.9467477 3227782

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Araz, Basim	IRQ 1984 M 2190.0702393 68.2979041 4801040

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Van Dael, Siem	NED 2004 M 2003.8052901 74.1161742 1049771

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Koneru, Humpy	IND 1987 2443.2490721 46.8145574 5008123
-2 Tania, Sachdev	IND 1986 2094.3549687 58.0400233 5007844

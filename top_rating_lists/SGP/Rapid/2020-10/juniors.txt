@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Suryavarman, Chandrasekar	SGP 2011 M 1551.3320229 72.0738085 5828139
-2 Chen, Yufei	SGP 2010 F 1367.9105106 72.8455473 5824559

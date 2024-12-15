@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 McDonnell, James J.	IRL 1954 M 1671.2690472 50.3858469 2500787
-2 Bennett, Eric	IRL 1977 M 1640.9747902 71.9444013 2501384

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Merritt, Mario	TTO 1977 M 1885.2802993 74.7451024 7700148

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mindlin, Alon	ISR 1996 M 2261.5981291 68.2983322 2800071
-2 Reshef, Omer	ISR 1997 M 2114.0854858 63.6543617 2804336

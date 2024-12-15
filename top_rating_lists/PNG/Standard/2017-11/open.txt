@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Press, Shaun	PNG 1966 M 1760.2590481 67.4831216 9100075
-2 Marko, Helmut	PNG 1954 M 1712.4762421 73.8258267 9100032

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Soskov, Vjatsheslav	EST 1987 M 2214.5133670 59.7301759 4501918
-2 Bashkite, Viktoria	EST 1985 F 2153.3799161 46.5754787 4501284
-3 Golubenko, Valentina	EST 1990 F 2108.9230733 66.9535817 4501993

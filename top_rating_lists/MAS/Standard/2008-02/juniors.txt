@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bakri, Anas Nazreen	MAS 1991 M 2187.7486743 69.1255026 5701147
-2 Subramaniam, Sumant	MAS 1993 M 1876.2469523 57.8011462 5702720

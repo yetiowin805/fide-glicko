@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 So, Wesley	PHI 1993 M 2677.8917200 67.8929360 5202213
-2 Garcia, Jan Emmanuel	PHI 1995 M 2451.4872357 67.7581182 5200750
-3 San Diego, Marie Antoinette	PHI 1999 F 1807.2555811 70.0255731 5205204

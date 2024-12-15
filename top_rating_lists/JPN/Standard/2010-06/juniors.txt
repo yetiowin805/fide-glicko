@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Uesugi, Shinsaku	JPN 1991 M 2254.5324377 48.2486547 2024578
-2 Abe, Mahiro	JPN 1997 M 1656.7673501 74.6965431 7000235

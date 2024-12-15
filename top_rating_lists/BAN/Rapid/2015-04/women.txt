@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Hamid, Rani	BAN 1944 1915.8591727 68.6862352 10200096
-2 Jahanara, Haque	BAN 1958 1648.9259078 71.2446050 10205675

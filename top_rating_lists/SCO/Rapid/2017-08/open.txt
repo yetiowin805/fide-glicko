@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tate, Alan	SCO 1979 M 2275.5718287 71.1048148 2401878
-2 Jones, Tibor	SCO 1994 M 1692.1925957 71.2973921 2405288

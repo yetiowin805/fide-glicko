@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Keleberda, Tymur	CAN 2006 M 1978.9047525 73.6501026 14174294
-2 Soberov, Emil	CAN 2010 M 1830.8910182 68.9263873 34344217

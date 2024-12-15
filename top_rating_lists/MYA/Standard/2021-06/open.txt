@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Thet Naung	MYA 1982 M 2099.2466124 74.9604321 13004093

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Ahmed, Mehnaz Mithila	BAN 1993 1634.7758623 74.1430570 10204687
-2 Tanzina, Akter Tani	BAN 1999 1614.8156393 71.9749036 10205721

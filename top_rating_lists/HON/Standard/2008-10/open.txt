@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Guillen Ramirez, Jose Antonio	HON 1968 M 2132.4524664 66.4352847 8400016
-2 Urbina, Ricardo	HON 1977 M 2126.6178516 70.6193176 8400253
-3 Huguet, Sergio	HON 1970 M 2035.4975972 60.7035411 2212552

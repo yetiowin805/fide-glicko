@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tobing, Daniel Hermawan Lumban	INA 2003 M 2026.4146570 74.6880964 7105487
-2 Karenza, Dita	INA 2000 F 1779.3321586 73.4668901 7101473
-3 Elisabeth, Christine	INA 2002 F 1767.9580677 64.9592145 7106165

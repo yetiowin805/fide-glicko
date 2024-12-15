@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Merritt, Mario	TTO 1977 M 1895.6873057 73.4064777 7700148
-2 Smith, Javanna	TTO 1997 F 1548.4426802 73.9149338 7700466

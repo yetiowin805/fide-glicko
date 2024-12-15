@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tsao, Yui	HKG 1984 M 1728.0250856 73.5624677 6001114

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Jovanovic, Anja	SRB 2006 1754.8305443 67.2337606 972991
-2 Vujcic, Milena	SRB 2001 1751.7716828 64.6350967 954748
-3 Dimitrijevic, Andjela	SRB 2004 1643.7263124 67.4374745 970425

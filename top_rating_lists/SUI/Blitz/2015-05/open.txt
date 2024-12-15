@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nuri, Kambez	SUI 1992 M 2099.7247378 72.7851316 1311433
-2 Freuler, Roman	SUI 1975 M 1705.4053186 73.4130154 1304283

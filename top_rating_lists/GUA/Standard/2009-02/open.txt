@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Juarez Flores, Carlos A.	GUA 1965 M 2287.6292446 74.8846398 7300018
-2 Lorenzana, Wilson Estuardo	GUA 1978 M 2127.7254031 72.4615261 7300239
-3 Quinones, Centeno Carlos	GUA 0 M 2116.3323829 72.8056655 7300530
-4 Mencos, Claudia	GUA 0 M 1815.5733685 62.2317795 7300573

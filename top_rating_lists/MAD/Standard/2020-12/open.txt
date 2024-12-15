@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rakotomaharo, Fy Antenaina	MAD 1999 M 2284.7119225 62.7334032 13100050
-2 Randriamahefa, Fenitra Anthony	MAD 1991 M 1906.1608336 73.6090274 13100742
-3 Razanadrakotoarisoa, Toavina	MAD 2003 M 1902.4945733 74.9168700 13101439
-4 Andriamaharo, Nirina	MAD 1975 M 1670.6399692 74.9196557 13100467
-5 Andrianomenjanahary, Noah	MAD 1987 M 1636.5655229 74.4572444 13101145

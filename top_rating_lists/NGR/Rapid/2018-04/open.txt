@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Odiase, Oluwaseun	NGR 1980 M 1639.0675956 52.8594954 8502315
-2 Akrasi, Itoro	NGR 1980 M 1524.2138075 67.2835512 21510768

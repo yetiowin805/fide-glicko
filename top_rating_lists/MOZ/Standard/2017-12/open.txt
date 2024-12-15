@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Abrantes, Persson	MOZ 1990 M 1911.0827193 68.6538491 14800063
-2 Botao Milton	MOZ 1983 M 1800.0723261 74.7100202 14800489

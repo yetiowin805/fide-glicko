@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Berezovsky, Fiorina	MNC 2007 F 1425.9348709 61.4533632 5400651
-2 Samorukov, Egor	MNC 2008 M 1270.0902073 70.6229644 5401062

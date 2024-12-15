@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Georgiadis, Nico	SUI 1996 M 2382.9002456 73.6365772 1300113
-2 Filipovic, Branko	SUI 1957 M 2219.2879674 65.1147462 14507951

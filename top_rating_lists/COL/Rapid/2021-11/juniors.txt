@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Londono Lopez, Donaldo	COL 2003 M 1823.6783164 66.3823106 4462009
-2 Hernandez Bermudez, Manuela	COL 2004 F 1724.9490386 63.2277815 4483103
-3 Ceballos Castellanos, Isabela	COL 2004 F 1600.3855069 67.5713156 4452410
-4 Abreu Balza, Alan Jeremias	COL 2011 M 1588.1835744 72.3113617 3957829
-5 Sanchez Riobo, Emily Dainne	COL 2005 F 1494.1296213 74.1500567 4441001

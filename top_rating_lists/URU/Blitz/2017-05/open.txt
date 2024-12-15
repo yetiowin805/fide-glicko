@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Escofet, Jaime	URU 1951 M 1843.4060426 66.8887010 3000176
-2 Rodriguez Farias, Eduardo	URU 1974 M 1812.9811226 65.5366439 3005062
-3 Augoustis Funti, Alexis	URU 1993 M 1745.0116945 73.9865457 3001423

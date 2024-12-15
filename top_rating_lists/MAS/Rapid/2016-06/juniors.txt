@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Soo, Sheng Yuan	MAS 2007 M 1500.2817309 70.9633434 5721164
-2 Soo, Sheng Yin	MAS 2006 F 1482.2996668 69.1342491 5721172

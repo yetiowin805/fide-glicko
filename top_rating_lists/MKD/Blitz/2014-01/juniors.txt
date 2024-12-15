@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lazov, Toni	MKD 2000 M 1821.6512543 74.9746022 15000770
-2 Nikolovska, Dragana	MKD 1996 F 1720.4658351 70.5119458 15000133

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Saric, Ibro	BIH 1982 M 2423.3199376 72.5606392 14401290

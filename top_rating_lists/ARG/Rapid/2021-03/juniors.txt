@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Scarsi, Anna Laura	ARG 2006 F 1617.2192413 70.5502007 159328
-2 Fuentes, Agustin	ARG 2007 M 1557.7739415 74.1835168 140040
-3 Bertorello, Constanza	ARG 2006 F 1498.4725744 74.8222963 163848

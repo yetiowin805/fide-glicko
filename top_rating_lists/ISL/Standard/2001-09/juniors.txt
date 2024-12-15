@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Thorfinnsson, Bragi	ISL 1981 M 2495.2995323 72.2365825 2300958
-2 Kristjansson, Stefan	ISL 1982 M 2402.7529340 59.5881610 2301172

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Petritaj, Ferdinando	ALB 1963 M 2130.0817726 73.9102251 4700619
-2 Katana Vladimir	ALB 1961 M 1778.9647853 67.4209079 4703375

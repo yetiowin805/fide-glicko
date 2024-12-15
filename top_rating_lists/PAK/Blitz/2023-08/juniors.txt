@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rouhan Ahmed Khatri	PAK 2003 M 1598.8400962 69.3797803 7818432
-2 Kamran, Fardad	PAK 2006 M 1545.0780847 50.3154996 7814372

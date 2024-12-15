@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rukimbira, Valentin	RWA 1986 M 1648.2342837 72.5225764 16000323
-2 Nzabanita, Joseph	RWA 1977 M 1639.0109757 70.6016959 16000480

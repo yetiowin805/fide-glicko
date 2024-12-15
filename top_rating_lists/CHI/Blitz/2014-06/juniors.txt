@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Aguirre Contreras, Cristian	CHI 1996 M 1681.7094947 74.8723695 3412776
-2 Nunez Donaire, Elias Rodrigo	CHI 1998 M 1395.5885615 74.7527798 3418030

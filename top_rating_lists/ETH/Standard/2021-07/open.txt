@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mesfin, Leykun	ETH 1976 M 1951.7621294 74.4941141 15700097
-2 Moges,Flower Habtu	ETH 1993 M 1724.7035246 70.7185765 15701662

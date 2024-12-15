@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Baliuniene, Margarita	DEN 1960 F 1803.0666178 64.0136737 12802760

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Granda Zuniga, Julio E	PER 1967 M 2590.0552240 71.9065574 3800024
-2 Caballero Quijano, Mitzy Mishell	PER 2001 F 1863.2076198 66.3943257 3807223
-3 Chavez Melendez, Raul Angel	PER 1967 M 1490.0601889 74.6782666 3811638

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kjartansson, Gudmundur	ISL 1988 M 2203.5578250 66.3874952 2301318
-2 Baldursson, Hrannar	ISL 1970 M 2132.9147941 70.1151004 2301156

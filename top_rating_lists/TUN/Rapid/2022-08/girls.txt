@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Farhat, Assil	TUN 2008 1599.2916341 68.0314854 5526892
-2 Hadj Hassan, Chaima	TUN 2012 1445.5289891 74.5553903 5529140

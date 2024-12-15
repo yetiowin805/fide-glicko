@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Moazaz , Dhahir Habeeb	IRQ 2003 M 1902.7882230 71.9089639 4807421
-2 Ahmed, Jaza Jamal	IRQ 2003 M 1828.7204870 74.2450405 4808509
-3 Ameer,Dhafer Abdulameer	IRQ 2005 M 1439.3325705 74.9663968 4807537

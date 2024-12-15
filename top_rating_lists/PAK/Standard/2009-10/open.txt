@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gillani, Tunveer M.D.	PAK 0 M 2203.1248071 74.9934281 7800274
-2 Amir, Karim	PAK 1970 M 2128.8799917 72.2493213 7800053

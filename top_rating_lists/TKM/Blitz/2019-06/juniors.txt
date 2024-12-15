@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kuliyev, Emin	TKM 2005 M 1714.9184184 74.7992642 14003880
-2 George, Alex	TKM 2009 M 1313.8749076 65.9198189 14004313

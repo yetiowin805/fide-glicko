@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Whyms, Chappell	BAH 1969 M 1511.6831537 68.9525716 10400125
-2 Gali, Sandeep	BAH 1999 M 1509.5009365 73.1056768 10400311

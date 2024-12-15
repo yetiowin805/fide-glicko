@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Dupuis, Denis K	ENG 2009 M 1624.3672934 74.7640887 452980
-2 Whelan, Joseph	ENG 2008 M 1596.0585652 73.0258746 465887

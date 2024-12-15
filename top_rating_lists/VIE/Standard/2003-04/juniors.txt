@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nguyen, Viet Tuong	VIE 1990 M 2030.2515316 73.8324068 12401048

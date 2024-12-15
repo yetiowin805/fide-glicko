@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Van Wely, Loek	NED 1972 M 2568.9280308 61.2220142 1000268

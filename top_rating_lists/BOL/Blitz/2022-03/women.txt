@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Enriquez Coronel, Gaia Paola	BOL 2003 1652.2864595 67.5313158 3316955
-2 Velarde Alarcon, Jhoana	BOL 2007 1568.1501268 66.2052250 3320103
-3 El Hage Serrano, Caely	BOL 2010 1521.3359571 74.6107932 3318389

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Perera Borrego, Mariela	ESP 1994 2152.0167838 71.3977645 22238255
-2 Capote Robayna, Johanna	ESP 1997 1731.1724443 73.9287334 2276178
-3 Redondo Benavente, Ana	ESP 2001 1487.5298678 68.4750366 32021674

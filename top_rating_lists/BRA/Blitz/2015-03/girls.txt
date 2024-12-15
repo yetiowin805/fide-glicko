@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Bartmeyer, Maria Veronica	BRA 1997 1484.9466182 66.3021999 2152614
-2 Bartmeyer, Beatriz	BRA 1999 1383.8584621 66.5856539 2152592
-3 Bartmeyer, Susana Maria	BRA 1997 1320.2734000 64.4430507 2152258

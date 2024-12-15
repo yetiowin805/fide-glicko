@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Radjabov, Teimour	AZE 1987 M 2545.2118361 47.2596470 13400924

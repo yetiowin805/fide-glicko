@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mateo, Ramon	DOM 1958 M 2434.2121163 67.8533557 6400019

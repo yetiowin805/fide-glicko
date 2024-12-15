@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Belkhodja, Slim	TUN 1962 M 2471.3784578 49.8069680 600229
-2 Doghri, Nabil	TUN 1964 M 2268.3551902 73.7803512 5500079

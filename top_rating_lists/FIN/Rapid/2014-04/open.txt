@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nyback, Tomi	FIN 1985 M 2519.6934908 72.9029827 503142
-2 Parkkinen, Jyrki	FIN 1968 M 2037.2393040 74.9000821 502375

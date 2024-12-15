@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Sharaf, Hawra	BRN 2003 1455.9155985 63.3749808 11205679
-2 Almusawi, Maram	BRN 2008 1396.6408445 36.4269556 11205458

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Arias, Daniel	ESA 1997 M 1831.9618470 62.3509998 6700640
-2 Hernandez, Bera	ESA 1992 F 1602.2849742 70.8205951 6700080

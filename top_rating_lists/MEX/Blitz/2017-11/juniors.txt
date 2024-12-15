@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Baltazar Ibanez, Diego	MEX 2001 M 1809.1047830 72.7435582 5120586
-2 Roque Sola, Andrea	MEX 2001 F 1651.9433550 74.0618639 5119480
-3 Roque Sola, Maria Fernanda	MEX 2000 F 1645.7109123 61.8305647 5115833
-4 Velazquez Quirarte, Santiago	MEX 2006 M 1473.9586114 66.4523558 5124859

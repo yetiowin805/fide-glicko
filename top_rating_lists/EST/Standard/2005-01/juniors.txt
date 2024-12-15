@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Soskov, Vjatsheslav	EST 1987 M 2201.6287580 55.1901761 4501918
-2 Bashkite, Viktoria	EST 1985 F 2147.0039255 49.5436216 4501284
-3 Volodin, Aleksandr	EST 1990 M 2109.1768073 74.9783552 4501950

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Adianto, Utut	INA 1965 M 2589.0000000 54.6706645 7100019

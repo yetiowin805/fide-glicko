@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Panjwani, Raja	CAN 1990 M 2280.4385180 55.3921874 2604493
-2 Tayar, Jonathan	CAN 1988 M 2278.8421607 58.8069276 2606534

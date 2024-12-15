@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bachmann, Axel	PAR 1989 M 2296.9511749 49.0731925 3700488
-2 Vera, I Jorge	PAR 1989 M 2241.0871285 61.2897059 3700453

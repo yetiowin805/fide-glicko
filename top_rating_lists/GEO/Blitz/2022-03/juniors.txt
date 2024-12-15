@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Petriashvili, Nikoloz	GEO 2002 M 2300.9730717 73.8356009 13611216
-2 Qalichava, Akaki	GEO 2005 M 1995.8220261 72.2610174 13615408
-3 Tsotsonava, Elene	GEO 2005 F 1950.5492679 68.3394095 13615939

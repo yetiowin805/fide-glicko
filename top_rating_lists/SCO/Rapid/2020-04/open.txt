@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Levy, David N L	SCO 1945 M 1810.8925103 60.2143246 2400120
-2 Allan, Brian	SCO 1934 M 1533.6353383 72.2797923 2402050

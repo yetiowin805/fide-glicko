@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mendoza, Jonathan	GUA 1988 M 1487.6204253 62.0642502 7302533

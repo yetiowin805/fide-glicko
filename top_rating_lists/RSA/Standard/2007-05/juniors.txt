@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Greef, Melissa	RSA 1994 M 1979.0444152 68.7504490 14301504

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Otero Marino, Alain	CUB 2005 M 1974.8545698 68.0596597 3524876

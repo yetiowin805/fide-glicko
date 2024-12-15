@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Danar, Jamal Qadir Ghaffoori	IRQ 1990 M 1797.2998656 73.5428103 4801156
-2 Baxtyar, Hama Salih Ahmed	IRQ 1985 M 1606.7578949 74.5852205 4807111
-3 Sheida, Omar	IRQ 1982 M 1599.1175935 73.5975426 4803450

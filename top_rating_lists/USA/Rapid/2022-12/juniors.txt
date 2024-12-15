@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ayyappan, Santhosh	USA 2014 M 1881.3178004 70.4102280 30979870
-2 Udovenko, Daniel	USA 2011 M 1717.7837101 74.4965963 30957508
-3 Vellithirumutham, Sriniketh R	USA 2012 M 1692.0483486 73.9928106 30970130

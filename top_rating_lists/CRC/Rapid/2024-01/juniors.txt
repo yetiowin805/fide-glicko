@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ramos Rodriguez, Daniel	CRC 2009 M 1642.4736026 69.8276953 6511635

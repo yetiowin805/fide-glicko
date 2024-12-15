@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rathbone-Jones, Ifan	WLS 2004 M 1739.7174612 68.6778467 1803859
-2 Davies, Milo	WLS 2007 M 1473.0406507 72.3005258 1804871

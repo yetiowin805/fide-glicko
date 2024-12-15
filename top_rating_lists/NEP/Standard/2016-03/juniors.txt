@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Jaiswal, Rupesh	NEP 1998 M 1996.8785558 58.3395261 12300870

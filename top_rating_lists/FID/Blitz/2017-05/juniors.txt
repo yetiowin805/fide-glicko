@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Qiang, Vincent	FID 2003 M 1626.1616357 71.7254240 311214569

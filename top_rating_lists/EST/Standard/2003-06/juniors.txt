@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kanep, Meelis	EST 1983 M 2496.7703415 45.6581663 4501047
-2 Krupenski, Igor	EST 1983 M 2235.7817366 73.4925485 4501039

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Ostensson, Julia	SWE 2005 1463.7660046 67.4419405 1747703
-2 Truskavetska, Solomia	SWE 2005 1402.8812191 73.9779312 1744658

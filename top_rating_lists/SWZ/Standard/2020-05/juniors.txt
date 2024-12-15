@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Dlamini, Temahlubi Queen	SWZ 2000 F 1475.6527386 61.9585788 14318091
-2 Nomcebo, Sibisi	SWZ 2000 F 1239.6006909 64.9495239 20701152
-3 Dlamini Sincobile	SWZ 2001 F 1170.4595144 73.8567400 20700997

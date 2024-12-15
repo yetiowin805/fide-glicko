@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Arakhamia-Grant, Ketevan	SCO 1968 2270.8935446 49.8681192 13600168
-2 Bamber, Elaine	SCO 1983 1971.0824636 73.9738582 2401428
-3 Espinosa Cancino, Monica	SCO 2000 1489.1104897 71.1762287 22253025

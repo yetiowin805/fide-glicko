@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sun Chin, Robert Patrick	PAN 2001 M 1685.2371447 72.4505150 6601294
-2 Mendez, Andre	PAN 2008 M 1541.3440409 70.9251230 6603793
-3 Gonzalez De La Guardia, Luis Emi	PAN 2005 M 1401.8228601 70.3789434 6603831

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Pintor, Ariana	POR 1988 2015.8704980 49.3089505 1902806
-2 Pinto, Andre Filipe Silva	POR 1991 1817.8800138 59.6987387 1906348
-3 Cortinhas, Mariana Santos	POR 1990 1790.8680473 72.9401327 1904850

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mohammad Fahad, Rahman	BAN 2003 M 2028.3812162 68.0414979 10207791
-2 Zoar Haque, Prodhan	BAN 1995 M 1857.9770365 70.3622857 10207473

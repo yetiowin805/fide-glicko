@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sukandar, Irine Kharisma	INA 1992 F 2202.1825129 70.1146770 7101937
-2 Cahyadi	INA 1987 M 1596.7611929 67.5007111 7106068
-3 Agung, Rinaldi Santoso	INA 1987 M 1591.1615083 66.4399545 7105185

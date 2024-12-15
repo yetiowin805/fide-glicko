@@ -1,7 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Tsinjoviniavo, Aina Mahasambatra	MAD 2012 1599.6844903 59.7563082 13105450
-2 Razafindrabiaza, Christine	MAD 1978 1541.6763229 72.0243763 13100416
-3 Randriatsiferana,Dimbiharentsoa Christiana	MAD 2008 1467.3700051 62.5733415 13106961
-4 Lalasoa,Miarana Irinah	MAD 2010 1390.4179493 60.9166683 13104900
-5 Razafindrabe, Bakoly	MAD 1995 1390.0200089 71.3828337 13104063
-6 Tsinjoviniavo, Nivo Hasina	MAD 2015 1388.6146618 62.7690963 13105469

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nouri, Alekhine	PHI 2006 M 2030.4904267 74.9911489 5216184
-2 Cruz, Jeremiah Luis	PHI 2005 M 1603.7068202 74.7770751 5228751
-3 Cuizon, Richily Evans	PHI 2008 F 1464.2333640 71.7923456 5230306

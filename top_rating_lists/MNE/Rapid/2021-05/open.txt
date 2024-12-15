@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lekic, Dusan	MNE 1969 M 2246.3302104 57.8548456 905330
-2 Sukovic, Andrej	MNE 1999 M 2143.9964724 74.0567186 16502310

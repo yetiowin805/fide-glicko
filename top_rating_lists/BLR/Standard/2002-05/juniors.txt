@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Azarov, Sergei	BLR 1983 M 2589.8765682 57.3297349 13501470
-2 Zhigalko, Sergei	BLR 1989 M 2317.3050241 64.8961822 13502956

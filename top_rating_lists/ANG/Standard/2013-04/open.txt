@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Soares, Erikson Roberto Mauricio	ANG 1992 M 2105.6464844 69.1906702 10100091
-2 Alberto, Manuel	ANG 1974 M 2080.6945300 61.2532584 10100148
-3 Do Santos Julio, Joao Manuel	ANG 1973 M 1989.9636031 73.2176699 10100440

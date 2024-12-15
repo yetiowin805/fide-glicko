@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Georgiadis, Nico	SUI 1996 M 2387.4455991 74.2400569 1300113

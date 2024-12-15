@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Medici, Simone	SUI 1991 M 2167.3944608 71.7909657 1325329
-2 Boschetti, Claudio	SUI 1957 M 2047.3703295 68.5712636 1300920

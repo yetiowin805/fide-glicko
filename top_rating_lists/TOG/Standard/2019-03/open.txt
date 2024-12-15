@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Amewounou, Komlan Kouessan	TOG 1983 M 1601.2236256 65.3321963 21200017
-2 Botsoe, Koffi	TOG 1974 M 1529.6088616 74.9644620 21200025

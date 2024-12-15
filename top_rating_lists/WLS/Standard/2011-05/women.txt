@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Smith, Olivia	WLS 1987 1915.4642630 69.7759107 411850
-2 Owens, Megan R	WLS 1995 1714.3844351 69.8617044 1801996

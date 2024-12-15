@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Eid, Fadi	LIB 1970 M 2454.8277640 73.5427191 5300118

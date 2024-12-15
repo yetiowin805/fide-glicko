@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sasitharan, Abhiram	BOT 1999 M 1771.0818138 74.2194520 11301155

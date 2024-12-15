@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Dominguez, Facundo	URU 1998 M 1929.4678641 73.0469812 3005178
-2 Vazquez, Facundo	URU 2004 M 1747.4414679 69.7398094 3007669
-3 Rodriguez Delfino, Tiago	URU 2004 M 1434.3313936 72.2185749 3007685

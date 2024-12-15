@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Picken, Oliver	NZL 2003 M 1700.6650075 74.0264642 4304764
-2 Sulaiman Moosa, Omer	NZL 1962 M 1622.3742000 61.7467686 4306422

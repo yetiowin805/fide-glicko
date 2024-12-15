@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Basso, Pier Luigi	ITA 1997 M 2143.3848944 65.5560424 866970
-2 Ballista, Massimiliano	ITA 1998 M 1731.8767057 55.1359579 866385

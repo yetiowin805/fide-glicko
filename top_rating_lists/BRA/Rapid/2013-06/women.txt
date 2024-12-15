@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Terao, Juliana Sayumi	BRA 1991 2038.9151630 71.9742435 2109220
-2 Garcia, Liria Caetano	BRA 1988 1926.3110178 73.0956407 2111292
-3 Dos Anjos, Diovana Ferreira	BRA 1999 1494.6540347 73.0493414 2152282

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Deshpande, Sanjana Satish	KEN 1997 1484.3671356 60.1179076 10800964
-2 Shah, Riya	KEN 2000 1455.8641674 61.7315987 10800387

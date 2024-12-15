@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Martinez, Ayelen	ARG 1993 F 1954.6054735 68.7848811 118702
-2 Torres, Fernando	ARG 1994 M 1810.7105353 73.3596707 106879

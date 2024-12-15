@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Van Hoolandt, Patrick	MNC 1958 M 1984.4295351 71.3047556 200999

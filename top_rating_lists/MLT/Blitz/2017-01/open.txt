@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Darmanin, Jake	MLT 1994 M 2086.3724598 73.1027265 5601061
-2 Said, Oliver	MLT 1985 M 1793.8186261 74.9641505 5600405

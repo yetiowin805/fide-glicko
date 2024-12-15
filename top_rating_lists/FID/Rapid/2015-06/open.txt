@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ferragut Blanco, Arnaldo	FID 1973 M 1991.2246341 71.1498805 3502562

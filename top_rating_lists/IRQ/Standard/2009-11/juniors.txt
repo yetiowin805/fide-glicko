@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Akar, Ali Salih	IRQ 1990 M 1956.0020376 62.0918674 4800575
-2 Mushin, Dhuha M	IRQ 1990 F 1827.9843485 64.6064312 4803159

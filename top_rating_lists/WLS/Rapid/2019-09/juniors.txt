@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Guha, Chirag	WLS 2004 M 1722.4982832 74.2522156 1802968

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Ortiz, Katherine Berenice	HON 1995 1728.1476513 53.9189893 8400474
-2 Fernandez, Mirna Graciela	HON 1997 1502.3812189 61.9407360 8400482
-3 Ortiz, Rosa Daniela	HON 1999 1435.0151361 64.4686575 8400547

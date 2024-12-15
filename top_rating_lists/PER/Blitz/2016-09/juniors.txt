@@ -1,7 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Escalante Ramirez, Brian Sebasti	PER 1999 M 2135.0507744 68.2244830 3819566
-2 Santiago Vilca, Christian Amilca	PER 2000 M 1863.4790708 72.4911936 3816982
-3 Rengifo Blancas, Renzo Jhonathan	PER 2000 M 1845.6224623 68.4707008 3807185
-4 Hilario, Aleyla	PER 2002 F 1764.5616006 73.7174067 3819400
-5 Rojas, Steven	PER 2004 M 1756.9181070 73.0840640 3819434
-6 Flores Quillas, Diego Saul Rodri	PER 2006 M 1703.9430359 72.3384047 3822508

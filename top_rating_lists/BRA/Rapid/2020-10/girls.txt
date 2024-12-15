@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Silva, Liara Blanco	BRA 2004 1661.3254135 69.5949273 22718664
-2 Fernandes, Beatriz	BRA 2009 1481.0083365 73.5960668 22744193
-3 Deobrochinski, Valentina Hinke	BRA 2006 1446.3913887 74.6780047 22740201

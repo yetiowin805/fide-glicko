@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mateu Guiu, Esteve	AND 1992 M 1953.7267020 74.2788111 22270728
-2 Torrent Casado, Marc	AND 1996 M 1654.9358340 74.9684860 6900623

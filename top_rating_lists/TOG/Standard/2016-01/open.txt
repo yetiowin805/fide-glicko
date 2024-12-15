@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Strovsky, Mikhail	TOG 1986 M 1689.2315872 65.0664579 24111627
-2 Fumey, Enyonam Sewa	TOG 1981 M 1617.8059965 69.4858620 21200033

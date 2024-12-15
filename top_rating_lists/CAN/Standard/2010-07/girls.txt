@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Botez, Alexandra	CAN 1995 1851.7366189 72.6875524 2603365
-2 Kagramanov, Dalia	CAN 1993 1763.2618855 68.2247371 2604728
-3 Kalaydina, Regina Veronicka	CAN 1996 1711.6843992 69.8600402 2600129

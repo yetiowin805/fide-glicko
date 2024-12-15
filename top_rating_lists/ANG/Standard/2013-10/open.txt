@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Soares, Erikson Roberto Mauricio	ANG 1992 M 2081.3236416 72.0412884 10100091
-2 Oliveira, Luciano	ANG 1981 M 2071.9561388 73.0636000 10100431
-3 Alberto, Manuel	ANG 1974 M 2070.5375681 67.9107266 10100148

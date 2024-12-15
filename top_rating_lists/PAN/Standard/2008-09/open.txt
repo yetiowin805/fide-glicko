@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Baules, Jorge	PAN 0 M 2304.9495766 69.9684242 6600247
-2 Esquivel, Luis	PAN 1983 M 2129.4638495 59.1079321 6600174

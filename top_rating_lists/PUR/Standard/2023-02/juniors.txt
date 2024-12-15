@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Toro Cruz, Sebastian J.	PUR 2006 M 1757.0530344 61.6025622 3107949
-2 Gonzalez Lopez, Pablo D.	PUR 2003 M 1517.9330775 65.2031253 3108325
-3 Perez Santana, Sebastian D.	PUR 2009 M 1260.4989398 70.0187216 3109801

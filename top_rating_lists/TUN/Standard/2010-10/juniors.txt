@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ben Said, Ahmed	TUN 1990 M 1634.6024295 71.8378570 5500877
-2 Ghalia, Daly	TUN 1996 M 1408.0034223 72.8675304 5502071

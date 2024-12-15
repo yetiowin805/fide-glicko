@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Antoniou, Antonis	CYP 1970 M 2111.8870757 74.5264782 5900123

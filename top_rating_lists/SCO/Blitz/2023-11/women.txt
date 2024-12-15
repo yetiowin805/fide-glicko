@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Lampard, Alice	SCO 1996 1695.6618648 70.7085655 2402750
-2 Bhatia, Kanishka	SCO 2010 1692.9679163 59.6937874 2410095

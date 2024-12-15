@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Cramling Bellon, Anna	SWE 2002 1687.6974385 64.5964165 32009232
-2 Johansson, Elizabeth	SWE 2001 1497.2382202 58.3122895 1737457

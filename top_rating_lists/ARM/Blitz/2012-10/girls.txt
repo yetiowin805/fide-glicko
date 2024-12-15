@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Gevorgyan, Maria	ARM 1994 1983.3428853 64.2445194 13300270
-2 Shakryan, Zozan	ARM 1993 1921.6419777 73.1409964 13303643

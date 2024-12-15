@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Marchesich, Giovanni	ITA 2004 M 2026.6895620 68.3746682 2824790
-2 Mammi, Samuele	ITA 2006 M 1748.4664993 72.9107015 2850538

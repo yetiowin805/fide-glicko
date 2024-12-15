@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ramirez, Alejandro	CRC 1988 M 2478.6387689 39.7674738 6500617
-2 Minero Pineda, Sergio	CRC 1974 M 2436.1634522 69.4261347 6500374
-3 Valdes, Leonardo	CRC 1975 M 2367.2426771 56.6627996 6500331

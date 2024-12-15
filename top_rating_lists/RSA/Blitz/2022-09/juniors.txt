@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Smit, Devon	RSA 2005 M 1961.8370408 73.3628264 14330849

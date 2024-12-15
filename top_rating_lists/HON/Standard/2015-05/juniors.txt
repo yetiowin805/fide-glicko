@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ortiz, Katherine Berenice	HON 1995 F 1741.1865725 61.7041494 8400474
-2 Miller Matute, Marlon Eduardo	HON 2001 M 1666.2333096 62.6322808 8400555
-3 Ortiz, Rosa Daniela	HON 1999 F 1446.6563272 72.1773282 8400547

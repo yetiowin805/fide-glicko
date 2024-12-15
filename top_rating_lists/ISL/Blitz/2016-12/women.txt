@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Ptacnikova, Lenka	ISL 1976 1956.0663554 48.4624899 305650
-2 Magnusdottir, Veronika Steinunn	ISL 1998 1540.1004527 72.9859818 2309114
-3 Birkisdottir, Freyja	ISL 2006 1403.9738589 59.1002890 2311860

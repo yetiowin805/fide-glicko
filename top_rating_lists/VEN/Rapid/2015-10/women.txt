@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Giraldo Segovia, Angely	VEN 1998 1681.5873200 74.9857993 3900606
-2 Carreno Planas, Manuela	VEN 1996 1540.4293404 73.8347318 3906019
-3 Aumaitre Rojas, Nairymar Nazaret	VEN 1998 1497.1701495 74.9185078 3915603

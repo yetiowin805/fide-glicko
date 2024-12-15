@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Righi, Ezio	SMR 1956 M 1748.8745764 71.8279721 11800038

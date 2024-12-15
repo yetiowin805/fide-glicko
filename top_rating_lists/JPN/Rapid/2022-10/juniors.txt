@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Inukai, Rentaro	JPN 2012 M 1552.4232596 70.4376790 7004400
-2 Inukai, Kotaro	JPN 2010 M 1479.1708977 72.9841188 7004397

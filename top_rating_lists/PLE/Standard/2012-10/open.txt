@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tamra, Attallah	PLE 1960 M 1949.5909712 73.4776693 11500255
-2 Wajdy, Shebetah	PLE 1900 M 1869.4238447 54.3545701 11500131

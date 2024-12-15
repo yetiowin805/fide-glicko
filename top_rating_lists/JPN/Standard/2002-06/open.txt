@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Watanabe, Akira	JPN 1972 M 2331.3522137 72.1097102 7000227

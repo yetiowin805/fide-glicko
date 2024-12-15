@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Le, Quang Liem	VIE 1991 M 2611.5969815 72.6720809 12401137
-2 Nguyen, Thien Ngan	VIE 2005 F 1861.2781916 74.5421009 12414816

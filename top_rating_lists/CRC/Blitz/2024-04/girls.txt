@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Diaz Charpentier, Kristel Meliss	CRC 2004 1855.5043018 71.9893228 6511708
-2 Mayorga Araya, Sofia	CRC 2009 1784.6994401 56.4240606 6514065
-3 Rivera Gutierrez, Geannina Isabela	CRC 2009 1631.1805793 71.2792592 6534635
-4 Salazar Delgado, Aylin Naomi	CRC 2008 1521.0155039 66.0211825 6524800
-5 Alvarado Machado, E. Daniela	CRC 2008 1408.2119629 65.7611035 6555071

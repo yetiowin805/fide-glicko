@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Munoz Ramos, Christopher	CHI 2011 M 1861.8297382 71.3488508 3439615

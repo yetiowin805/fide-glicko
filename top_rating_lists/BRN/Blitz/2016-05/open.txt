@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ayyad, Maher	BRN 1978 M 2077.6169807 73.2597698 11200235
-2 Shaker, Mosab	BRN 1986 M 1580.5118039 70.4123485 11201789

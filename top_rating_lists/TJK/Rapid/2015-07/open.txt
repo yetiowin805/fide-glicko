@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Khusenkhojaev, Muhammad	TJK 1987 M 2321.0241171 63.2765563 14700247
-2 Shukurov, Saodiddin	TJK 1977 M 1490.4926838 70.2112481 14700573

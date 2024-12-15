@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Yang Robert Michael	HKG 2000 M 1829.2732065 57.3477024 6002072

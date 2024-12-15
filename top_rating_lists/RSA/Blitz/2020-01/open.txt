@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Solomon, Kenny	RSA 1979 M 2260.0085909 73.8199703 14300192
-2 Modi, Yashil	RSA 2005 M 1750.2047197 70.6270911 14310880

@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mendez, Andre	PAN 2008 M 1698.5639644 53.9029882 6603793
-2 Gonzalez De La Guardia, Luis Emilio	PAN 2005 M 1553.1334539 69.2193474 6603831
-3 Ibanez Zanetti, Diego Arturo	PAN 2004 M 1522.9540636 68.5858066 6604625
-4 Ibanez Zanetti, Sebastian Andres	PAN 2009 M 1498.3684214 73.7289855 6604633
-5 Mendez Machado, Fatima	PAN 2011 F 1267.7681615 63.4835597 6606970

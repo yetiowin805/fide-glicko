@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ermenkov, Evgenij	PLE 1949 M 2434.7526496 60.7394769 2900106
-2 Moussa, Alaa-Eddine	PLE 1968 M 2045.6358703 70.7368588 11500042

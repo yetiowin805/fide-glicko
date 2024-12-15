@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Phiri, Richmond	ZAM 1998 M 2029.6944716 72.8080557 8700443

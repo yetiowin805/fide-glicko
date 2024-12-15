@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mohammed Abdul, Malek	BAN 1983 M 1941.3940498 74.5237193 10201300

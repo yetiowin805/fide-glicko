@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Owens, Megan R	WLS 1995 F 1681.5659287 67.3601575 1801996

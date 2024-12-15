@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mohamed Abderrahim, Taleb Mohamed	MTN 2007 M 1732.4418310 74.6258241 19601441
-2 Mohamed Lemine, Mohamed	MTN 1994 M 1643.3318856 71.1357479 19601409
-3 med mahd med beiba	MTN 1956 M 1557.7405219 73.2214767 19600917

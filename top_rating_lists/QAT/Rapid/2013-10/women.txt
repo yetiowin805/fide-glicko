@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Zhu, Chen	QAT 1976 2412.5185443 73.6289954 8600546

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Van Delden, Johan	AHO 2004 M 1700.1080340 66.2416093 7502206
-2 Bedi, Vaibhav	AHO 2010 M 1438.3704393 69.1762137 7501900

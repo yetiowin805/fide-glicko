@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Botsoe, Koffi	TOG 1974 M 1646.8935540 67.1892902 21200025
-2 Assagba, Kodjo Mawuli	TOG 1978 M 1562.5555477 73.5424614 21200211
-3 Ballebako, Kokou Difendramakada Jacques	TOG 1995 M 1474.6938582 68.1069622 21201390

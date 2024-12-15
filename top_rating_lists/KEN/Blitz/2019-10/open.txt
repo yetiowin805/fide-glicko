@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sang, Ricky	KEN 1983 M 1744.4846038 72.3129952 10802185

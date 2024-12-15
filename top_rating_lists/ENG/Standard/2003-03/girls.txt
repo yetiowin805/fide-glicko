@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Richards, Heather	ENG 1983 2245.8164390 46.2642960 408697
-2 Gilbert, Jessie	ENG 1987 2103.4776888 64.1771200 409090

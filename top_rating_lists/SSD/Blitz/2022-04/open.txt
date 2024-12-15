@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gong Thon Gong	SSD 1999 M 2086.0874670 69.2386518 32500610
-2 Peter Majur Manyang	SSD 1996 M 1942.1207865 56.8185500 32500840

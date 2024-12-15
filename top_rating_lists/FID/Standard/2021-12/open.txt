@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kovalev, Vladislav	FID 1994 M 2473.4635716 59.3227604 13504398
-2 Aliyev, Tamer	FID 2004 M 1693.9706295 67.3436995 34517880

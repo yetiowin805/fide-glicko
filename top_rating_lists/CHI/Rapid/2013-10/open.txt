@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vasquez Schroeder, Rodrigo	CHI 1969 M 2539.1525973 72.6520479 3400042
-2 Cuevas Araya, Walter	CHI 1981 M 2129.8019965 71.6307135 3405028

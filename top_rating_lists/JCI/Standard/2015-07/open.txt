@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kahn, Tito	JCI 1970 M 1730.7963132 71.0994029 15600084

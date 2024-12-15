@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Silva, David	ANG 1998 M 2171.8845754 72.5390921 10101314
-2 Constantino, Gudlack	ANG 1988 M 1761.9618907 70.9278142 10100342

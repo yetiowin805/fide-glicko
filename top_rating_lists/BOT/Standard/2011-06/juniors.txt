@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Olebile, Thato	BOT 1991 M 1876.7330920 68.4569010 11300760
-2 Mbakhwa, Faith	BOT 1994 F 1492.6927471 72.5571580 11300477

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gavarrete, Joel	HON 1997 M 1796.5806823 69.2796383 8401160
-2 Miller Matute, Marlon Eduardo	HON 2001 M 1694.5821944 71.9953075 8400555

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Dollah, Zaidi	BRU 0 M 2366.0525922 68.1053910 10500049
-2 Pg, Mohd Omar Ak Hirawan	BRU 0 M 2281.6004298 53.7390002 10500111
-3 Pg, Mohd Omar Ak Hira	BRU 0 M 2145.4072892 59.9303371 10500103

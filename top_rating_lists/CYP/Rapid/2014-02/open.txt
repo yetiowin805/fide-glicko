@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vasiliou, Costas	CYP 1960 M 1579.9744630 74.4666671 5900514

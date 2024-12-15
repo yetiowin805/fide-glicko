@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rojas Salas, Steven	PER 2004 M 1956.1111535 74.0491783 3819434
-2 Kastanieda, Alla	PER 2006 F 1501.8206065 68.8215906 34166189
-3 Vilca Contreras, Dante Ivan	PER 2012 M 1473.5403698 73.9854846 3853900

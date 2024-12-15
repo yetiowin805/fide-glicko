@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Solomon, Kenny	RSA 1979 M 2293.0371415 71.1403063 14300192
-2 Peretz, Leon	RSA 1963 M 1701.3920919 74.2984289 14304155

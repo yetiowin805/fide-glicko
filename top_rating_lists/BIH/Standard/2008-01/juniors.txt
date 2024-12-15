@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mikanovic, Sandro	BIH 1988 M 2059.0657868 74.9147388 14402645

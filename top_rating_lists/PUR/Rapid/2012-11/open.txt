@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vazquez Reyes, Raul	PUR 1991 M 2224.1955593 71.0530603 3100235
-2 Ayala Sanchez, Abnel	PUR 1983 M 1855.7646039 73.9768338 3101380
-3 Vazquez Maccarini, Danitza	PUR 2000 F 1735.5298164 70.5036503 3101193

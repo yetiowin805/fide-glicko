@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Low, Zhen Yu Cyrus	SGP 2002 M 2171.5931047 66.9084070 5804175
-2 Siddharth, Jagadeesh	SGP 2007 M 2048.0898025 73.2068065 5818320

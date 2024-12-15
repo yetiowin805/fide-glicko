@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lyansky, Yan	BAH 1971 M 1669.3468919 71.6080603 10400290
-2 Whyms, Chappell	BAH 1969 M 1519.1689906 71.9518256 10400125

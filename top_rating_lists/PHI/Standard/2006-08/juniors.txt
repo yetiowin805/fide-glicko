@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Barbosa, Oliver	PHI 1986 M 2419.7472869 73.0947589 5201640
-2 So, Wesley	PHI 1993 M 2394.5678433 58.9349200 5202213

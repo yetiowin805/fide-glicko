@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Muhsen, Abdulla.mohmmed	IRQ 1989 M 2075.8082970 65.8975051 4801695
-2 Mohammed, Zozek Salah Mohammed	IRQ 1986 M 2061.7554981 66.6253893 4803361
-3 Salih, Akar Ali Salih	IRQ 1990 M 2060.4523194 74.5061175 4800575

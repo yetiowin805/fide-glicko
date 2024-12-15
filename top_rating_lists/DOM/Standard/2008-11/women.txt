@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Jose Polanco, Kenia	DOM 1985 1840.6462016 74.9880086 6401074
-2 Hazim, Elizabeth	DOM 0 1703.3384604 72.7830419 6400183

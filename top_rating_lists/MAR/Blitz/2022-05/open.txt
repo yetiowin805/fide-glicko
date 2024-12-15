@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 El Adnani, Mokliss	MAR 1983 M 2233.1912137 52.6704048 9000410
-2 Ali, Sebbar	MAR 1980 M 2096.8617907 68.9544739 8100977

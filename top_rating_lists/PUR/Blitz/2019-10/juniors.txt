@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Boggiano Pereira, Miguel A.	PUR 1999 M 1932.5444372 65.5324750 3102750
-2 Garcia Figueroa, Kevin J.	PUR 2004 M 1634.0638694 73.2731497 3108210
-3 Maldonado Polo, Mariangeli	PUR 2006 F 1429.5083506 70.1217107 3107299
-4 Crespo Soto, Yasiel J.	PUR 2000 M 1316.6608792 72.1928858 3108120

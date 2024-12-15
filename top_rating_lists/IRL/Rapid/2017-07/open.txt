@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 McCabe, Shane	IRL 1968 M 1699.3010542 64.1300861 2503891
-2 McDonnell, James J.	IRL 1954 M 1600.9907055 59.9878086 2500787

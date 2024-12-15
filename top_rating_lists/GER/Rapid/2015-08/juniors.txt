@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Shirov-Michna, Masza	GER 1999 F 1432.9501677 71.2669353 12921998

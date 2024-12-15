@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ghaem Maghami, Ehsan	IRI 1982 M 2535.4886451 43.9638921 12500739
-2 Moradiabadi, Elshan	IRI 1985 M 2320.6425964 60.8954903 12501255

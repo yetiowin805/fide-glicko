@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Beydullayeva, Govhar	AZE 2003 1929.4852042 70.9005790 13413015
-2 Allahverdiyeva, Ayan	AZE 2005 1885.9042498 60.1233865 13412590
-3 Shukurova, Aydan	AZE 2007 1397.4140178 74.3508598 13415000

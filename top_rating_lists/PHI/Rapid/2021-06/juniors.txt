@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Cuizon, Richily Evans	PHI 2008 F 1505.7041419 71.6497167 5230306
-2 Calacday, Jericho	PHI 2007 M 1420.1841683 65.8291140 5219507

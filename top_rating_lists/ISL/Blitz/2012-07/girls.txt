@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Thorsteinsdottir, Hallgerdur	ISL 1992 1905.4980461 67.7760638 2302454
-2 Johannsdottir, Johanna Bjorg	ISL 1993 1839.7469784 63.9578505 2303108
-3 Hauksdottir, Hrund	ISL 1996 1563.2123446 65.3037183 2302608
-4 Davidsdottir, Nansy	ISL 2002 1332.5454549 73.9186866 2309491
-5 Palsdottir, Soley Lind	ISL 1999 1285.5627576 70.1332361 2306824

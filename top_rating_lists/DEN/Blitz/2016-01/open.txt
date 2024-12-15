@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nielsen, Peter Heine	DEN 1973 M 2406.8519576 67.8601965 1400355
-2 Rasmussen, Allan Stig	DEN 1983 M 2365.9822396 68.7148008 1406000

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rahmani, Asef	AFG 1973 M 1720.2549246 45.7850846 12540951
-2 Yaqeen, Muizzuddin	AFG 1980 M 1552.4724998 71.3010858 11701900

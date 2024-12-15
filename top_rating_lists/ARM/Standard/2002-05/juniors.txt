@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Aronian, Levon	ARM 1982 M 2570.4349693 56.1190855 13300474
-2 Sargissian, Gabriel	ARM 1983 M 2555.3234201 56.7407326 13300881

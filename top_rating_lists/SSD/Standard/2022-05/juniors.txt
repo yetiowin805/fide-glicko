@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Benjamin Chau Awar	SSD 2002 M 1691.2096361 67.6614465 32501358
-2 Ngong Samuel Gai	SSD 2003 M 1675.3431255 73.1893193 32501242

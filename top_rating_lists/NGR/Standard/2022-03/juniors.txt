@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Okeke Issac	NGR 2003 M 1954.2810911 57.0407618 8508526
-2 Eyetonghan Denyefa Callistus	NGR 2002 M 1880.4833407 64.8894214 8511462
-3 Olisa Tennyson	NGR 2003 M 1808.2639287 66.9132569 8511390

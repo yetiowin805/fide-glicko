@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Di Berardino, Diego Rafael	BRA 1987 M 2286.9821007 50.4184871 2105446
-2 Choma, Ernani Francisco	BRA 1987 M 2276.6773256 57.6969304 2106922
-3 Mekhitarian, Krikor Sevag	BRA 1986 M 2195.8905115 68.2704901 2107660

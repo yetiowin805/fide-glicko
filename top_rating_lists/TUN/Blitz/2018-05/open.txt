@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ferjaoui, Khaled	TUN 1963 M 1647.2638951 73.7953407 5507332

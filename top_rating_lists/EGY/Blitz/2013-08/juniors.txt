@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ameir, Moheb	EGY 1993 M 2137.8753620 64.0268783 10600620
-2 Wafa, Shrook	EGY 1997 F 1825.0346932 71.0976796 10609970

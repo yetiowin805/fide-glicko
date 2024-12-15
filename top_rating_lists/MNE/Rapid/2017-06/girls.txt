@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Koljevic, Nikolina	MNE 2001 1543.0762228 74.4450074 16503945
-2 Rakic, Tijana	MNE 2001 1516.1111394 74.5348449 16504194

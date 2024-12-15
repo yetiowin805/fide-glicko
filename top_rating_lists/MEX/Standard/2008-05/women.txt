@@ -1,8 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Hernandez, Yadira	MEX 0 2171.4144339 71.4840735 5100992
-2 Guerrero Rodriguez, Alejandra	MEX 1974 2087.9168435 57.8033536 5104297
-3 Estrada Gaspar, Nelly Massiel	MEX 1987 1992.0751961 61.7810695 5106320
-4 Gutierrez Mancillas, Alicia Abig	MEX 1990 1971.5907725 64.8779977 5108926
-5 Medina Altamirano, Karla	MEX 0 1931.6852321 59.8637456 5105404
-6 Carreras Mendiolea, Paulina Adri	MEX 1989 1864.2599878 71.1683723 5105420
-7 Santos Cabanas, Cecilia	MEX 0 1810.3732129 73.8240157 5105676

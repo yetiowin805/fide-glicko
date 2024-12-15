@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Junior, Domingos	ANG 2004 M 2041.6047819 74.9061649 10105972

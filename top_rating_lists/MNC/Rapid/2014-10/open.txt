@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Villegas, Pierre	MNC 1992 M 2230.8633259 64.8322293 654183
-2 Van Hoolandt, Patrick	MNC 1958 M 2066.7324257 70.3753503 200999
-3 Tortorella, Giancarlo	MNC 1968 M 1789.4160895 74.6818509 824909

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Montalvo Rosario, Alejandro	PUR 1968 M 2127.6862079 71.4972083 3100260

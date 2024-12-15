@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Uuriintuya, Uurtsaikh	MGL 1998 1875.0850577 60.1780206 4900227
-2 Amina, Battsooj	MGL 2001 1723.6284460 60.8454794 4902661
-3 Ulziikhishigjargal, Ochirkhuyag	MGL 2002 1705.4444654 64.6587418 4903188
-4 Udval, Batkhishig	MGL 2004 1655.9689106 73.9941879 4902505

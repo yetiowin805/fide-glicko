@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Yusof, Kamaluddin	MAS 1967 M 1778.6203922 61.3371346 5701171
-2 Wan Abd Rahim, Wan Mohd Azmie	MAS 1994 M 1764.3368514 66.7092111 5715857
-3 Tharation, Prem Kumar	MAS 1974 M 1657.3069106 68.7687261 5750784

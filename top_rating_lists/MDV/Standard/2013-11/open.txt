@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ahmed, Fuad	MDV 1975 M 1737.1258929 70.8423435 16700023

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sindarov, Javokhir	UZB 2005 M 2198.7025109 72.8209844 14205483
-2 Abdusattorov, Nodirbek	UZB 2004 M 2072.7165462 74.2354442 14204118
-3 Tokhirjonova, Gulrukhbegim	UZB 1999 F 1980.1121330 69.9778174 14203626

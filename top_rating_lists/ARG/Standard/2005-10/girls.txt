@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Lujan, Carolina	ARG 1985 2274.0957218 47.3594905 109878
-2 Carraro, Denise	ARG 1988 1888.6529521 67.8166094 111791

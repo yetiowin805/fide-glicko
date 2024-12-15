@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mesa Cruz, Juan Carlos	DOM 2003 M 1982.2618549 54.7750902 6423400
-2 Polanco Fernandez, Sahiean	DOM 2011 M 1655.0049131 72.2889315 6425240
-3 Polanco Fernandez, Reynie	DOM 2009 M 1595.3156774 69.4660329 6424821

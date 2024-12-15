@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Languidey, Simon Alejandro	ARG 1992 M 2930.1692726 73.7089144 127000

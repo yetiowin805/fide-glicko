@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Torres Rosas, Luis Carlos	MEX 1995 M 2087.3910385 74.9876696 5111080
-2 Mendoza Velazquez, Lorena Alejan	MEX 1994 F 1878.7191546 70.2062544 5101794

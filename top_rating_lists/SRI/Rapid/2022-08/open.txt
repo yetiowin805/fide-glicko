@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Priyankara, Chamil	SRI 1987 M 1845.9205878 69.3495868 9901566
-2 Rajap, Ahamed Asif	SRI 2009 M 1616.8553690 66.8638965 9992332

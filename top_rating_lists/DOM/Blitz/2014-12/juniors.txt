@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nieto Rodriguez, Alejandro	DOM 2000 M 1899.9094839 62.9292157 6410243
-2 Tiburcio Villar,  Franklin Jonel	DOM 2000 M 1742.9539600 56.9011901 6410685
-3 Jimenez Matos, Jimmy	DOM 2001 M 1737.8702232 58.1032633 6411126
-4 Rosario Almanzar, Raydili	DOM 1998 F 1455.2399032 73.5506436 6403573

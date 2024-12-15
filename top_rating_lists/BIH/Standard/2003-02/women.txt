@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Misanovic, Vesna	BIH 1964 2324.7860502 74.4004270 14400073
-2 Dimovski, Aleksandra	BIH 0 2117.7749525 72.9669660 931616

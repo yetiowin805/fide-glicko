@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 O`Gorman, Alice	IRL 2000 1688.4196538 54.9429788 2508214
-2 Mirza, Diana	IRL 2000 1635.0922884 71.5756553 2503999

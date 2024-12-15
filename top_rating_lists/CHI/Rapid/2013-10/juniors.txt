@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Abarca Gonzalez, Nicolas	CHI 1993 M 1910.6512589 74.8234677 3409422

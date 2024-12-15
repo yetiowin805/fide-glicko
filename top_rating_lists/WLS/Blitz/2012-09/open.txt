@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pleasants, Allan J	WLS 1960 M 2014.7655193 67.8299351 411337
-2 Jameson, David	WLS 1978 M 2011.2350055 73.5508042 1801538

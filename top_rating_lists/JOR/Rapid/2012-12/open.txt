@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Khader, Sami	JOR 1972 M 2332.2849770 65.5929292 8100500
-2 Dahdal, Lougain	JOR 1990 F 1803.4452902 74.7436661 8102880

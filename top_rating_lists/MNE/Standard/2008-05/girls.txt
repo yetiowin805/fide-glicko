@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Vojinovic, Jovana	MNE 1992 2204.4246734 48.2768978 937266
-2 Neric, Jelena	MNE 1989 1676.4620754 74.3744597 900591

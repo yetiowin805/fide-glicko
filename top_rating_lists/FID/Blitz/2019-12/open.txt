@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Firouzja, Alireza	FID 2003 M 2521.6663899 56.1720520 12573981
-2 Rivera, Alberto	FID 1957 M 2099.3429173 73.9926407 3500390

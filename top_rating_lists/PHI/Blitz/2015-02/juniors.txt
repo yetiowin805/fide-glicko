@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bersamina, Paulo	PHI 1998 M 2188.2689275 73.9734732 5206995
-2 Mendoza, Shania Mae	PHI 1998 F 1847.6588754 73.2678391 5211158

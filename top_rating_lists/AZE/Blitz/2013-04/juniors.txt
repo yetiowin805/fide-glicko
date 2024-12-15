@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Abasov, Nijat	AZE 1995 M 2407.9089879 74.8196532 13402960

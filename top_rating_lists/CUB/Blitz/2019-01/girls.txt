@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Sierra Cartaya, Ana Barbara	CUB 2002 1786.7447288 51.2752978 3524035
-2 Mantilla Gras, Geydis De la C.	CUB 2000 1720.3108696 57.9564059 3521508
-3 Fernandez Malagon, Maria F.	CUB 2003 1534.1088028 70.0826828 3527247
-4 Valdes Boza, Aliett	CUB 2008 1415.5540758 62.6364759 3527280

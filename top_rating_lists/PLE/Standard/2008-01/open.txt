@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ermenkov, Evgenij	PLE 1949 M 2427.2451392 50.6534031 2900106
-2 Tamra, Attallah	PLE 1960 M 1997.3774198 73.6678639 11500255

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gonzalez Perez, Arian	FID 1988 M 2320.2860743 69.4812837 3507777
-2 Surya, Jaya	FID 2003 M 1399.4615046 71.1521940 11202920

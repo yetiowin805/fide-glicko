@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rocha, Maximiliano	NCA 1900 M 2046.8263294 73.8001196 6100775
-2 Mejia, Donaldo	NCA 1900 M 1903.1948681 71.8991127 6102085

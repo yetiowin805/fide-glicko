@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Huerta Chacon, Jonnathan Santiago	ECU 2004 M 1900.7274718 73.6900463 3637590
-2 Romero Acevedo, Jozef Isaac	ECU 2012 M 1665.3446182 62.7005165 3647048
-3 Zhindon Minchala, Andrea	ECU 2004 F 1650.2429748 74.0941748 3637689
-4 Melena Salvador, Alan Jesus	ECU 2009 M 1543.2128200 72.9561952 3650731

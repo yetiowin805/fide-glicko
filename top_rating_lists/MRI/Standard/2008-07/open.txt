@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Li Ying, Patrick	MRI  M 2144.0416106 71.1300174 9700056

@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Natareno, Elvia	GUA 1997 1549.4608484 62.1520660 7301251
-2 Cruz Lima, Kimberly Esmeralda	GUA 2001 1527.8918654 61.3879516 7301480
-3 Santiago Sontay, Jenny Fernanda	GUA 2002 1510.1256463 71.8906179 7303084
-4 Arango Perez, Lilian Rubi	GUA 2000 1471.8605885 73.7348303 7301766

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gibson, Ken	BAH 1971 M 1898.5007270 74.6710069 10400079
-2 Byron Small	BAH  M 1783.7124865 74.8219353 10400044

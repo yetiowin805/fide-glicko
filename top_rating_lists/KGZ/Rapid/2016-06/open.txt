@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Dadabaev, Janybek	KGZ 1989 M 1870.4827301 73.9819121 13801236

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Chiarion, Elisa	ITA 1995 1969.1977582 67.0531111 828653
-2 Pannella, Maria Cristina	ITA 2003 1554.4332715 66.4009240 2805281
-3 Marseglia, Serena	ITA 2001 1229.1255086 62.7466003 2827048

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Johannsdottir, Johanna Bjorg	ISL 1993 1886.5185974 73.1866348 2303108
-2 Kristinardottir, Elsa Maria	ISL 1989 1759.8584816 71.8166030 2300370
-3 Davidsdottir, Nansy	ISL 2002 1530.4916912 73.8535716 2309491

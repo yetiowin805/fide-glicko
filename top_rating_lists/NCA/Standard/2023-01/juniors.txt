@@ -1,8 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Espinoza Solano, Jose Nahum	NCA 2003 M 1982.6490982 52.7625816 6104428
-2 Vanegas Lopez, Natanael Emanuel	NCA 2006 M 1713.0201774 51.6907407 6108326
-3 Valle Alonso, Moises Abraham	NCA 2008 M 1653.7127232 70.4770388 6109560
-4 Pilarte Castro, Rene Ozmar	NCA 2004 M 1470.8403479 63.3815429 6104690
-5 Quintero Obando, Lesber Alexander	NCA 2003 M 1367.4855502 73.2571555 6110363
-6 Pavon Ruiz, Cristhoffer Israel	NCA 2005 M 1358.3726725 73.7889866 6108628
-7 Sanchez Caceres, Benjamin Jose	NCA 2003 M 1236.8291325 69.3506243 6111840

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Atthaworadej, Worasuda	THA 1999 1588.2819470 66.3134926 6201563
-2 Vongvastana, Chananchida	THA 2000 1530.8124432 68.1724464 6202179
-3 Chuersakul, Sarocha	THA 2004 1451.4058026 70.3828554 6203710

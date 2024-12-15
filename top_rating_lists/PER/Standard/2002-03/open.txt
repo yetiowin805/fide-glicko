@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Munoz Pantoja, Miguel	PER 0 M 2421.4796262 66.1348128 3800229
-2 Vidarte Morales, Arturo	PER 1967 M 2393.5254620 66.8790538 3800253
-3 Longa Yauca, Javier	PER 0 M 2305.2331951 71.0238911 3800806

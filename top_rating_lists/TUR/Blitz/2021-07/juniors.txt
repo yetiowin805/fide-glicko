@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Can, Isik	TUR 2005 M 2203.3214323 73.4592071 6383742

@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mendez, Andre	PAN 2008 M 1615.8260202 70.3296006 6603793
-2 Vasquez Jaen, Lourdes Lorena	PAN 2003 F 1564.8728342 61.8862065 6605559
-3 Hurtado, Samuel Alexander	PAN 2002 M 1562.6753218 73.5667248 6604838
-4 Alvarez Chang, Claudia Mercedes	PAN 2004 F 1523.7452968 65.4161025 6604374
-5 Gomez Morales, Salma Patricia	PAN 2005 F 1349.5809629 72.4337001 6606598

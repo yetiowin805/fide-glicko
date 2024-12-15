@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Shrestha, Keshav	NEP 0 M 2006.7264265 71.0106086 12300055
-2 Prem, Krishna Maharjan	NEP 0 M 1822.4965756 74.9171818 12300152

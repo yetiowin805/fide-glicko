@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nagybiro, Laszlo	HUN 1997 M 1999.1014256 71.7722760 741116
-2 Horvath, Balazs	HUN 2001 M 1871.6970815 70.7382683 758280

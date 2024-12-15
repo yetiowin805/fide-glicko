@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Xie, Felix	NZL 2008 M 1850.1176917 71.9740169 4308174

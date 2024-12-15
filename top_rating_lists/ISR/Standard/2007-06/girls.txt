@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Atnilov, Bela	ISR 1989 2143.7108262 70.8354666 2808102
-2 Porat, Maya	ISR 1991 2051.5638666 61.6519721 2808072

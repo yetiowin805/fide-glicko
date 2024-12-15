@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Gabbani, Sara	ITA 2004 1688.3582305 70.8516074 2842853
-2 Rubinshtein, Kamilla	ITA 2005 1605.1960433 63.6087559 2838708

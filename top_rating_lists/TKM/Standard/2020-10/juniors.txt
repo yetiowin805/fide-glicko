@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nurmamedov, Azat	TKM 2003 M 2180.7365434 72.6809943 14003937
-2 Shohradowa, Lala	TKM 2006 F 1789.7456271 71.6163899 14004089

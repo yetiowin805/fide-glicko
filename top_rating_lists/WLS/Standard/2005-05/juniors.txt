@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rees, Ioan	WLS 1988 M 2218.7783627 68.8257841 1801236

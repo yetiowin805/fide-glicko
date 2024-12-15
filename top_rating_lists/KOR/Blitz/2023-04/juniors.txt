@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lee, Hyo	KOR 2007 M 1948.7523225 64.8519264 13209299

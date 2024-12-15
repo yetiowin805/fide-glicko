@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Ramirez Gonzalez, Maria Jose	CRC 1997 1669.2350931 73.2637030 6503349
-2 Nunez Gonzalez, Neeshmy	CRC 1995 1666.8785490 74.6870356 6504396
-3 Salas Torres, Pamela	CRC 1998 1642.2252211 69.4702088 6505716
-4 Salazar Gould, Melanie	CRC 2003 1538.1707462 50.8176506 6505090

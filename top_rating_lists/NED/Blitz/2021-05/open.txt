@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Giri, Anish	NED 1994 M 2649.6349677 71.7801136 24116068

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gonzalez Rodriguez, Jorge A.	COL 1954 M 2404.3963114 54.6141428 4400240

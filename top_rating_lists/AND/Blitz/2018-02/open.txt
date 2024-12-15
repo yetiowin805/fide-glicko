@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Aloma Vidal, Robert	AND 1989 M 2290.8745366 65.1952290 2260409
-2 Martinez Gamiz, Marc	AND 2005 M 1499.1614587 69.7709491 6900976
-3 Ribera Veganzones, Serni	AND 2007 M 1373.0546142 74.7812615 6900860

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lam, Chun Yung Samuel	HKG 2010 M 1677.5569294 74.5556792 6004431
-2 Tsang, Lok Ching	HKG 2003 M 1619.9748184 74.1042957 6004610
-3 Kannappan, Thanneermalai	HKG 2008 M 1494.4118158 74.3220792 6003648

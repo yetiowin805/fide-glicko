@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Amanov, Mesgen	TKM 1986 M 2250.2837140 57.0386789 14000652

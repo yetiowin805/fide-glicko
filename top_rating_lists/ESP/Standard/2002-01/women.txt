@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Calzetta, Monica	ESP 1972 2320.4159583 51.6722079 2204185
-2 Hernandez, Yudania	ESP 0 2236.0818467 63.6500951 2219344
-3 Llaneza Vega, Patricia	ESP 1979 2227.6545209 68.7552286 2212676

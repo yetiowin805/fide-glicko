@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Ostensson, Julia	SWE 2005 1532.3530182 60.2372932 1747703
-2 Jagare, Hanna	SWE 2008 1303.4365034 73.8368280 1758756

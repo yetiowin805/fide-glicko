@@ -1,9 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Gonzalez Gonzalez, Maria Alejandra	VEN 2005 1575.0715333 74.3037385 3936040
-2 Sanchez Salas, Estefani Alejandra	VEN 2007 1494.4426252 65.2762933 3965759
-3 Guadalajara Barrios, Jacksilany	VEN 2006 1494.2013925 69.9943307 3931242
-4 Velasquez Marin, Glaycell Daniela	VEN 2007 1460.2722703 72.3496924 3946762
-5 Araujo Briceno, Gilary Ahilyn	VEN 2007 1430.2728140 74.6420118 3935841
-6 Hernandez Mora, Nohelia Virginia	VEN 2005 1347.1147972 73.9327977 3915344
-7 Marin Murguey, Valentina Jatniel	VEN 2005 1286.9632825 72.6791772 3955478
-8 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1192.5004697 74.4370229 3964051

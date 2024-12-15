@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Perez, Damaris Nicole	ESA 2005 1649.0954864 73.6540633 6705324
-2 Vasquez Vasquez, Marielos	ESA 2007 1637.2128772 62.3508907 6705723
-3 Barahona, Dalila Yamileth	ESA 2005 1629.8681188 68.3511585 6705740
-4 Arriaza, Allison Charlize	ESA 2007 1457.8715293 70.9035552 6705669

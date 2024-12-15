@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Kaymaz, Lena Nur	TUR 2000 1566.0090770 73.1327361 6359990
-2 Hereklioglu, Sude	TUR 2002 1543.1935569 72.2973689 6359531

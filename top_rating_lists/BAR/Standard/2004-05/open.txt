@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Szmetan, Ricardo	BAR 1952 M 2262.3365344 62.8866872 101028

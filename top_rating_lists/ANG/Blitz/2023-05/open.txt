@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lutuima, Amaro	ANG 2003 M 2137.9611583 66.9019815 10106863
-2 Borges, Jose	ANG 2001 M 1970.4336529 72.0089847 10106227

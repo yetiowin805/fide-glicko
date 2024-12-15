@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Haddouche, Mohamed	ALG 1984 M 2363.7228413 69.6576030 7900660
-2 Mehaibia, Azzedine	ALG 1961 M 2089.8438401 74.9641330 7900198
-3 Bounehas, Halim	ALG 1953 M 1705.1395037 72.2427744 7901208

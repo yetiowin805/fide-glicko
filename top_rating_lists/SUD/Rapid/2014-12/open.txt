@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Taha , Adam	SUD 1900 M 1720.1536101 68.4330705 12201014
-2 Hajar , Muhannad	SUD 1900 M 1719.6096593 60.4651366 12201006

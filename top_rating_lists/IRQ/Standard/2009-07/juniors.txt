@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Muhsen, Abdulla.mohmmed	IRQ 1989 M 2184.6864602 73.5610204 4801695
-2 Ali, Akar	IRQ 1990 M 2009.2045563 64.1054474 4800575
-3 Hayder Farhan Al- Hasnawi	IRQ 1992 M 1711.9099120 72.4679146 4803728

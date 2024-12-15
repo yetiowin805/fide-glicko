@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Vasquez Alcala, Astrid	VEN 1991 1748.0062846 74.8667045 3901858
-2 Patino Garcia, Corals	VEN 1999 1653.8899893 72.5528034 3902781
-3 Yepez Moreno, Juliet Carolina	VEN 2001 1573.2031689 67.6329015 3905438
-4 Yepez Moreno, Catherine Celeste	VEN 2003 1314.6790649 71.2954381 3905292

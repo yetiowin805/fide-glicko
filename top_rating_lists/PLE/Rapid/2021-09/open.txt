@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Miswadah, Baha	PLE 1981 M 1972.6765864 70.5895098 11502118
-2 Ahmed, Nidal	PLE 1986 M 1825.5625296 73.9817640 11504048

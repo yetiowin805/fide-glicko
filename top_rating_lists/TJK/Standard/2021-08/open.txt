@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Khusenkhojaev, Muhammad	TJK 1987 M 2213.2866597 64.1775215 14700247
-2 Khusenkhojaev, Mustafokhuja	TJK 1998 M 2038.3341964 70.6814294 14700727
-3 Fayzieva, Darina	TJK 2006 F 1426.5260029 54.8826639 14701960

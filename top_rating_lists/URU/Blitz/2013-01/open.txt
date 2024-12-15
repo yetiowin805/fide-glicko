@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rodriguez Vila, Andres	URU 1973 M 2409.9836035 72.5754394 3000010
-2 Guerrero, Alvaro	URU 1971 M 2078.5031863 71.6285059 3000478

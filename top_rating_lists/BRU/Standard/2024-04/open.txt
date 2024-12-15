@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rezuan, Khaizuran	BRU 2009 M 1556.5838868 69.3480369 10503145
-2 Hasnul, Hashim	BRU 1978 M 1549.3947810 60.4460406 10502670

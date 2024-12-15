@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kaabi, Mejdi	TUN 1961 M 2311.4100835 73.2250203 5500044
-2 Njili, Kamel	TUN 1982 M 2286.8366416 64.0638376 5500869

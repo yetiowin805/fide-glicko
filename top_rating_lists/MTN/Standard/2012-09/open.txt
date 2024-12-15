@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sabar Daoud	MTN 1987 M 1875.5918383 74.6420419 19600097
-2 Tajidine, Sidi Mohamed	MTN 1965 M 1691.1934917 69.6589760 26030900

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Narva, Mai	EST 1999 1891.1937310 62.0063152 4500512
-2 Hanzatjan, Elvira	EST 1995 1700.7825559 74.3809314 4501560

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Elezi, Egzom	FID 0 M 1833.1143181 62.0960902 19

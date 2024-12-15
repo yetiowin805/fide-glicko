@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vos, Tjark	AHO 1996 M 2056.0715926 53.3206171 1020870

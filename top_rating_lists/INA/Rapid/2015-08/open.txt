@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Aulia, Medina Warda	INA 1997 F 2121.3609661 74.7716428 7101570
-2 Limono, Handjojo	INA 1963 M 1749.7447638 71.9798313 7102909

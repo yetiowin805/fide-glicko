@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Trippold, Denise	AUT 1998 1862.2206006 73.9401022 1625594
-2 Polterauer, Chiara	AUT 2000 1838.0059260 69.5204547 1638165
-3 Stallinger, Vanessa	AUT 1999 1657.3901213 73.4610680 1628941

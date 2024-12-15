@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mencos, Claudia	GUA 1991 F 1913.7773350 58.2616244 7300573
-2 Guzman, Oswaldo	GUA 1995 M 1859.2036508 72.5029227 7300930

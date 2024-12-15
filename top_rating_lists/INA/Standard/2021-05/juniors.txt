@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Malik, Jan Adiar	INA 2006 M 1788.9445300 74.0510584 7124511

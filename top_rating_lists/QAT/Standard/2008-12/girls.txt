@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Al-Khelaifi, Salama	QAT 1991 1680.2507526 71.0488595 12100048
-2 Safar, Reem	QAT 1994 1548.3942063 65.6180295 12100269

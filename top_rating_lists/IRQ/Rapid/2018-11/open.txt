@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Laith, Kasib	IRQ 1986 M 1958.7844066 74.4949338 4801059
-2 Albu-Salih, Khalid Khudhair Khalaf	IRQ 1956 M 1956.3564995 74.6223227 4801180

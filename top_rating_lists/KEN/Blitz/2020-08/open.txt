@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hinga, Githinji	KEN 1978 M 1834.1200383 74.7673583 10801006
-2 Juma, Maxwell	KEN 1993 M 1648.5339753 72.7136110 10802983

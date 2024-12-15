@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kiltti, Jyrki	FIN 1970 M 2249.7659301 68.8770975 501204
-2 Jarnstrom, Henrik	FIN 1952 M 1700.8655252 64.7952691 510572

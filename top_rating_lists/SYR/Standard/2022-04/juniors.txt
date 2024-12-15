@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ahmad Murad,Fatema Alzahraa.	SYR 2002 F 1711.9796331 73.7798030 7602103
-2 Yaghi,leen	SYR 2007 F 1621.4338926 64.9344624 7607580

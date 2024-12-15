@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Diaz Charpentier, Kristel Meliss	CRC 2004 1838.0312541 70.2463015 6511708
-2 Mayorga Araya, Sofia	CRC 2009 1661.1909866 68.5312136 6514065
-3 Salazar Delgado, Aylin Naomi	CRC 2008 1530.1435302 70.9206648 6524800

@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Henriquez Villagra, Cristobal	CHI 1996 M 2289.0270441 70.5051848 3409350
-2 Aguirre Contreras, Cristian	CHI 1996 M 1867.7413272 69.8966502 3412776
-3 Garmendia Vega, Gabriel	CHI 1995 M 1780.3569017 71.3556562 3414361
-4 Nunez Donaire, Elias Rodrigo	CHI 1998 M 1487.1273237 70.6344031 3418030

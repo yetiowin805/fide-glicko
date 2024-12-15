@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Steindorsson, Sigurdur P.	ISL 1983 M 2200.9052449 67.1118282 2301229
-2 Arngrimsson, Dagur	ISL 1987 M 2153.7017104 51.3839606 2301288
-3 Halldorsson, Halldor	ISL 1984 M 2144.4747403 69.5178465 2301369
-4 Kjartansson, Gudmundur	ISL 1988 M 2037.2691405 65.2095757 2301318

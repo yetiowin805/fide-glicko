@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Oatlhotse, Providence	BOT 1985 M 2082.3932084 69.8974609 11300507
-2 Gaealafshwe, Barileng	BOT 1982 M 2080.0990692 73.2449337 11300310
-3 Sasitharan, Abhiram	BOT 1999 M 1771.0818138 74.2194520 11301155

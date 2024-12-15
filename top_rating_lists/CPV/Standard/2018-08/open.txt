@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Spinola, Sidney	CPV 1979 M 1632.3534488 74.2860638 1950720
-2 Junior, Aguinaldo Vera Cruz	CPV 1957 M 1536.0674723 70.0616604 23600250

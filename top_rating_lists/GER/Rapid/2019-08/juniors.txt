@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ponomarev, Maximilian	GER 2005 M 1675.3205942 73.0627493 16216768

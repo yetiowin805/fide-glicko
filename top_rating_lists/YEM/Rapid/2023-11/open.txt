@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Farhan, Marwan Ali	YEM 1900 M 1873.2222773 69.1324553 9401652
-2 mohammed al-madhfari	YEM 1970 M 1802.9043241 74.2499468 9402900
-3 Hesham jawas	YEM 2001 M 1621.5074553 70.6893797 9405798

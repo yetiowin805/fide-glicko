@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Chahrour, Ibrahim	LIB 1997 M 1960.0719778 74.9850594 5301653
-2 Shamieh, Jamal	LIB 1900 M 1943.3549449 71.3056212 5300444

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Sebag, Marie	FRA 1986 2360.8693232 47.9061954 617822
-2 Milliet, Sophie	FRA 1983 2147.4512684 55.1957585 623725

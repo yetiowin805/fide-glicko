@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kirby, Peter J.	GCI 1963 M 1849.9216356 74.4701157 409014
-2 Nevska, Gerda	GCI 1988 F 1656.6940265 73.7505075 10700366

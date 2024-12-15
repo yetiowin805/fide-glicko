@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Algildah, Khalid	SYR 1985 M 2095.2781801 74.0179431 7600828
-2 Rafee, Mohd Hayel	SYR 1900 M 1887.5302555 69.1642760 7603126

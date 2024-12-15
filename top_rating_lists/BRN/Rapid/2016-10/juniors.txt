@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al Mahmood, Salman	BRN 2004 M 1503.5588291 69.0887853 11201517
-2 Al Jowder, Isa	BRN 2003 M 1309.3551150 74.1649871 11201851

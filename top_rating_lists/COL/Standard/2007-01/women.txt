@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Ortiz, Nadya Karolina	COL 0 2223.0747760 49.7513336 4401778
-2 Rivera, Ingris	COL 0 2048.3806436 61.6747930 4402472
-3 Franco, Angela	COL 0 2029.4492618 65.8346404 4403070

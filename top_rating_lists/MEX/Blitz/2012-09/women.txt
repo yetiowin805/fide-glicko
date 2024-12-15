@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Mendoza Velazquez, Lorena Alejan	MEX 1994 1878.7191546 68.4428293 5101794
-2 Duran Juarez, Citlali	MEX 1992 1843.0033987 74.4700354 5104084
-3 Garcia Morales, Ivette Ale	MEX 1994 1834.4753647 69.0886545 5105994

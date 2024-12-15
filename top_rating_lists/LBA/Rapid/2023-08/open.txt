@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Amer, Abdulmalk	LBA 1998 M 1869.7453015 53.6408299 9215352
-2 Alfaitori, Abdallah	LBA 1999 M 1847.6184037 71.4762737 9210091
-3 Alagouri, Hamdi Gaith	LBA 1985 M 1612.6597070 58.8573300 9208020

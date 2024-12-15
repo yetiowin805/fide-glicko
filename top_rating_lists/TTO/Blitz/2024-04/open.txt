@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Johnson, Joshua	TTO 1999 M 2143.7520475 70.3238809 7700768
-2 Ramoutar, Alan-Safar	TTO 2003 M 1878.5129715 70.3300786 7704224

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vallejo Pons, Francisco	ESP 1982 M 2625.8677996 45.0100331 2205530
-2 Fernandez Romero, Ernesto	ESP 1983 M 2399.3509651 72.4883118 2214679
-3 Rodriguez Guerrero, Enrique	ESP 1983 M 2354.8517553 69.9912246 2216892

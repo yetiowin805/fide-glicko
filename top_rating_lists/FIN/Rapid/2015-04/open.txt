@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pasanen, Tuomo	FIN 1976 M 1860.0362670 73.1848602 508063
-2 Nazarova, Anastasia	FIN 2001 F 1710.8273072 65.2097475 34101737

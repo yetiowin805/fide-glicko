@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Prasad, Rudr	FIJ 2005 M 1772.3831158 74.8573130 11401095
-2 Maharaj, Yash Krishen	FIJ 2002 M 1620.3359302 70.9237183 11402504

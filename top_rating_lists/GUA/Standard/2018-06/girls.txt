@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Figueroa Gonzalez, Karen Luvia	GUA 1998 1626.8704292 55.1857661 7301383
-2 Cruz Lima, Kimberly Esmeralda	GUA 2001 1566.8163507 59.0467953 7301480
-3 Lopez L., Dairyn D.	GUA 2000 1459.1911641 66.9638046 7301502
-4 Rodriguez G., Adriana M.	GUA 2002 1391.7087103 73.7739363 7301642
-5 Santiago Sontay, Melanie Charlizze	GUA 2004 1359.2878835 74.2933535 7303157

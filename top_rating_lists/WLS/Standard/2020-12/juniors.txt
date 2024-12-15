@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rathbone-Jones, Ifan	WLS 2004 M 1744.5620567 70.3284644 1803859
-2 Guha, Chirag	WLS 2004 M 1714.1433417 74.3819013 1802968

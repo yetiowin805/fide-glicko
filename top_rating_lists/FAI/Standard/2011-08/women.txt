@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Hansen, Herborg	FAI 1990 1733.3175915 71.3920115 7200269
-2 Olsen, Sara Traber	FAI 1995 1439.4719335 73.6556635 7200536

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Berezovsky, Fiorina	MNC 2007 1770.3732473 58.7141008 5400651
-2 Golubeva, Alina	MNC 2011 1399.7129310 65.3930221 5401526

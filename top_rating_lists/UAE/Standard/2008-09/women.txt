@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Saleh, Nora Mohd	UAE 1989 1765.4576613 70.2160512 9301607
-2 Bukhashem, Fayeqa S	UAE 0 1661.1139686 74.9090005 9301593

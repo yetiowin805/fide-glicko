@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Chahrani, Ibrahim	LBA 1972 M 2157.2871009 73.8193787 9200215
-2 Gator, Mosab	LBA 1990 M 2043.8869733 63.8208168 1312383

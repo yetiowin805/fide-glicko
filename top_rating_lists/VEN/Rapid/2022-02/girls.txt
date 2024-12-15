@@ -1,9 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Gonzalez Gomez, Daniela Carolina	VEN 2003 1563.9339121 71.2466483 3915417
-2 Ortiz Avila, Samantha Carolina	VEN 2005 1547.2490377 72.0509314 3947548
-3 Hernandez Mora, Nohelia Virginia	VEN 2005 1495.1240736 54.0500777 3915344
-4 Marin Murguey, Valentina Jatniel	VEN 2005 1476.4338236 68.8928677 3955478
-5 Luzardo Lopez, Aranza Victoria	VEN 2011 1341.3569538 70.2915377 3956733
-6 Quijada Delgado, Eliana Paola	VEN 2005 1327.3973389 69.0261662 3955494
-7 Rivera Salazar, Anmarie Giorgina	VEN 2007 1254.3441718 70.7892119 3974251
-8 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1226.0437491 72.2569723 3964051

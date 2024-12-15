@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tachaplalert, Suvich	THA 1997 M 1689.2850317 74.7686233 6201652

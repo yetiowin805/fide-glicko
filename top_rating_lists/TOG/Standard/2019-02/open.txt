@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Amewounou, Komlan Kouessan	TOG 1983 M 1601.2236256 63.4364876 21200017
-2 Botsoe, Koffi	TOG 1974 M 1529.6088616 73.3122222 21200025
-3 Ajavon, Ayayi Jean Le Clair	TOG 1984 M 1456.5471549 73.7069990 21200394

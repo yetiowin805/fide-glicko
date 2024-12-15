@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pastor Carvajal, Jeigoth	CRC 2004 M 1831.7597430 70.2096844 6516718
-2 Zeledon Perez, Edgar	CRC 2001 M 1828.5001345 70.3002462 6509851
-3 Villegas Rodriguez, Jeremy	CRC 2003 M 1697.7057943 72.8920215 6512798

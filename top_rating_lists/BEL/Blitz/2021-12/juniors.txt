@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ouaki, Mark	BEL 2003 M 1917.1960426 54.1990564 257460
-2 Vanduyfhuys, Daria	BEL 2003 F 1725.5436844 72.5955849 246336

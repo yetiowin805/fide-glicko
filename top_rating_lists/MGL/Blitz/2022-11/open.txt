@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Agibileg, Uurtsaikh	MGL 2001 M 2111.0762539 68.3588093 4901606
-2 Batbold, Nyamsuren	MGL 2005 M 2032.1062219 59.2068011 4903331
-3 Tumur-Ochir, Duluu	MGL 2006 M 1808.6941693 49.4655548 4918657

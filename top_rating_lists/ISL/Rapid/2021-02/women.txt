@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Haile, Batel Goitom	ISL 2007 1662.2040886 58.7109057 2315190
-2 Helgadottir, Idunn	ISL 2007 1485.8068803 65.1554708 2314118
-3 Briem, Gudrun Fanney	ISL 2010 1470.0748898 70.9115251 2317486

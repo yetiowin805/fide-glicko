@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Alothman, Salem	KUW 2003 M 1581.3425122 72.8073096 10301186
-2 Alhejab, Meshal	KUW 2007 M 1443.6583482 55.3666668 10302603

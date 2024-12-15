@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gonzalez Mesa, Daniel	CUB 1961 M 1842.7686968 74.7640120 3504026
-2 Fonte Sanchez, Paula	CUB 1997 F 1794.1907906 65.2263919 3509729

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Peralta, Fernando	ARG 1979 M 2507.4855600 73.7395715 105309
-2 Martinez, Ayelen	ARG 1993 F 1954.6054735 72.2535768 118702
-3 Torres, Fernando	ARG 1994 M 1781.1500064 71.4326339 106879

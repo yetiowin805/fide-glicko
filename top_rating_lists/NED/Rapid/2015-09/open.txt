@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Van Wely, Loek	NED 1972 M 2568.5677720 71.4259946 1000268
-2 Slomczewski, Michal	NED 2000 M 1729.1238208 67.1772467 1040650

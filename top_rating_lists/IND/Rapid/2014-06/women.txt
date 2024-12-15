@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Harika, Dronavalli	IND 1991 2358.0423331 62.8158837 5015197
-2 Kulkarni Bhakti	IND 1992 2187.7624175 73.6738429 5019516
-3 Meenakshi Subbaraman	IND 1981 2182.8454873 73.0225584 5004381

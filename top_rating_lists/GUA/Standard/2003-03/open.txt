@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Juarez Flores, Carlos A.	GUA 1965 M 2369.7684321 72.7306215 7300018
-2 Reyes Najera, Carlos A.	GUA 1961 M 2253.2703537 70.9300343 7300069

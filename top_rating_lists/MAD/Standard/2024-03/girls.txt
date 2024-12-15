@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Tsinjoviniavo, Aina Mahasambatra	MAD 2012 1607.8743360 54.8158311 13105450
-2 Randriatsiferana,Dimbiharentsoa Christiana	MAD 2008 1568.7044237 52.7556722 13106961
-3 RAMORASATA,Diary Vetsovetsonanjomara	MAD 2013 1551.6748170 63.1602580 13107615
-4 Lalasoa,Miarana Irinah	MAD 2010 1432.9899114 56.1322953 13104900
-5 Tsinjoviniavo, Nivo Hasina	MAD 2015 1430.0557308 57.3887094 13105469

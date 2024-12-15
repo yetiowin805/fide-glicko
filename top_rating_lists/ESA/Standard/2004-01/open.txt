@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Burgos Figueroa, Carlos E.	ESA 1979 M 2215.8911432 73.8212145 6700187
-2 Pineda, Boris	ESA 1958 M 2214.4846640 73.9866217 6700047

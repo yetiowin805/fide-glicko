@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 McPhillips, Karl	IRL 1988 M 2191.0240804 73.8665898 2501503
-2 Griffiths, Ryan Rhys	IRL 1993 M 2003.1369959 70.5883171 2502054

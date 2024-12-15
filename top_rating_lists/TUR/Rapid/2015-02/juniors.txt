@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ozen, Bahadir	TUR 2000 M 2027.1726820 74.9013472 6337058
-2 Tarlabasi, Emirhan	TUR 2003 M 1784.1719902 73.6867236 6350275

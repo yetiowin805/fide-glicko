@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Annaberdiev, Meilis	TKM 1985 M 2338.3002342 60.3620604 14000563
-2 Esenov, Annaberdi	TKM 1988 M 2076.5633575 68.9745446 14000644

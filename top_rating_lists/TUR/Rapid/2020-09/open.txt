@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sanal, Vahap	TUR 1998 M 2433.7380549 72.0110669 6300545
-2 Oney, Remel	TUR 1990 F 1722.0732962 71.3865537 6310125

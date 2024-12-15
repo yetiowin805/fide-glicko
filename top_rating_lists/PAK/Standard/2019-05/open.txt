@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ferman Aziz	PAK 1976 M 1582.9869617 72.2012247 7800983
-2 Khalid, Habib	PAK 1970 M 1512.1572091 69.9132550 7800541

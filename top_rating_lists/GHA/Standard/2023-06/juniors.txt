@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Acheampong Dave Quansah Chief	GHA 2012 M 1504.8734999 64.4416412 12602280
-2 Jeshurun Obiri Yeboah Pryce-Tandoh	GHA 2014 M 1400.4744083 72.5239141 12602639

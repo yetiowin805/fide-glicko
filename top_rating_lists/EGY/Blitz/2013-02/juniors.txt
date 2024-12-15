@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ameir, Moheb	EGY 1993 M 2088.0155217 73.3130282 10600620
-2 Nader, Mohamed	EGY 1994 M 1916.7717728 73.5285980 10600159

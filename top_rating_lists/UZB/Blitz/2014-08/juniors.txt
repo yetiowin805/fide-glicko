@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vakhidov, Jahongir	UZB 1995 M 2388.3453068 54.3427697 14201801
-2 Sattarov, Bobir	UZB 1995 M 2104.7499392 71.7085633 14203081

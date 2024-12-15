@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Sit, Victoria	ENG 1998 1534.0139036 63.7099270 425524
-2 Ivanov, Elizabeth	ENG 2001 1431.9832681 64.9094007 427284

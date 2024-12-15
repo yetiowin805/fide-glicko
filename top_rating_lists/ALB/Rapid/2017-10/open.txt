@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Petritaj, Ferdinando	ALB 1963 M 2138.6080573 65.1194815 4700619
-2 Sumzaku Endrit	ALB 1987 M 1527.3473772 62.6107978 4703154

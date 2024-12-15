@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mwabu, Timothy	KEN 2003 M 1787.7287825 62.7877229 10805796
-2 Lwanga, Aguda	KEN 2006 M 1562.2303332 74.5837237 10801529

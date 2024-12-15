@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Li, Channing	HKG 2010 M 1394.1461393 73.1549684 6005632

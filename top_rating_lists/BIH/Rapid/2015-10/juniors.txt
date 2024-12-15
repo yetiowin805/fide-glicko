@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pistalovic, Slobodan	BIH 2007 M 1396.6272428 68.5710706 14550202

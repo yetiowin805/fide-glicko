@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Nilssen, Ellen Fredericia	DEN 2001 1983.6843777 45.1572566 1441230
-2 Heiberg, Clara	DEN 2006 1454.1506711 73.9138655 1469193
-3 Nielsen-Refs, Ingrid Elmer	DEN 2005 1396.3800479 65.2507930 1455907

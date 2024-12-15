@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hartman, James	SCO 2005 M 1566.5426872 72.4615934 2405466
-2 Arcot, Pranav	SCO 2006 M 1509.5690028 74.2602983 2407566

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Antoniou, Rafail	CYP 2008 M 1660.8671946 64.7813963 5904390

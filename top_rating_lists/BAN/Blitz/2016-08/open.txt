@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mollah Abdullah, Al Rakib	BAN 1980 M 2236.5016208 72.3240494 10200444
-2 Mohammad Fahad, Rahman	BAN 2003 M 2017.8855267 66.5041335 10207791
-3 Chowdhury, Sohel	BAN 1972 M 1956.4735947 74.6265679 10201114

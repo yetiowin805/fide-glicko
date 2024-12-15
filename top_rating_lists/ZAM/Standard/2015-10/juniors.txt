@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mulauzi, Joshua	ZAM 1996 M 1665.9679788 65.4629703 8700842
-2 Sichone, Alinaswe	ZAM 1996 M 1536.7895202 69.5012464 8703779

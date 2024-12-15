@@ -1,7 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Espinoza Solano, Jose Nahum	NCA 2003 M 2043.5875282 60.3800744 6104428
-2 Guerrero Salazar, Jose Onell	NCA 2003 M 1872.6016633 74.8297128 6109454
-3 Vanegas Lopez, Natanael Emanuel	NCA 2006 M 1827.0533598 62.1512672 6108326
-4 Treminio Umanzor, Leonel Alejandro	NCA 2010 M 1609.9253590 71.3288708 6112048
-5 Pilarte Castro, Rene Ozmar	NCA 2004 M 1602.9151683 65.7665983 6104690
-6 Espinoza Guerrero, Felix Alberto	NCA 2009 M 1562.1930030 66.6773337 6104762

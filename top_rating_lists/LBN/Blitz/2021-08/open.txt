@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Khoder, Akram	LBN 2005 M 1985.4110496 59.3097733 5306914
-2 Khallouf, Abdallah	LBN 1995 M 1695.0478409 68.5340218 5303656

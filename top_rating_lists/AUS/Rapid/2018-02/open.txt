@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rodgers, Jack	AUS 1996 M 1924.3757164 72.2407326 3220885
-2 Clouston, Bevan	AUS 1987 M 1601.8055792 69.0202713 3215784

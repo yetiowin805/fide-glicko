@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Torres, Fernando	ARG 1994 M 1797.2378924 72.8169129 106879

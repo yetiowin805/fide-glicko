@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Qendro, Llambi	ALB 1953 M 2231.9145784 74.6511232 4700074

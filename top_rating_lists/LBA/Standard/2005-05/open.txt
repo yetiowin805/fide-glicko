@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Chahrani, Ibrahim	LBA 1972 M 2273.7313666 63.0725817 9200215
-2 Asabri, Hussien	LBA 1967 M 2154.3908322 66.6502736 9200177
-3 Gremeda, Nuri Milad	LBA 0 M 2068.7011937 66.6534256 9200193

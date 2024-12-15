@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bonnez, Finn	DEN 1960 M 1906.4101326 74.3176537 1403800
-2 Baliuniene, Margarita	DEN 1960 F 1797.9074097 69.1174301 12802760

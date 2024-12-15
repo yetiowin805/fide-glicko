@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nazarova, Anastasia	FIN 2001 F 1904.4656872 60.0913170 34101737
-2 Jaakkola, Niklas	FIN 2010 M 1791.6096685 66.4459175 514977
-3 Velagapudi, Vihan	FIN 2011 M 1537.5121585 64.0013557 515604

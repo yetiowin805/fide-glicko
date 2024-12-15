@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 AbuAzizah, Raji	PLE 2006 M 1870.5295017 49.9019568 11503327
-2 Miswadah, Baha	PLE 1981 M 1703.8722968 72.5097466 11502118

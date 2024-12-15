@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Mendoza Velazquez, Lorena Alejan	MEX 1994 1878.7191546 66.6327518 5101794
-2 Real Pereyra, Diana Carime	MEX 1995 1869.6333335 73.8349170 5104106
-3 Duran Juarez, Citlali	MEX 1992 1843.0033987 72.8112523 5104084

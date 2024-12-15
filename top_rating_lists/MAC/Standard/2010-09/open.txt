@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Celis, Joel	MAC 1994 M 1662.6658395 72.6289387 15400212

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Cramling, Pia	SWE 1963 F 2368.3761747 62.1944980 1700030
-2 Westerberg, Jonathan	SWE 1994 M 2209.1263735 66.3417737 1701754

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Atalik, Ekaterina	TUR 1982 2048.0271205 72.0982613 4130189
-2 Aydogan, Arya	TUR 2011 1722.4850234 54.8024227 26390574

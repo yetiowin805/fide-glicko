@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gameel, Mohamed	YEM 1994 M 2119.3628859 66.6317053 9401440
-2 Gaidramdan , Marwan	YEM 1987 M 1718.5633419 70.2472148 9402330

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nomin-Erdene, Davaademberel	MGL 2000 F 2103.5769403 60.1046661 4900782
-2 Baasansuren, Erdene	MGL 2003 M 1910.8521104 71.4405154 4902084

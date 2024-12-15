@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Cheparinov, Ivan	BUL 1986 M 2483.1128152 51.4674775 2905540
-2 Rusev, Krasimir	BUL 1983 M 2365.8877544 74.7404078 2905434

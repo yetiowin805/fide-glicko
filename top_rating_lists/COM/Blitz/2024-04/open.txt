@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Abdou, Mohamed	COM 1990 M 1809.6424221 67.9887617 652006190

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Redpath, Joseph	SCO 1985 M 2181.5587117 55.7958086 2401380
-2 Mcgowan, Daniel	SCO 1986 M 2072.6974700 63.1111460 2401479

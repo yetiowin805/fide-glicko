@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vallejo Pons, Francisco	ESP 1982 M 2625.8677996 42.2045726 2205530

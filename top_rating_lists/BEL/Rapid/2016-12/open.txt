@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Atanasiu, Nicolae	BEL 1957 M 1853.7383344 67.0911971 262420
-2 Van De Craen, Piet	BEL 1949 M 1563.0192859 72.2272720 221708

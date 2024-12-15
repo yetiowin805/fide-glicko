@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Levy, David N L	SCO 1945 M 1833.5138883 73.1761843 2400120

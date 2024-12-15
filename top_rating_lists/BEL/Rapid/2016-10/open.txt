@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Dgebuadze, Alexandre	BEL 1971 M 2460.1303863 74.5612111 203882
-2 Atanasiu, Nicolae	BEL 1957 M 1829.3319816 71.7983852 262420
-3 Van De Craen, Piet	BEL 1949 M 1563.0192859 68.7637108 221708

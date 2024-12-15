@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 De Carvalho, Thais Ferreira Mont	BRA 2004 1596.3144194 74.0279476 2177773
-2 Santana Freitas, Maria Eduarda	BRA 2005 1590.4947213 63.0798724 2193787
-3 De Oliveira, Rafaela Farias	BRA 1997 1510.0957170 69.8524210 22713930
-4 Ribeiro, Jessica Maria da Silva	BRA 2000 1235.1747621 66.5802473 22701320

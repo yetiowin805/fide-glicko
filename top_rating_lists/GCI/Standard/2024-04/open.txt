@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kirby, Peter J.	GCI 1963 M 1817.3330781 66.4633740 409014
-2 Morgan, Jamie	GCI 1965 M 1631.9529166 70.7549419 451495

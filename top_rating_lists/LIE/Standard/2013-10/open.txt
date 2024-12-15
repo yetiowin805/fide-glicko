@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mannhart, Marcel	LIE 1970 M 1985.9350458 73.0115027 12000108
-2 Kock, Hans-Uwe	LIE 1938 M 1922.5238475 50.3102217 4611020

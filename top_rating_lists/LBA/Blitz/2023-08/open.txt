@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Elier, Ali	LBA 2001 M 2036.2473835 64.9061001 16217543
-2 Fates, Omer Salah	LBA 2009 M 1804.8818433 74.7301010 9212035

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Arakhamia-Grant, Ketevan	SCO 1968 2114.6849722 53.1501840 13600168
-2 Bhatia, Kanishka	SCO 2010 1650.3205645 64.4649970 2410095

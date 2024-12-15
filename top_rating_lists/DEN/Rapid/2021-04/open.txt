@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Zivkovic, Milenko	DEN 1962 M 1755.3154010 52.8219406 1418343
-2 Sigurdsson, Magnus	DEN 1980 M 1561.3405645 70.2809107 1418017

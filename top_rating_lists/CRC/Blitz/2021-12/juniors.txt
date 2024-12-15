@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Cabezas Solano, David Alejandro	CRC 2004 M 1861.2258786 69.5013921 6507522
-2 Ramirez Madrid, Gerardo Alfonso	CRC 2002 M 1765.4926631 72.2204528 6505945
-3 Villegas Rodriguez, Jeremy	CRC 2003 M 1732.1832233 70.7611835 6512798
-4 Meza Vega, Jose Antonio	CRC 2004 M 1497.5608524 73.3641614 6513697

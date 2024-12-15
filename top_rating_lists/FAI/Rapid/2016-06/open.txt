@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nielsen, Hogni Egilstoft	FAI 1997 M 2166.6642116 74.2152731 7200404

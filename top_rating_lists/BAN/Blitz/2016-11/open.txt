@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mohammad Fahad, Rahman	BAN 2003 M 2017.8855267 71.8366375 10207791
-2 Shamima, Akter Liza	BAN 1989 F 1849.1130352 68.4028976 10202587

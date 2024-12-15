@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Chen, Eachen	NZL 1991 1900.6797744 67.7637859 4301919

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Jaakkola, Niklas	FIN 2010 M 1699.1816269 69.9920558 514977
-2 Velagapudi, Vihan	FIN 2011 M 1429.4641827 73.4981985 515604

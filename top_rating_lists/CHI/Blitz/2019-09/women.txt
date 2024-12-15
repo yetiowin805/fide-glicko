@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Morales Flores, Monserrat	CHI 1994 1965.0990248 73.2837468 3412016
-2 Gomez Barrera, Javiera Belen	CHI 2002 1826.5306437 72.6749940 3418723
-3 Mundaca Bermedo, Pia	CHI 2007 1574.4353782 69.3596399 3430170

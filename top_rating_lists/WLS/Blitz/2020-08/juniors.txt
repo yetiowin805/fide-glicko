@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 MacDonald, Duncan	WLS 2004 M 1700.8804532 74.7400314 1804758
-2 Smith, Madeleine	WLS 2005 F 1684.7789657 73.6576429 1804251

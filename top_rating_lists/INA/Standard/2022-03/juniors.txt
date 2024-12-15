@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tarigan, Gilbert Elroy	INA 2003 M 2171.8726648 73.2258555 7108133
-2 Arfan, Aditya Bagus	INA 2006 M 2076.5221330 70.0659149 7106041

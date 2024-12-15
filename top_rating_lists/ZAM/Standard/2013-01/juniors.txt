@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tembo, Epah	ZAM 1993 F 1747.1592851 68.8514162 8700125
-2 Mwango , Lorita	ZAM 1994 F 1705.6773939 71.5860152 8700478

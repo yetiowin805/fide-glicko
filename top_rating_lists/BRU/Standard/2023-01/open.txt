@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sharikhan, Shawal	BRU 1900 M 1595.3453963 71.9554822 10501673

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Almusawi, Maram	BRN 2008 F 1298.8195141 58.5744416 11205458
-2 Kareem, Manassaki	BRN 2008 M 1274.0509623 69.5918987 11203595

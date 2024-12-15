@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Schweizer, Simon	JPN 1996 M 2026.8853906 74.5337359 1325361
-2 Mitsuyama, Rikka	JPN 2009 F 1491.4773320 68.8113246 7002815

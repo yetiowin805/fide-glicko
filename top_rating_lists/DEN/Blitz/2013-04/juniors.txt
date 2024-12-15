@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Haubro, Martin	DEN 1994 M 1978.8716215 70.4321760 1414291

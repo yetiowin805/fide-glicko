@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Apol, Luitjen Akselsson	FAI 2006 M 1870.0249168 60.3469583 7202466

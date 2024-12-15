@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Agdestein, Simen	NOR 1967 M 2576.9331734 53.0184169 1500015

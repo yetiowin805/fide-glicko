@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Saraci, Nderim	KOS 1996 M 2276.1791197 73.6640451 6351921
-2 Rukovci, Shemsi	KOS 1963 M 1816.0299900 61.7488101 1528629

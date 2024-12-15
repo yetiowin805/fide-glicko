@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Koljevic, Nikolina	MNE 2001 1831.7789149 74.3966740 16503945
-2 Mosurovic, Milena	MNE 2007 1509.6269659 62.0214466 16505514

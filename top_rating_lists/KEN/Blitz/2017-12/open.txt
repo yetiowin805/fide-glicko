@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gohil, Mehul	KEN 1981 M 1886.6646116 71.0230299 10800999

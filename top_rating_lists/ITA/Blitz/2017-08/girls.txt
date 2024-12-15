@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Pannella, Maria Cristina	ITA 2003 1557.5478265 73.9432981 2805281
-2 De Filomeno, Elisa	ITA 1999 1344.6763656 74.1871388 875805
-3 Marseglia, Serena	ITA 2001 1229.1255086 58.7066796 2827048

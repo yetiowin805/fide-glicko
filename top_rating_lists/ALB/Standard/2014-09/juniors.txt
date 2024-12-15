@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Oltian, Vata	ALB 1995 M 2155.9743700 72.7318774 4701330
-2 Tuzi, Bruna	ALB 1995 F 1762.0771076 62.6617464 4701100

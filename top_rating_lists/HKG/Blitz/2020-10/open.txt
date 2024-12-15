@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Luk, Luen-Wah	HKG 1957 M 1801.3266079 74.8959196 6000045
-2 Mahadevan, Aravind	HKG 1977 M 1482.9040112 72.4080018 6001998

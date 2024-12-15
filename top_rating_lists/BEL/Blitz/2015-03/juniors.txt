@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ismail, Tamer	BEL 2000 M 1840.3999323 65.6199422 2909332

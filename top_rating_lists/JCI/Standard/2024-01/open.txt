@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Farrand, Tom	JCI 1961 M 1903.9227934 71.3826046 406457
-2 Gurner, Jem	JCI 2003 M 1852.0351013 61.1802378 67600280

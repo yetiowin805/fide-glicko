@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mudongo, Boikhutso	BOT 0 F 1606.4724157 74.3098648 11300230

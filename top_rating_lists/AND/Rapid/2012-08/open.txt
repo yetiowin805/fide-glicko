@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Monell Camarasa, David	AND 1970 M 2159.9432062 73.7853440 2207753
-2 Garcia, Raul	AND 1952 M 2109.7694506 74.9601945 6900020
-3 Jose Queralto, Daniel	AND 1973 M 2013.0861766 72.2518532 6900089

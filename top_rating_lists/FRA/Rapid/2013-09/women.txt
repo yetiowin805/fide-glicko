@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Milliet, Sophie	FRA 1983 2375.4442835 74.1378565 623725
-2 Maisuradze, Nino	FRA 1982 2250.6730910 74.6143945 13601717
-3 Navrotescu, Andreea-Cristiana	FRA 1996 2027.6323904 74.8480468 675946

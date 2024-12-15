@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Michaelides, Konstantinos	CYP 2002 M 1898.0211500 64.4175067 5901871
-2 Isaakidis, Alexandros	CYP 1998 M 1868.4887849 73.0004699 5903076
-3 Nabil, Michael	CYP 2003 M 1732.4399420 69.4723462 5902002

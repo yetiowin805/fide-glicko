@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Dominguez, Lenier	CUB 1983 M 2619.0928951 44.6400913 3503240
-2 Cespedes, Manuel	CUB 1986 M 2185.5174243 60.6220234 3506851

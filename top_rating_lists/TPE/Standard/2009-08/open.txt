@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Wang, Hsin Jung	TPE 1992 F 1543.7587373 74.5047587 16300238

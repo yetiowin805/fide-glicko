@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vulevic, Vjekoslav	SUI 1949 M 2278.7405167 68.9230878 1300270
-2 Paleologu, Vladimir	SUI 1971 M 2149.0913382 69.3079151 1305573
-3 Boschetti, Claudio	SUI 1957 M 2034.8327460 63.5299085 1300920

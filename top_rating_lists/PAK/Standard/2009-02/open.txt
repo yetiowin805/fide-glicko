@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lodhi, Mahmood	PAK 1961 M 2280.3963528 62.1486257 7800010
-2 Amir, Karim	PAK 1970 M 2157.8831397 71.6213680 7800053

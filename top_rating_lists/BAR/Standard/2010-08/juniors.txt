@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Blackman, Justin	BAR 1991 M 2053.5893717 71.1268821 11100516
-2 Cox, Akeem	BAR 1991 M 1743.8320945 74.1114580 11100087

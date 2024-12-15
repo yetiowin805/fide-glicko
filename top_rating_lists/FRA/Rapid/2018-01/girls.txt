@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Haussernot, Cecile	FRA 1998 2130.3672196 71.3432095 601632
-2 Randrianarimanana, Alicia	FRA 2004 1639.8381892 74.1992992 36034738
-3 Toulemont, Anouk	FRA 2003 1430.8329042 70.0228951 36053759

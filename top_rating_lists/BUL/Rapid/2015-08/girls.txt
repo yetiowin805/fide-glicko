@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Traykova, Vasilena	BUL 1998 1636.5285828 71.8735343 2906546
-2 Balimezova, Margarita	BUL 2000 1591.5470186 68.7393954 2911892
-3 Grabcheva, Natalia	BUL 2002 1561.2563584 58.3317137 2917815

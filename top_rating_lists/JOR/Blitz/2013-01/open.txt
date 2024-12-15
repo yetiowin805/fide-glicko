@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Khader, Sami	JOR 1972 M 2290.0678812 71.8007621 8100500

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mukumbya, Benjamin	UGA 1998 M 1808.5308074 61.5502153 10001115
-2 Nansubuga , Gloria	UGA 2001 F 1575.8647438 72.2312473 10000887

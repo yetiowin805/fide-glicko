@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al-Modiahki, Mohamad	QAT 1974 M 2480.4137052 64.6588645 12100030
-2 AL-Sayed, Mohammed	QAT 1981 M 2405.9927925 70.2564463 12100196

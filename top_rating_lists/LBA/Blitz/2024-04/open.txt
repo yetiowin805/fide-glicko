@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Alfaitori, Abdallah	LBA 1999 M 1869.9654384 74.3567570 9210091
-2 Said, Khalleefah	LBA 1978 M 1615.2174232 73.2920571 9215344

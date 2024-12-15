@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Cornileau, Juliette	FRA 2006 1678.5790258 67.6485488 36083372
-2 Maret, Anna	FRA 2011 1526.2405875 71.6378208 45183740

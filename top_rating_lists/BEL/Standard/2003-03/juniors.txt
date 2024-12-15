@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Michiels, Bart	BEL 1986 M 2305.9671892 53.5992320 202967

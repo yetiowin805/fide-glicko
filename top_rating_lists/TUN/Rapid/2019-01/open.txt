@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Belkhodja, Slim	TUN 1962 M 2196.7962437 61.0824827 600229
-2 Naam, Shedy	TUN 2008 M 1548.1975251 55.6132404 45114226

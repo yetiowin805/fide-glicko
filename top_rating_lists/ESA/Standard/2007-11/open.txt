@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Burgos Figueroa, Carlos E.	ESA 1979 M 2200.6130150 53.1060710 6700187
-2 Zepeda, Sonia	ESA 1981 F 1984.0117051 65.3157877 6700241
-3 Melendez, Gabriela	ESA 0 F 1846.4666945 73.0576750 6700705

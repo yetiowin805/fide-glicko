@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al Mahmood, Salman	BRN 2004 M 1640.5952792 74.7818542 11201517
-2 Pranesh, J.r.	BRN 2007 M 1487.8046956 53.7916986 11202718

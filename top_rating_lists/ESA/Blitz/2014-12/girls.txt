@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Garcia, Alcira	ESA 1998 1622.5394497 63.1229023 6702945
-2 De Leon, Stephanie	ESA 2000 1564.1152048 53.1734261 6703127

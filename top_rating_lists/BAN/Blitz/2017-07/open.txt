@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rahman, Syed Mahfuzur	BAN 1979 M 2023.5925172 74.7682413 10200738
-2 Shamima, Akter	BAN 1989 F 1898.4730178 74.0197150 10202587

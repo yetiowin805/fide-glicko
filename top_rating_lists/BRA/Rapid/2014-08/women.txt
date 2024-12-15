@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Dos Anjos, Diovana Ferreira	BRA 1999 1559.6226376 70.7556050 2152282
-2 Cisz, Isadora Bernardo	BRA 1997 1381.0927901 74.1797891 2145405
-3 De Souza, Elana Silva	BRA 1995 1338.8858033 65.3025107 2150239

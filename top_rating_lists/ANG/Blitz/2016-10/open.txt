@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Adao, David	ANG 1992 M 1938.4676058 67.3751166 10100474

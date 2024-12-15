@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Aloma Vidal, Robert	AND 1989 M 2290.8745366 67.0386061 2260409
-2 Martinez Gamiz, Marc	AND 2005 M 1499.1614587 71.5009429 6900976

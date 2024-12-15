@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Khalid, Habib	PAK 1970 M 1512.1572091 68.1445352 7800541

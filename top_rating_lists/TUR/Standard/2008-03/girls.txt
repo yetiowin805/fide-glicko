@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Yildiz, Betul Cemre	TUR 1989 2164.8678066 48.8018185 6302920
-2 Ozturk, Kubra	TUR 1991 2115.5583963 49.8681706 6302599

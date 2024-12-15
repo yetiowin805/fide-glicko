@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 De La Riva Aguado, Oscar	AND 1972 M 2379.3009450 74.2706398 6900224
-2 Garcia Paolicchi, Raul	AND 1952 M 2071.9562548 71.6226016 6900020

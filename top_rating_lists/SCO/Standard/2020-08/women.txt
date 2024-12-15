@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Arakhamia-Grant, Ketevan	SCO 1968 2261.3276076 72.4106618 13600168
-2 Giulian, Rosemary A	SCO 1964 1753.1134419 66.7021198 2400375
-3 Espinosa Cancino, Carolina	SCO 2009 1327.4024465 74.8883101 2406705

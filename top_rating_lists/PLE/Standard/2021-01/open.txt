@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Miswadah, Baha	PLE 1981 M 1905.0846962 69.1936668 11502118
-2 Raji Sayel,Abu Azizah	PLE 2006 M 1647.9188332 74.9334588 11503327

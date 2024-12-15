@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lorenzana, Wilson Estuardo	GUA 1978 M 2096.2640880 74.5520197 7300239
-2 Mencos, Claudia	GUA 0 M 1829.2325891 57.0739861 7300573

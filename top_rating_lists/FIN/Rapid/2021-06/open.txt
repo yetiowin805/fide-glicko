@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nazarova, Anastasia	FIN 2001 F 1967.4775633 66.9018398 34101737
-2 Jarnstrom, Henrik	FIN 1952 M 1725.8970667 74.1414612 510572

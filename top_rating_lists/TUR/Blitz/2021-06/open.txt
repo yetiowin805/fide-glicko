@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sanal, Vahap	TUR 1998 M 2409.5652505 74.2573284 6300545
-2 Goktas, Bulent	TUR 1963 M 1463.7137552 61.2032487 34256792

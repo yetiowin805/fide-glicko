@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Etingof, Yury	ISR 2007 M 1766.6064423 65.3020795 44100493
-2 Tsafrir, Ori	ISR 2007 M 1439.5976067 74.1579120 2828707

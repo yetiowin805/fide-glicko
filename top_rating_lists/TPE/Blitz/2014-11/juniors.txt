@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ho, Jei-Chen	TPE 2000 M 1734.8565883 68.4427950 16300599

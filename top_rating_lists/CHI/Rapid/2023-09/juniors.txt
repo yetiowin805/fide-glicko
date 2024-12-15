@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Poddubnyy, Mikhail	CHI 2008 M 1582.8870891 69.8376522 3458458
-2 Flores Cerna, Samuel	CHI 2007 M 1509.9597813 74.7701038 3459942
-3 Rubilar Jaque, Ariel	CHI 2009 M 1467.9323434 67.4891204 3458482

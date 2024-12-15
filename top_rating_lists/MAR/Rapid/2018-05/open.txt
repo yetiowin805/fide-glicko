@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tissir, Mohamed	MAR 1976 M 2271.8313115 65.8701499 9000240
-2 Mouflih, Faycal	MAR 1980 M 2016.0594837 51.8352884 9002243

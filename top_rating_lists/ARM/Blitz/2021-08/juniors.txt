@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sargsyan, Shant	ARM 2002 M 2441.0264749 67.3832845 13306766
-2 Ghevondyan, Arman	ARM 2002 M 2038.2052571 72.9365423 13312073

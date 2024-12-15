@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rubeck, Jonathan	ENG 1975 M 1751.8653759 74.1023716 435678
-2 Whelan, Joseph	ENG 2008 M 1596.0585652 74.6801743 465887

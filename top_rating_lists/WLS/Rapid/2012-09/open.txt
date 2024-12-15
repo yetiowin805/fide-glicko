@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 White, Michael J R	WLS 1982 M 2179.5864116 74.4319736 407380
-2 Pleasants, Allan J	WLS 1960 M 2014.7655193 67.8299351 411337

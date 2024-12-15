@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Torres, Fernando	ARG 1994 M 1781.1500064 74.7844703 106879
-2 Brizzi, Milagros Tatiana	ARG 1996 F 1760.1227903 70.8783439 128350

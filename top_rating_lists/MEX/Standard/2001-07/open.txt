@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hernandez, Gilberto	MEX 0 M 2571.6080580 54.6650179 5100011

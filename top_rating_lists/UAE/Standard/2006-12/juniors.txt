@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ahmed, Ishaq	UAE 1989 M 2070.3317397 66.2980772 9301275
-2 Marwan, Abdulwahab	UAE 1990 M 2015.7793650 65.5937229 9301410

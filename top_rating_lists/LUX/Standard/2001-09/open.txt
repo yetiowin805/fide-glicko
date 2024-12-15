@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 David, Alberto	LUX 1970 M 2519.8220970 57.9275809 4000013
-2 Bakalarz, Mieczyslaw	LUX 1960 M 2341.4267609 71.1528653 4000749

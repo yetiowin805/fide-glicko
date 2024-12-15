@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Subramaniam, Sumant	MAS 1993 M 1990.9515675 73.6909599 5702720
-2 Lim, Kian Hwa	MAS 1953 M 1683.7970097 65.8714388 5700744

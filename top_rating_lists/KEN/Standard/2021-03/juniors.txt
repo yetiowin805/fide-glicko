@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mcligeyo, Robert	KEN 2005 M 1608.7690437 74.2724791 10814647
-2 Lwanga, Aguda	KEN 2006 M 1519.6103046 74.4216491 10801529

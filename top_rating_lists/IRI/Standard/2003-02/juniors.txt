@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Akbarinia, Syed Arash	IRI 1986 M 2282.9922317 62.5379970 12501468
-2 Paridar, Shadi	IRI 1986 F 2279.3039930 61.3280791 12500666

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Abera, Aydagnuhem Gezachew	ETH 1986 M 1958.5943867 66.5994774 10801839
-2 Tilahun , Abel Mathewos	ETH 1989 M 1811.3811097 73.1399725 15702391
-3 Haile , Lidet Abate	ETH 1996 F 1622.8750158 74.2928335 15702073

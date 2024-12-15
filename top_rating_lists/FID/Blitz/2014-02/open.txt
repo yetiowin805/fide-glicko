@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Corrales Jimenez, Fidel	FID 1987 M 2461.6418918 69.0674891 3506690
-2 Ferragut Blanco, Arnaldo	FID 1973 M 2147.2123566 48.6401979 3502562
-3 Marichal Gonzalez, Ariel	FID 1972 M 2105.4531966 64.6241975 3503232
-4 Lopez Jimenez, Armando Candido	FID 1960 M 2067.5168522 73.2744925 3500900

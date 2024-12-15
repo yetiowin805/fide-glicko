@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gavarrete, Joel	HON 1997 M 1825.9619399 62.9687516 8401160
-2 Fernandez, Nelson Wilfredo	HON 2000 M 1696.0963818 69.5665556 8401594
-3 Fernandez Alacha, Mirna Graciela	HON 1997 F 1553.4627915 67.7429279 8400482
-4 McDowell, Sharon	HON 1997 F 1526.8091387 68.5208902 8401489

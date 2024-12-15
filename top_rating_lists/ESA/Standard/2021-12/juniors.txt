@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Garcia, Angie	ESA 2002 F 1706.1379580 70.6171423 6702503
-2 Perez Salazar, Armando	ESA 2005 M 1705.3404195 68.9229353 6705260

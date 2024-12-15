@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nauto Munoz, Isaias	CHI 2004 M 1852.1730179 74.0739763 3431746
-2 Reyes Mendoza, Tomas	CHI 2007 M 1775.2386664 73.9553321 3439216

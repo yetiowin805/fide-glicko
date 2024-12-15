@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Raji Sayel,Abu Azizah	PLE 2006 M 1734.2088814 67.3157109 11503327
-2 Al-Housa, Khalil	PLE 1948 M 1544.3743683 74.7411036 11500379

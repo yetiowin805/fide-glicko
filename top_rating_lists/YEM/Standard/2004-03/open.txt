@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al-Zendani, Zendan	YEM 1982 M 2312.6452199 61.8356865 9400249

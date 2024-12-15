@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Chashawa, Shaief	SUR 1999 M 1615.6014687 73.5612591 8201510
-2 Kartodikromo, Virgil	SUR 2004 M 1493.6065751 73.8148639 8202508

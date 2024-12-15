@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Olund, Joar	SWE 1996 M 2255.1010497 69.3113906 1714848
-2 Tuomainen, Felix	SWE 1998 M 2063.1619422 61.7594043 1720813

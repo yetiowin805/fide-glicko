@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Antonova, Nadezhda	TJK 1988 1774.0076071 74.2404933 14700182
-2 Fayzieva, Darina	TJK 2006 1442.3248107 57.5292257 14701960

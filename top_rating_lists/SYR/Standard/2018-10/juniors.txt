@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Koniahli, Malek.	SYR 2000 M 2075.0660659 60.5675763 7603495
-2 Khaddour, Ismael	SYR 1998 M 1897.2710740 72.1193222 7601930

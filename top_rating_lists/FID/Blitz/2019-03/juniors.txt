@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ismail, Basil	FID 2001 M 1359.1388957 67.2047357 146241671

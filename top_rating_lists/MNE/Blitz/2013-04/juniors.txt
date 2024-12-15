@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pecurica, Milos	MNE 1994 M 2038.1541797 68.2311152 944963

@@ -1,7 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Luna Javier, Edgar Froylan	MEX 2001 M 1909.0631971 71.7338772 5120101
-2 Garcia de Dios, Jose Antonio	MEX 2002 M 1840.7638153 67.7489439 5128919
-3 Hernandez Luna, Jose Angel	MEX 2002 M 1771.2815984 69.1326103 5123801
-4 Sandoval Fernandez, Dante	MEX 2003 M 1727.4511552 74.5660977 5138221
-5 Mejia Granados, Paulina Is	MEX 2002 F 1713.7917166 70.4733795 5125081
-6 Guzman Alvarado , Gabriel Augusto	MEX 1998 M 1698.0653517 67.5765293 5145708

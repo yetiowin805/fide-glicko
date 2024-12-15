@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Castillo Rivera, Carlos Alberto	CHI 1998 M 1717.2646398 66.4775102 3413322
-2 Estrada Lavin, Cristian Alexand	CHI 1999 M 1705.6693882 68.6120888 3411710

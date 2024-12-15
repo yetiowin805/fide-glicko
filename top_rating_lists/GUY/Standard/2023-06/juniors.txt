@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lee, Ethan	GUY 2003 M 1592.4825747 73.1528579 19700660

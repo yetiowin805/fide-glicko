@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Sharaf, Hawra	BRN 2003 1504.3226583 66.6960830 11205679
-2 Obaid, Sondos	BRN 2007 1255.4098329 74.6285193 11205377

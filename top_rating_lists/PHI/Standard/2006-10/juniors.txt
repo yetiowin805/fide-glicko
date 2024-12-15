@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 So, Wesley	PHI 1993 M 2406.4413726 55.5086527 5202213
-2 Sadorra, Julio Catalino	PHI 1986 M 2364.4287935 71.1392800 5201268

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Predojevic, Borki	BIH 1987 M 2447.6535421 68.4288360 930849
-2 Tomic, Bosko	BIH 1983 M 2289.1986743 73.9650770 14401401

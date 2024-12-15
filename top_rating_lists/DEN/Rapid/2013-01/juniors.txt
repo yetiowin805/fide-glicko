@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Andersen, Mads	DEN 1995 M 2320.6068278 74.1080153 1413864
-2 Rostgaard, Tobias Valentin	DEN 1993 M 2161.9264053 74.3432325 1408801
-3 Haubro, Martin	DEN 1994 M 2005.0550541 74.6498406 1414291

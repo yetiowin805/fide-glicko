@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Munkhbayar, Janjaadorj	MGL 1971 M 2006.9907208 66.7269790 4900200
-2 Margad, Munkhpurev	MGL 2011 F 1632.7366734 70.2109326 4910222
-3 Azjargal, Chinzorigt	MGL 2011 F 1563.5536776 74.0314894 4908856
-4 Tsogt-Erdene, Bayarjavkhlan	MGL 2009 M 1446.0923773 70.3817784 4922255

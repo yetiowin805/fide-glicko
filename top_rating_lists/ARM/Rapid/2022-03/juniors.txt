@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sargsyan, Shant	ARM 2002 M 2347.8332491 67.0178653 13306766
-2 Manvelyan, Mikayel	ARM 2007 M 1829.5515680 69.7464744 13310143

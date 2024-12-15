@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 De La Riva Aguado, Oscar	AND 1972 M 2547.0250717 63.2083338 6900224
-2 Gallego, Ruben	AND 1957 M 2276.2370843 74.4657434 6900062

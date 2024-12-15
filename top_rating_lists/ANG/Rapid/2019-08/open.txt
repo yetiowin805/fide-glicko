@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Silva, David	ANG 1998 M 2195.1670292 72.2218016 10101314

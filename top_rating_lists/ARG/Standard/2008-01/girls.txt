@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Jurich, Florencia	ARG 1992 2029.4890778 64.3447420 114154
-2 Sarquis, Maria Belen	ARG 1988 1995.4210057 72.4507578 111805
-3 Carraro, Denise	ARG 1988 1946.8845788 64.9023719 111791

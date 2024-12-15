@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Zuriel, Marisa	ARG 1982 2176.4081139 68.1246134 109142
-2 Burijovich, Liliana	ARG 1965 2173.7517437 62.3078795 102652
-3 Malajovich, Sandra	ARG 1968 2080.0680006 72.8520114 102660

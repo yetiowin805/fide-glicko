@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Arias, Lemmys A.	ESA 1978 M 2221.9117477 64.8316165 6700284
-2 Zepeda, Lorena	ESA 1984 F 2157.5240016 74.2317448 6700233

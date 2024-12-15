@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al-Khattab, Ghassan M. Ali Ajmed	IRQ 1956 M 1809.1048371 74.9941477 4800168
-2 Rabeea, Sabah Nori	IRQ 2002 M 1616.5323163 74.9509905 4806212

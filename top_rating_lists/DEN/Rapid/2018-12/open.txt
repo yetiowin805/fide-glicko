@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Zivkovic, Milenko	DEN 1962 M 1768.8293286 71.8419838 1418343
-2 Baliuniene, Margarita	DEN 1960 F 1753.9249783 66.5068867 12802760

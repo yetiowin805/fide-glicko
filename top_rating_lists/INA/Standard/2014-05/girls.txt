@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Aulia, Medina Warda	INA 1997 2254.9563517 49.5279274 7101570
-2 Sihite, Chelsie Monica Ignesias	INA 1995 2175.1280232 55.6196225 7101198
-3 Citra, Dewi Ardhiani Anastasia	INA 1994 2063.6186498 59.3310358 7101244
-4 Singgih, Diajeng Theresa	INA 2004 1570.7517619 68.2481296 7104391

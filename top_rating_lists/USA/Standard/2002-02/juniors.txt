@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Krush, Irina	USA 1983 F 2437.3591786 58.8920682 2012782
-2 Zaremba, Andrie	USA 1982 M 2375.8775101 72.5057512 2014513

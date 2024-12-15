@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Federovski, Adi	ISR 1996 1775.7720001 68.6047060 2813777
-2 Lahav, Michal	ISR 1999 1739.2729807 60.2086420 2813742

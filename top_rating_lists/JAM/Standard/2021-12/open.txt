@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Christie, Joshua	JAM 2001 M 2051.7155595 72.6042133 7402074
-2 Rowe, Duane	JAM 1978 M 1867.5974956 58.5906220 7400268

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Botsoe, Koffi	TOG 1974 M 1678.6838558 69.5897363 21200025
-2 Assagba, Kodjo Mawuli	TOG 1978 M 1599.7191776 73.7269036 21200211

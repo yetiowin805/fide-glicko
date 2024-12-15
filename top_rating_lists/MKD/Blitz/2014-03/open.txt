@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Menkinoski, Riste	MKD 1978 M 2235.6469615 64.4071072 15001261
-2 Nikolovska, Dragana	MKD 1996 F 1720.4658351 73.9115649 15000133

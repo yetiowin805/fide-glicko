@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pieters, David	AHO 2002 M 1671.4333525 73.8312887 7500564
-2 Mena, Ailen Oriana	AHO 1999 F 1671.3284930 74.7235417 3902773

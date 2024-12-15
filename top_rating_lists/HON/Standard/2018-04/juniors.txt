@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Miller Matute, Marlon Eduardo	HON 2001 M 1860.3269117 59.8971532 8400555
-2 Miliam Escobar, David Isaac	HON 2000 M 1615.8830884 72.1577373 8401411
-3 Ortiz, Rosa Daniela	HON 1999 F 1536.1014048 69.2255328 8400547
-4 Ramos Donaire, Maria Pradi	HON 2002 F 1415.1300721 70.3822342 8402337

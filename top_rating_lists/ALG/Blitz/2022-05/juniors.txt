@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bousehla, Manel	ALG 2007 M 1624.1358807 69.0949006 7925085
-2 Djibtrouhi, Mustapha	ALG 2008 M 1582.7012187 74.5875267 7925123

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Frutos, Leandro Jose	ARG 2009 M 1735.9685402 73.4556461 181358
-2 Scarsi, Anna Laura	ARG 2006 F 1682.2137942 74.4045938 159328

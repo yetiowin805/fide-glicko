@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Waldhausen Gordon, Frederick	SCO 2010 M 2189.5493616 63.0541614 2409143
-2 Banerjee, Supratit	SCO 2014 M 1683.6333995 54.4874227 2410079

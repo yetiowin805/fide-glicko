@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sasitharan, Abhiram	BOT 1999 M 1796.4949914 58.0960146 11301155
-2 Chandna, Priyav	BOT 2000 M 1692.5047514 74.1274115 11300612

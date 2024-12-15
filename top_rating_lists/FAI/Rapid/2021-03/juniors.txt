@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Apol, Luitjen Akselsson	FAI 2006 M 1793.8329880 69.6999452 7202466
-2 Nielsen, Jon I Horni	FAI 2005 M 1729.2346373 74.7475685 7202105
-3 Tummasarson, Flovin M.	FAI 2003 M 1610.8239890 69.9184665 7202431

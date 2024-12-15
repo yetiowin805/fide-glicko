@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Adu, Oladapo	NGR 1971 M 2202.4653184 73.1855898 8500258
-2 Othman, Mustapha	NGR 1984 M 1884.8317808 67.8321789 8500797

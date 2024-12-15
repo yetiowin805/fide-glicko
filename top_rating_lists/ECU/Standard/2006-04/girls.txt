@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Rojas Solano, Jessenia	ECU 1987 2035.7170030 68.2458125 3601854
-2 Bravo Choez, Ana	ECU 1988 1957.4730060 66.3948804 3601498
-3 Godoy Cardenas, Jessica	ECU 1990 1956.0561945 73.0739005 3603415

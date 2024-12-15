@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Cabralis, Keron	TRI 1995 M 1873.7960779 63.4466827 7700440
-2 Paul, Jayson	TRI 1992 M 1792.0193888 68.3653784 7700210

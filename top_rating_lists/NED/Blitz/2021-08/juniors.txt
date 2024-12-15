@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kevlishvili, Robby	NED 2001 M 2484.8486373 73.3708418 1040634

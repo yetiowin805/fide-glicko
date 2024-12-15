@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Fierro Baquero, Martha L.	ECU 1977 2299.0490879 51.1980316 3600270
-2 Moncayo Romero, Evelyn	ECU 1981 2163.3741964 60.9485226 3600424
-3 Heredia Serrano, Carla	ECU 1991 1943.8568191 65.6071422 3603687
-4 Godoy Cardenas, Jessica	ECU 1990 1913.8990013 70.5049020 3603415

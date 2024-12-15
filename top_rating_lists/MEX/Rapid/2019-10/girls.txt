@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Aviles Campos, Andrea Regi	MEX 2005 1684.4976561 63.4041932 5123542
-2 Laurrabaquio Ramirez, Itzel Aten	MEX 2001 1652.9182878 71.3537276 5128870
-3 Martinez Mares, Genesis Alejandra	MEX 2005 1545.1592940 68.1926730 5144264
-4 Aguilar Sanchez, Citlali	MEX 2004 1518.1379150 74.9700470 5119502

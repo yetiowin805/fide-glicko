@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Prasca, Raphael	VEN 1983 M 2425.6345578 66.0047798 3900819
-2 Hernandez, Alexander	VEN 0 M 2276.2795239 73.0469634 3900452
-3 Iturrizaga, Eduardo	VEN 0 M 2211.4310921 69.7006154 3901211
-4 Sanchez Castillo, Sarai	VEN 1981 F 2143.5042088 61.2426696 3900754

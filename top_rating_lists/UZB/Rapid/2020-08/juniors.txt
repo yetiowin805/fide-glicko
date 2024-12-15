@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vokhidov, Shamsiddin	UZB 2002 M 2434.7460082 72.4919303 14204223
-2 Abdusattorov, Nodirbek	UZB 2004 M 2380.7000884 73.3744744 14204118
-3 Sardorova, Robiyakhon	UZB 2003 F 1605.6121853 71.4693725 14209420

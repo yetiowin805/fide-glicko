@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Abdulkadir Mohamed Warsame	SOM 1993 M 1788.0240713 66.0816439 16100913
-2 Islam Sh.Nour, Kassim	SOM 1997 M 1735.0587666 72.6726483 16100360

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Westerberg, Jonathan	SWE 1994 M 2334.8152480 69.8316229 1701754
-2 Tuomainen, Felix	SWE 1998 M 1993.7023763 68.0464004 1720813
-3 Petersson, Baldur Teodor	SWE 2001 M 1658.0467065 72.0533135 2309157

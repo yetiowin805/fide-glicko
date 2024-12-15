@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mejias Nunez, Rafael E.	PUR 2001 M 1786.7836043 70.1870925 3105873
-2 Toro Cruz, Sebastian J.	PUR 2006 M 1644.6653340 70.2484024 3107949
-3 Rodriguez Rosich, Carlos	PUR 2004 M 1564.6766181 69.7862219 3104230
-4 Rolon Loperena, Armando R.	PUR 2007 M 1490.2185433 70.6377256 3106810

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Singh, Vishnu	TTO 1995 M 1975.6849830 71.9578561 7700946
-2 Johnson, Joshua	TTO 1999 M 1942.6128001 72.8038081 7700768

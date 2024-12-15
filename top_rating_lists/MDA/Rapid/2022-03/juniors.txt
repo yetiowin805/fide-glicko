@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ceres, Dragos	MDA 2004 M 2127.1282795 71.5414615 13905864
-2 Deviza, Andrei	MDA 2005 M 1633.6319676 70.9162047 13908006

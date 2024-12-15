@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Stern, Geoffrey	LUX 1960 M 1837.1400105 74.9999257 4002679

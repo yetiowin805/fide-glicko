@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Michiels, Bart	BEL 1986 M 2382.5018554 42.5682321 202967
-2 Houdart, David	BEL 1983 M 2201.9371498 57.7630509 204196

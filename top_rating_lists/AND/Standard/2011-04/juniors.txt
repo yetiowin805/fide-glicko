@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pericas Rechi, Marc	AND 1994 M 1614.5388385 70.5008809 22271279
-2 Torrent Casado, Marc	AND 1996 M 1556.0532126 72.7446958 6900623

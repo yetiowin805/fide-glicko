@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Newansa, M Esandi	SRI 2009 1763.3233775 73.4880129 9999060
-2 Pallie, Ehsha Mishela	SRI 2007 1725.7398240 71.8105998 9934057
-3 WilvalaArachchi, Oneli Omaya	SRI 2007 1723.0503834 74.4345407 9970401
-4 Sandanayake, Dehansa Nisanduni	SRI 2007 1527.9179594 71.0300077 9968210

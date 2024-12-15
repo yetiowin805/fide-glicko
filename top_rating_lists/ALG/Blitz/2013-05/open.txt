@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Haddouche, Mohamed	ALG 1984 M 2320.7386196 69.6402640 7900660
-2 Oussedik, Mahfoud	ALG 1992 M 2137.4574806 74.9045814 7901810

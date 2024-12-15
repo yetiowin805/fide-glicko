@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tuomainen, Felix	SWE 1998 M 1993.7023763 74.8976948 1720813

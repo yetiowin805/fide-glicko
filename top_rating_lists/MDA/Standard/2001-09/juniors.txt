@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Partac, Elena	MDA 1984 F 2120.3196241 68.6028460 13901001

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al Qudaimi, Basheer	YEM 1984 M 2240.9556294 63.3521968 9400346
-2 amr al-maktry	YEM 1979 M 1821.6858007 71.9790785 9402918

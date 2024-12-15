@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Couchman, Kyle	GUY 2009 M 1675.4619099 69.5579725 19701632
-2 Pitamber, Sachin Dhilan	GUY 2010 M 1563.1103313 72.0193231 19702566
-3 Clement, Ciel Desiree	GUY 2009 F 1394.4064820 71.8044094 19702124

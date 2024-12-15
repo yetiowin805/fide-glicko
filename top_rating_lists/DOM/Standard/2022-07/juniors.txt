@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mesa Cruz, Juan Carlos	DOM 2003 M 1906.8361647 56.4618807 6423400
-2 Hernandez Lora, Miguel Angel	DOM 2005 M 1727.2771335 64.3794393 6423787
-3 Ramirez Luzon, Franchesca	DOM 2004 F 1626.2855964 56.7558010 6421792
-4 Simo Paulino, Leonardo Michael	DOM 2012 M 1442.6618661 72.1797475 6426565

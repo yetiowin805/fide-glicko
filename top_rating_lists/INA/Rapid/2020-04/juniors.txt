@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Legowo Parahita Millyena	INA 2000 F 1936.6915362 73.4034752 7105851
-2 Azzam, Muhammad Siddiq Idris	INA 2003 M 1512.1608009 73.1594095 7122934

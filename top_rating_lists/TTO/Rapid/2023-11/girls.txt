@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Martin, Athena	TTO 2005 1634.8336880 73.5108714 7702280
-2 Martin, Kayla	TTO 2004 1564.2700046 72.7388502 7706650

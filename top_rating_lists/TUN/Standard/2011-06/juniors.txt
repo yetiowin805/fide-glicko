@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Krifa, Najla	TUN 1992 F 1641.3559856 73.6358420 5501040
-2 Ghalia, Daly	TUN 1996 M 1466.3078256 72.0528070 5502071

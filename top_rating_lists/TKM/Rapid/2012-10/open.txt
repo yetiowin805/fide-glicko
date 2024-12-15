@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Amanov, Mesgen	TKM 1986 M 2477.4643960 70.5763463 14000652
-2 Odeev, Handszar	TKM 1972 M 2314.1280278 73.1739601 14000091

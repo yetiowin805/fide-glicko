@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Paragua, Mark	PHI 1984 M 2444.7849315 74.1963281 5201241

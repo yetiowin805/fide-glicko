@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hilario, Allan Gabriel	PHI 2007 M 1860.6705391 73.9898580 5232317
-2 Faeldonia, Jasper	PHI 2004 M 1831.9200298 73.7012885 5227488
-3 Cuizon, Richily Evans	PHI 2008 F 1582.0435938 61.5564642 5230306

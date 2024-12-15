@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Figueroa, Marco	GUA 1986 M 2167.3986594 74.5837337 7300409
-2 Juarez Flores, Gustavo E.	GUA 1958 M 2109.9412793 74.4615454 7300034

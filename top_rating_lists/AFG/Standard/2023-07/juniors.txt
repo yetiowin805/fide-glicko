@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sakhawaty, Sepehr	AFG 2003 M 1758.9090048 61.8678030 11701455
-2 Khatibi Mohammad Qais	AFG 2003 M 1611.3484772 74.1207903 11702630

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mihov, Filip	MKD 2000 M 2090.4285541 66.8898214 15003892

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 OFUBU, Samson	NGR 1997 M 1768.0009981 71.4274331 8509980

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Jimenez, Jimmy	DOM 2001 M 1752.0983517 71.2996708 6411126
-2 Tiburcio, Jonel	DOM 2000 M 1745.6405932 71.7008382 6410685

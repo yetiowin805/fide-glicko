@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Malkawi, Fadi	JOR 1976 M 1975.4575700 73.4172552 8100420
-2 Ahmad, Saadah	JOR 1988 M 1612.3620847 73.0785061 8101779

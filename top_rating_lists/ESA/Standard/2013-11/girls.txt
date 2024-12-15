@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Dominguez, Ana	ESA 1995 1623.1061034 71.8227175 6700993
-2 Zavala Galindo, Alejandra Beatri	ESA 1997 1605.8770234 72.8891324 6703089
-3 Aviles, Claudia Maria	ESA 1994 1545.7261506 70.8421431 6701906
-4 Guardado Flores, Diana Beatriz	ESA 1998 1480.8572427 71.0990987 6703062
-5 Martinez Corpeno, Karla Beatriz	ESA 1994 1453.0640783 71.7702028 6703070

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kimelman, Gabriel	URU 1999 M 1888.8399991 73.8207827 3003035

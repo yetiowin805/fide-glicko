@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Gomez Resendiz, Mayde Aylin	MEX 2002 1495.0577488 64.2151160 5179300
-2 Aguilar Sanchez, Citlalli Genoveva	MEX 2004 1488.5542000 72.2268129 5119502
-3 Del Razo Mendoza, Andrea Nikole	MEX 2003 1466.6878788 57.8154658 5137640
-4 Medina Martinez, Valeria	MEX 2003 1449.4494346 64.4209794 5150140
-5 Del Razo Mendoza, Nancy Ailine	MEX 2006 1378.8664676 68.4315280 5137632

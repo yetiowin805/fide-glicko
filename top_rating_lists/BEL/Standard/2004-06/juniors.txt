@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Michiels, Bart	BEL 1986 M 2411.0687292 41.2622264 202967
-2 Akhayan, Ruben	BEL 1985 M 2242.2179075 69.9570925 204439
-3 Vandenbussche, Thibaut	BEL 1987 M 2143.6119461 72.8617931 204412

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Chahrani, Ibrahim	LBA 1972 M 2221.7114955 63.0722102 9200215
-2 El Flow, Khuloud	LBA 0 F 1597.4246241 71.6580454 9200606

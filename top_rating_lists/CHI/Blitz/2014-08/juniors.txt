@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Henriquez Villagra, Cristobal	CHI 1996 M 2328.5947703 69.8540831 3409350
-2 Aguirre Contreras, Cristian	CHI 1996 M 1828.7833792 67.1122893 3412776
-3 Lepe Villanueva, Matias Ignacio	CHI 1994 M 1813.2059437 74.5117201 3414086
-4 Donoso Diaz, Sebastian	CHI 2001 M 1763.7100659 74.9022722 3416097
-5 Lara Reyes, Jorge Andres	CHI 1995 M 1621.5050118 74.9430631 3419932

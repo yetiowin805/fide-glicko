@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vazquez Maccarini, Danitza	PUR 2000 F 1735.5298164 72.2400314 3101193

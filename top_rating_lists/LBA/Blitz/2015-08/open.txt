@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mahgub, Mohamed Mustafa	LBA 1956 M 1581.0636714 74.2299320 9200070

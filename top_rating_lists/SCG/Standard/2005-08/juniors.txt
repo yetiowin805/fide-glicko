@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Dimitrijevic, Aleksandra	SCG 1986 F 2188.4343022 73.0020707 929239

@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Jose Polanco, Kenia	DOM 1985 1762.6697600 74.7351928 6401074
-2 Almanzar Vasquez, Jennifer Maria	DOM 1993 1585.6049167 66.2122521 6406505
-3 Santos Almonte, Carol	DOM 1993 1555.5741715 68.4911292 6402348
-4 Adames Rojas, Ariella	DOM 1985 1523.2306655 71.3903542 6400477

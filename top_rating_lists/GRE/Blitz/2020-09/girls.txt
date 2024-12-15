@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Mihailidou, Magdalini	GRE 2003 1669.3253607 72.8499725 25801236
-2 Papadopoulou, Marilena	GRE 2008 1510.0154781 72.3012237 25835971
-3 Pletsia, Konstantina	GRE 2007 1240.7449939 70.9712370 25847821

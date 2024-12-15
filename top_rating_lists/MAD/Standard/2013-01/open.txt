@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ranaivoharisoa, Alain	MAD 1980 M 2103.5115196 71.2389987 13100025
-2 Rakotomaharo, Fy Antenaina	MAD 1999 M 1927.9195377 68.3605509 13100050
-3 Ratsimikatry, Caryl Patrick	MAD 1963 M 1732.0763823 73.7355691 13100041

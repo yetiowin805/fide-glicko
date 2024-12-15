@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Hilario, Aleyla	PER 2002 1772.4428650 61.3438422 3819400
-2 Contreras, Fiorella	PER 2007 1728.0677427 70.4863066 3824675
-3 Mostacero Velarde, Isabella	PER 2001 1638.5232567 68.5355652 3816370
-4 Pescoran Machaca, Mariabelen isa	PER 2006 1536.7542216 71.7067550 3831744
-5 Loyola Torres, Maria Gracia	PER 2002 1530.4906616 73.8863783 3826082

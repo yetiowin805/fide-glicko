@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Anton Guijarro, David	ESP 1995 M 2413.4355679 70.2778457 2285525
-2 Pozanco Romasanta, Marc	ESP 1997 M 1864.7572973 74.2338833 2255138
-3 Santos Martinez, Guillermo	ESP 1998 M 1804.8786725 55.0103859 22287825

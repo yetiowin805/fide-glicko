@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Villegas, Pierre	MNC 1992 M 2173.8094746 63.6298305 654183
-2 Chung, Mathilde	MNC 1999 F 1647.7594728 69.5423215 676446

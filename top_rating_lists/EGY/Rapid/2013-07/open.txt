@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Shoker, Samy	EGY 1987 M 2460.3897921 69.5217317 627143
-2 Abdel Razik, Khaled	EGY 1975 M 2340.6230890 73.9938292 10601104

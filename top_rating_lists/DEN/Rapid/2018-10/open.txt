@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Zivkovic, Milenko	DEN 1962 M 1768.8293286 68.3522689 1418343
-2 Baliuniene, Margarita	DEN 1960 F 1754.5121625 70.0527305 12802760
-3 Christensen, John Christopher Hojstrup	DEN 2008 M 1497.2788543 74.7229043 1453947

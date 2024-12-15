@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Saraci, Korab	KOS 2003 M 2044.3933135 54.5847428 4701968
-2 Shtavica, Alaudin	KOS 2007 M 1501.2932306 69.2356127 22103570

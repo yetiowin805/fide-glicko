@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kennedy, Craig	SCO 1966 M 1850.7457237 72.4196313 408905
-2 Allan, Brian	SCO 1934 M 1622.9033949 74.8217956 2402050

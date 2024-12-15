@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Schnegg, Anna-Lena	AUT 1998 1843.4535027 72.6283584 1625268
-2 Polterauer, Chiara	AUT 2000 1700.6078128 73.5450234 1638165

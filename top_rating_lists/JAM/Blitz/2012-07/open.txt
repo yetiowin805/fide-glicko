@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Davy, Damion	JAM 1990 M 1984.1085209 72.2502710 7400519
-2 Myers, Peter	JAM 1973 M 1882.8824626 72.9331444 7400306

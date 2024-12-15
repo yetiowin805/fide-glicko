@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Dill, James	BER 1946 M 1572.9375996 73.6580781 8800049

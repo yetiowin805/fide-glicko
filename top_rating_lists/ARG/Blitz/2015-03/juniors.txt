@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pichot, Alan	ARG 1998 M 2305.4431859 72.9461555 110973
-2 Gimenez Aguirre, Alejo Ismael	ARG 2000 M 1814.5055901 74.0638877 32041667

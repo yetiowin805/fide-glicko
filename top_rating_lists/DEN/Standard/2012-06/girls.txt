@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Nicolajsen, Thea	DEN 1996 1555.5558993 67.2312579 1434144
-2 Vangsgaard, Freja	DEN 1998 1399.0290323 66.6970164 1436589

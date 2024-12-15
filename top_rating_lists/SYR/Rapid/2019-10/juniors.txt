@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mero,Aghiad.	SYR 2004 M 1621.1398133 73.4619755 7608420
-2 Alsabbagh,Ahmed	SYR 2012 M 1205.7696660 71.1137360 7609884

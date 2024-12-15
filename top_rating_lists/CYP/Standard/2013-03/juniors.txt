@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kelires, Andreas	CYP 1999 M 2014.6811033 53.5363894 5900727
-2 Hadjinicolaou, Andreas	CYP 2004 M 1325.1554039 71.0409400 5901103

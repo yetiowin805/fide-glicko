@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al Namas, Kanan	JOR 1900 M 1783.3202874 57.8391293 8100098
-2 Fares Qanair	JOR 2010 M 1533.0618047 66.1229582 8119481

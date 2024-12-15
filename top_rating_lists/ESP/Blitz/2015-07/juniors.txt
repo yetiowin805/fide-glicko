@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Anton Guijarro, David	ESP 1995 M 2558.4011673 56.1920739 2285525
-2 Ponce Cano, Adrian	ESP 1998 M 2022.4683482 68.8979358 22296913

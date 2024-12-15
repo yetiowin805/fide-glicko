@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Md. Anowar, Hossain Dulal	BAN 1966 M 1852.1139120 74.8721706 10204580
-2 Mukitul, Islam Ripon	BAN 1976 M 1792.2992056 71.1867286 10209182
-3 Islam, Shihab Tanim	BAN 1985 M 1726.3102438 72.1245838 10206043

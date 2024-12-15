@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Roiz, Michael	ISR 1983 M 2573.5071367 72.1618616 2804158
-2 Postny, Evgeny	ISR 1981 M 2521.7006323 51.8421408 2804344

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vokhidov, Shamsiddin	UZB 2002 M 2425.3947330 74.9937870 14204223
-2 Kholikov, Kakhramon	UZB 1985 M 1815.6210763 58.1993268 14208989

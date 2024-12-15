@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Georgiev, Kiril	MKD 1965 M 2619.5050437 51.6327811 2900017

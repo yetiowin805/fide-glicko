@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mollo, Jhoan	BOL 2003 M 1864.5811164 74.5449395 3304620
-2 Mollo Figueroa, Nicole	BOL 2011 F 1414.7894011 73.8841119 3325687

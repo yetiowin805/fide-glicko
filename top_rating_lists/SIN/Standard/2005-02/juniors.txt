@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Goh Koon-Jong, Jason	SIN 1989 M 2389.7766958 48.6365659 5800862
-2 Yeo Min-Yang, Evan	SIN 1989 M 2267.3640986 50.4231152 5800897

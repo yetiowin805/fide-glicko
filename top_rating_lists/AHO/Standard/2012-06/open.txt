@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Blijstra, Wim	AHO 1957 M 2114.5456282 70.8727062 1018000
-2 Dekker, Marvin	AHO 1985 M 1932.5728990 69.4222831 7500203

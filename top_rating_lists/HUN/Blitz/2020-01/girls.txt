@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Majoros, Rozsa Evelin	HUN 2004 1845.0555368 50.7730278 767310
-2 Kiraly, Lilla Virag	HUN 2007 1453.4565860 72.6706570 795224

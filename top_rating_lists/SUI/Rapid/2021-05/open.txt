@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Studer, Noel	SUI 1996 M 2340.4876976 74.2722815 1319620
-2 Vogelsanger,Nicolas	SUI 2008 M 1589.5085885 65.0638844 1337122

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hamdouchi, Hichem	MAR 1972 M 2579.3863055 48.0527751 9000011

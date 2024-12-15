@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Dominguez Perez, Leinier	CUB 1983 M 2729.8160751 69.1324347 3503240
-2 Alarcon Casellas, Rolando	CUB 1986 M 2444.5876490 67.2749498 3507610
-3 Sanchez Quintero, Raul	CUB 1949 M 1765.8456416 71.9281290 3512339
-4 Julien Casteleiro, Ariel	CUB 1990 M 1547.8617336 67.1769595 3516628

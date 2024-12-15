@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ozbek, Gorkem	TUR 1986 M 1685.4716321 73.8538084 34568719
-2 Anil, Ayhan	TUR 1984 M 1641.0925821 69.1322890 6309348

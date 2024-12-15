@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Cartin Aguilar, Luis Javier	CRC 2004 M 1773.5462751 73.0443087 6516858
-2 Meza Vega, Jose Antonio	CRC 2004 M 1572.6044071 69.4052353 6513697

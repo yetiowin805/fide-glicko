@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ginzburg, Mikhail	BLR 1981 M 2317.8295154 64.8912467 13501097

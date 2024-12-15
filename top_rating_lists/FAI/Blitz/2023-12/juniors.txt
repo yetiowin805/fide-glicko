@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Petersen, Elias	FAI 2007 M 1562.3453392 73.5089735 7202725
-2 Magnussen, Petur Gardar	FAI 2009 M 1516.8307731 74.3919155 7203802

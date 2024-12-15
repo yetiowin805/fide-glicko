@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Berihe,Adem Tofik	ETH 2003 M 1542.0903133 72.0581773 15701107

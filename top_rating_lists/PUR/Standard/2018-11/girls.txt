@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Vazquez Maccarini, Danitza	PUR 2000 1983.8169012 48.1689029 3101193
-2 Diaz Acevedo, Isis N.	PUR 2003 1488.8098803 70.1312460 3105164
-3 Maldonado Polo, Mariangeli	PUR 2006 1341.2288205 54.5146396 3107299
-4 Bengoa Feliciano, Katsi M.	PUR 2007 1287.3141437 62.7439966 3107450

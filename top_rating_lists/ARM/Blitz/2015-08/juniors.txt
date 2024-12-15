@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gabuzyan, Hovhannes	ARM 1995 M 2433.2236201 54.7992679 13303732
-2 Petrosyan, Manuel	ARM 1998 M 2365.3400942 67.4018049 13300857

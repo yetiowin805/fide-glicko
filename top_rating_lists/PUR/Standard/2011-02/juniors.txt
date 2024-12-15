@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vazquez Reyes, Raul	PUR 1991 M 2175.6701971 51.1174894 3100235
-2 Sanchez Rodriguez, Wilmairi	PUR 1991 F 1766.0693759 65.1157440 3101185
-3 Comas Colon, Rinelly	PUR 1995 F 1641.0267822 73.0629397 3101576
-4 Vazquez Maccarini, Danitza	PUR 2000 F 1640.6519835 66.9008509 3101193

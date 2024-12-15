@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vos, Tjark	AHO 1996 M 2099.0406918 51.1260770 1020870
-2 Mena, Ailen Oriana	AHO 1999 F 1654.3035293 73.0171399 3902773

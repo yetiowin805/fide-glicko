@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Breen, Anthony	IRL 1975 M 1575.8114302 72.6967629 2503174

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pichot, Alan	ARG 1998 M 2455.0973910 62.1647997 110973
-2 Sosa, Tomas	ARG 1998 M 2290.1785552 72.8731639 121576

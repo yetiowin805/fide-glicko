@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Baasansuren, Erdene	MGL 2003 M 1633.9273456 69.3771888 4902084
-2 Chinguun, Otgonbayar	MGL 2002 M 1591.8436465 73.2701800 4901860

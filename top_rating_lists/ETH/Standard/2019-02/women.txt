@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Haile , Lidet Abate	ETH 1996 1622.8750158 70.9272285 15702073
-2 Eshete , Ruth Leykun	ETH 1994 1565.0986054 72.4617713 15700194
-3 Girmay, Feven Gebremeskel	ETH 1996 1551.0035053 72.5888069 10801804

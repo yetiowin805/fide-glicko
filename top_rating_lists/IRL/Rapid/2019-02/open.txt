@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Trisha Kanyamarala	IRL 2005 F 1811.3743683 74.5663652 45004722
-2 McDonnell, James J.	IRL 1954 M 1671.4621117 50.3498797 2500787

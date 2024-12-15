@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nepal, Prakash	NEP 1990 M 1821.0553859 65.7041632 12300993
-2 Duwal, Nikesh	NEP 1994 M 1598.6866951 74.7505617 12300535

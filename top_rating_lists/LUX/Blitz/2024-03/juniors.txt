@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bourg, Nicolas	LUX 2008 M 1913.8268296 65.4268590 4006160
-2 Esmer, Hamza	LUX 2015 M 1477.5988737 74.2713583 4007484

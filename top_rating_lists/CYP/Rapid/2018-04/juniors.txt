@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Michaelides, Konstantinos	CYP 2002 M 1932.5260188 74.5326226 5901871
-2 Nabil, Michael	CYP 2003 M 1904.6181053 61.2448931 5902002
-3 Antoniou, Rafail	CYP 2008 M 1550.8485713 66.8595107 5904390

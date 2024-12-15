@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Arias, Lemnys A.	ESA 1978 M 2129.6239831 73.5868279 6700284
-2 Giron, Jorge Ernesto	ESA 1997 M 2123.2117426 69.1969863 6702309

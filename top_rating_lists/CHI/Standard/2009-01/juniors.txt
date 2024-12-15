@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Flores Rios, Mauricio	CHI 1990 M 2385.1022777 55.6984071 3408027
-2 Valdes Escobar, Alvaro	CHI 1989 M 2212.4475029 65.0127221 3405451
-3 Jorquera Cabello, Paulo	CHI 1989 M 1947.5742393 70.2805855 3408256
-4 Valenzuela Gomez, Fernando	CHI 1991 M 1938.4752920 70.4100520 3409392

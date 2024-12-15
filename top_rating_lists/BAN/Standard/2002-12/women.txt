@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Hamid, Rani	BAN 1944 2152.9037672 53.7548280 10200096
-2 Parveen, Seyda Shabana	BAN 0 2106.5623616 74.4840593 10200100

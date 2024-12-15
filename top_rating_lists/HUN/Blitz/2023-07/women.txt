@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Sulyok, Eszter	HUN 2005 1924.0853039 72.4374598 769762
-2 Kiraly, Lilla Virag	HUN 2007 1602.2826999 68.2475971 795224

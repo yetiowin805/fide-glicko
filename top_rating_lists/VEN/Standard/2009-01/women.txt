@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Sanchez Castillo, Sarai	VEN 1981 2127.7332506 61.7403277 3900754
-2 Han Wong, Irene Estefania	VEN 0 2026.8815339 72.0654232 3901750
-3 Hernandez, Zaida	VEN 0 1958.0750365 67.0688718 3901041
-4 Sanchez Santana, Celsa Carolina	VEN 0 1945.7546532 73.2684102 3902188
-5 Moreno Garcia, Elizabeth Paola	VEN 0 1936.2517399 71.3822849 3901556

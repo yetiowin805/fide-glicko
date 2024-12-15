@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Lappi, Utu	FIN 2006 1375.9663026 67.3578747 513032

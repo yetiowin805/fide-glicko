@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bhawoodien, Shabir Hussain	RSA 1963 M 1973.1528789 67.9211714 14300770
-2 Basson, Heinrich	RSA 1990 M 1884.3674557 74.7628624 14301440
-3 Mpya, Tshediso M	RSA 1987 M 1863.8524490 68.7584748 14308452

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hamperl, Fred	GCI 1966 M 2056.1638152 69.6827469 10700110
-2 Ozanne, Mark S	GCI 1973 M 1965.7896031 71.2217148 10700242

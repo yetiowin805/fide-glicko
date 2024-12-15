@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ferrari, Nicola	SUI 1984 M 2200.4784378 72.9740711 1307185

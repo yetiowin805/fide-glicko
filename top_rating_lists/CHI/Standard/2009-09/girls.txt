@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Abarca Gonzalez, Damaris	CHI 1990 1910.0198180 64.0565546 3409414
-2 Jorquera Cabello, Valentina	CHI 1995 1879.6427890 62.1932272 3405494
-3 Cortes Arias, Mariela	CHI 1992 1620.8432525 68.3042965 3405478

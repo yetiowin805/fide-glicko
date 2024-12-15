@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Christie, Joshua	JAM 2001 M 2217.6271455 72.3830652 7402074
-2 Brown, Raehanna	JAM 2005 F 1710.2088788 69.5731865 7402740

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al Mutlaq, Ibrahim A	KSA 1989 M 1662.2423185 74.3744895 21504610
-2 Alotaibi, Mohammed Dhaidan N	KSA 2001 M 1591.3537184 68.6774788 21523940

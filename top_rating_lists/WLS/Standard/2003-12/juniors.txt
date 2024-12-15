@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Jones, Richard S.	WLS 1983 M 2262.9616797 61.8307771 1800833
-2 Blackburn, Joathan Lb	WLS 1985 M 2159.9939487 73.3952331 1801090

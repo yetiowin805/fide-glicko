@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ip, Seng Tou	MAC 2000 M 1609.8044277 73.8190753 15400352

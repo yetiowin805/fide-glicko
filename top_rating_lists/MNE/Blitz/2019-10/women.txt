@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Blagojevic, Lidija	MNE 1965 1866.4468142 58.9777389 916773
-2 Milovic, Aleksandra	MNE 1986 1832.9598644 69.0020333 933988
-3 Popovic, Mateja	MNE 2005 1570.5069758 55.2355715 16504518

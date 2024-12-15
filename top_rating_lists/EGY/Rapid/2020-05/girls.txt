@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Adel, Sara	EGY 2003 1732.9156729 54.3915023 10616764
-2 Mohamed Azzab, Mareim	EGY 2007 1359.7918160 72.2377053 10662472

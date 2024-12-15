@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Fawzy, Adham	EGY 2000 M 2055.1363523 66.8476875 10613129
-2 Wafa, Shrook	EGY 1997 F 1883.7315324 63.4446041 10609970

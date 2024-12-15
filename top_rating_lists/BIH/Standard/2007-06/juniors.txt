@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Predojevic, Borki	BIH 1987 M 2613.4953770 48.3002830 930849
-2 Mikanovic, Sandro	BIH 1988 M 2001.4365280 70.4903708 14402645

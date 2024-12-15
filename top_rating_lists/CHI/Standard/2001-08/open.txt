@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Campos Moreno, Javier B.	CHI 1959 M 2531.0548648 50.2927861 3400034
-2 Henriquez, Arturo	CHI 1940 M 2073.4556747 73.6094118 3403092

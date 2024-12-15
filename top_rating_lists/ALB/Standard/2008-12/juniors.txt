@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ashiku, Franc	ALB 1993 M 2047.0208222 65.1986275 4700066

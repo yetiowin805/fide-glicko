@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Prasad, Rudr	FIJ 2005 M 1953.5503196 67.5232726 11401095
-2 Vaurasi, Lionel	FIJ 2012 M 1702.5160431 66.1262807 11403365

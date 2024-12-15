@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sukandar, Irine Kharisma	INA 1992 F 2130.2354623 64.1675102 7101937
-2 Winartha, Muhammad Abdillah Fatih	INA 2011 M 1822.1942860 73.0400317 7126549
-3 Liuviann, Cecilia Natalie	INA 2005 F 1793.3415095 74.8866764 7111932

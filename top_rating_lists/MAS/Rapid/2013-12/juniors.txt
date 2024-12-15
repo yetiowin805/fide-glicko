@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Fong, Yit San	MAS 1994 M 1995.6457317 73.6463281 5702640
-2 Chua, Jia-Tien	MAS 2003 F 1403.6568712 72.2374657 5710006

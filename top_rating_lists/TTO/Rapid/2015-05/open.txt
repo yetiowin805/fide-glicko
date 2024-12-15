@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Wiltshire, Louis	TTO 1936 M 1443.0417149 74.9239023 7701098

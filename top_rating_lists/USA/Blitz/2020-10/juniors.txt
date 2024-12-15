@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Anderson, Tremil	USA 2005 M 1974.3829452 73.8383014 30957869

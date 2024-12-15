@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kristjansson, Stefan	ISL 1982 M 2391.3775836 55.0056509 2301172
-2 Kjartansson, David	ISL 1982 M 2214.3290607 67.8808207 2301130
-3 Arngrimsson, Dagur	ISL 1987 M 2100.2283005 72.3999692 2301288

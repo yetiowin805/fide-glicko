@@ -1,8 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Garzon Zapatanga,Christopher Leonel	ECU 2008 M 1841.2570966 73.7032046 3634787
-2 Quezada Pauker,Katheen Gabriela	ECU 2007 F 1727.7468086 69.3379042 3632261
-3 Loja Zambrano, Diego	ECU 2005 M 1661.6341391 72.8767556 3631834
-4 Guerrero Caicedo, Arlette	ECU 2006 F 1593.7742410 70.0128674 3633667
-5 Borbor Velez, Leysla	ECU 2006 F 1589.0776892 74.0393843 3631729
-6 Chiluisa Bautista, Matias	ECU 2007 M 1572.8932785 73.4776151 3636534
-7 Escobar Villota, Domenika Gabriela	ECU 2007 F 1458.5096642 73.5403839 3635287

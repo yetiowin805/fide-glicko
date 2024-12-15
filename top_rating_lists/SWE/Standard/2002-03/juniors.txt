@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Eriksson, Jonas	SWE 1982 M 2324.0770422 72.6644726 1705849
-2 Tikkanen, Hans	SWE 1985 M 2312.6962512 65.5063876 1706446

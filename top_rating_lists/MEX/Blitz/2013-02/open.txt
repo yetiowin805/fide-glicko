@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sanchez Enriquez, Oscar Gerardo	MEX 1989 M 2280.1277990 70.5163523 5106311
-2 Estrada Nieto, Julian	MEX 1972 M 2224.7763020 67.6084533 5101018
-3 Diaz Rosas, Julio Cesar	MEX 1994 M 2035.5044598 69.1583200 5105099
-4 Garcia Morales, Ivette Ale	MEX 1994 F 1867.3285200 72.1853058 5105994

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Abdulwahhab, Ahmed Abdulsattar A	IRQ 1975 M 2092.3307880 74.4204777 4801849
-2 Mohammed, Zozek Salah Mohammed	IRQ 1986 M 2090.8401095 66.5833941 4803361
-3 Muhsen, Abdulla.mohmmed	IRQ 1989 M 2066.1008584 72.7872596 4801695

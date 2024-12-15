@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Margad, Munkhpurev	MGL 2011 F 1632.7366734 70.2109326 4910222
-2 Azjargal, Chinzorigt	MGL 2011 F 1563.5536776 74.0314894 4908856
-3 Tsogt-Erdene, Bayarjavkhlan	MGL 2009 M 1446.0923773 70.3817784 4922255

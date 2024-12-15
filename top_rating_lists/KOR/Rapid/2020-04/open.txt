@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bin Nasrin, Nayyef Ashyraf	KOR 1993 M 1751.7093851 74.5113682 13207091
-2 Hong, Ian	KOR 2008 M 1601.1888166 55.6449678 13209795

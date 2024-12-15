@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sanchez, Jose Rafael	DOM 1988 M 2034.4027101 67.6994005 6400779

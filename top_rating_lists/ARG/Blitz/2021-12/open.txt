@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pichot, Alan	ARG 1998 M 2512.9247641 56.5159930 110973
-2 Ruperez, Miguel	ARG 1984 M 2070.1951848 59.0346338 115177

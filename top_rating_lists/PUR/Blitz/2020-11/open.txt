@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pinales Roussel, Gabriel	PUR 1998 M 1932.4730259 70.3667792 3101762
-2 Matos Santoni, Gamalier	PUR 1971 M 1617.2764371 72.1618155 3102009
-3 Sanchez Martinez, Xavier	PUR 1992 M 1518.0922702 70.6284848 3108171
-4 Soriano Pereira, Raymond	PUR 1994 M 1503.3850012 68.7307674 3107710
-5 Acevedo Candelaria, Eduardo	PUR 1992 M 1393.3479193 73.2908172 3102289

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pazos Gambarrotti, Plinio	ECU 1960 M 2110.2934360 69.4980688 3600068
-2 Carrasco Jacome, Bryan	ECU 1997 M 2095.7948476 60.3004329 3618986
-3 Ruiz Tipantasig, Mishell	ECU 2001 F 1728.1426828 68.2664585 3627640

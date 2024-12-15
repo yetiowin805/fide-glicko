@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Meza MartInez, Alcides Ivan	HON 1978 M 2132.5560626 65.2031285 8400610
-2 Guillen Ramirez, Jose Antonio	HON 1968 M 2074.3842201 70.6978892 8400016
-3 Huguet, Sergio	HON 1970 M 2041.2782674 71.0932169 2212552
-4 Hernandez, Juan Carlos	HON 1984 M 1860.0530368 73.2894230 8400318

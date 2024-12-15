@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Wilson, Hannah	BAR 2009 F 1673.1285802 66.9943293 11104600

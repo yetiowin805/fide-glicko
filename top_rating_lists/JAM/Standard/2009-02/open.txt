@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Matthews, Shane	JAM 1964 M 2079.1269994 74.9233154 7400012

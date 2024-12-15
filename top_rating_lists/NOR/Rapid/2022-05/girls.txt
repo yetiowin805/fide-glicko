@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Helliesen, Lykke-Merlot	NOR 2008 1599.1123975 68.8530289 1530950
-2 Skramstad, Oda Kofoed	NOR 2010 1428.3541873 67.6582372 1564862
-3 Sathish, Githiha	NOR 2012 1366.4506170 72.5144207 1568086

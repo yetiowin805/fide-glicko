@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Estrada Lavin, Cristian Alexand	CHI 1999 M 1803.2268873 73.7439035 3411710
-2 Nauto Munoz, Isaias	CHI 2004 M 1762.1833317 62.7050471 3431746

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Granda Zuniga, Julio E	PER 1967 M 2618.5979307 69.4635710 3800024
-2 Reyes, Juan	PER 1963 M 2403.6019561 72.6418108 3800040

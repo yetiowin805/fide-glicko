@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Estrada Lavin, Cristian Alexand	CHI 1999 M 1795.0989451 74.5713435 3411710
-2 Nauto Munoz, Isaias	CHI 2004 M 1784.1880495 61.8239203 3431746
-3 Marrujo Pardo, Mauricio Emmanuel	CHI 2010 M 1446.4141992 74.0272278 3943755

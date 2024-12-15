@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Amanov, Mesgen	TKM 1986 M 2271.6406990 54.3033205 14000652
-2 Esenov, Annaberdi	TKM 1988 M 2127.0197497 69.0423128 14000644

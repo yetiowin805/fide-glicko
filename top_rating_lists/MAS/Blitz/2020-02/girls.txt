@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Chua, Jia-Tien	MAS 2003 1615.2674028 68.6411657 5710006
-2 Foo, Jing Er Claire	MAS 2005 1584.3265741 73.6887747 5726794

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al-Zendani, Zendan	YEM 1982 M 2111.8695848 74.4504526 9400249
-2 Al-qudaimi abdullah	YEM 2010 M 1374.3210111 73.9176640 9402772

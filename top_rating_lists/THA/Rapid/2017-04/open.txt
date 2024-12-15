@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Prasitsoonthorn, Teerachoti	THA 2003 M 1729.6051217 63.3139919 6204422
-2 Asavasaetakul, Chawit	THA 2003 M 1502.8994942 69.5112339 6204856
-3 Buasroung, Ekasith	THA 1945 M 1471.5334240 74.9131867 6201148

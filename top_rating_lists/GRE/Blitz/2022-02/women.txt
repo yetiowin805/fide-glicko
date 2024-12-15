@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Pavlidou, Ekaterini	GRE 1993 2083.3725232 56.0420446 4213262
-2 Grapsa, Georgia	GRE 1984 1828.1976653 74.0368247 4206436
-3 Georgitsi, Antigoni	GRE 2001 1718.0822680 68.0979959 4246527

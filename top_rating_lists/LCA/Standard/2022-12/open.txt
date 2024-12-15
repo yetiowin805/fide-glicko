@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Martyr, Reginald	LCA 1995 M 2041.7339348 66.6948958 7701810
-2 Mathurin, Nathaniel	LCA 2004 M 1787.8069887 72.3000044 23000139

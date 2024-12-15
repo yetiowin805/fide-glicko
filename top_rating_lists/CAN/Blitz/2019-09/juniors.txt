@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Preotu, Razvan	CAN 1999 M 2265.1544945 71.1633975 2613280
-2 Atanasov, Anthony	CAN 2008 M 1904.6632560 74.7203686 2623897

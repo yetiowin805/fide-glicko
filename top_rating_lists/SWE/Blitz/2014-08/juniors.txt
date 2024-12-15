@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Westerberg, Jonathan	SWE 1994 M 2334.8152480 64.3522009 1701754
-2 Lokander, Martin	SWE 1996 M 2195.7080751 70.0739867 1709569
-3 Tuomainen, Felix	SWE 1998 M 1954.2075650 74.1076706 1720813

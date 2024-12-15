@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Enkhtuul, Altanulzii	MGL 1994 F 2024.0469020 62.5689625 4901444
-2 Anu, Bayar	MGL 1993 F 1770.6470126 74.2142849 4901339

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ahmad, Al Khatib	JOR 1995 M 2022.4935534 74.6434070 8103178
-2 Ghaith Almomani	JOR 1991 M 1737.0370140 68.7996605 8110930

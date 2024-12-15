@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hjort, Helge	DEN 1944 M 1727.9341072 52.5631437 1436678
-2 May, Samuel Peter Heine	DEN 2000 M 1651.7100278 74.7819192 1435990

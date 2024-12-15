@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Safar, Reem	QAT 1994 F 1582.3683739 74.5746241 12100269

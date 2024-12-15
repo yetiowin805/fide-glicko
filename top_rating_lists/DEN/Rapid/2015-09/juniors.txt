@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 May, Samuel Peter Heine	DEN 2000 M 1636.7726575 73.5457556 1435990

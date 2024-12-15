@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rizvi, Nasir	WLS 1977 M 1929.0521814 62.8508727 1800540
-2 Bullen, Alex	WLS 1994 M 1899.7269418 74.0289695 1801627

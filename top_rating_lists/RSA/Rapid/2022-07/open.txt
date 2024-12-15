@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Basson, Heinrich	RSA 1990 M 1830.1076408 73.6642908 14301440
-2 Mahomole, Mahlodi Joe	RSA 1962 M 1495.4677269 74.4277085 14303876

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nguyen, Thien Ngan	VIE 2005 F 1861.2781916 72.8828151 12414816
-2 Nguyen, Gia Huy	VIE 2004 M 1730.5276824 74.6617353 12414077

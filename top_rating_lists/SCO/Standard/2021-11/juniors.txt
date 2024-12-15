@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 McKay, Jonathan	SCO 2003 M 1648.8145552 73.3762095 2405512

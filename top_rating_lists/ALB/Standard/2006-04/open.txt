@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Dervishi, Erald	ALB 1979 M 2506.1047337 54.9106811 4700236
-2 Qendro, Llambi	ALB 0 M 2375.0524311 70.5734442 4700074

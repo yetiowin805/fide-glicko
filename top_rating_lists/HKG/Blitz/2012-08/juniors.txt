@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 KUAN, Julian	HKG 1992 M 1671.8361317 71.1358163 6001025

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Celis, Joel	MAC 1994 M 1803.7242509 70.5489082 15400212
-2 Ieong, Seak Hin	MAC 2000 M 1473.6002922 72.3017606 15400344

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Alarcon, Pamela	NCA 0 1781.3055531 69.4372303 6100694
-2 Madrigal, Ana Daniela	NCA 0 1733.7101412 69.1753853 6101097
-3 Granados, Maria	NCA 0 1731.7649979 61.8891695 6101488

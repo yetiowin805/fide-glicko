@@ -1,7 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Almanzar Vasquez, Jennifer Maria	DOM 1993 1654.2931762 59.5623955 6406505
-2 Castillo Pena, Patricia Evarista	DOM 1991 1654.2104407 69.8200599 6412106
-3 Rosario Almanzar, Raydili	DOM 1998 1602.9552897 65.0123991 6403573
-4 Coronado Paulino, Katerine E.	DOM 1999 1592.7920499 69.3344806 6405029
-5 Alfau Sencion, Lisbeth	DOM 1996 1574.5314899 73.3806258 6416845
-6 Joaquin Salcedo, Candida	DOM 1972 1467.5192953 73.4247146 6408095

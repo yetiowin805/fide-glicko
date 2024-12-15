@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al Sori, Mohamed	LBA 1997 M 1844.9909025 65.9348891 9200711
-2 Fellah, Mohamed	LBA 2001 M 1702.3432968 47.7004511 9202412

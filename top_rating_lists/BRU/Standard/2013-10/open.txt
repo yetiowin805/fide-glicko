@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Yee, Soon Wei	BRU 1989 M 2064.2530964 64.8897457 10500553
-2 Hj, Azahari Md Aliuddin	BRU 1900 M 1837.2176104 74.7941129 10500324

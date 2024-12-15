@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Almahjoub, Mokhtar	LBA 1964 M 1799.6213788 74.6366479 9202056
-2 Sadaga, Salah	LBA 1964 M 1671.7208322 61.3562471 9202030

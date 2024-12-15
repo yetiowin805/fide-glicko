@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Matthews, Shane	JAM 1964 M 2139.7883358 69.7485966 7400012
-2 Ramsay, Zachary	JAM 1990 M 1774.6448413 69.6534769 7400314

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Grabcheva, Natalia	BUL 2002 1567.5558306 60.1692738 2917815
-2 Chitakova, Galya	BUL 2003 1466.4253260 69.7814530 2920425

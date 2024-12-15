@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pleasants, Allan J	WLS 1960 M 2014.7655193 69.6174992 411337
-2 Garcia, Jason	WLS 1971 M 1958.7761003 74.5927722 1801775

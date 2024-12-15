@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bellahcene, Bilel	ALG 1998 M 2421.9077168 55.2983394 696358
-2 Boughambouz, Mehdi	ALG 1989 M 1720.5168267 55.6626313 7908270
-3 Djibtrouhi, Mustapha	ALG 2008 M 1658.7316259 73.0284305 7925123
-4 Ghezali,Abdelhalim essddik youcef	ALG 2006 M 1575.7460315 74.4274509 7925166

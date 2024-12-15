@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Ioannides Liu, Alice	CYP 2005 1492.7649308 74.8289926 5904374
-2 Bouzana, Christina	CYP 2009 1353.6849203 67.2290967 5905508

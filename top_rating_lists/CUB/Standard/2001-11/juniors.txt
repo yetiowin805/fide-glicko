@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Dominguez, Lenier	CUB 1983 M 2598.1488743 51.7883730 3503240
-2 Bruzon, Lazaro	CUB 1982 M 2573.2910983 52.3029944 3503739

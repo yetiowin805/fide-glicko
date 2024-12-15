@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sean, Winshand Cuhendi	INA 1997 M 2161.4930004 70.6094639 7101554
-2 Limono, Handjojo	INA 1963 M 1717.3143023 70.4981339 7102909

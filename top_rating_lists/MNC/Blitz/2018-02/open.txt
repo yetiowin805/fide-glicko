@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Efimov, Igor	MNC 1960 M 2383.9306530 64.0214182 806404
-2 Villegas, Pierre	MNC 1992 M 2195.9833078 62.8791006 654183

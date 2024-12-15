@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Garcia, Raul	AND 1952 M 2048.0230555 74.7695470 6900020
-2 Jose Queralto, Daniel	AND 1973 M 2023.1035574 71.3985611 6900089

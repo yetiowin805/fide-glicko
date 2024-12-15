@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Liu, Joy	AUS 2009 1597.6960927 71.8776495 3245160

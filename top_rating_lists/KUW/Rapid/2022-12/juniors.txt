@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al-daihani, turki A	KUW 2005 M 1704.3208936 71.8588577 10304339
-2 Alhasan, Zainah	KUW 2011 F 1322.6879005 72.1913846 10303472

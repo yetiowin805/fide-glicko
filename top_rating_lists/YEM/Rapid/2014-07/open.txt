@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al Qudaimi, Basheer	YEM 1984 M 2330.0009258 67.4077787 9400346
-2 Qaid Radman, Marwan	YEM 1977 M 1538.8386922 60.4621044 9402330

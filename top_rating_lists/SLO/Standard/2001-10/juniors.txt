@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Borisek, Jure	SLO 1986 M 2348.5177055 69.8437262 14603152

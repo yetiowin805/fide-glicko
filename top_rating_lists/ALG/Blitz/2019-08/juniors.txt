@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bakouche, Mahmoud	ALG 2003 M 1877.1324683 71.4024511 7907940
-2 Nassr, Ahmed	ALG 1999 M 1867.1585518 59.4849745 7904860

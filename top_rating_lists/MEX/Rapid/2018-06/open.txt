@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hernandez Luna, Jose Angel	MEX 2002 M 1714.8205321 74.4170258 5123801
-2 Quiroga Jaquez, Angel Ivan	MEX 2002 M 1661.6102660 71.7492709 5117801
-3 De Dios Suarez, Diego Anas	MEX 2002 M 1606.0265767 73.6558645 5119782

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Barrientos, Sergio	COL 1986 M 2380.0247989 44.0878818 4401824

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Jackova, Jana	CZE 1982 2327.5283333 63.7376174 308498
-2 Holusova, Tana	CZE 1986 2111.8509342 66.9759641 314781

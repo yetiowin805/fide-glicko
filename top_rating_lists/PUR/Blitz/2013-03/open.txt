@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vazquez Reyes, Raul	PUR 1991 M 2189.9981311 74.8511999 3100235
-2 Vazquez Maccarini, Danitza	PUR 2000 F 1734.6827517 73.5262019 3101193

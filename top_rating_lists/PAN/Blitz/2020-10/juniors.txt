@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mendez, Andre	PAN 2008 M 1698.5639644 62.3364466 6603793
-2 Mendez Machado, Fatima	PAN 2011 F 1267.7681615 70.7745134 6606970

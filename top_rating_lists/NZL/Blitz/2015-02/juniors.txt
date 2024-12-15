@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Li, Zuhao Luke	NZL 1997 M 2139.0315005 74.6415512 4303431
-2 Ang, Alphaeus Wei Ern	NZL 2002 M 1710.3651491 74.4197562 4303636

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Dogan, Sibel	TUR 2005 1641.4930305 67.5032193 34561935
-2 Anacoglu, Cisel	TUR 2006 1610.6521717 74.8986855 34573631

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al-Zayat, Ahmed	LBA 1984 M 1967.2061066 73.5022175 9200380
-2 Alnami, Salaheddin	LBA 1993 M 1783.5102544 65.0078385 9200959
-3 Abdallah, Khaled Elnami	LBA 1958 M 1451.1351124 71.9717747 9200312

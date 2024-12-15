@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al Harasi Saif	OMA 1982 M 1621.9297584 70.3145512 22000208
-2 Al Kharusi, Mohammed	OMA 2003 M 1501.2630710 72.0818565 22003509

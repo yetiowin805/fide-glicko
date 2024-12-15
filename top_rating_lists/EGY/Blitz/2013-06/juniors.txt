@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ameir, Moheb	EGY 1993 M 2127.4804770 71.8178948 10600620
-2 Abdelmenaem, Sohayla	EGY 1997 F 1519.3699928 73.1947171 10610529

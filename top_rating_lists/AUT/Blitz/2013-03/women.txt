@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Kopinits, Anna-Christina	AUT 1985 2149.1664393 64.7556937 1614142
-2 Schink, Barbara	AUT 1984 2077.1269417 66.0902208 1602047
-3 Schnegg, Anna-Lena	AUT 1998 1917.3800651 73.9251284 1625268

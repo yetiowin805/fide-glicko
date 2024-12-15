@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sochacki, Christophe	FRA 1994 M 2353.5854925 74.4256453 662569
-2 Bellaiche, Elise	FRA 1997 F 1919.2586044 68.3456098 696366

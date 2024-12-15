@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Santa Torres, Juan	PUR 1963 M 2215.9618628 63.9868827 3100120

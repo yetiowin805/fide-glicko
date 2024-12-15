@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gavarrete, Nahun	HON 1994 M 2227.3637940 68.3001599 8400709
-2 Solorzano, Andres	HON 1985 M 1870.8750847 64.1885146 8400440

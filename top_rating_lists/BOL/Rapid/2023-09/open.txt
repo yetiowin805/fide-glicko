@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Justiniano Flores, Luis Fernando	BOL 2008 M 1890.7898805 64.3308758 3319717
-2 Zaigua Pedraza, Carlos	BOL 1984 M 1884.3562198 67.3616006 3319652
-3 Jaldin, Jose Fernando	BOL 2004 M 1633.3865130 61.0980499 3319377
-4 Mollo Figueroa, Nicole	BOL 2011 F 1584.7246376 57.8113118 3325687

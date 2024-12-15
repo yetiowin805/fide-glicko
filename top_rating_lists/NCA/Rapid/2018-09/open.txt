@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Castillo, Rommel	NCA 1900 M 1917.8955994 74.4232351 6100490
-2 Duarte Urbina, Omar	NCA 1900 M 1767.9961081 73.6603512 6103782

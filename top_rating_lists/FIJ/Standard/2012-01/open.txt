@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kumar, Manoj	FIJ 1977 M 1889.7041707 74.5776448 11400064
-2 Goundar, Sanmogam	FIJ 1965 M 1754.5490657 59.8911820 11400110

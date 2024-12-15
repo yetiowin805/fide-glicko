@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Alhassadi, Yousef A.	LBA 2005 M 1922.3148847 58.2409265 9204725
-2 Fates, Omer Salah	LBA 2009 M 1766.6821428 62.0977819 9212035

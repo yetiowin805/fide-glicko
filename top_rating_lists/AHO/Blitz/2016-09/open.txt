@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vos, Tjark	AHO 1996 M 2161.2329125 71.5563121 1020870
-2 Dekker, Marvin	AHO 1985 M 1856.6773125 64.5103564 7500203

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kanan, Samir	PLE 1983 M 1502.2548474 74.6276103 11503033
-2 Skaik, Nabil	PLE 1977 M 1288.1807597 65.8056525 11203633

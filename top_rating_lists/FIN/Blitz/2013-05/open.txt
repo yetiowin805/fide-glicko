@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Luukkonen, Tommi	FIN 1977 M 2202.3402886 71.1377924 501808
-2 Ilmoni, Tommy	FIN 1972 M 2058.3400554 72.9892072 504297

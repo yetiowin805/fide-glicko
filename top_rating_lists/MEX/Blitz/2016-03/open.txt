@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Roque Sola, Jose Luis	MEX 1999 M 1772.7085077 73.5360692 5120390
-2 Galaviz Medina, Sion Radam	MEX 2005 M 1738.9633900 74.9469690 5123119
-3 Fuentes Godoy, Lilia Ivonne	MEX 1998 F 1726.5282644 74.5926985 5104130

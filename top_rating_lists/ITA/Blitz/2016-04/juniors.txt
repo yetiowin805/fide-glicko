@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ballista, Massimiliano	ITA 1998 M 1828.2050235 61.3873179 866385
-2 Merighi, Yasin	ITA 2002 M 1688.4737403 73.3082562 2807861
-3 Picchi, Darina Francesca	ITA 1997 F 1564.3954221 68.0195619 880329

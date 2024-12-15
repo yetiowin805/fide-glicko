@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lu, Miaoyi	CHN 2010 F 2032.6331626 50.0410084 8618020
-2 Wang, Zixuan(SD)	CHN 2013 M 1468.2306669 50.7889759 8636974

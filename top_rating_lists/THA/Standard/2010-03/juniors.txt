@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Wiwatanadate, Poompong	THA 1990 M 1901.1284378 54.6272066 6201083
-2 Yothinnorratham, Tepparit	THA 1992 M 1878.1186246 72.6464428 6200770
-3 Wiwarin, Piyapon	THA 1991 M 1798.5079068 67.9419158 6201075
-4 Thanarotrung, Ratchaphon	THA 1994 M 1720.6299437 74.8438909 6201059

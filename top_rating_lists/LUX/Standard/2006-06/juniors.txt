@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Jeitz, Christian	LUX 1986 M 2153.2220695 63.8283838 4000803
-2 Serban, Vlad	LUX 1988 M 2087.6648110 72.4237219 4001060

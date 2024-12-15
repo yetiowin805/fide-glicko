@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Cu Hor, Winston Darwin	GUA 1990 M 2161.1571664 73.4923386 7300662
-2 Mencos, Claudia	GUA 1991 F 1912.9654751 72.3309722 7300573

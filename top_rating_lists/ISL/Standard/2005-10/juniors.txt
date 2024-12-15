@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Arngrimsson, Dagur	ISL 1987 M 2240.7825597 50.2235951 2301288
-2 Kjartansson, Gudmundur	ISL 1988 M 2203.7694863 49.4723003 2301318
-3 Karlsson, Bjorn-Ivar	ISL 1985 M 2197.2473495 66.7495635 2301687

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Navrotescu, Andreea-Cristiana	FRA 1996 2027.6323904 73.1943788 675946
-2 Dieuleveut, Floriane	FRA 1997 1671.7342807 74.8920366 604208
-3 Vernet, Solene	FRA 1998 1534.7472589 74.7406827 20672985

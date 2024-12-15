@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sanchez, David	ESA 1997 M 1819.9147455 69.9971041 6701493
-2 De Leon, Stephanie	ESA 2000 F 1514.0817649 71.7471437 6703127

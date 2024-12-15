@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Gomez Barrera, Javiera Belen	CHI 2002 2020.7552556 61.9558613 3418723
-2 Sanchez Tobar, Francisca Valenti	CHI 2004 1693.8090907 74.7941594 3431304
-3 Villegas Ampuero, Consuelo	CHI 2008 1324.7336394 74.7452373 3433129

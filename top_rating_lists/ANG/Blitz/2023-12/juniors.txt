@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lutuima, Amaro	ANG 2003 M 2177.1781584 63.3685104 10106863
-2 Junior, Domingos	ANG 2004 M 2049.1767813 73.4280722 10105972

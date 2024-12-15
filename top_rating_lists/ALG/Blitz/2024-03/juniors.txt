@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Brahim Djelloul , Ahmed	ALG 2009 M 1496.0035144 74.4427211 7920601

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Knowles, Kendrick	BAH 1988 M 1537.9854303 68.6408563 10400451
-2 Whyms, Chappell	BAH 1969 M 1473.0496263 68.4795417 10400125

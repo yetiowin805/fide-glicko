@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Mongontuul, Bathuyag	MGL 1987 2340.4367033 49.9343311 4900758
-2 Yanjindulam, Dulamsuren	MGL 1988 2172.8479664 72.9284915 4900952
-3 Bayaraa, Zorigt	MGL 1988 2062.2173845 70.6037171 4901010

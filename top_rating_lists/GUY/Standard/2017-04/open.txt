@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Varona-Thomas, Maria	GUY 1967 F 1673.5896008 74.3953644 19700288

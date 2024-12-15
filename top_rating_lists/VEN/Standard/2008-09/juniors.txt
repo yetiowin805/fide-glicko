@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Iturrizaga, Eduardo	VEN 1989 M 2481.5600029 44.2597628 3901211
-2 Bassan, Remo	VEN 1994 M 2090.4533182 49.2604784 3901564

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gontcharov, Dimitri	BER 2007 M 1554.5925626 60.4425518 8800979
-2 Walrond, Niccolo	BER 2000 M 1379.6092850 74.8714155 11102357

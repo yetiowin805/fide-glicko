@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Skettos, Nicolas	CYP 1996 M 1857.6622277 72.3723322 5900670
-2 Lavrishchev, Matvei	CYP 2010 M 1318.9186701 71.5186632 34390146

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Zhu, Chen	QAT 1976 2344.1903261 52.7606507 8600546
-2 Al-khelaifi, Aisha	QAT 1992 1714.1958050 73.1554665 12100625

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Awad, Omaima	YEM 1990 F 1573.6886303 70.3506063 9400117

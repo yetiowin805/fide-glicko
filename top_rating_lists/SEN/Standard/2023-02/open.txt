@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lesbros, Bernard	SEN 1948 M 1795.2620958 62.8929400 614831
-2 Marochkina, Nadezhda Valerevna	SEN 1990 F 1657.0970422 67.3124929 19900490
-3 Wane, Al Hassane	SEN 1971 M 1646.7584142 71.4921139 19900082

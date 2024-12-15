@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pritchett, Craig W	SCO 1949 M 2318.2553344 74.5095624 2400065
-2 Allan, Brian	SCO 1934 M 1601.9204864 71.8610061 2402050

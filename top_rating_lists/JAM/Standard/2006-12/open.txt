@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Porter, Russel	JAM 1970 M 2194.5787526 73.3759125 7400195

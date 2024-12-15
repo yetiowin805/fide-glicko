@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al Harasi Saif	OMA 1982 M 1559.4205571 70.6771939 22000208
-2 Al Jahwari, Adnan Mohammed	OMA 1988 M 1524.2759177 68.0273342 22001115

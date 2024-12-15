@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Wiwatanadate, Poompong	THA 1990 M 1943.7058430 70.6240784 6201083
-2 Campi, William	THA 1979 M 1654.4928581 72.5521807 6200850
-3 Srivatanakul, Pricha	THA 1937 M 1612.8696371 66.3309993 6200508

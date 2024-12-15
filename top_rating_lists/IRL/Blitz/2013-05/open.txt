@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Collins, Sam E.	IRL 1982 M 2416.5053626 70.8860016 2501198
-2 McCabe, Shane	IRL 1968 M 1769.2509058 70.6206453 2503891

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Martin Mambo	KEN 1998 M 1773.5764360 69.2724142 10809163
-2 Mwendwa, Triza	KEN 2000 F 1614.5243970 72.3309099 10814965

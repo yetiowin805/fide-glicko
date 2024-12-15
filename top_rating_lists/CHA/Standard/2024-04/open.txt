@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mahamat Hachim Bachar	CHA 1975 M 1726.8608585 74.3758696 42800030

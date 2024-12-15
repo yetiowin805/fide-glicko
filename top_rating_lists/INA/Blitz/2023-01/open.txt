@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sukandar, Irine Kharisma	INA 1992 F 2164.7779773 74.3035434 7101937
-2 Sunaryo Robert	INA 1993 M 2059.1497093 64.9831861 7105916

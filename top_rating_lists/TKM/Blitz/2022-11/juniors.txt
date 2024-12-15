@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Karayev, Azat	TKM 2003 M 1596.5356052 56.4364173 14006383

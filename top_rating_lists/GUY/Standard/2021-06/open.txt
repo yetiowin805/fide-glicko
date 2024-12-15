@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Corlette, Glenford	GUY 1991 M 1722.5683576 74.3728914 19700130
-2 Nathoo, Loris	GUY 1974 M 1700.9354584 73.7422835 19700083

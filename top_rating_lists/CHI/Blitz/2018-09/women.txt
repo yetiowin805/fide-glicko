@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Morales Flores, Monserrat	CHI 1994 1998.4063171 57.1221535 3412016
-2 Zuniga Lara, Catalina Paz	CHI 2000 1565.7209975 70.5507810 3423433
-3 Figueroa Bernal, Julia Dennis	CHI 2005 1564.1195729 72.5199788 3435300

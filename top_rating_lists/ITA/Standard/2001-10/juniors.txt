@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Genocchio, Daniele	ITA 1981 M 2301.6205635 50.0252068 806463
-2 Drabke, Lorenz	ITA 1984 M 2300.0233618 73.6690751 809306

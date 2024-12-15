@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mhango Adrian	MAW 1996 M 1403.6980125 72.7212249 20501196
-2 Msukwa Tupokiwe	MAW 1998 F 1294.2259548 68.4737359 20500459

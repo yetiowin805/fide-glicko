@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Caprio, Guido	ITA 1994 M 2361.2527833 69.5998495 834580
-2 Basso, Pier Luigi	ITA 1997 M 1969.7207060 73.0542541 866970
-3 Miracola, Massimiliano	ITA 1995 M 1948.9906047 67.2378400 872423

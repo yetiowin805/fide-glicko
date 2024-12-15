@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tavcar, Jaka	FID 2005 M 1471.3973093 69.1027119 73001279
-2 Potocar, Nika	FID 2006 M 1347.7588628 59.8124695 73008044

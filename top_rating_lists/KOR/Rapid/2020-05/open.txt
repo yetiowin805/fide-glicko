@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hong, Ian	KOR 2008 M 1601.1888166 57.7969103 13209795

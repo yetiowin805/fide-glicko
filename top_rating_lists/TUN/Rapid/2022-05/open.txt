@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Belkhodja, Slim	TUN 1962 M 2195.4923288 70.1128718 600229
-2 Matoussi, Wael	TUN 1979 M 1965.7743923 57.9381971 5502322

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ribera Veganzones, Serni	AND 2007 M 2063.7901120 46.5220971 6900860
-2 Martinez Gamiz, Marc	AND 2005 M 1766.8678301 66.7871032 6900976
-3 De la Riva Real, Ariadna	AND 2005 F 1525.7658926 69.2270121 6901018

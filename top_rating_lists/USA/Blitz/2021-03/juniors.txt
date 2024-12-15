@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Niemann, Hans Moke	USA 2003 M 2406.0887449 59.4126469 2093596

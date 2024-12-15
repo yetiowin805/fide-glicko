@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nagesh, Rishicharan	SGP 2007 M 1547.0186417 73.5929057 5823005

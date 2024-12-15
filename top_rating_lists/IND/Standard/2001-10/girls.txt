@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Koneru, Humpy	IND 1987 2456.5618285 60.7602880 5008123
-2 Aarthie, Ramaswamy	IND 1981 2308.6577847 63.5266362 5004373

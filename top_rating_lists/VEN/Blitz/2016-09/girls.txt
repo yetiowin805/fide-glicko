@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Patino Garcia, Corals	VEN 1999 1635.2330194 69.8075427 3902781
-2 Yepez Moreno, Juliet Carolina	VEN 2001 1573.2031689 72.8364128 3905438
-3 Gelviz Rodriguez, Emily Antonella	VEN 2002 1383.6947070 71.5159973 3928020

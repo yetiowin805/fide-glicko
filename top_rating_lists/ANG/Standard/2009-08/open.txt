@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Alberto, Manuel	ANG 0 M 2099.1187578 61.9172577 10100148

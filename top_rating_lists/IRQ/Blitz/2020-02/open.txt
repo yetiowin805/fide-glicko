@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Albadri Abd Al Sattar	IRQ 1966 M 2029.7926007 69.0733130 10602348

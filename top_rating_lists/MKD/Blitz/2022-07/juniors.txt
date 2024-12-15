@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Zvezdakoski, Matej	MKD 2005 M 1748.7066116 71.5345078 15004961
-2 Jovanovski, Teodor	MKD 2005 M 1748.0028802 66.8958160 15008266

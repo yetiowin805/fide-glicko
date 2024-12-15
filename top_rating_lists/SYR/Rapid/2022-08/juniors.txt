@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Alsabbagh,Ahmed	SYR 2012 M 1453.7732677 61.1557006 7609884
-2 Altarabichi,Hamza.	SYR 2007 M 1444.3991685 57.6316088 7612060

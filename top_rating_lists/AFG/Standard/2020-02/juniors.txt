@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sakhawaty, Sepehr	AFG 2003 M 1685.9656722 63.1443604 11701455
-2 Amir Ali Mahmoodi	AFG 2003 M 1458.3261818 65.2681942 11701773

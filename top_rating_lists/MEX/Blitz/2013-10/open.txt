@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Martin Del Campo C., Roberto	MEX 1967 M 2349.3731831 72.1364723 5100046

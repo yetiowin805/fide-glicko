@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sisior, Angelil	PLW 2003 F 1545.1412535 69.8205113 16600436
-2 Sisior, Kyarii	PLW 2008 F 1441.4246235 72.7823726 16600720

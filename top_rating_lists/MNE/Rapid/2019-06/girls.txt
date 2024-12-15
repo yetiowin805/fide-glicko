@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Popovic, Mateja	MNE 2005 1587.9092563 65.5169045 16504518
-2 Rakic, Tijana	MNE 2001 1546.5068253 73.7427577 16504194

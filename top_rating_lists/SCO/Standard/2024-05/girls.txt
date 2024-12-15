@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Bhatia, Kanishka	SCO 2010 1672.0177285 60.4085565 2410095
-2 Mitraka, Chrysa	SCO 2010 1423.0764466 72.1633150 2409968

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hernandez, Gustavo	VEN 1972 M 2266.6464302 73.0209919 3900312

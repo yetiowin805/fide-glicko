@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Berg, Olaf	FAI 1986 M 2291.6170254 73.7235262 7200420
-2 Poulsen, Martin	FAI 1984 M 2256.9576028 40.8427935 7200315

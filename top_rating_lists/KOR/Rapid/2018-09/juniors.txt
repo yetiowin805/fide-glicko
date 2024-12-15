@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 You, Haneul	KOR 1999 M 1652.9479574 74.1967855 13201484

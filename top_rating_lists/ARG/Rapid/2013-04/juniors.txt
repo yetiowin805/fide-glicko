@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gaitan, Juan Manuel	ARG 1993 M 2136.5143362 74.9380751 121657

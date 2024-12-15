@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Van Wely, Loek	NED 1972 M 2568.5677720 69.7179496 1000268
-2 Sokolov, Ivan	NED 1968 M 2517.1223943 73.8883447 14400030

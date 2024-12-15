@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Mongontuul, Bathuyag	MGL 1987 2325.5596651 52.0278398 4900758
-2 Anhchimeg, Bayanmonh	MGL 1983 2199.7375455 65.9885206 4900600
-3 Batceceg, Tuvshintogs	MGL 1978 2185.2787740 68.9746123 4900588

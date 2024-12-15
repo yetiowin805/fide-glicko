@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Pourkashiyan, Atousa	IRI 1988 2244.5994027 73.9021059 12502014
-2 Khademalsharieh, Sarasadat	IRI 1997 2105.3455241 74.8407402 12512214
-3 Derakhshani, Dorsa	IRI 1998 1858.0278409 72.2307870 12500330

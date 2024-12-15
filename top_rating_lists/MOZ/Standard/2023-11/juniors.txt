@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vasco Mateus Felizardo Viageiro	MOZ 2003 M 1866.8226555 69.8287333 14800403
-2 Joao Farisse	MOZ 2004 M 1702.6706951 69.1716240 14800730
-3 Carquete, Galilei	MOZ 2006 M 1697.3125441 74.6365175 14804174

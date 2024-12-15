@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Davila, Carlos	NCA 1971 M 2016.4080356 74.8044919 6100040
-2 Picado, Jorge	NCA 1980 M 1968.1696598 71.8259657 6100376
-3 Salinas Barrera, Jovani Enrique	NCA 1967 M 1671.3739345 71.1367069 6106757

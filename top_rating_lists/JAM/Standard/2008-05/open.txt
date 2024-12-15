@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pitterson, Jomo	JAM 1974 M 2222.5971384 74.4891405 7400110
-2 Porter, Russel	JAM 1970 M 2153.9856443 71.7903264 7400195

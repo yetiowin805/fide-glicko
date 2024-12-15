@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rajapaksa, Miyuni Kavinya	SRI 2000 F 1589.6397441 69.2850667 9939210
-2 Rajapaksa, Inura	SRI 2003 M 1494.7408645 72.2988685 34178365

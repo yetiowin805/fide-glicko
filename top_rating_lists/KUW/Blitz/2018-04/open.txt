@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al-Hajiri, Bader	KUW 1968 M 2019.6256541 74.6745659 10300163
-2 Alzaid, Zaid	KUW 1972 M 1354.0456900 72.4914151 383266891

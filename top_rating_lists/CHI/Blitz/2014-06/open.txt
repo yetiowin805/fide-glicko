@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Henriquez Cardenas, Mauricio	CHI 1973 M 2076.3129443 74.8126751 3401375
-2 Queirolo Perez, Manuel	CHI 1973 M 1948.9886827 68.3233514 3401219
-3 Richter Becerra, Hans	CHI 1966 M 1923.5957815 74.9716962 3401022

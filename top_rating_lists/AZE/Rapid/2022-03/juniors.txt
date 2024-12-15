@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Muradli, Mahammad	AZE 2003 M 2355.2890516 73.3184164 13409301
-2 Babazada, Khazar	AZE 2005 M 2229.0193584 72.4854194 13413554

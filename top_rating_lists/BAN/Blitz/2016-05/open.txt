@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mollah Abdullah, Al Rakib	BAN 1980 M 2212.3189450 73.7719389 10200444
-2 Mohammad Fahad, Rahman	BAN 2003 M 2041.8988343 73.6746585 10207791

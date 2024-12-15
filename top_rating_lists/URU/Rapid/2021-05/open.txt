@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Durante, Aurelio	URU 1962 M 1888.4329365 69.9064488 3001270
-2 Lanzilotta, Marcelo	URU 1968 M 1783.9027356 70.5177182 3001750
-3 Blanco, Rudemar Ernesto	URU 1971 M 1567.3365465 72.7713509 3011321

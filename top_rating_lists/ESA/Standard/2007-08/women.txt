@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Zepeda, Lorena	ESA 1984 2111.6029890 74.2140472 6700233
-2 Melendez, Gabriela	ESA 0 1846.4666945 67.8480286 6700705

@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Gonzalez, Yaribeth	PAN 1986 1617.6222514 73.7915267 6600344
-2 Chung, Yaleika	PAN 1988 1604.2772039 73.4619032 6600603
-3 Vasquez Jaen, Lourdes Lorena	PAN 2003 1576.8568633 60.5758582 6605559
-4 Alvarez Chang, Claudia Mercedes	PAN 2004 1555.7618052 66.7690346 6604374

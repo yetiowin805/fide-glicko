@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 de Leon, Patricia	URU 1994 F 1802.9003842 68.5074985 3000273
-2 Dominguez, Facundo	URU 1998 M 1741.6740171 70.4002056 3005178
-3 de Leon, Veronica	URU 1997 F 1398.3097752 68.6023381 3000290

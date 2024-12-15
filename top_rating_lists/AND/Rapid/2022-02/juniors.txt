@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ribera Veganzones, Serni	AND 2007 M 1783.9578885 74.9332074 6900860
-2 Alcon Llosada, Alex	AND 2003 M 1715.0421776 73.1999380 6900780
-3 Martinez Gamiz, Marc	AND 2005 M 1671.7990821 74.6704947 6900976

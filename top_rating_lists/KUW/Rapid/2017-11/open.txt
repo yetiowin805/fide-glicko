@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Alothman, Abdul Wahab	KUW 1969 M 1894.6955991 74.8984036 10300015

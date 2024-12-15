@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Dydak, Mateusz	CAN 1975 M 1765.9127564 74.7011689 2612305

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Chipanga, Chiletso	MAW 1987 M 1865.8123268 66.1048364 16400119
-2 Mbedza, Richard	MAW 1973 M 1802.8531265 70.1698106 16400143

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hamperl, Fred	GCI 1966 M 2067.8615353 71.5770948 10700110
-2 Brookfield, Toby	GCI 1971 M 1781.0547372 73.5141844 10700234

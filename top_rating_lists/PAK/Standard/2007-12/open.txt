@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lodhi, Mahmood	PAK 1961 M 2352.0422359 56.5490380 7800010
-2 Gillani, Tunveer M.D.	PAK 0 M 2247.9958628 72.7446592 7800274

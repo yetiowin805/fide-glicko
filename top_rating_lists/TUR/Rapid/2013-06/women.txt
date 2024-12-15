@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Oney, Remel	TUR 1990 1802.0549558 72.9495975 6310125
-2 Ozturk, Hilal	TUR 1997 1729.4117910 74.8091175 6315330

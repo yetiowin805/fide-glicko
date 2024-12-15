@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Novosadova, Kristyna	CZE 1990 2072.1216863 70.0682211 328065
-2 Miturova, Magdalena	CZE 1993 2054.2220304 71.5530809 330221
-3 Pribylova, Sofie	CZE 2002 1575.0418069 61.8423495 371726

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pritchett, Craig W	SCO 1949 M 2344.4077640 69.8921526 2400065

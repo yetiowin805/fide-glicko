@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Fomevor, Cephas Clinton	GHA 1998 M 1825.1655817 68.6887314 12601330

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Karas, Marek	SVK 1999 M 2032.2052578 60.7239682 14928558

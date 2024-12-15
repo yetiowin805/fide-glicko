@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Giasi, Viresh	SUR 1991 M 1855.6654307 74.8140878 8200165
-2 Tjong Tjin Joe, Calvin	SUR 1998 M 1825.0678270 70.8366938 8200580

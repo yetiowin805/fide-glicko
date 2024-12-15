@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Al Dhaheri, Shaikha	UAE 1998 1571.5200483 73.4477074 9305343
-2 Kalbani, Wadema	UAE 2000 1536.4366974 69.5494605 9304541
-3 Al Maamari, Wafia Darwish	UAE 2003 1389.2610846 71.0145265 9305734

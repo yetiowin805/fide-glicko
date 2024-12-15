@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nemeth, Zalan	IRL 2002 M 2165.0267065 66.4656354 2512041
-2 Rolston, Daniel Haruma	IRL 2009 M 1615.1663090 54.5241009 2511258

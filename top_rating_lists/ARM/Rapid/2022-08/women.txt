@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Gevorgyan, Maria	ARM 1994 2062.2493406 73.7944273 13300270
-2 Kobak, Polina	ARM 2008 1645.7559733 70.7977769 24269727

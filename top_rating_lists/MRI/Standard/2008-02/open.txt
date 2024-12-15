@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Phillips, Roy	MRI 1969 M 2237.2982553 72.6479980 404136
-2 Li Ying, Patrick	MRI  M 2150.2665297 73.0127014 9700056
-3 Seegolam, Pradeep	MRI  M 2069.1784705 74.2294373 9700080

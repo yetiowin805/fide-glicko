@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Barros, Luis	CPV 1975 M 1602.7131792 74.8434252 23600110

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Khachatryan, Samvel S.	ARM 2003 M 2070.5160996 64.7790568 13309048
-2 Hovsepyan, Gagik K.	ARM 2003 M 1579.3402761 72.7242788 13312936

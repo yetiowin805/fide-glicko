@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mutesi, Phiona	UGA 1996 F 1690.3325119 73.8293024 10000399
-2 Nansubuga , Gloria	UGA 2001 F 1485.5202739 65.2914060 10000887

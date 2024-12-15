@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Henriquez Villagra, Cristobal	CHI 1996 M 2268.3810104 70.0624388 3409350
-2 Perez Gormaz, Matias	CHI 1993 M 2112.0452117 71.5021914 3406342

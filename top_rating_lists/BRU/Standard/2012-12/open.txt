@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Yee, Soon Wei	BRU 1989 M 2108.0521184 62.2836621 10500553

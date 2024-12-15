@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Sippola, Sara-Olivia	FIN 2007 1759.0941771 66.1373892 515469
-2 Oksanen, Maria	FIN 2012 1527.7903032 64.1006677 517593

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tran, Tuan Minh	VIE 1997 M 2328.2610746 59.7180946 12401820
-2 Tran, Minh Thang	VIE 2000 M 2157.7124108 60.1123129 12401080

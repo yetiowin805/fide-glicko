@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Martinez Duany, Lelys Stanley	CUB 1985 M 2499.7985447 64.5518012 3504727
-2 Morella Cabrera, Julio Antonio	CUB 1972 M 1976.7900877 72.7493851 3501639

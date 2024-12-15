@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Alizada, Pasham	AZE 2011 M 1712.5658573 70.4745207 13424491
-2 Huseynova, Lala	AZE 2010 F 1527.6885059 72.4681750 13431781

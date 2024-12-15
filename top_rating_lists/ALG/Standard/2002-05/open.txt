@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rizouk, Aimen	ALG 1979 M 2500.0796366 44.0131583 7900309

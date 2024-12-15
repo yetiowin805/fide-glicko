@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Amini, Habibullah	AFG 1981 M 1948.0973543 64.7395508 11700777
-2 Sarwari, Hamidullah	AFG 1989 M 1740.7760103 59.7830147 11700580
-3 Quraishii, Obaidullah	AFG 1969 M 1553.7007266 60.9730718 11701277

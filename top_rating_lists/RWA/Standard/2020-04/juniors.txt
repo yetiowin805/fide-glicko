@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Munyurangabo, Ronjin	RWA 2000 M 1610.1386856 68.2396862 16000617
-2 Cyubahiro, Ben Patrick	RWA 2006 M 1548.1206131 68.4735745 16001079

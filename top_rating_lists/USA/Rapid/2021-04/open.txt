@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gareyev, Timur	USA 1988 M 2506.3011271 73.6588341 14200937
-2 Batchis, Paul	USA 1971 M 1616.9500818 74.1199848 30929423

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hussain, Hashem	KUW 1988 M 1639.3379345 73.8704292 10300716
-2 Alhejab, Meshal	KUW 2007 M 1571.8850155 72.5960994 10302603

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Calvo Quinteiro, Jose Manuel	CUB 1994 M 2143.8165425 74.1102677 3505154
-2 Lopez Gonzalez, Abel Fabian	CUB 1997 M 1964.8692172 71.2020968 3512673
-3 Bueno Perez, Jesus Angel	CUB 1997 M 1934.7904631 72.3054668 3515400

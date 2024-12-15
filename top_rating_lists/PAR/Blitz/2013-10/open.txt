@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Torres, Mauricio	PAR 1999 M 1575.2017768 74.0458978 3702561

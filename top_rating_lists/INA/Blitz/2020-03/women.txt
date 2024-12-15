@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Sukandar, Irine Kharisma	INA 1992 2192.6065571 70.1011953 7101937
-2 Fisabilillah, Ummi	INA 2000 1899.8758050 73.9878882 7104804
-3 Elisabeth, Christine	INA 2002 1761.5897063 68.0913016 7106165

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Boric, Elena	BIH 1963 2177.0213427 71.6081255 14400839
-2 Dengler, Dijana	BIH 1966 2003.1369914 72.1639046 14400081

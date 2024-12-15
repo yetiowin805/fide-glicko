@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nabil, Michael	CYP 2003 M 1855.7586776 74.2182811 5902002
-2 Michaelides, Konstantinos	CYP 2002 M 1778.8019737 71.2936133 5901871

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Smith, Olivia	WLS 1987 2002.6985804 73.6270230 411850

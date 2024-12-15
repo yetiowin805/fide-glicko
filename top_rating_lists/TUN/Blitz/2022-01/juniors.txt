@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ben Abbes,Ayoub	TUN 2003 M 1761.0035144 72.6232837 5519888
-2 Zouari, Mohanned	TUN 2003 M 1684.0499507 73.4008306 5506220

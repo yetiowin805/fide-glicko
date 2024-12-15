@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tjong Tjin Joe, Calvin	SUR 1998 M 1824.6565206 69.5234163 8200580
-2 Ramos Dos, Rosangela	SUR 1996 F 1620.5467862 70.4537954 8200521
-3 Immanuel, Kromosoeto	SUR 1995 M 1604.2788496 74.3484672 8200750

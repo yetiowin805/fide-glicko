@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ribera Veganzones, Serni	AND 2007 M 1932.6122058 62.5427075 6900860
-2 Cabarcos Baulina, Manuel	AND 1997 M 1719.2279579 73.3240547 6901166

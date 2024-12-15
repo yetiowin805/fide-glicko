@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Al-Rufei, Eman H.	IRQ 1982 2088.6387726 70.8941981 4801067
-2 Ibrahim, Delbak Ismael	IRQ 1988 1893.3088461 74.5927969 4803116
-3 Mohammed Qane,Jannar Worya	IRQ 1977 1754.8926589 69.3715636 4802144

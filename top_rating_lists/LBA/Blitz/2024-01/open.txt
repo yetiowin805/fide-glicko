@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Elier, Ali	LBA 2001 M 2036.2473835 73.8861511 16217543
-2 Alagouri, Hamdi Gaith	LBA 1985 M 1614.7185695 74.7214346 9208020

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Alvarez, Johan	VEN 1981 M 2384.2050307 68.8760910 3900649
-2 Sanchez Castillo, Sarai	VEN 1981 F 2195.4010114 69.3813425 3900754

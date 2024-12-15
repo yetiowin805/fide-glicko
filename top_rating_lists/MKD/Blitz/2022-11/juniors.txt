@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Jovanovski, Teodor	MKD 2005 M 1809.6928264 66.0645806 15008266
-2 Velkoski, Stojan	MKD 2005 M 1738.2334645 70.5598693 15006905

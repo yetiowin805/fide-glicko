@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Abdalla Mansoor Abdalla	SUD 2002 M 1779.8985432 74.9060758 12205036
-2 Yosif, Ayman Ali Dafa Alla	SUD 1999 M 1690.7062973 72.3167301 12204145

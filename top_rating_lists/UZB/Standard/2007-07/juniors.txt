@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gareev, Timur	UZB 1988 M 2544.6551922 59.6712418 14200937
-2 Hamrakulova, Yulduz	UZB 1989 F 2151.0320158 65.4409102 14201151

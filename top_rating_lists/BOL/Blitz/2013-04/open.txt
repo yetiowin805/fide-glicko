@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gemy, Jose Daniel	BOL 1992 M 2214.2098696 73.3744699 3301478
-2 Monroy G., Javier A.	BOL 1994 M 2064.2944832 68.5809909 3302067

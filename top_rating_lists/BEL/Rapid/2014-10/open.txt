@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Dgebuadze, Alexandre	BEL 1971 M 2534.8666310 72.9577208 203882
-2 Ringoir, Tanguy	BEL 1994 M 2473.9912783 74.8404314 208027

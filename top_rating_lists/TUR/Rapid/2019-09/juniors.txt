@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pasa, Ahmet	TUR 2006 M 1718.2537492 68.7804673 44561237
-2 Akincioglu, Onur	TUR 2005 M 1681.1471273 74.8094933 34525513

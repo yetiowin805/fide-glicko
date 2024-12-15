@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ahmad, Al Khatib	JOR 1995 M 2068.1396300 71.7378201 8103178
-2 Boshra, Alshaeby	JOR 1995 F 1896.7899169 71.1150397 8102937

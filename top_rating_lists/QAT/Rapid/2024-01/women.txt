@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Al-Khelaifi, Aisha	QAT 1992 1580.7046190 67.0360691 12100625
-2 Al-Khulaifi, Ghada	QAT 1995 1544.8302616 70.7635708 12100633

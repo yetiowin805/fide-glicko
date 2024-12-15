@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Espinosa Cancino, Monica	SCO 2000 1569.8693329 64.7825650 22253025
-2 Smith, Rachel Lorna	SCO 2002 1500.5276471 72.6669304 2405520
-3 Espinosa Cancino, Carolina	SCO 2009 1147.0609139 72.2726409 2406705

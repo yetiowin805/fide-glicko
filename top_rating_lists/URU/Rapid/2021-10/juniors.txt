@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Manteiga, Franco	URU 2004 M 1822.6987579 73.5389437 3009785

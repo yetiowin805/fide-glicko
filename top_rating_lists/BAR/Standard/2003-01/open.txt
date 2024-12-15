@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Corbin, Philip	BAR 0 M 2270.9735916 69.7323622 11100036
-2 Warner, Delisle	BAR 0 M 2241.9304946 73.5776724 11100109

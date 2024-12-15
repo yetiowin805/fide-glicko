@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Putnam, Liam	USA 2008 M 2032.7669720 74.8553701 30938279

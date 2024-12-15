@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Roy, Ali	SCO 1995 1705.1328284 60.1038665 2400456
-2 Espinosa Cancino, Cristina	SCO 1997 1287.4087821 74.1178404 22244794

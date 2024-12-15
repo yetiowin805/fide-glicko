@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Costantini, Roberto	ITA 1983 M 2297.8077406 52.6243029 807621
-2 Berni, Giorgio	ITA 1985 M 2233.2292551 72.9829510 811270
-3 Scharrer, Patrick	ITA 1987 M 2119.4423969 62.5664278 811114

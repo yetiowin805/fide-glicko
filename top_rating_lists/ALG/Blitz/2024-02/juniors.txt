@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Zane, Rayane	ALG 2004 M 1843.0190525 74.5290569 7911793
-2 Brahim Djelloul , Ahmed	ALG 2009 M 1496.0035144 72.7835691 7920601

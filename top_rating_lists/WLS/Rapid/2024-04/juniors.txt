@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Zheng, Lucas	WLS 2015 M 1476.3580668 74.9157347 1806327

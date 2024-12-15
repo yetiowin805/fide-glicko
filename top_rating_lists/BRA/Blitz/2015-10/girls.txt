@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Montufar, Eymi Priscila Berrios	BRA 2003 1676.4773170 74.3634378 2142856
-2 Schucman, Rebeca Lot	BRA 1997 1506.5042230 71.0304288 2140691
-3 Quirrenbach, Emanuela Pinheiro	BRA 1998 1450.5581353 74.3693845 2152975
-4 Bartmeyer, Beatriz	BRA 1999 1350.4788993 70.1758806 2152592

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Matoewi, Roger	SUR 1975 M 2076.8090690 63.4959139 8200084

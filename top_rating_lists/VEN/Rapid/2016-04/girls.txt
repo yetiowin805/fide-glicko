@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Aponte, Oriana Isabel	VEN 1997 1786.6168088 68.6362942 3902439
-2 Pena Gonzalez, Clara Isabel	VEN 2004 1495.8257292 69.7663865 3924203
-3 Castro Paitan, Maria Raquel	VEN 2003 1495.2130169 73.5902055 3915387
-4 Monsalve Montalban, Valentina De	VEN 2001 1434.6091847 74.5213045 3905330

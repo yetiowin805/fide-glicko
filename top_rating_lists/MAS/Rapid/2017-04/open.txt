@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Erowan, Masrin	MAS 1980 M 1967.3400945 67.4860635 5701775
-2 Yusof, Kamaluddin	MAS 1967 M 1913.0867735 64.7833248 5701171

@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Garcia Pantoja, Roberto	CUB 1992 M 2313.9003458 74.7940119 3509265
-2 Quesada Vera, Liordis	CUB 1983 M 2306.7112493 72.1809943 3507009
-3 Terry Cuellar, Luis Antonio	CUB 1964 M 2076.0462321 73.3330194 3505200
-4 Rojas Serra, Alexander	CUB 1993 M 2041.9439306 69.1056078 3513858

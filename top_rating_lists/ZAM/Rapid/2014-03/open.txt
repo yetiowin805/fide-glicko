@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Phiri, Richmond	ZAM 1998 M 2029.6944716 74.4738888 8700443
-2 Chumfwa, Kelvin	ZAM 1986 M 1955.6532462 71.9154635 8700435

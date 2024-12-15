@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ho, Men-Wei	TPE 2000 M 1443.5848189 74.7199582 16300203

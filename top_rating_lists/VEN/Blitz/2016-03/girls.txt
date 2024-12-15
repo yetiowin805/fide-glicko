@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Patino Garcia, Corals	VEN 1999 1653.8899893 67.3141491 3902781
-2 Yepez Moreno, Juliet Carolina	VEN 2001 1573.2031689 61.9941587 3905438
-3 Carreno Planas, Manuela	VEN 1996 1569.2288503 72.4897858 3906019
-4 Yepez Moreno, Catherine Celeste	VEN 2003 1314.6790649 65.9247457 3905292
-5 Dumont Peroza, Agnes Coromoto	VEN 2001 1171.3838279 71.6142367 3924254

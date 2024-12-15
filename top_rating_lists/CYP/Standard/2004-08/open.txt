@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Klerides, Paris	CYP 1970 M 2236.5480219 65.4030050 5900158
-2 Papatryfonos, Constantinos	CYP 0 M 2122.8280982 59.0493563 5900280

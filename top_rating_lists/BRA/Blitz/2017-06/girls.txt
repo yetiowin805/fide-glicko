@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Santana Freitas, Maria Eduarda	BRA 2005 1537.5847244 63.4612121 2193787
-2 De Oliveira, Rafaela Farias	BRA 1997 1522.5317737 72.2418522 22713930
-3 Bartmeyer, Beatriz	BRA 1999 1373.2138403 72.9200090 2152592
-4 Ribeiro, Jessica Maria da Silva	BRA 2000 1175.6800463 72.6076075 22701320

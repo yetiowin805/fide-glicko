@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Alberto, Manuel	ANG 1974 M 2096.5506355 70.4022982 10100148
-2 Do Santos Julio, Joao Manuel	ANG 1973 M 2028.9158694 74.6314220 10100440

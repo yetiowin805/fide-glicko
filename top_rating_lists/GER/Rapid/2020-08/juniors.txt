@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Muetsch, Annmarie	GER 2002 F 2103.8372005 65.5960741 12971367
-2 Ponomarev, Maximilian	GER 2005 M 1677.8705248 68.9981231 16216768

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kebede , Yoseph Kifle	ETH 2002 M 1807.5713381 70.6540031 15708063
-2 Ermias , Caleb Yared	ETH 2010 M 1461.2538812 67.3395410 15708977

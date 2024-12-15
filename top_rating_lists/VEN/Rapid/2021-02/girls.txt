@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Guadalajara Barrios, Jacksilany	VEN 2006 1526.4299781 73.8834573 3931242
-2 Hernandez Mora, Nohelia Virginia	VEN 2005 1495.7287973 73.9523240 3915344
-3 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1302.3308667 74.3895404 3964051

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Martirosyan, Haik M.	ARM 2000 M 2489.8323554 69.4879377 13306553
-2 Sargsyan, Shant	ARM 2002 M 2440.5063247 70.1025382 13306766

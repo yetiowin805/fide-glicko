@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Vojinovic, Jovana	MNE 1992 2283.5851146 67.3612135 937266
-2 Blagojevic, Tijana	MNE 1997 1808.7103250 68.0151393 16500270

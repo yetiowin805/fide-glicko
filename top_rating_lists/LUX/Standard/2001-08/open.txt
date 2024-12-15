@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 David, Alberto	LUX 1970 M 2519.8220970 55.7782996 4000013

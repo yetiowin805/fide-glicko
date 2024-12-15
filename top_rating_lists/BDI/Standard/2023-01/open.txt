@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ezra Paul Chambers	BDI 2000 M 2033.5857950 57.1536952 20300204
-2 Muheto, Dieudonne	BDI 1984 M 1726.7679613 73.7765393 20300352

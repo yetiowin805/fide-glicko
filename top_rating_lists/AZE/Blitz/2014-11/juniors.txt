@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bajarani, Ulvi	AZE 1995 M 2350.3324284 71.4929975 13403028
-2 Iskandarov, Misratdin	AZE 1995 M 2260.4903657 66.4555322 13400312

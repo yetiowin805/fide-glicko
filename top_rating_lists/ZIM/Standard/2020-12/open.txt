@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Masango, Spencer	ZIM 1982 M 1985.2715491 63.0556829 14300753
-2 Shaba, Linda Dalitso	ZIM 1997 F 1702.7164843 72.7997301 11001631

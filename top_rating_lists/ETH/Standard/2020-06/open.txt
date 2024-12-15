@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Haile , Lidet Abate	ETH 1996 F 1683.4403542 73.2834619 15702073
-2 Tekulu,Masho Beyene	ETH 1999 F 1602.1815200 73.5215180 15702758
-3 Gebratsadik , Merhawit Brhane	ETH 1999 F 1543.3253153 74.6529625 15704190

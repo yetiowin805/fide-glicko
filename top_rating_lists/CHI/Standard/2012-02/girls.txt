@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Jorquera Cabello, Valentina	CHI 1995 1808.2735935 56.5996963 3405494
-2 Morales Flores, Monserrat	CHI 1994 1767.4950849 70.4503235 3412016
-3 Cortes Arias, Mariela	CHI 1992 1686.1727036 64.1286248 3405478
-4 Jensen Recupero, Daniela	CHI 1995 1631.3791260 58.2451774 3412229

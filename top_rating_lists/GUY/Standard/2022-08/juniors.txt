@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lee, Ethan	GUY 2003 M 1590.5872686 62.3115749 19700660
-2 Callender, Jessica	GUY 2002 F 1410.9406483 70.7518286 19700547

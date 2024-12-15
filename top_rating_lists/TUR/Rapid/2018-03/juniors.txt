@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sanal, Vahap	TUR 1998 M 2386.4284176 72.3656145 6300545
-2 Duygulu, Ugur	TUR 2008 M 1586.9624850 63.3494230 34573976

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mulauzi, Joshua	ZAM 1996 M 1660.1825488 69.8695561 8700842
-2 Lubuuto Bwalya Mulwale	ZAM 2001 F 1462.9602625 64.0093946 8706964

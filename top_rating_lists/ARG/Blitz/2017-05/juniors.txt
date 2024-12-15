@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pichot, Alan	ARG 1998 M 2476.1252450 51.8451208 110973
-2 Moro Saidon, Gonzalo	ARG 2005 M 1551.8440132 72.8594035 140082
-3 Lagares Rodriguez, Eloy Emilio	ARG 2003 M 1489.8174243 74.4904662 149551

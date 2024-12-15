@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mwase Matthew	UGA 2007 M 1773.9479190 69.0744472 10011005
-2 Mwase Arthur	UGA 2009 M 1688.7555434 69.1422210 10011200

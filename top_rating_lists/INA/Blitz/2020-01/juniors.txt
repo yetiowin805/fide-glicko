@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tobing, Daniel Hermawan Lumban	INA 2003 M 2063.4305690 71.5006458 7105487
-2 Tarigan, Gilbert Elroy	INA 2003 M 1935.5736696 73.7297021 7108133
-3 Fisabilillah, Ummi	INA 2000 F 1899.8758050 70.6013459 7104804
-4 Elisabeth, Christine	INA 2002 F 1761.5897063 64.4019414 7106165

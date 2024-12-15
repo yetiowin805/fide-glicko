@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Castillo Pena, Patricia Evarista	DOM 1991 1693.6020790 73.1589512 6412106
-2 Gonzalez Peguero, Mary Loly	DOM 1993 1668.9927480 68.1662980 6421482
-3 Ramirez Luzon, Franchesca	DOM 2004 1590.1326719 63.2229914 6421792
-4 Sanchez Jaspez, Rosangel	DOM 1998 1559.8350650 72.7483283 6427618
-5 Cabreja Lora, Suzette	DOM 1995 1497.4269924 74.8619017 6416292

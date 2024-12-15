@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Allam, Mohamed	PLE 2001 M 1737.7119680 67.2310312 11501731
-2 Faqeeh, Rahaf	PLE 2001 F 1418.6480690 71.9221287 11501723

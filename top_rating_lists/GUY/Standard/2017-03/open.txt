@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Khan, Taffin	GUY 1992 M 1915.4178752 74.7988719 19700024
-2 Varona-Thomas, Maria	GUY 1967 F 1673.5896008 72.7328992 19700288

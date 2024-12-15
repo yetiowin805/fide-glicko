@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ermenkov, Evgenij	PLE 1949 M 2439.6669058 51.4269552 2900106
-2 Michel Yunis, Christian D.	PLE 1968 M 2329.4505016 72.6392445 3400085
-3 Moussa, Alaa-Eddine	PLE 0 M 2217.2185992 66.4143076 11500042

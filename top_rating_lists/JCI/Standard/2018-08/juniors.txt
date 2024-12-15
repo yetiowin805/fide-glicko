@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gurner, Jem	JCI 2003 M 1690.6715374 72.0275752 67600280

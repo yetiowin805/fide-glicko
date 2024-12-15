@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Adeimi, Michel	LIB 1994 M 1870.2832559 69.1601644 689165
-2 Jalloul, Maya M.	LIB 1990 F 1833.6719460 69.8637182 5300800

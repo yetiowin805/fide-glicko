@@ -1,7 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Corrales Jimenez, Zenia	MEX 1989 2057.6511111 68.6409235 3506355
-2 Mendez Tovar, Yessica Yissel	MEX 1995 1907.5361281 71.8181547 5113580
-3 Guillen Cristobal, Sandra N	MEX 1999 1788.3519435 73.6879441 5131790
-4 Ramirez Toledo, Ayleen Maribel	MEX 2001 1673.5582370 68.0345955 5127459
-5 Salas Estrada, Ana Valeria	MEX 2001 1655.7415824 71.7575255 5127475
-6 Martinez Mares, Genesis Alejandra	MEX 2005 1460.2294429 74.9080400 5144264

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Harutyunian, Tigran K.	ARM 1997 M 2321.9171505 69.7372383 13303635
-2 Danielyan, Vahe	ARM 1997 M 2114.0679614 71.8268903 13304828
-3 Hakobyan, Hovhannes H.	ARM 1997 M 1817.9173938 71.8896080 13306308

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Adly, Ahmed	EGY 1987 M 2295.0615259 67.3640179 10601619

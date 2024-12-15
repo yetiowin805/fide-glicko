@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Ramirez Gonzalez, Maria Jose	CRC 1997 1669.2350931 71.5744110 6503349
-2 Salas Torres, Pamela	CRC 1998 1642.2252211 67.6871812 6505716
-3 Salazar Gould, Melanie	CRC 2003 1469.0835917 70.3110943 6505090

@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Acevedo Mendez, Jennifer	CRC 1999 1703.9610799 72.5452419 6504442
-2 Salas Torres, Pamela	CRC 1998 1669.3000081 72.9568921 6505716
-3 Salazar Gould, Melanie	CRC 2003 1524.6692552 67.0264649 6505090
-4 Ramirez Almeciga, Yenny Melisa	CRC 1997 1518.6171077 72.3386724 6503616

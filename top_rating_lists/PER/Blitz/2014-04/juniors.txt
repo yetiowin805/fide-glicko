@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Cori, Jorge	PER 1995 M 2373.8631041 74.0794773 3802272
-2 Chumpitaz, Ann	PER 1994 F 2096.5364728 72.0822318 3804178
-3 Caballero Quijano, Mitzy Mishell	PER 2001 F 1863.2076198 58.4312115 3807223

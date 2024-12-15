@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Shih, Ching-An	TPE 2001 F 1349.9765567 74.9577271 16300653

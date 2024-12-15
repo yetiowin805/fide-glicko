@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Dali, Mohamed Souhaib	TUN 1998 M 1689.8657704 72.8745570 5502446
-2 Lahmar, Chaima	TUN 1997 F 1437.6116331 63.2310348 5502063

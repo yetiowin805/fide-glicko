@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ayyad, Husain	BRN 1986 M 2063.9948757 69.3263963 11200243
-2 Al Mahmood, Salman	BRN 2004 M 1632.2112841 71.9107217 11201517

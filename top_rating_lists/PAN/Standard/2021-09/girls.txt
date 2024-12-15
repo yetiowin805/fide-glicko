@@ -1,7 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Vasquez Jaen, Lourdes Lorena	PAN 2003 1634.7924315 50.0023558 6605559
-2 Delgado Rosas, Fatima Alexandra	PAN 2001 1569.3424495 65.7758858 6603963
-3 Castillo Beitia, Ashley	PAN 2009 1558.5660914 65.0257089 6606687
-4 Alvarez Chang, Claudia Mercedes	PAN 2004 1549.5246779 64.1911207 6604374
-5 Navarro Valdes, Mariana del Carmen	PAN 2007 1428.7178437 72.2388390 6608353
-6 Lobo Jimenez, Mariana	PAN 2008 1383.7564585 67.4516402 6605516

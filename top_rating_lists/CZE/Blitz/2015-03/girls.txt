@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Richterova, Natasa	CZE 1996 1900.9609703 71.2263811 350591
-2 Kanakova, Natalie	CZE 1999 1778.8379460 65.4330043 350486
-3 Sabolova, Kristyna	CZE 1995 1727.6771095 68.3414839 332305

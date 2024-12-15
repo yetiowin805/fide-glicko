@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rezuan, Khaizuran	BRU 2009 M 1556.5838868 71.0880254 10503145

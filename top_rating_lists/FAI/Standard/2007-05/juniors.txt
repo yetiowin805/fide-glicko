@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ziska, Helgi Dam	FAI 1990 M 2374.1382146 53.7372353 7200595
-2 Dragaberg, Rogvi	FAI 1990 M 1729.7603640 74.1981910 7200633

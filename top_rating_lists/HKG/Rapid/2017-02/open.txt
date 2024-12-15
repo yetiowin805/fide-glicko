@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lai, Sai Wing	HKG 1971 M 1765.0296846 67.4260737 6001521
-2 Mahadevan, Aravind	HKG 1977 M 1499.8653079 67.0976746 6001998

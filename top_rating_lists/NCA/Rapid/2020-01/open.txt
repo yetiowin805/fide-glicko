@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Flores, Manuel	NCA 1954 M 1858.4997769 74.5435365 6100163

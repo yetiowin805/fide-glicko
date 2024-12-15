@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Tan, Zhongyi	CHN 1991 2446.3998615 69.9375854 8603642
-2 Lei, Tingjie	CHN 1997 2368.4952787 74.0760504 8605114

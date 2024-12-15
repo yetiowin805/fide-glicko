@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Samakov, Nurdin	KGZ 1985 M 2281.7449198 68.4551526 13800345
-2 Tologontegin, Semetey	KGZ 0 M 2223.8166444 64.9378993 13800574
-3 Arishin, Sergei	KGZ 1962 M 2131.0381000 71.4001440 13800191

@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Crispin Ferreras, Darvi Abraham	DOM 1993 M 1916.3163588 72.3255482 6402771
-2 Almanzar Vasquez, Jennifer Maria	DOM 1993 F 1623.5396626 71.8664497 6406505
-3 Santos Almonte, Carol	DOM 1993 F 1565.4455976 67.2694152 6402348
-4 Villar Acevedo, Darlin Rocio	DOM 1996 F 1562.3781329 70.9434403 6405053

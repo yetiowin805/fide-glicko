@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bourg, Nicolas	LUX 2008 M 1862.8543150 54.9244951 4006160
-2 Ortiz Bogdanov, Pablo	LUX 2008 M 1568.4341228 62.6444968 4005945
-3 Ortiz Bogdanov, Santiago	LUX 2010 M 1488.7178160 68.6455523 4005953

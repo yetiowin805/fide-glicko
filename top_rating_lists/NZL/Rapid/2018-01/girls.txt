@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Punsalan, Vyanla M	NZL 2004 1787.0013197 56.0748460 4305850
-2 Zhang, Jasmine Haomo	NZL 2003 1724.8345332 67.0135010 4304632
-3 Ning, Isabelle Yixuan	NZL 2009 1440.0225412 72.6501597 4307763

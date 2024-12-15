@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Yang,ching Wei, Austin	TPE 1998 M 1629.9621195 70.2181501 16300440
-2 Ho, Men-Wei	TPE 2000 M 1523.2391837 71.2168804 16300203

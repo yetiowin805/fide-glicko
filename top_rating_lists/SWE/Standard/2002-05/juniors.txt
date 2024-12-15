@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tikkanen, Hans	SWE 1985 M 2312.6962512 69.1400107 1706446
-2 Olsson, Linus	SWE 1984 M 2310.6747775 68.8728895 1706098

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Elier, Ali	LBA 2001 M 2147.6263129 66.2273378 16217543
-2 Alzantuti, Yousef	LBA 1961 M 1732.0011377 57.2579463 9200673

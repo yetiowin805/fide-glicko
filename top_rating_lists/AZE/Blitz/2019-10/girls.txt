@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Balajayeva, Khanim	AZE 2001 2066.9672400 72.6655531 13406396
-2 Beydullayeva, Govhar	AZE 2003 1929.4852042 67.3489014 13413015
-3 Allahverdiyeva, Ayan	AZE 2005 1860.0651862 61.2884399 13412590

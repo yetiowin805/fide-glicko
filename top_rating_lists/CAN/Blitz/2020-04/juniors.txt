@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Atanasov, Anthony	CAN 2008 M 1981.5780771 70.7697090 2623897

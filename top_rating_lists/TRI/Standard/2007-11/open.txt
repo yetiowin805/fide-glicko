@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Joseph, Marcus	TRI 1987 M 2009.2584414 73.1386204 7700393

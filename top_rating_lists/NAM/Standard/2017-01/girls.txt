@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Horn Caro	NAM 2001 1206.5760652 74.3062636 15200884

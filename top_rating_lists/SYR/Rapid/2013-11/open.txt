@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rafee, Mohd Hayel	SYR 1900 M 1895.4605586 73.7437401 7603126

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nazarova, Anastasia	FIN 2001 F 2003.4883657 60.0264316 34101737
-2 Wartiovaara, Oliver	FIN 2004 M 1875.9956711 67.1347991 513024

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Abuanza Mousa	PLE 1991 M 1747.5295931 71.2525870 11510889

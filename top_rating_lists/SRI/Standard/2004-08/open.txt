@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Weeramantry, Sunil	SRI 1951 M 2218.1320468 69.3693043 9900055
-2 Wijesurija, G. Laxman	SRI 0 M 2096.4595736 71.4923866 9900144

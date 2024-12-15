@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Surya, Jaya	FID 2003 M 1419.2260778 62.9203302 11202920

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Meisch, Tanguy	LUX 1996 M 1635.3682741 71.8038854 4002407
-2 Chalabi, Max	LUX 1996 M 1557.1828978 74.8617412 4002741

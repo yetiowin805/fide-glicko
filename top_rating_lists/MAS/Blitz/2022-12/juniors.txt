@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Poh, Yu Tian	MAS 2009 M 1998.0012301 73.9550463 5734088
-2 Chua, Jia-Tien	MAS 2003 F 1704.4203993 73.7213913 5710006

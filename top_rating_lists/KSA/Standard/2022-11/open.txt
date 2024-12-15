@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Alharthi, Ahmed Mohammed A	KSA 2005 M 1847.0271569 72.1765043 21522642
-2 Alzamil, Abdulaziz	KSA 1990 M 1824.7899401 66.7959000 21507996
-3 Al Abdali, Zeyad Saleh	KSA 1985 M 1698.3043896 73.3145002 21501505

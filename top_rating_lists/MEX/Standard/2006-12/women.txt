@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Hernandez, Yadira	MEX 0 2161.7659731 66.2909823 5100992
-2 Estrada Gaspar, Nelly Massiel	MEX 0 2003.4885464 65.3764033 5106320
-3 Medina Altamirano, Karla	MEX 0 1966.6086936 73.4821602 5105404

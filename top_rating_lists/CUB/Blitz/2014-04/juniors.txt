@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Calvo Quinteiro, Jose Manuel	CUB 1994 M 2143.8165425 72.3857716 3505154
-2 Ochoa de la Rosa, Manuel Dario	CUB 1994 M 2056.0589223 74.3556251 3509540
-3 Lopez Gonzalez, Abel Fabian	CUB 1997 M 1964.8692172 69.4396247 3512673

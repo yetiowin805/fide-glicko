@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Barros, Luis	CPV 1975 M 1576.9993177 71.4119993 23600110
-2 Moes Joaquim, Carlos	CPV 1953 M 1557.6808504 68.5676977 1928104

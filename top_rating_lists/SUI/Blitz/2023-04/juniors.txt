@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hryzlova, Sofiia	SUI 2004 F 1911.0602591 69.3518348 14174669
-2 Manko, Mariia	SUI 2007 F 1831.1061696 69.3505648 14199220

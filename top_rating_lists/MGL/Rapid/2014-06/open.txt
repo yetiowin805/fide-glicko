@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Batchimeg Tuvshintugs	MGL 1986 F 2239.7661758 73.8101005 4900839
-2 Buyandalai, Tumen	MGL 1973 M 2111.3809752 71.0196197 4901916

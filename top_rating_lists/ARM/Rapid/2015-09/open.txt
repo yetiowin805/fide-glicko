@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Aronian, Levon	ARM 1982 M 2783.9098326 71.9386921 13300474
-2 Movsesian, Sergei	ARM 1978 M 2658.0533455 73.6253338 310204

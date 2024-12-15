@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hernandez Bermudez, Manuela	COL 2004 F 1625.2252701 74.1916630 4483103
-2 Cayon, Laura Valentina	COL 2001 F 1596.4730614 71.8034579 4430840
-3 Ceballos Castellanos, Isabela	COL 2004 F 1471.3311735 73.5402530 4452410

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Adeimi, Michel	LIB 1994 M 1856.6713001 64.5361306 689165

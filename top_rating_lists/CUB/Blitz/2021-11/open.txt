@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Jul Perez, Alberto	CUB 1997 M 2007.9487974 66.3070547 3516270
-2 Rivero Guerra, Yoel Orlando	CUB 1979 M 1632.3093245 53.0381754 3517411

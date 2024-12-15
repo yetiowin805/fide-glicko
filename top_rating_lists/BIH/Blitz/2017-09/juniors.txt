@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Maksimovic, Masa	BIH 2001 F 1921.9796423 66.3289628 14408902

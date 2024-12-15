@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Shrestha, Keshav	NEP 0 M 2042.6172298 74.9996399 12300055

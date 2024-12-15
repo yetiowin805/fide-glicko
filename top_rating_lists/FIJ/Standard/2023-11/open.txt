@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Norris, Damian C	FIJ 1962 M 1704.2063847 74.4948973 11400048
-2 Prasad, Rudr	FIJ 2005 M 1615.3257776 71.1612918 11401095

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Guzman, Oswaldo	GUA 1995 M 1898.0822417 71.8168198 7300930
-2 Mencos Castillo, Maria	GUA 1996 F 1682.0399756 65.1004672 7300867

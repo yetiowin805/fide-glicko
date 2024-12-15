@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Prudente, Elmer	GUM 1965 M 1830.4872343 74.8629951 31000690
-2 Ollet, Myra	GUM 1979 F 1414.9226905 71.2156008 31000517

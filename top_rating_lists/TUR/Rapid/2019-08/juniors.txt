@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pasa, Ahmet	TUR 2006 M 1675.6820440 74.8207858 44561237

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Wiedenkeller, Michael	LUX 1963 M 2285.8532893 68.1660143 1700146
-2 Ocantos, Manuel	LUX 1981 M 2058.1860954 69.0663255 170925
-3 Maltezeanu, Stefan	LUX 1999 M 2025.0247390 66.5070613 4004655

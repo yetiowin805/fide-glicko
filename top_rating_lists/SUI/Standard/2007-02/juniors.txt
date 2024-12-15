@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Muheim, Lukas	SUI 1989 M 2181.9141561 59.8295634 1309498
-2 Nuri, Kambez	SUI 1992 M 2121.2978332 55.1069357 1311433

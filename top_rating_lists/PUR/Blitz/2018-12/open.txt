@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Virola-Mendez, Michael	PUR 1900 M 1240.5196945 73.8592866 3100456

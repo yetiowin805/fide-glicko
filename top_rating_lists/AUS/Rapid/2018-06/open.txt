@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rodgers, Jack	AUS 1996 M 1910.2930203 74.0264116 3220885
-2 Yachou, Nur	AUS 1969 M 1721.0042560 73.9399052 3204626

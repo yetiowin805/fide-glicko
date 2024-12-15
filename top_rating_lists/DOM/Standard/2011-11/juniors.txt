@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Crispin Ferreras, Darvi Abraham	DOM 1993 M 1852.8848225 74.7564718 6402771
-2 Villar Acevedo, Darlin Rocio	DOM 1996 F 1524.4393638 74.9606106 6405053

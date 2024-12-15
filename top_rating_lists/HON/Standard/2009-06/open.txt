@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Huguet, Sergio	HON 1970 M 2066.5629578 60.4360289 2212552
-2 Torres, Carolina	HON 0 F 1788.1018941 74.7943444 8400504

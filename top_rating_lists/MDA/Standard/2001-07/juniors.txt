@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Khruschiov, Alexey	MDA 1982 M 2441.7214624 73.0886261 13900544

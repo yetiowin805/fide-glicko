@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rivera, Alberto	FID 1957 M 2099.3429173 67.0256678 3500390
-2 Safarli, Aykhan	FID 1989 M 1887.6224815 72.6791132 6364802

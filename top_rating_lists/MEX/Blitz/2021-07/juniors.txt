@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Flores Teillery, Alejandro Franci	MEX 2006 M 1745.1864648 73.7997217 5136660
-2 Diaz Espinoza, Axel Alberto	MEX 2001 M 1733.3937189 73.5368333 5128722
-3 Mendieta, Gallegos Diego Armando	MEX 2004 M 1549.8278270 72.6202985 5159580
-4 Del Razo Mendoza, Nancy Ailine	MEX 2006 F 1344.4652671 72.7604739 5137632

@@ -1,7 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Schnepper, Amanda Piveta	BRA 1996 1550.4720609 74.2759383 2152991
-2 Santana Freitas, Maria Eduarda	BRA 2005 1488.9994468 66.5999398 2193787
-3 Bartmeyer, Maria Veronica	BRA 1997 1448.9821168 67.5811354 2152614
-4 Bartmeyer, Beatriz	BRA 1999 1374.2408970 71.9336150 2152592
-5 Balbys, Fernanda Santoro Boscard	BRA 2002 1323.4969650 73.5072889 2172950
-6 Ribeiro, Jessica Maria da Silva	BRA 2000 1139.0546569 70.0895030 22701320

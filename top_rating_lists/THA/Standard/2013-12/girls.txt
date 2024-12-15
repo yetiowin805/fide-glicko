@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Atthaworadej, Worasuda	THA 1999 1618.6276822 66.2546625 6201563
-2 Srijomtong, Isawan	THA 1998 1486.7921518 74.9789745 6201903
-3 Vongvatthana, Chananchida	THA 2000 1457.1685110 73.3492287 6202179

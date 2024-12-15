@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Wynn Zaw Htun	MYA 1982 M 2545.0475839 66.9483638 13002783

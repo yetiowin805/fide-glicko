@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Janahi, Zeyaad	BRN 1979 M 2094.4483016 74.5684524 11200073
-2 Abdulgalil, Husain	BRN 0 M 1998.0267895 70.3656758 11200243

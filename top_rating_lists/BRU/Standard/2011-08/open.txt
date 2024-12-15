@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Yee, Soon Wei	BRU 0 M 2136.5013544 56.8346771 10500553
-2 Hj, Azahari Md Aliuddin	BRU 0 M 1874.5024333 74.6805943 10500324
-3 Munir, Azizi Bin Ahmad	BRU 0 M 1648.8276498 71.7877081 10500057

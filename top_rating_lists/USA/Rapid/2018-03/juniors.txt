@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Zohar, Iddo	USA 2002 M 1447.7171420 74.5646925 2080923
-2 Kunnavakkam, Sudarshanagopal Vin	USA 2006 M 1418.8408093 63.6388381 30926580

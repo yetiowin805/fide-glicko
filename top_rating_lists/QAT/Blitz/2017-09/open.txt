@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 AL-Sayed, Mohammed	QAT 1981 M 2468.1503865 71.1871498 12100196
-2 Zhu, Chen	QAT 1976 F 2211.1474002 71.4779016 8600546

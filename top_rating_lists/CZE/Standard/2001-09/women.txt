@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Jackova, Jana	CZE 1982 2399.9449511 65.9574900 308498
-2 Krupkova-Mazakova, Petra	CZE 1976 2359.6612803 72.4083213 304050
-3 Hitzgerova, Gabriela	CZE 1979 2117.4250509 62.0732561 308366

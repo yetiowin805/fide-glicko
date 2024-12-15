@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Ostensson, Julia	SWE 2005 1767.9348505 55.8722794 1747703
-2 Andersson, Sol	SWE 2011 1418.8812797 64.5841664 1762702

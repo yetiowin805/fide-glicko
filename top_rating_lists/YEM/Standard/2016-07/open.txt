@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al-Hadarani, Hatim	YEM 1959 M 2168.0180058 60.1085347 9400273
-2 Sultan, Mohamed	YEM 1900 M 2056.7813783 60.8054077 9401610

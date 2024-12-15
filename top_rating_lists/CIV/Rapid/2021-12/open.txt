@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 De Gondo, Simplice Armel	CIV 1985 M 1919.3026566 72.2316573 14306310
-2 Amako Marc Arnold	CIV 1989 M 1696.9758156 73.0099891 20802676

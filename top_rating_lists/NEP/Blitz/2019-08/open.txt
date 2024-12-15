@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Thing, Bibek	NEP 1995 M 2023.7824304 68.8558319 12303135
-2 Phuyal, Aashish	NEP 1997 M 1923.7176331 73.8678264 12312649

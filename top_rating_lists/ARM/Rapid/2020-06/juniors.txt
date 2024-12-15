@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Khachatryan, Samvel S.	ARM 2003 M 2091.1379485 66.6989627 13309048
-2 Nazaryan, Gor	ARM 2005 M 1514.6007797 70.1774920 13316761

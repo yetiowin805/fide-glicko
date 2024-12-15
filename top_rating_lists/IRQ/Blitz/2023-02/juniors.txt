@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ali Firas Qassim	IRQ 2006 M 1904.7682006 60.9734508 4810139
-2 Zaid Alaa Chaseb	IRQ 2005 M 1686.1626547 74.6398266 4811623

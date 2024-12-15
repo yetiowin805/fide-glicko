@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Petrosyan, Manuel	ARM 1998 M 2462.4086492 73.8816264 13300857
-2 Harutyunian, Tigran K.	ARM 1997 M 2321.9171505 67.9483533 13303635

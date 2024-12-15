@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ababneh, Ghayth	JOR 1982 M 1917.6704831 58.4302834 8101043
-2 Alattar, Ghayda M.	JOR 1991 F 1831.0477129 74.7515217 8101531

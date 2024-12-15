@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Boschetti, Claudio	SUI 1957 M 2074.9963157 73.0079119 1300920
-2 Bilin, Halil	SUI 1982 M 1560.6684681 64.8570183 1335065

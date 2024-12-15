@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Bojkovic, Natasa	SCG 1971 2426.5805914 55.8371924 908550
-2 Prudnikova, Svetlana	SCG 1967 2411.1850800 66.8867777 929700
-3 Dimitrijevic, Aleksandra	SCG 1986 2223.7164446 65.6761617 929239

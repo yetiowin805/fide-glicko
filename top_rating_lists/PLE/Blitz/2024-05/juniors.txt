@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 AbuAzizah, Raji	PLE 2006 M 1889.4146046 52.5472040 11503327
-2 Sawan, Eman	PLE 2007 F 1827.1811344 52.9891580 11511729

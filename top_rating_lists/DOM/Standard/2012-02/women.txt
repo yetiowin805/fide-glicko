@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Jose Polanco, Kenia	DOM 1985 1788.5455537 65.6432111 6401074
-2 Hazim, Elizabeth	DOM 1962 1668.0660783 70.8091272 6400183
-3 Diaz Cesar, Wilsaida Pieranlly	DOM 1991 1597.8616176 73.9692419 6403557

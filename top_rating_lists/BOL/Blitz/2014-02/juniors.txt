@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mendoza, Rodrigo	BOL 1994 M 2013.9354713 73.3027668 3301931

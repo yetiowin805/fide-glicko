@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lopez, Jasel	ARU 1994 M 2006.1094528 64.7637869 15900045
-2 De Mey, Juan Pablo	ARU 1994 M 1846.2293683 74.9689737 15900312

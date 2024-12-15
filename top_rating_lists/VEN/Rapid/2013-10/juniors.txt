@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Perez Sanchez, Ricardo Jose	VEN 1996 M 1865.3177559 73.4391376 3903923
-2 Patino, Carols	VEN 1997 F 1522.8718323 74.0250541 3902790

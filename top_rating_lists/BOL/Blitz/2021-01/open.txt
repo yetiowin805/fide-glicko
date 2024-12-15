@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Titichoca Daza, Daniel	BOL 2003 M 1891.1489334 74.1491639 3309550
-2 Mollo, Jhoan	BOL 2003 M 1864.5811164 71.1786531 3304620
-3 Ticona Rocabado, Licael Roderick	BOL 2008 M 1823.3994334 73.4124437 3319113
-4 Mollo Figueroa, Nicole	BOL 2011 F 1414.7894011 70.5039337 3325687

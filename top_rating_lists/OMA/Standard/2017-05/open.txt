@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Salim Mohammed Salim Al Amri	OMA 1989 M 1881.4654087 66.9112601 22000089
-2 Al Ansi Amin	OMA 1973 M 1787.1674997 71.1260546 22000054
-3 Salim issa ali shamas	OMA 1969 M 1786.0044232 66.8595207 22000062

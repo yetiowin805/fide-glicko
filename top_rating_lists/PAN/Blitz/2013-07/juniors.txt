@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Aizpurua, Patrick	PAN 1994 M 2035.2315047 58.7682381 6600522
-2 Fuentes, Adrian	PAN 1998 M 1789.6399205 70.2867093 6600875

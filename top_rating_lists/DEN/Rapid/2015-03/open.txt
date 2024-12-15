@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hjort, Helge	DEN 1944 M 1804.6423352 59.1679589 1436678

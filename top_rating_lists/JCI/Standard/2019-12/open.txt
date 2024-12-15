@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Wojciechowski, Paul	JCI 1954 M 1810.8757229 70.7368082 15600017
-2 Gurner, Jem	JCI 2003 M 1701.9156760 73.0629004 67600280

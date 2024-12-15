@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Cu Hor, Winston Darwin	GUA 1990 M 2152.7264177 55.3730888 7300662
-2 Juarez Garcia, Daniela	GUA 2006 F 1495.4932655 71.6557603 7302703
-3 Santos Sagastume, Paolo Andres	GUA 2009 M 1415.0021748 71.6442964 7303866

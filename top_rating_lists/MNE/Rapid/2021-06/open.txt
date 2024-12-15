@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lekic, Dusan	MNE 1969 M 2246.3302104 59.9181656 905330
-2 Laban, Zoran	MNE 1965 M 1861.9552861 70.6564163 925390

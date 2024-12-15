@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Peter Majur Manyang	SSD 1996 M 1963.7691540 70.6539226 32500840

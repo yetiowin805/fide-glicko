@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Prasad, Rudr	FIJ 2005 M 1662.8163204 67.1750551 11401095
-2 Prasad, Tanvi	FIJ 2006 F 1443.3219437 69.6992791 11401117

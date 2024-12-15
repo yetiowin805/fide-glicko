@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Derakhshani, Dorsa	FID 1998 2168.9956885 46.3096623 12500330
-2 Skok, Amalija	FID 2002 1423.3021918 55.7883560 54600600

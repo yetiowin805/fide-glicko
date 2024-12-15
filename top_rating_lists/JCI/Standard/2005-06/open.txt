@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hawes, Jonathan	JCI 1964 M 2159.9737306 74.5413211 15600033

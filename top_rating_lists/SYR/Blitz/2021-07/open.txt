@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rayes, Abdul Kader	SYR 1980 M 1918.9070024 68.9973159 7600801
-2 Alkhour, Seifedin	SYR 1982 M 1600.9687053 74.1933868 7604394

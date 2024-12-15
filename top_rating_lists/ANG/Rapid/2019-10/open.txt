@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Silva, David	ANG 1998 M 2211.1637091 63.7405695 10101314
-2 Caxita, Esperanca	ANG 1999 F 1790.6261349 72.3543001 10100903

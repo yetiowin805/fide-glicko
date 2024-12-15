@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Jose Polanco, Kenia	DOM 1985 1772.5806862 74.9037518 6401074
-2 Pimentel, Rosaura	DOM 0 1582.6476356 71.9537016 6401368

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Mahmoud, Merihan	EGY 1990 1716.6289935 73.7640658 10607382
-2 Abdelmenaem, Sohayla	EGY 1997 1519.3699928 73.1947171 10610529

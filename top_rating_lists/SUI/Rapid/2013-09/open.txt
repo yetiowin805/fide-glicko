@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pelletier, Yannick	SUI 1976 M 2599.3766283 65.3443017 1301837

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Koniahli, Malek.	SYR 2000 M 2103.0300463 54.5134546 7603495
-2 Yaghy,Ritta.	SYR 1999 F 1740.6968771 70.1601900 7603266

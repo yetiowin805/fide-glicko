@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Jalaluldeen, Kareen Kamal J.	IRQ 1992 1744.9317347 67.3014819 4801776
-2 Al-Fayyadh, Yamama Asif Abdula	IRQ 2001 1592.0153255 74.9434508 4806700
-3 Tiba, Mahdi Attiyah	IRQ 2006 1471.6330466 74.6637400 4809521

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Paiva, Donaldo	MOZ 1991 M 2049.3433398 68.7914047 14800098
-2 Vilhete, Vania Fausto Da T.	MOZ 1985 M 1664.3361771 70.8899271 14800144

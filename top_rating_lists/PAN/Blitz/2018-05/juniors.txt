@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Chaluja, Jose Antonio	PAN 2000 M 1753.4343366 70.4638681 6600565
-2 Herrera, Diego	PAN 2000 M 1478.1012729 71.4544512 6601170

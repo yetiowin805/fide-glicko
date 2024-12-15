@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Titova-Boric, Elena	BIH 1963 2297.3732531 69.2280670 14400839
-2 Dengler, Dijana	BIH 1966 2098.7253594 64.8221409 14400081

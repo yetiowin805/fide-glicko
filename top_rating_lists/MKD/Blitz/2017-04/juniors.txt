@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Peev, Kosta	MKD 1997 M 1785.0628314 72.4646755 15001660

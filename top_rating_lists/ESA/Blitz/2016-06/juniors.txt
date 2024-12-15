@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 De Leon, Stephanie	ESA 2000 F 1552.4748425 74.4789521 6703127

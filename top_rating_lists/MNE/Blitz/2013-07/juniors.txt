@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pecurica, Milos	MNE 1994 M 2038.1541797 73.4258919 944963
-2 Lekic, Lazar	MNE 1997 M 1845.6640421 74.1130134 900052

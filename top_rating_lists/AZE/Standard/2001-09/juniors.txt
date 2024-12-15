@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Radjabov, Teimour	AZE 1987 M 2564.7575635 49.4665999 13400924
-2 Mamedyarov, Shakhriyaz	AZE 1985 M 2507.0629043 51.9720250 13401319

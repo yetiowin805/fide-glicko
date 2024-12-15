@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kaczur, Florian	HUN 1998 M 2333.4542594 74.7336163 705098
-2 Szukics, Adam	HUN 1999 M 1878.6977125 73.3505268 751871

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Olsen, Filip Boe	DEN 2003 M 2015.5273921 73.0267698 1440640
-2 Baliuniene, Margarita	DEN 1960 F 1765.6854548 59.0186039 12802760

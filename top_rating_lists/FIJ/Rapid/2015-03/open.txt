@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sukhu, Gloria	FIJ 1954 F 1547.7248900 67.2021555 11400099
-2 Nahapetyan, Gor	FIJ 2003 M 1527.2086623 72.9359792 11400676

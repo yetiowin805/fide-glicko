@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Jaiswal, Rupesh	NEP 1998 M 1972.4026784 74.4983544 12300870
-2 Dangol, Bijaya	NEP 1997 M 1881.8242219 68.3260703 12303038

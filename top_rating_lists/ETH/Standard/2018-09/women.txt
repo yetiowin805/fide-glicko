@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Haile , Lidet Abate	ETH 1996 1606.0726409 72.7473589 15702073
-2 Girmay, Feven Gebremeskel	ETH 1996 1598.7924990 74.7988116 10801804

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lee, Ethan	GUY 2003 M 1689.9769249 69.4589228 19700660
-2 Sandiford, Keron	GUY 2003 M 1661.6338625 70.1594479 19701276

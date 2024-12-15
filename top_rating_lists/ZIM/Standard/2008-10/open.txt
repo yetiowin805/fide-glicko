@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gwaze, Robert	ZIM  M 2429.0000000 73.7108497 11000228
-2 Masango, S.	ZIM  M 2123.5231765 73.7606267 14300753

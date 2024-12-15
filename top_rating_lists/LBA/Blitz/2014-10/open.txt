@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Almahjoub, Mokhtar	LBA 1964 M 1799.6213788 71.2862405 9202056
-2 Alnami, Salaheddin	LBA 1993 M 1783.5102544 72.1591272 9200959
-3 El Mashaili, Khalil	LBA 1994 M 1765.0259037 71.8582245 9200525

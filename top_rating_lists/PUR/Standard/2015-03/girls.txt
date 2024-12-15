@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Vazquez Maccarini, Danitza	PUR 2000 1835.2160796 50.0793996 3101193
-2 Morales Santos, Natasha	PUR 1998 1694.8516091 50.6240542 3101703
-3 Comas Colon, Rinelly M.	PUR 1995 1662.1659429 67.5734204 3101576

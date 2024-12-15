@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Fong, Yit San	MAS 1994 M 1961.8179024 71.1399976 5702640
-2 Azman Hisham, Nur Nabila	MAS 1997 F 1829.6326393 73.9946763 5702135

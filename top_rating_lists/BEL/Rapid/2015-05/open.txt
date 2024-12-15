@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Herman, Jean	BEL 1991 M 2007.0160795 72.0236213 263036
-2 Mastalerz, Xavier	BEL 1991 M 1993.2698970 74.1962776 208310

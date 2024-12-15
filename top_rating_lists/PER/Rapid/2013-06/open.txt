@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Granda Zuniga, Julio E	PER 1967 M 2613.3330346 71.5067169 3800024
-2 Cori T., Deysi	PER 1993 F 2306.6450223 71.3685524 3801934
-3 Camarena Meza, Jackeline Edy	PER 1996 F 1551.2766515 74.4922666 3814971

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lombard, Olivier	MLT 1985 M 1811.4340798 66.8522084 5602386
-2 Fleri, Luke	MLT 2007 M 1608.4452014 70.1409724 5602173

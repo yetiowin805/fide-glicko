@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Ibrahim, Delbak Ismael	IRQ 1988 1907.3775546 72.3508463 4803116
-2 Mohammed Qane,Jannar Worya	IRQ 1977 1726.2438181 69.5438258 4802144

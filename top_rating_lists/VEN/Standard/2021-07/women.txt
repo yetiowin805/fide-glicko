@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Patino Garcia, Corals	VEN 1999 1791.6481560 74.1499459 3902781
-2 Perez Hernandez, Vicmary C.	VEN 2005 1728.8285822 73.9922943 3930831
-3 Guadalajara Barrios, Jacksilany	VEN 2006 1509.9343171 70.6723087 3931242
-4 Matute Ferrer, Rosa Angelina	VEN 1967 1269.8452640 65.2255026 3969177
-5 Leon De Canha, Yassell Arianne	VEN 2008 1258.6143762 73.7426088 3974898

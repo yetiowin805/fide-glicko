@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Khusenkhojaev, Mustafokhuja	TJK 1998 M 2031.7318613 73.9114079 14700727
-2 Yunusov, Mukhammad	TJK 1999 M 1614.9503610 72.2853093 14700930
-3 Abrorova, Sabrina	TJK 2006 F 1604.7703081 68.8027493 14701553

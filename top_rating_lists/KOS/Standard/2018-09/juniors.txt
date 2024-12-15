@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Uruci, Endrit	KOS 2000 M 1972.9538014 69.3772422 22100199
-2 Asllani, Muhamet	KOS 2000 M 1874.2009907 71.4767007 22100300

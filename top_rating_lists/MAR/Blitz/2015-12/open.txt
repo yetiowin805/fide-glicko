@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Choukri, Adel	MAR 1900 M 2280.7413259 73.9350444 9000399
-2 Tissir, Mohamed	MAR 1976 M 2231.7463564 73.9198708 9000240

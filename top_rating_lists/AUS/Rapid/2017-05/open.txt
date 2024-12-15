@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rodgers, Jack	AUS 1996 M 1944.3379526 67.2320629 3220885
-2 Hondrokostas, Kon	AUS 1971 M 1345.6347541 71.8374947 3223922

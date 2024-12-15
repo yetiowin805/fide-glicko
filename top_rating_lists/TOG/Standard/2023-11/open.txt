@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tchouka, Yakini	TOG 1996 M 1818.4453851 57.4478467 21201382
-2 Egbe, Kossi Thierry	TOG 2002 M 1712.4532159 69.7972132 21201510
-3 De Souza, Ivana Claudia Eyram	TOG 2003 F 1311.2480805 73.1737954 21201200

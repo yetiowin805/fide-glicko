@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Harper, Ryan	TRI 0 M 2259.6182662 66.4806840 7700156

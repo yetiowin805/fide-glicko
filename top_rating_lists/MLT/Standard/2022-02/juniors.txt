@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mizzi, Jack	MLT 2006 M 1748.6029918 56.6104001 5602521
-2 Fleri, Matthew	MLT 2007 M 1654.6276852 74.5615422 5602165

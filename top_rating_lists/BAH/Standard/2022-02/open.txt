@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Karelina, Polina	BAH 2001 F 1700.3278221 62.3735837 10400222

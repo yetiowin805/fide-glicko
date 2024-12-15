@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Katsuhara, Osamu	JPN 1976 M 2060.2340946 45.0006436 2022656

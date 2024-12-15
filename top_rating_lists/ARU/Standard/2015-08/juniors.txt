@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Jacobs, Annelaine	ARU 1996 F 1572.4560714 74.8568442 15900177

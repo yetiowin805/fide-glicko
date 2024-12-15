@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Baules, Jorge	PAN 1983 M 2289.7514381 62.4131275 6600247
-2 Sanchez, Jorge	PAN 1982 M 2070.5901772 68.2861558 6600280

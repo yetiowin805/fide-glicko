@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nilssen, John Arni	FAI 1974 M 2384.0204820 68.9681434 7200137
-2 Naes, Flovin Tor	FAI 1978 M 2227.3443921 71.1516608 7200250

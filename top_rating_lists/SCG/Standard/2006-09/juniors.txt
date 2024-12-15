@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nestorovic, D. Nikola	SCG 1989 M 2362.7763531 69.8722432 934526
-2 Stojanovic, Andjelija	SCG 1987 F 2148.1773262 72.7787996 928682
-3 Djukic, Sandra	SCG 1988 F 2068.2241415 73.7557665 931390

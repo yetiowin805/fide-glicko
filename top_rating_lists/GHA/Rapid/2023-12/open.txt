@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Fomevor, Cephas Clinton	GHA 1998 M 1834.0459090 71.2453812 12601330
-2 Ameku, Philip Elikem	GHA 1989 M 1804.9674261 69.4181124 12600326
-3 Aikins, Dwamena Akenten	GHA 1998 M 1582.8362915 71.5081627 12601322

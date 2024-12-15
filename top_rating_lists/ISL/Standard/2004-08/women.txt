@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Ptacnikova, Lenka	ISL 1976 2213.2023016 56.5103440 305650
-2 Gretarsdottir, Lilja	ISL 0 1979.7936240 70.9164663 2301385
-3 Ingolfsdottir, Harpa	ISL 1981 1936.3071729 70.4769867 2301270

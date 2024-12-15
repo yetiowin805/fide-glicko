@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Weissenhofer, Jonas	LIE 2006 M 1579.6908295 71.2805382 12000183
-2 Heron, Andrew	LIE 2007 M 1421.7688243 74.7543849 12000213

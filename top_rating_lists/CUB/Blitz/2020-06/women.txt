@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Gonzalez Ochoa, Yoana	CUB 1992 1924.0902004 67.2699821 3507629
-2 Palmero Martinez, Rachel	CUB 1997 1759.9735428 74.7353199 3516466
-3 Mantilla Gras, Geydis De la C.	CUB 2000 1720.9283956 72.3260195 3521508

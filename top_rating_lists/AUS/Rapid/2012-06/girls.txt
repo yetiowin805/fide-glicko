@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Guo, Emma	AUS 1995 1897.1654803 66.1234892 3200795
-2 Narenthran, Savithri	AUS 1998 1574.0164519 74.9608905 3213250

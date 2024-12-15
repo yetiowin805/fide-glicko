@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ynojosa, Felix Jose	VEN 1996 M 2286.6301633 72.3787731 3900258
-2 Bassan, Remo	VEN 1994 M 2185.4808468 73.7845585 3901564
-3 Perez Sanchez, Ricardo Jose	VEN 1996 M 1824.9985320 72.1087845 3903923

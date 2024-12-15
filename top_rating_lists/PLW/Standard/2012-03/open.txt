@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Manuel, Menandro	PLW 1951 M 1839.0311487 74.0578068 16600029
-2 Hernandez, Roberto	PLW 1956 M 1751.1943083 70.5672155 16600010

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Somoff, Abdo	LBN 1961 M 1895.6044281 62.9045678 5300754
-2 Nekrasova, Elena	LBN 1970 F 1848.8138731 74.1637314 14100908

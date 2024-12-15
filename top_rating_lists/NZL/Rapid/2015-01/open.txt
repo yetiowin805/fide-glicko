@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gao, Hans	NZL 1998 M 2006.0924350 74.7391919 4302460
-2 Mitchell, Robert	NZL 1941 M 1507.8122257 58.9639117 4302095

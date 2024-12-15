@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Belkhodja, Slim	TUN 1962 M 2528.3107925 50.1529929 600229
-2 Bouaziz, Slim	TUN 1950 M 2350.4003612 72.3059014 5500010

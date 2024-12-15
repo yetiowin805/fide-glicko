@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Giri, Anish	NED 1994 M 2609.6786179 68.9646393 24116068
-2 Snuverink, Jochem	NED 1979 M 2205.0158829 70.2746714 1005642

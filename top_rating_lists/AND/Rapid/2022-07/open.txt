@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Luke Brezmes, Cristofer	AND 1986 M 1972.2063851 74.6619392 2274477
-2 Ribera Veganzones, Josep Maria	AND 2003 M 1883.0911626 73.9839273 6900763
-3 Cabarcos Baulina, Manuel	AND 1997 M 1862.8068743 62.5315364 6901166
-4 Ribera Veganzones, Serni	AND 2007 M 1798.0246250 70.7829223 6900860

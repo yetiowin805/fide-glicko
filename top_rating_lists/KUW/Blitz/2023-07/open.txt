@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Almuneer, Muhammad	KUW 1986 M 1517.0684230 66.0584768 10300708

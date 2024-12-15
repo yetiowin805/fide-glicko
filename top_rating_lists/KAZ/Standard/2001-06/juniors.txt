@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Abilmazhinov, Dauren	KAZ 1986 M 2350.3628562 73.8299956 13701711

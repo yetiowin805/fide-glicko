@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gerena Rivas, Eliam	PUR 2002 M 1909.1846896 56.9782064 3103790
-2 Toro Cruz, Sebastian J.	PUR 2006 M 1703.2551445 62.1957983 3107949
-3 Gonzalez Lopez, Pablo D.	PUR 2003 M 1520.3821041 74.6262070 3108325

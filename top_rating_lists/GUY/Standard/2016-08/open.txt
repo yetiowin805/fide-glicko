@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Khan, Taffin	GUY 1992 M 1885.2675053 74.1874228 19700024

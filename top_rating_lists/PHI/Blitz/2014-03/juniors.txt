@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Garcia, Jan Emmanuel	PHI 1995 M 2451.4872357 74.6599357 5200750
-2 San Diego, Marie Antoinette	PHI 1999 F 1826.8244715 70.3920607 5205204
-3 Mendoza, Shania Mae	PHI 1998 F 1811.3905586 74.2310463 5211158

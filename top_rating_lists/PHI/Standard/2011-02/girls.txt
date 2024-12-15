@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Camacho, Chardine Cheradee	PHI 1994 2080.9050706 70.5686629 5201829
-2 Docena, Jedara	PHI 1992 1926.3446147 51.4814945 5202361
-3 Bernales, Christy Lamiel	PHI 1993 1842.6526522 56.6060674 5204534

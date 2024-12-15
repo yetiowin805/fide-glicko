@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rizvi, Nasir	WLS 1977 M 1894.8264390 56.8945042 1800540
-2 Guha, Chirag	WLS 2004 M 1752.6696452 64.0362520 1802968

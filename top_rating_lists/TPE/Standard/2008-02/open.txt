@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Yueh, Wei Po	TPE 1976 M 1888.9990346 72.2913883 8603103
-2 Liao, Chun-Che Tim	TPE 1991 M 1769.0753044 74.4619303 16300122

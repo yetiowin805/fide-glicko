@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ali Firas Qassim	IRQ 2006 M 1904.7682006 73.7410151 4810139
-2 Pola Azad Saber	IRQ 2005 M 1703.9855498 70.6137149 4809653

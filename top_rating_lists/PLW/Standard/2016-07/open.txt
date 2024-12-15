@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Cabunagan, Tito	PLW 1959 M 1720.0541832 73.7942447 16600169
-2 Balbalosa, Jeffrey	PLW 1979 M 1704.3678704 74.7504521 16600240

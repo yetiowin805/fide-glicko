@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Berkvens, Joost	NED 1981 M 2460.4696755 63.9256963 1006436

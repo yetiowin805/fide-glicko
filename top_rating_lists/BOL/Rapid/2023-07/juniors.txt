@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Yujra Paredez, Ignacio Tadeo	BOL 2008 M 1858.3620318 72.7876809 3320278
-2 Jaldin, Jose Fernando	BOL 2004 M 1648.2593538 71.6569211 3319377
-3 Mollo Figueroa, Nicole	BOL 2011 F 1514.3119666 71.3403102 3325687

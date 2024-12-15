@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Wu, Shaobin	SIN 1969 M 2548.1203886 64.2667387 5800714

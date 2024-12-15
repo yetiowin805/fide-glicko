@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 So, Wesley	PHI 1993 M 2483.5968763 48.2574611 5202213

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lam, Daniel King-wai	HKG 1976 M 1971.6125601 72.8417123 6001238
-2 Borigas, Edgardo	HKG 1958 M 1731.2538925 67.7404807 6000398

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Davila, Carlos	NCA 1971 M 2315.1853881 61.9284792 6100040
-2 Bendana, Guy Dr.	NCA 0 M 2080.8878261 66.8807946 6100236

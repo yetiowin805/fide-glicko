@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lodhi, Mahmood	PAK 1961 M 2241.4285409 72.7349624 7800010
-2 Ferman Aziz	PAK 1976 M 1635.1505761 67.7669972 7800983

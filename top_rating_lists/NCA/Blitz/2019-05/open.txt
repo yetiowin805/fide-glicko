@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Alfaro, William	NCA 1982 M 1937.7029438 74.7415263 6100457
-2 Mejia, Donaldo	NCA 1900 M 1870.4544077 74.3802028 6102085

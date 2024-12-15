@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nader, Mohamed	EGY 1994 M 1940.9865341 74.9976470 10600159

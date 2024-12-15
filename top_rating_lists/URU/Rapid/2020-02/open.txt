@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Durante, Aurelio	URU 1962 M 1865.8066187 73.0830387 3001270

@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Prasca, Raphael	VEN 1983 M 2406.5474229 61.1735365 3900819
-2 Sanchez Castillo, Sarai	VEN 1981 F 2190.5965699 70.8920998 3900754
-3 Bustamante Montoni, Richar	VEN 0 M 2181.2797298 54.0617174 3900835
-4 Vazquez, Maximiliano	VEN 0 M 2050.2584638 72.9984854 3900851

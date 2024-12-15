@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Haile, Batel Goitom	ISL 2007 1544.0788454 58.4810099 2315190
-2 Helgadottir, Idunn	ISL 2007 1305.6988868 58.2966631 2314118

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ayyad Husain	BRN 1986 M 2148.8178282 63.7624694 11200243
-2 Ayyad, Maher	BRN 1978 M 2117.1621641 70.0663537 11200235

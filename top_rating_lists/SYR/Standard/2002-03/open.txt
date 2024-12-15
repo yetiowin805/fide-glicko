@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hakki, Imad	SYR 1957 M 2451.4172376 62.5428429 7600038

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gauci, David	MLT 1900 M 1326.7357336 74.1340654 5600715

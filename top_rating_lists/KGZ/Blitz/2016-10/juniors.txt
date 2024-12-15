@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mamatov, Melis	KGZ 1996 M 2030.5243703 74.6556194 13800027
-2 Omurbekova, Diana	KGZ 1999 F 1586.5593139 71.4792442 13800752

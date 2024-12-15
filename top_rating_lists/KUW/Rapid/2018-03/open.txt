@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Alzaid, Zaid	KUW 1972 M 1376.0824628 74.1139462 383266891

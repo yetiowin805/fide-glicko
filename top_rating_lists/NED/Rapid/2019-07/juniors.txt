@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Van Foreest, Jorden	NED 1999 M 2473.8023994 71.6815586 1039784
-2 Slomczewski, Michal	NED 2000 M 1935.5119020 74.8585667 1040650

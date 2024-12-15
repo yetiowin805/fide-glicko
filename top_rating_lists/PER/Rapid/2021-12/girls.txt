@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Bravo Mallco, Kate Azumi	PER 2007 1830.6090872 53.9382223 3836509
-2 Vega Paucar, Emely Bachellet	PER 2006 1808.5508545 57.3286729 3836550
-3 Arenas Lavado, Luciana Andrea	PER 2009 1624.5338739 63.1656412 3851044
-4 Kastanieda, Alla	PER 2006 1473.1962741 62.8724771 34166189

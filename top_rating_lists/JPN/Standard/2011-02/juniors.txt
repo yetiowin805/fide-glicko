@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Uesugi, Shinsaku	JPN 1991 M 2231.3553513 53.5380463 2024578
-2 Sakai, Hibiki	JPN 1994 M 1954.3506117 64.6985948 7000995

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Abdulla, Murad	SCO 2000 M 2147.2016164 64.7613206 2403757
-2 Sanger, Jake M	SCO 2004 M 1764.9773121 73.2314715 2406136

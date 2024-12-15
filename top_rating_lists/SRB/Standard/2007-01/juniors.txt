@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nestorovic, Nikola	SRB 1989 M 2400.8803948 65.5014548 934526
-2 Bogosavljevic, Boban	SRB 1988 M 2313.5386348 74.0476958 931152
-3 Stojanovic, Andjelija	SRB 1987 F 2091.5111809 73.8552214 928682

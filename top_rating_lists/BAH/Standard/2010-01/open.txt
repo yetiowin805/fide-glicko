@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Byron Small	BAH  M 1784.4348140 73.7889624 10400044

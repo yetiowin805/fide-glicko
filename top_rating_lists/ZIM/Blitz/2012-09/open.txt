@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Moyo, Dion	ZIM 1900 M 2063.7475923 73.7436660 11000627

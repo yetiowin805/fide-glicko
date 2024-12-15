@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Abdelaziz,Tinhinane	ALG 2007 1676.2160390 74.7129936 7912170
-2 Bousehla, Majda	ALG 2011 1379.1152226 72.7100580 7930828

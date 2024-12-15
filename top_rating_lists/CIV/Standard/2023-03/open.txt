@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 De Gondo, Simplice Armel	CIV 1985 M 1930.9732060 66.7735737 14306310
-2 Yavo Tchetche, Marie	CIV 2005 F 1508.1532341 73.5792847 20800266

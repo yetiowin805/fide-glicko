@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Villegas, Pierre	MNC 1992 M 2217.5441136 74.6703905 654183
-2 Van Hoolandt, Patrick	MNC 1958 M 2149.7053226 68.0794430 200999

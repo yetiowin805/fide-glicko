@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Figueroa, Marco	GUA 1986 M 2149.9714756 63.4116329 7300409

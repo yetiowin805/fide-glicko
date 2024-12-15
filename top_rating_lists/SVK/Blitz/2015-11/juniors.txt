@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Karas, Marek	SVK 1999 M 2037.9681346 63.5279497 14928558
-2 Danada, Tomas	SVK 1995 M 1979.0496297 58.8009266 14919362

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Spinola, Sidney	CPV 1979 M 1632.3534488 72.6220728 1950720
-2 Moes Joaquim, Carlos	CPV 1953 M 1508.1215975 73.4638382 1928104

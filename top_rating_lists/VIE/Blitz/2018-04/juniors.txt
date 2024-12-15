@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tran, Minh Thang	VIE 2000 M 2222.8214137 40.8195664 12401080
-2 Nguyen, Quoc Hy	VIE 2006 M 1945.6438258 72.6487939 12410853

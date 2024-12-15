@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Olsen, Filip Boe	DEN 2003 M 2211.8968710 62.9542155 1440640
-2 Meskenas, Paulius	DEN 2005 M 1822.1124792 74.2286481 12809969
-3 Christensen, John Christopher Hojstrup	DEN 2008 M 1742.5412102 62.2482179 1453947
-4 Jaques, Hannibal Valeur	DEN 2005 M 1666.5323614 68.3414467 1454188

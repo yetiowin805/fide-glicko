@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Zhao, Zong-Yuan	AUS 1986 M 2402.1775372 68.3656385 3202534
-2 Xie, George	AUS 1986 M 2133.6537109 65.9914838 3202933

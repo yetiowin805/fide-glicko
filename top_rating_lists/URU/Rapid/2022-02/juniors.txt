@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Manteiga, Franco	URU 2004 M 1818.5623113 69.2287679 3009785
-2 Romero, Juan	URU 2005 M 1657.5120599 70.5462375 3012336

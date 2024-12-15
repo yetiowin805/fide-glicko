@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Farhat, Assil	TUN 2008 F 1627.7970364 74.6597131 5526892

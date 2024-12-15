@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Feller, Gabriela Luisa Vicente	BRA 2004 1671.1243296 73.8961245 2163322
-2 De Carvalho, Thais Ferreira Mont	BRA 2004 1596.3144194 70.6511010 2177773
-3 Santana Freitas, Maria Eduarda	BRA 2005 1590.4947213 59.0598492 2193787
-4 Ribeiro, Jessica Maria da Silva	BRA 2000 1235.1747621 62.7199588 22701320

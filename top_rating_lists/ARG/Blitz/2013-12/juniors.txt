@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Quenallata, Luciano	ARG 1994 M 2035.7913921 74.4661396 111074
-2 Martinez, Ayelen	ARG 1993 F 1954.6054735 73.9269173 118702
-3 Torres, Fernando	ARG 1994 M 1781.1500064 73.1277587 106879

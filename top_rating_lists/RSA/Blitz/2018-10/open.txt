@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Solomon, Kenny	RSA 1979 M 2278.3004935 71.2776906 14300192
-2 Basson, Heinrich	RSA 1990 M 1884.3674557 60.2616670 14301440

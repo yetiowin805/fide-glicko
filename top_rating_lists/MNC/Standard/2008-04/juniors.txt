@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Botto, Julien	MNC 1993 M 1952.7237949 64.2160177 5400015

@@ -1,7 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Da Cruz, Karoliny Taiane	BRA 1992 1625.8273739 55.0886600 2136910
-2 Quirrenbach, Emanuela Pinheiro	BRA 1998 1467.6719852 74.8169574 2152975
-3 Santana Freitas, Maria Eduarda	BRA 2005 1453.8676804 67.2740675 2193787
-4 Bartmeyer, Maria Veronica	BRA 1997 1449.0023158 73.6854958 2152614
-5 Balbys, Fernanda Santoro Boscard	BRA 2002 1323.4969650 70.1033069 2172950
-6 Ribeiro, Jessica Maria da Silva	BRA 2000 1161.1741463 74.1940686 22701320

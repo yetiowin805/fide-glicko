@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Parkkinen, Jyrki	FIN 1968 M 2000.0729800 69.8627410 502375
-2 Natri, Antero	FIN 1954 M 1907.1184252 70.8099708 500518

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ridwan Syed	BAN 2008 M 1556.7926168 72.8211082 10216995

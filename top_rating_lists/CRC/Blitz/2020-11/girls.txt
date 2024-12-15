@@ -1,8 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Salazar Gould, Melanie	CRC 2003 1784.3606297 67.4541129 6505090
-2 Huaman Bengoa, Valeska Priscilla	CRC 2005 1681.4155717 73.5309723 6516777
-3 Rosales Gonzalez, Jessica	CRC 2001 1546.0701222 71.4972401 6512062
-4 Salazar Gould, Kristy Valeria	CRC 2008 1539.6669800 73.7027310 6511643
-5 Arguedas Bolanos, Sharline	CRC 2001 1474.2555595 71.4205452 6507301
-6 Sierra Berrocal, Gabriela	CRC 2003 1469.4400289 69.8265230 6507271
-7 Diaz Charpentier, Ashly Valeri	CRC 2007 1367.2888790 74.8011758 6513646

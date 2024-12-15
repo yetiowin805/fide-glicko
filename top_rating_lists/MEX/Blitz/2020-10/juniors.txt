@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Garcia de Dios, Jose Antonio	MEX 2002 M 1947.2155136 74.8284887 5128919
-2 Diaz Espinoza, Axel Alberto	MEX 2001 M 1714.7978431 74.2542160 5128722
-3 Mendieta, Gallegos Diego Armando	MEX 2004 M 1551.7847365 73.2931767 5159580

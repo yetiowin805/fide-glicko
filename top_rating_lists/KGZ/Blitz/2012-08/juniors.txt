@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Taalaibekov, Tagir	KGZ 1998 M 1766.6281079 72.8787443 13801163
-2 Isaev, Chingis	KGZ 1999 M 1558.7354663 73.6947702 13801660

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ermenkov, Evgenij	PLE 1949 M 2427.2451392 59.5006745 2900106
-2 Shivaji, Shivkuma	PLE 1979 M 2278.6955655 74.5645012 2019469

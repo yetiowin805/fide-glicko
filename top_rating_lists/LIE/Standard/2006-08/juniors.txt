@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ferster, Fabian	LIE 1986 M 2145.2853924 64.5551047 4695330

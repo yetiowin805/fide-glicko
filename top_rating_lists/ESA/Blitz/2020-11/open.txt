@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Perez Salazar, Armando	ESA 2005 M 1789.9391783 74.7954531 6705260
-2 Ibarra Carlos Roberto	ESA 2009 M 1731.1290176 73.5401492 6707173

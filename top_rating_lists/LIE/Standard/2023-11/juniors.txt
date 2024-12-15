@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Heron, Andrew	LIE 2007 M 1655.8940294 56.7028176 12000213
-2 Marxer, Constantin	LIE 2010 M 1273.3085054 72.6384637 12000248

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Sanchez, Ana	CHI 1960 1974.2345918 72.3770232 3402045
-2 Ramos, Daniela	CHI 1983 1815.3306641 63.0345980 3405923

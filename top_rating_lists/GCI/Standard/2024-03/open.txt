@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nevska, Gerda	GCI 1988 F 1686.4387264 73.7903652 10700366
-2 Morgan, Jamie	GCI 1965 M 1624.3575448 74.1778744 451495

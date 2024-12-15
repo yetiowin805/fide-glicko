@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Zvezdakoski, Matej	MKD 2005 M 1765.2576366 73.9729075 15004961

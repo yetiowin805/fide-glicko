@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Khezrian, Mohammad	USA 2000 M 1644.5154591 73.4727496 30901510
-2 Zohar, Iddo	USA 2002 M 1446.8415062 62.5783388 2080923
-3 Kunnavakkam, Sudarshanagopal Vin	USA 2006 M 1298.4215682 74.0086225 30926580

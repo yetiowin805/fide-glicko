@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sanchez, Jorge Luis	PAN 1982 M 1804.0659366 72.9825441 6600280

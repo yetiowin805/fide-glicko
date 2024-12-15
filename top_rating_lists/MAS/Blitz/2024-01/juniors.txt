@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kavin Mohan	MAS 2011 M 1945.4124728 65.2189211 5739047
-2 Ernest Yek Zu Yang	MAS 2009 M 1722.9830937 67.0128590 5739160

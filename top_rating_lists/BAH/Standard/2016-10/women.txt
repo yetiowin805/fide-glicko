@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Karelina, Polina	BAH 2001 1542.5112525 66.9118924 10400222
-2 Johnson, Daijah	BAH 2003 1500.3279059 70.2843446 10400591

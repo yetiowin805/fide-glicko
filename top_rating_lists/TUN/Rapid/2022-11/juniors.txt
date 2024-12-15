@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Farhat, Assil	TUN 2008 F 1599.2916341 73.2211589 5526892
-2 Farhat, Amen Allah	TUN 2010 M 1517.9857330 73.4474284 5526868

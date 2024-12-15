@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Lujan, Carolina	ARG 1985 2289.5422201 74.0695279 109878
-2 Fernandez, Maria Florencia	ARG 1991 2054.5491636 68.9405636 116459
-3 Martinez, Ayelen	ARG 1993 1987.8547806 70.3991488 118702

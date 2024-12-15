@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mekanova, Annagozel	TKM 2002 F 1640.1838962 74.1015051 14003902
-2 George, Alex	TKM 2009 M 1313.8749076 71.2555417 14004313

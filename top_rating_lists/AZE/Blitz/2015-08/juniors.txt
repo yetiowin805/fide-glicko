@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nuri, Murad	AZE 1997 M 2102.7713957 72.8596164 13404474
-2 Bunyatov, Rustam	AZE 1999 M 2101.9445034 69.5926322 13410210

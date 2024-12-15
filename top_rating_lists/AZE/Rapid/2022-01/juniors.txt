@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Alizada, Pasham	AZE 2011 M 1654.5122278 73.4364060 13424491
-2 Nurahmad, Tabriz	AZE 2006 M 1651.8478421 72.6741486 13428390

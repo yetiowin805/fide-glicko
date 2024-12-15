@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Guerini, Silvia jr	ITA 1997 1725.5191159 74.8654043 852520
-2 Miracola, Giorgia	ITA 1997 1637.9049599 74.2103998 878359
-3 Bizzarro, Sofia	ITA 1999 1535.6779358 71.6317344 871559

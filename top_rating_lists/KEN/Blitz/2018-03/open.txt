@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kirega, Joseph	KEN 1996 M 1785.9366831 73.1287667 10802142

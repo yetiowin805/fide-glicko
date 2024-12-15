@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Burbach, Bruno	MRI 1959 M 1470.5813759 60.2627319 16213831
-2 Andhin, Chethanah	MRI 2004 F 1387.0012199 59.4770214 9700463

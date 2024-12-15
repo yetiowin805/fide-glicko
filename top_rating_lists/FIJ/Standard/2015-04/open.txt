@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Prasad, Calvin	FIJ 1980 M 1912.0983134 70.4703248 11400072
-2 Kumar, Manoj	FIJ 1977 M 1832.5511131 74.0313831 11400064

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Arakhamia-Grant, Ketevan	SCO 1968 F 2349.1920104 73.0533686 13600168
-2 Allan, Brian	SCO 1934 M 1605.2695843 59.3814704 2402050

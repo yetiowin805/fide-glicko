@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Khoder, Akram	LBN 2005 M 2030.2044831 60.3478028 5306914
-2 Ghnatios, Ralph	LBN 1990 M 1701.4447549 65.9614651 5303478

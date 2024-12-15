@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Degondo, Simplice Armel	CIV 1985 M 1923.4740319 60.7419514 14306310
-2 Manan, Yoboue Hermann	CIV 1977 M 1868.6243136 58.6671275 20800061
-3 Mambe, Lobognon Anderson Olivier	CIV 1967 M 1756.1924004 73.7347307 20800070

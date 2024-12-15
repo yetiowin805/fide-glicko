@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Gonzalez, Yaribeth	PAN 1986 1628.0482032 69.3679465 6600344
-2 Chung, Yaleika	PAN 1988 1618.3595879 68.0684289 6600603

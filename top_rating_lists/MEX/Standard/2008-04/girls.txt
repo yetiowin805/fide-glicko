@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Gutierrez Mancillas, Alicia Abig	MEX 1990 1974.5498833 66.8996148 5108926
-2 Carreras Mendiolea, Paulina Adri	MEX 1989 1864.2599878 69.4246195 5105420
-3 Mendoza Velazquez, Lorena Alejan	MEX 1994 1803.3002233 74.4801926 5101794

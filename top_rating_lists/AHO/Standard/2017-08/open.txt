@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vos, Tjark	AHO 1996 M 2082.7549200 51.6285223 1020870
-2 Martis, Valentino	AHO 1986 M 1699.0725193 72.9367501 7500254

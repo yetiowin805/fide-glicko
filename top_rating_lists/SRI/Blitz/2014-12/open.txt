@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Alahakoon, Isuru	SRI 1987 M 2009.7817377 70.3515735 9900993
-2 Somasundram, Jayakumar	SRI 1951 M 1795.5144873 67.6488406 9900250

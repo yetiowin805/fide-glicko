@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Cheng, Chee Heng Jayden	SGP 2009 M 1513.6616461 72.7753086 5825423
-2 Ng, Jing Xuan Alyssa	SGP 2011 F 1388.8515553 68.5158029 5828740

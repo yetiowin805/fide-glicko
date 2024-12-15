@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Johansson, Victoria	SWE 1974 2145.5194037 64.2476991 1701940
-2 Jiretorn, Eva	SWE 1971 2086.1006360 62.9109982 1702521

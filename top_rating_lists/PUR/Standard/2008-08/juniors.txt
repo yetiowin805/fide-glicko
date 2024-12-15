@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rivera, Edwardo	PUR 1992 M 2076.1106245 68.5818350 3100464

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Megaranto, Susanto	INA 1987 M 2450.2501566 53.4589583 7101384
-2 Purnama, Tirta Chandra	INA 1986 M 2304.3145514 74.5289286 7101422

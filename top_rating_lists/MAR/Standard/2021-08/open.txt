@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Msellek, Ilyass	MAR 1998 M 2211.0572420 55.3941377 675938
-2 Guedira, Aimen	MAR 1995 M 1869.5577507 71.7102028 9011633

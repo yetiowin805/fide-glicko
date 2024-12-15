@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pazos Gambarrotti, Plinio	ECU 1960 M 2363.9928683 74.7717273 3600068
-2 Munoz Sanchez, Miguel	ECU 1982 M 2281.7754904 73.4637619 3600734

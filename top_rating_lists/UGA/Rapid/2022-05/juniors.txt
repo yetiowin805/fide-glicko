@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ntumwa Calvin	UGA 2002 M 1624.4338104 61.5245719 10015639
-2 Hannah Zion Mawejje	UGA 2006 F 1439.5321578 69.6810478 10018077

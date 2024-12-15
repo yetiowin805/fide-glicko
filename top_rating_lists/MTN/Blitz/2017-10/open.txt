@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ahmed Val Ahmedou	MTN 1979 M 1795.6181453 71.7433522 19600364
-2 Chighali Cheikh Tijani	MTN 1982 M 1613.1699645 72.6723823 19600909

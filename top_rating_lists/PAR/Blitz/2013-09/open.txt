@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Valiente, Cristobal	PAR 1962 M 2138.5242808 74.6678755 3700020
-2 Vargas, Gabriela	PAR 1988 F 1944.6372275 74.7818832 3700860

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Camacho Collados, Jose	KOR 1988 M 2334.7003074 73.9171468 2265427
-2 Cho, Seongho	KOR 1990 M 1675.0397500 69.0218368 13200550

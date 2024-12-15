@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Lim, Hakyung	KOR 1998 1496.7117001 73.0744220 13200615
-2 Kim, Taegyeong	KOR 1999 1427.9047448 72.0177994 13200976

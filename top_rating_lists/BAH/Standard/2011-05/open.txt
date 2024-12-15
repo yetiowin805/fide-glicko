@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 McDonald, Tamiko	BAH 1977 M 1474.7148121 74.7117684 10400117

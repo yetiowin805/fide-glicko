@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vivoli, Alessandro	SMR 2002 M 1451.7112179 73.6382397 11800240

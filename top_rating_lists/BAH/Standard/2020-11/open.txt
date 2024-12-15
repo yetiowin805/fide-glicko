@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Karelina, Polina	BAH 2001 F 1686.1554473 71.7881735 10400222
-2 Whyms, Chappell	BAH 1969 M 1521.2988233 74.5916603 10400125

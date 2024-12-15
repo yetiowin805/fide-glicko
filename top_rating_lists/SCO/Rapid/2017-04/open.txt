@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Turner, Matthew J	SCO 1975 M 2474.5308923 73.0747471 402893
-2 Allan, Brian	SCO 1934 M 1592.2076525 70.7704204 2402050

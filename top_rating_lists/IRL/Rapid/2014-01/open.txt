@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Wall, Gavin	IRL 1968 M 2289.1374559 74.9764983 2501244
-2 McCabe, Shane	IRL 1968 M 1720.1283844 51.2159311 2503891

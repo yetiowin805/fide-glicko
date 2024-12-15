@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nepal, Prakash	NEP 1990 M 1821.0553859 67.5404272 12300993

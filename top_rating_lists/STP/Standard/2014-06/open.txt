@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Da Costa Moreira, Euler Joarce	STP 1980 M 1614.1650017 74.7518049 16900014

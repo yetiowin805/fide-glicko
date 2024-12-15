@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ahmad, Saadah	JOR 1988 M 1625.2079479 69.0691203 8101779

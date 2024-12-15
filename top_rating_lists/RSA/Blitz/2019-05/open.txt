@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Solomon, Kenny	RSA 1979 M 2245.0466066 74.1579513 14300192
-2 Bhawoodien, Shabir Hussain	RSA 1963 M 1966.1446996 74.4679187 14300770
-3 Basson, Heinrich	RSA 1990 M 1884.3674557 73.1076840 14301440

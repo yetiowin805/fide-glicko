@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tjong Tjin Joe, Calvin	SUR 1998 M 1881.0562253 73.7819152 8200580
-2 Kromosoeto, Immanuel	SUR 1995 M 1712.4717876 74.2431757 8200750

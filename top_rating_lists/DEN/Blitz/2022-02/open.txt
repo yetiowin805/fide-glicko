@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Andersen, Mads	DEN 1995 M 2318.1604316 66.2705873 1413864

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Stojanovski, Dejan	MKD 1984 M 2439.1494677 61.0055480 15000796
-2 Pancevski, Filip	MKD 1988 M 2355.4387952 70.8712844 15002187

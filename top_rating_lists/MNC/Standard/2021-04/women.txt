@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Dubois, Martine	MNC 1959 1687.6990000 65.3020484 601926
-2 Lebel-Arias, Julia	MNC 1946 1676.3997822 66.9533332 602019

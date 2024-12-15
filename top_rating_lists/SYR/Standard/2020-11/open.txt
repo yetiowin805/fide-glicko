@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tabaa, Ghayth	SYR 1989 M 1935.4482112 73.3404959 7603819
-2 Yaghy,Ritta.	SYR 1999 F 1864.0366934 71.9254297 7603266

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Wang, Minqing	GER 2004 1861.0566031 68.9184622 34613218
-2 Kozachenko, Maria	GER 2006 1792.7409894 74.0869178 14151057

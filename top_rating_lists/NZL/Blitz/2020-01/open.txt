@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Li, Johnson	NZL 1996 M 1994.8202733 66.6158958 4304284
-2 Sulaiman Moosa, Omer	NZL 1962 M 1637.2034178 67.0135981 4306422

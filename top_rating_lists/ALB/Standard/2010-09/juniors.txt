@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ashiku, Franc	ALB 1993 M 2051.5224947 66.8978893 4700066
-2 Mirimanian, Haik	ALB 1996 M 1896.7184422 57.9927090 4700180

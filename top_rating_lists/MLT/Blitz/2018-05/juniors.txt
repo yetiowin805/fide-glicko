@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gatt, Matthias	MLT 2003 M 1683.1719645 67.1768707 5601452

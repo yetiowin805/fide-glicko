@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Khamrakulov, Ibragim S.	UZB 1982 M 2500.2311116 50.7703910 14200295
-2 Levushkina, E.	UZB 1984 F 2269.3295531 60.4204318 14200686

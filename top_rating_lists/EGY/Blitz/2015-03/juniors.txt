@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Fawzy, Adham	EGY 2000 M 2126.7977939 58.7555970 10613129
-2 Zayan, Mohamed	EGY 1999 M 1705.1920470 73.1081993 10609989

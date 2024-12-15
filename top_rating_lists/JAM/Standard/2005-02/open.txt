@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Matthews, Shane	JAM 0 M 2233.6010385 73.1672757 7400012
-2 Nelson, Omowale	JAM 0 M 2020.6072662 73.7165983 7400209

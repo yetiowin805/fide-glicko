@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Cramling, Pia	SWE 1963 2391.2413257 53.5544176 1700030
-2 Frisk, Ellinor	SWE 1986 2101.5773816 74.8592218 1708481

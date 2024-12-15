@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Salem, A.R. Saleh	UAE 1993 M 2530.8269681 74.1035761 9301348

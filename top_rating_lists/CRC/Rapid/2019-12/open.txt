@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pastor Carvajal, Jeigoth	CRC 2004 M 1822.0085749 72.7712708 6516718
-2 Murillo Gonzalez, Carlos E	CRC 1998 M 1803.4866509 72.8424063 6504892
-3 Espitia Torres, Mateo	CRC 2003 M 1791.8146225 73.9775582 6508332

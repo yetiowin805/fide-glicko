@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al Qudaimi, Basheer	YEM 0 M 2404.6531821 67.0519693 9400346
-2 Al-Hadarani, Hatim	YEM 0 M 2252.5795945 68.3544309 9400273
-3 Al Badani, Abdu	YEM 0 M 2167.3606446 67.7044497 9400176

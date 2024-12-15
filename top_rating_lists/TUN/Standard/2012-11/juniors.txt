@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Krifa, Najla	TUN 1992 F 1667.0336956 70.9016639 5501040
-2 Lahmar, Chaima	TUN 1997 M 1439.6923293 72.4096774 5502063

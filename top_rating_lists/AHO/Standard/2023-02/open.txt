@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Roose, Alex	AHO 1951 M 1631.3782964 72.4960454 7500246

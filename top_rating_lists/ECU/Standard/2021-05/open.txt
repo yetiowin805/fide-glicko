@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Heredia Serrano, Carla	ECU 1991 F 1978.2800552 71.6338475 3603687
-2 Pazos Gambarrotti, Plinio	ECU 1960 M 1888.2072729 71.4699916 3600068
-3 Caicedo Loor, Keyra	ECU 2004 F 1572.0070462 74.4995835 3634434
-4 Alvarez Dominguez, Hellen	ECU 2003 F 1484.6857721 74.2438171 3633179

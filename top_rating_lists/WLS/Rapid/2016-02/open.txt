@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bullen, Alex	WLS 1994 M 1837.1541202 74.3368765 1801627
-2 Davies, Cledwyn	WLS 1959 M 1468.9761084 73.8892953 1803212

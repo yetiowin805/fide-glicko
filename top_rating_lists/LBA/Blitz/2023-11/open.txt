@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Elier, Ali	LBA 2001 M 2036.2473835 70.4316599 16217543

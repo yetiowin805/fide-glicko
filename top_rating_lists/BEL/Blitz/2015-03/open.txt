@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Dgebuadze, Alexandre	BEL 1971 M 2520.8363988 74.6503191 203882
-2 Ismail, Tamer	BEL 2000 M 1840.3999323 65.6199422 2909332
-3 Wlogalski, Olivier	BEL 1965 M 1740.2169780 71.2744322 208353

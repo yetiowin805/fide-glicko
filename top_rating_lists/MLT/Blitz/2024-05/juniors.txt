@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bilunov, Ignat	MLT 2004 M 1463.9447619 71.3257355 5602238
-2 Grech, Gabriel	MLT 2009 M 1457.9179625 74.4079145 5603773

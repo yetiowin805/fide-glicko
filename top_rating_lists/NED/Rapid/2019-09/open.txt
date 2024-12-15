@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Giri, Anish	NED 1994 M 2652.9428181 60.5408153 24116068
-2 Muntean, Adrian	NED 1974 M 1558.2792656 74.3633843 1054457

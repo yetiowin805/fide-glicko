@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Stokes, Ivan	SCO 1989 M 1989.4900984 66.9533292 2401932

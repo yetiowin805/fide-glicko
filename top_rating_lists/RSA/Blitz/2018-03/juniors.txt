@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Goldberg, Shmuel	RSA 1998 M 1815.7974878 74.1124494 14317737
-2 Modi, Yashil	RSA 2005 M 1752.3757197 71.5906040 14310880

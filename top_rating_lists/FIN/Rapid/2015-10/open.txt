@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Parkkinen, Jyrki	FIN 1968 M 1991.8680730 67.3369113 502375
-2 Nazarova, Anastasia	FIN 2001 F 1758.1616403 67.5998733 34101737

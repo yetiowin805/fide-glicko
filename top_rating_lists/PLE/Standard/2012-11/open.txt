@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Wajdy, Shebetah	PLE 1900 M 1869.4238447 56.5640253 11500131

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vazquez, Facundo	URU 2004 M 1930.7657198 71.2769594 3007669
-2 Ramirez, Agustin	URU 2006 M 1586.5132351 74.6444753 3010449

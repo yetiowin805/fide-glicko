@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mehrad, Ahmad Tamim	AFG 1900 M 1897.5964322 72.8480798 11700491
-2 Sarwari, Hamidullah	AFG 1989 M 1656.6928740 70.6748734 11700580

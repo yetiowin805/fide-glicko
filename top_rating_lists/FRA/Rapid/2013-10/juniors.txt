@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sochacki, Christophe	FRA 1994 M 2377.3193734 72.8055868 662569
-2 Kambrath, Yannick	FRA 1997 M 2160.4103258 74.3950515 20632525
-3 Bellaiche, Elise	FRA 1997 F 1916.6989187 71.1113293 696366

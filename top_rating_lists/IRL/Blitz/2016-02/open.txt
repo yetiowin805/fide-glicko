@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 O`Molloy, Eamonn	IRL 1981 M 1725.9952771 74.0918558 2505843
-2 McCabe, Shane	IRL 1968 M 1716.7479333 69.2867003 2503891

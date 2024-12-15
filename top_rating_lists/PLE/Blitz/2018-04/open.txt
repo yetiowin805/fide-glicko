@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mohammed A. E. Orouq	PLE 1977 M 1462.5567399 63.0393880 11505494

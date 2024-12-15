@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nielsen, Jon I Horni	FAI 2005 M 1689.6600218 71.9131275 7202105

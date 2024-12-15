@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Oatlhotse, Providence	BOT 0 M 2221.4686857 72.0757741 11300507
-2 Njobvu, Ignatius	BOT 0 M 2142.7852034 73.0684753 11300132
-3 Mudongo, Boikhutso	BOT 0 F 1592.1533869 69.1515492 11300230

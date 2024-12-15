@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ali, moumani	JOR 1992 M 1787.4665220 74.6527463 8107548
-2 Al Namas, Kanan	JOR 1900 M 1783.3202874 55.6823943 8100098

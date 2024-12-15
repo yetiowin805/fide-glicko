@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Martinez, Ayelen	ARG 1993 2022.5591456 65.0077553 118702
-2 Borda Rodas, Anapaola S.	ARG 2004 1695.7804867 63.8079462 152781
-3 Scarsi, Anna Laura	ARG 2006 1499.5189003 64.3965199 159328

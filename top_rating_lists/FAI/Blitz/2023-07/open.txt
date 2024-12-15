@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ziska, Helgi Dam	FAI 1990 M 2418.5052083 73.9561348 7200595
-2 Joensen, John	FAI 1978 M 1721.0983033 62.6358873 7200684

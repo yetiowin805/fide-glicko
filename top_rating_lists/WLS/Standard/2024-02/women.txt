@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Smith, Olivia	WLS 1987 1918.3223983 60.1962782 411850
-2 Kong, Emma Zihan	WLS 2010 1420.1764470 60.3383961 1805940

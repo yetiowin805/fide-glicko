@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Henderson de La Fuente, Lance	AND 2003 M 2345.3802192 73.6655534 32096585
-2 Ribera Veganzones, Serni	AND 2007 M 1907.2163016 68.4651959 6900860
-3 Alcon Llosada, Alex	AND 2003 M 1694.7743094 73.5734478 6900780

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Burgos Figueroa, Carlos E.	ESA 1979 M 2279.5640689 74.8658990 6700187
-2 Zepeda, Lorena	ESA 1984 F 2127.5773093 63.1356033 6700233

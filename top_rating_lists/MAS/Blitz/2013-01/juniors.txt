@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Subramaniam, Sumant	MAS 1993 M 1990.9515675 73.6909599 5702720

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Del Castilho, Martyn	BAR 1989 M 2090.4210961 67.4493986 11100400

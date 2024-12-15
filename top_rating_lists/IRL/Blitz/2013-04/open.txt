@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Collins, Sam E.	IRL 1982 M 2416.5053626 69.1474975 2501198

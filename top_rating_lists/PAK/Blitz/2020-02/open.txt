@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Zohaib Hassan, Mohamed	PAK 1982 M 2126.4265820 70.9955401 7800398
-2 Dr. Murtaza Ali	PAK 1981 M 1997.5358547 74.5559503 7801750

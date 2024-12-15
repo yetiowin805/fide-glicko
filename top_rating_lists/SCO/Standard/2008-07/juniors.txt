@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Green, Andrew D	SCO 1990 M 2027.2765992 64.9800739 2401762
-2 Stokes, Ivan	SCO 1989 M 2009.1551065 64.9469388 2401932

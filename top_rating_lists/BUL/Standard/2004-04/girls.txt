@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Shtereva, Slaveja	BUL 1984 2099.0274747 60.0758653 2906066
-2 Bednikova Stefi	BUL 1986 2071.7339953 65.7147623 2906570

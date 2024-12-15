@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Salih, Al Hor	QAT 2000 M 1706.4611893 56.6791639 12101001
-2 Abdulla Mohammed Al-Homaid	QAT 2006 M 1352.1352687 65.6301320 12102016

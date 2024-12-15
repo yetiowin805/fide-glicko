@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Giron, Jorge Ernesto	ESA 1997 M 1834.1323187 73.7380335 6702309
-2 Sanchez, David	ESA 1997 M 1644.3694350 71.2493216 6701493

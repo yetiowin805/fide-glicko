@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nzabanita, Joseph	RWA 1977 M 1628.5762781 73.6509793 16000480
-2 Rukimbira, Valentin	RWA 1986 M 1569.5688917 73.4323708 16000323
-3 Kagabo Mugema, Eugene	RWA 1978 M 1526.8939979 70.1278505 16000129

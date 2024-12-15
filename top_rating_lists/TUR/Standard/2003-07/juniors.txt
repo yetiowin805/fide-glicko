@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ataman, Alper	TUR 1983 M 2218.5193056 66.1053166 6301606
-2 Yildiz, Betul Cemre	TUR 1989 F 2100.3198007 61.6296440 6302920

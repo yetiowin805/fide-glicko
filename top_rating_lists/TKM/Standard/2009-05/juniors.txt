@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Otchiyev, Arslan	TKM 1990 M 2227.0074983 62.8609936 14001780
-2 Atabayev, Yusup	TKM 1994 M 2169.3559647 68.0024785 14001128

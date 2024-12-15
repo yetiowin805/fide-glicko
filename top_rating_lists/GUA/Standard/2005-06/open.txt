@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Juarez Flores, Carlos A.	GUA 1965 M 2372.7468092 66.4496372 7300018
-2 Figueroa, Marco	GUA 1986 M 2146.3468483 68.0605273 7300409
-3 Reyes Najera, Carlos A.	GUA 1961 M 2105.2484862 68.7300552 7300069

@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Munoz Ramos, Christopher	CHI 2011 M 1901.8711465 74.2851909 3439615
-2 Poddubnyy, Mikhail	CHI 2008 M 1582.8870891 71.5658666 3458458
-3 Araneda Alcaino, Arturo Nicolas	CHI 2014 M 1557.6107015 72.3252057 3457761
-4 Rubilar Jaque, Ariel	CHI 2009 M 1467.9323434 69.2763204 3458482

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Chaykina, Svetlana	UZB 2000 1722.0343775 74.5592221 14205122
-2 Bobomurodova, Maftuna	UZB 2006 1595.6371916 68.0417763 14207400
-3 Khabibullaeva, Mokhinur	UZB 2006 1540.4356275 67.2055358 14207389

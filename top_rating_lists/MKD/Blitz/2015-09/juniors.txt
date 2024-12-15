@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nikolovski, Nikola	MKD 1998 M 2080.9389026 71.6628487 15002314
-2 Lazov, Toni	MKD 2000 M 2005.8147510 70.4829488 15000770

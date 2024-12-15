@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Burgos Figueroa, Carlos E.	ESA 1979 M 2194.4080378 55.9384386 6700187
-2 Arias, Lemmys A.	ESA 1978 M 2190.8170272 73.2122687 6700284
-3 Melendez, Gabriela	ESA 0 F 1846.4666945 69.6279011 6700705

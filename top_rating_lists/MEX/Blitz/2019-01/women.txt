@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Mendez Tovar, Yessica Yissel	MEX 1995 1772.7061586 74.4209142 5113580
-2 Benitez Lozano, Karla	MEX 1998 1625.4358569 71.7996928 5120187
-3 Martinez, Mares Genesis Alejandr	MEX 2005 1419.2679333 74.0108162 5144264

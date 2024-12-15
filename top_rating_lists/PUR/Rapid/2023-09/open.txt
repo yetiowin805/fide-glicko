@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Zilleruelo Irizarry, Diego	PUR 1990 M 2007.6469185 73.2118594 3101460
-2 Almedina Ortiz, Edgardo J.	PUR 1988 M 1989.8947469 68.1871715 3100197
-3 Morales Santos, Natasha	PUR 1998 F 1906.0508345 70.4242257 3101703
-4 Boggiano Pereira, Miguel A.	PUR 1999 M 1905.9567566 53.5857400 3102750

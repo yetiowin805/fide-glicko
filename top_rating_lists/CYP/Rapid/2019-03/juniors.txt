@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nabil, Michael	CYP 2003 M 1904.8570625 73.2892506 5902002
-2 Antoniou, Rafail	CYP 2008 M 1649.3229329 72.1706532 5904390

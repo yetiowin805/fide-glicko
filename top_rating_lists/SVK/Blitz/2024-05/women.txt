@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Mrvova, Alena	SVK 1978 1882.0453030 65.5114206 14902036
-2 Meszarosova, Eva	SVK 1998 1844.3806335 74.8621160 14932598

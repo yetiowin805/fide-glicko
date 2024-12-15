@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Ostensson, Julia	SWE 2005 1767.9348505 53.6336712 1747703
-2 Wickstrom, Carina	SWE 1998 1711.4219606 74.2488996 1743201

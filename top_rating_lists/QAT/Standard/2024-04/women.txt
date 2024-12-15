@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Al-Khulaifi, Ghada	QAT 1995 1449.3967578 72.2708094 12100633
-2 Al Qassabi, Layan	QAT 2010 1272.1743546 60.8910977 12102059

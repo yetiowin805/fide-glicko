@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bellahcene, Bilel	ALG 1998 M 2438.2750184 54.8249972 696358
-2 Deboosere, Adam Moussa	ALG 1995 M 1715.9447838 66.2220830 7939230
-3 Bousehla, Manel	ALG 2007 M 1624.1358807 70.8436147 7925085

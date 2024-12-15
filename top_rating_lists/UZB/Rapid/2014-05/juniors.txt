@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Golubev, Roman	UZB 1994 M 2081.6693929 69.9966704 14202344
-2 Nigmatov, Ortik	UZB 2000 M 1835.9671725 71.5893580 14202131

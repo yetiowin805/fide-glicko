@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lee, Sanghyun	KOR 1991 M 1597.6799770 73.5050393 13200348

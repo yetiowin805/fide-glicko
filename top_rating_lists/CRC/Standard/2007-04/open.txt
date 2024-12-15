@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ramirez, Alejandro	CRC 1988 M 2500.8453834 58.7241842 6500617
-2 Valdes, Leonardo	CRC 1975 M 2372.3889063 67.7788029 6500331
-3 Hernandez Basante, Francisco	CRC 1972 M 2221.3528936 74.2756592 6500226

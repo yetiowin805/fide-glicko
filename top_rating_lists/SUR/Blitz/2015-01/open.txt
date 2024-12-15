@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Giasi, Viresh	SUR 1991 M 1923.5452160 73.6063388 8200165

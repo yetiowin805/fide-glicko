@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Winter Atwell, Adrian	TTO 1985 M 1893.3622436 74.9865082 7700750

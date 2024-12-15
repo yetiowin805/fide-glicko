@@ -1,7 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Noboa Silva, Kevin	ECU 1999 M 2032.3091162 63.6897280 3618471
-2 Garzon Zapatanga,Christopher Leonel	ECU 2008 M 1771.4950648 69.1287213 3634787
-3 Ruiz Tipantasig, Mishell	ECU 2001 F 1728.1426828 71.7616793 3627640
-4 Quezada Pauker,Katheen Gabriela	ECU 2007 F 1626.6651883 67.7362001 3632261
-5 Morocho Garzon,Fernando Jose	ECU 2006 M 1613.3978489 71.4168391 3634779
-6 Artieda Berru,Ariadna Ameli	ECU 2007 F 1486.0064665 66.2987078 3630293

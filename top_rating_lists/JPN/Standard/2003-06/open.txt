@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tanaka, Yuuki	JPN 1977 M 2267.7562726 61.5927840 7000332
-2 Nakamura, Ryuji	JPN 1977 M 2204.0023200 70.1972496 7000251

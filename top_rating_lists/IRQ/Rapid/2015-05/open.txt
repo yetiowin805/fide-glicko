@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mohammed, Zozek Salah Mohammed	IRQ 1986 M 2168.1248687 74.4494754 4803361
-2 Al Falahi, Ziad Tarik Mohammad	IRQ 1973 M 1464.8358413 69.6840007 4807235

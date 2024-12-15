@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Oragwu, Chukwunonso	NGR 1990 M 2035.5390426 72.0772240 8501254
-2 Fakuade Babatunde Olabode	NGR 1984 M 1941.7040223 72.4001447 8508640
-3 Ekanem Nathan	NGR 1981 M 1845.6109037 66.6413850 8510539

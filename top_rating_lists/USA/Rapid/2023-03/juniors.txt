@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lebedenka, Alexander	USA 2012 M 1112.0110359 66.2123578 30965055

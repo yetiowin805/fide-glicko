@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Ben Said, Safa	TUN 1998 1585.5192579 74.4240717 5503400
-2 Lahmar, Chaima	TUN 1997 1451.3048738 60.0295064 5502063

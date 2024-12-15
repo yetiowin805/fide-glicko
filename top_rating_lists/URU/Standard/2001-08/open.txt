@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rodriguez, Andres	URU 1973 M 2504.0000000 52.3874105 3000010

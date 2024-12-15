@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Aryan, Ali Ehsan	IRQ 1998 M 1989.5257364 74.7000952 4813235
-2 Hassan Wael Lateef	IRQ 2007 M 1450.7034351 74.7722281 4815548

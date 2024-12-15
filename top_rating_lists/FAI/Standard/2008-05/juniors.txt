@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ziska, Helgi Dam	FAI 1990 M 2378.6335581 58.4107596 7200595
-2 Nielsen, Rogvi Egilstoft	FAI 1992 M 1871.7103789 66.8670804 7200447
-3 Jogvansson, Hjalti Toftum	FAI 1992 M 1692.6391373 71.1065011 7200374

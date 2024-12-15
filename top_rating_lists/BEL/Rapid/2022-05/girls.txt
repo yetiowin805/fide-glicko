@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Decraene, Lotus	BEL 2010 1673.0098247 67.3026395 258512
-2 Navez, Alice	BEL 2005 1588.5903153 67.0987009 252336

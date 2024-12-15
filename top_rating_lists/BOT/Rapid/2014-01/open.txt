@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tangani, Goabaone	BOT 1900 M 1887.0617669 74.9597757 11301201
-2 Kamara, Abdul	BOT 1900 M 1823.1015438 73.8999494 11300833

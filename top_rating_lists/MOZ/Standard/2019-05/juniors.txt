@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vasco Mateus Felizardo Viageiro	MOZ 2003 M 1783.9672967 59.3728366 14800403
-2 Sitoe, Cheila Andre	MOZ 1999 F 1591.5493049 68.9794506 14800780
-3 Efentakis, Katina	MOZ 2002 F 1400.6512905 70.8444963 14800659

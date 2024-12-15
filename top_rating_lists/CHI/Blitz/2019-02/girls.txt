@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Gomez Barrera, Javiera Belen	CHI 2002 1872.7606830 69.5769970 3418723
-2 Figueroa Bernal, Julia Dennis	CHI 2005 1625.0476230 72.9787084 3435300
-3 Mundaca Bermedo, Pia	CHI 2007 1507.2771555 74.1000935 3430170

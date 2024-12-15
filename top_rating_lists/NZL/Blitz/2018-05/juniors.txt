@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ang, Alphaeus Wei Ern	NZL 2002 M 1946.9784875 71.7787454 4303636
-2 Picken, Oliver	NZL 2003 M 1700.6650075 70.6521825 4304764

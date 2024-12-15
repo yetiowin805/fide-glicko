@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Li, Johnson	NZL 1996 M 1980.8720690 63.7032008 4304284
-2 Ning, Isabelle Yixuan	NZL 2009 F 1581.6304685 74.5835057 4307763

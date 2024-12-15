@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ortez, Andrea	ESA 2001 F 1794.7393943 73.2527333 6702392
-2 Barahona, Dalila Yamileth	ESA 2005 F 1616.6983306 74.8270200 6705740

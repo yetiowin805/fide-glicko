@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al Qudaimi, Basheer	YEM 1984 M 2297.2567877 51.8770578 9400346
-2 Sultan, Mohamed	YEM 1900 M 1999.8336781 73.4522702 9401610

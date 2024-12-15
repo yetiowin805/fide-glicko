@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mateo, Ramon	DOM 1958 M 2412.0936283 69.4322093 6400019
-2 Carrion, Marcelo	DOM 1956 M 2239.3362786 74.2745181 6400094

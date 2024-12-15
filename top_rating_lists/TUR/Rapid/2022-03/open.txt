@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Seviner, Kemal	TUR 1994 M 1728.5536832 74.5242011 6345409
-2 Ozbek, Gorkem	TUR 1986 M 1656.3801537 72.1479777 34568719

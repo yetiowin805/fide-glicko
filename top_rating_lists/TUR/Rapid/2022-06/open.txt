@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pasa, Ahmet	TUR 2006 M 1951.1410150 71.5076453 44561237
-2 Seviner, Kemal	TUR 1994 M 1761.3863906 70.0411348 6345409

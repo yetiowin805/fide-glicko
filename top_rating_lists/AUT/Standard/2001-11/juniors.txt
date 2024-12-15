@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Moser, Eva	AUT 1982 F 2381.9801996 56.0489083 1607456
-2 Pilaj, Herwig	AUT 1981 M 2331.6686680 63.3234119 1604040

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Nomin-Erdene, Davaademberel	MGL 2000 2099.8443030 68.3363145 4900782
-2 Amina, Battsooj	MGL 2001 1737.7445153 68.3145655 4902661
-3 Tsogzolmaa, Nanjid	MGL 2004 1674.8108081 71.7102186 4903099

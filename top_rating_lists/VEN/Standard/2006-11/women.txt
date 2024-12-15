@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Sanchez Castillo, Sarai	VEN 1981 2251.5795161 55.1563661 3900754
-2 Hernandez, Zaida	VEN 0 1910.8368993 72.4108349 3901041

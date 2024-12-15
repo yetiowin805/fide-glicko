@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Boyarchenko, Vlada	LUX 1997 1647.1428504 60.4897618 4000072
-2 Biryukov, Alice	LUX 1998 1533.7441486 71.3074840 4002440

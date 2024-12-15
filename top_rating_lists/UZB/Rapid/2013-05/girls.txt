@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Kurbonboeva, Sarvinoz	UZB 1994 2035.4675706 69.2474790 14201780
-2 Tohirjonova, Gulruhbegim	UZB 1999 1747.5923863 73.3004462 14203626
-3 Abdusattorova, Bakhora	UZB 1999 1659.6099997 72.2821599 14204126

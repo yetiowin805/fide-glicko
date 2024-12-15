@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Araujo Sanchez, Josue	DOM 2001 M 2119.9529560 62.7474782 6416896
-2 Mesa Cruz, Juan Carlos	DOM 2003 M 1831.8180023 67.5698647 6423400
-3 Hernandez Lora, Miguel Angel	DOM 2005 M 1756.1226419 69.0138992 6423787
-4 Ramirez Luzon, Franchesca	DOM 2004 F 1687.6469794 69.2726921 6421792

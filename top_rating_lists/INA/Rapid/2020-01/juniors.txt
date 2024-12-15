@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Elisabeth, Christine	INA 2002 F 1699.4382054 74.8123745 7106165
-2 Azzam, Muhammad Siddiq Idris	INA 2003 M 1465.3218408 73.8999281 7122934

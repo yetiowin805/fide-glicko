@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kovalev, Vladislav	BLR 1994 M 2430.5758607 53.8003209 13504398
-2 Terzi, Alexei	BLR 1997 M 2005.0036361 72.6303626 13505076

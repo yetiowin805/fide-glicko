@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gonzalez Perez, Arian	FID 1988 M 2398.8736983 44.0273490 3507777
-2 Elissalt Cardenas, Hector	FID 1963 M 2301.7581904 70.2135648 3500632
-3 Alonso Garcia, Rene Marcial	FID 1963 M 2282.3273663 64.6639634 3500276

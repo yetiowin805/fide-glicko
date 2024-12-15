@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ahmad, Aziz	IRQ 1981 M 2287.2482735 63.8387852 4800680

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Wenger, Jacques	BEL 1948 M 1649.3151298 69.8840150 224030
-2 Ulburghs, Piet	BEL 1951 M 1624.1511024 68.1107133 211850

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pazos Gambarrotti, Plinio	ECU 1960 M 2020.3285057 73.2888636 3600068
-2 Naranjo Zolotov, Mijail	ECU 1979 M 1735.3256996 67.6229235 3600637

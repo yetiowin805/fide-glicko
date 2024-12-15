@@ -1,9 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Calacuayo Tamayo, Marco Antonio	MEX 2004 M 1743.2756382 73.9882046 5129214
-2 Laurrabaquio Ramirez, Bryan Rica	MEX 2005 M 1718.3846215 63.8928458 5129338
-3 Aviles Campos, Andrea Regina	MEX 2005 F 1684.4976561 72.4578953 5123542
-4 Del, Razo Mendoza Andrea Ni	MEX 2003 M 1659.0086179 62.9087822 5137640
-5 Aguilar Sanchez, Marcos Ed	MEX 2003 M 1631.7611980 70.0831043 5119693
-6 Martinez Mares, Genesis Alejandra	MEX 2005 F 1563.6633792 65.5001304 5144264
-7 Barberena Gallardo , Alexander Ra	MEX 2010 M 1384.8428918 64.3485713 5147018
-8 Del Razo Mendoza, Nancy Ai	MEX 2006 M 1328.1848975 64.6654467 5137632

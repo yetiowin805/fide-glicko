@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Iraqui, Youssef	MAR 1900 M 1899.8359293 72.8026414 9000666
-2 Aboulasse, Saad	MAR 2010 M 1445.6186558 71.1772413 45188041

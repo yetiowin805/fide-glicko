@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Efimov, Igor	MNC 1960 M 2345.3916682 71.2936528 806404
-2 Van Hoolandt, Patrick	MNC 1958 M 1945.0378174 72.9337846 200999

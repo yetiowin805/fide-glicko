@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kotronias, Vasilios	CYP 1964 M 2624.0682230 45.2984776 5900212
-2 Klerides, Paris	CYP 1970 M 2161.4413348 74.2698124 5900158

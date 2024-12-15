@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Gevorgyan, Irina	UZB 1990 2041.9804962 71.0390947 14201437
-2 Kurbonboeva, Sarvinoz	UZB 1994 1933.2425176 72.4864574 14201780
-3 Tokhirjonova, Gulrukhbegim	UZB 1999 1872.8109866 70.6821411 14203626

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Akuatse Angel, Kaleb	BEL 2001 M 1702.1645202 74.8393177 240257
-2 Yoro, Samuel	BEL 2004 M 1573.6430444 74.6958117 242543

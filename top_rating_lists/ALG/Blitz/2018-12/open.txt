@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bellahcene,Bilel	ALG 1998 M 2367.5415767 70.7744022 696358
-2 Haddouche, Mohamed	ALG 1984 M 2326.7796389 64.0897509 7900660
-3 Boulahouache, Djamel Eddine	ALG 1987 M 1644.6123294 69.3525613 7902166

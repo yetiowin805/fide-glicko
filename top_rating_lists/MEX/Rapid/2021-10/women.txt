@@ -1,7 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Roque Sola, Andrea	MEX 2001 1767.4515660 63.1887093 5119480
-2 Hernandez Ortega, Carolina	MEX 2005 1706.7987496 66.3527690 5132126
-3 Martinez Mares, Genesis Alejandra	MEX 2005 1577.9611866 71.5142458 5144264
-4 Del Razo Mendoza, Andrea Nikole	MEX 2003 1565.5031481 71.7267274 5137640
-5 Aguilar Sanchez, Citlali	MEX 2004 1554.1631545 55.5681440 5119502
-6 Del Razo Mendoza, Nancy Ailine	MEX 2006 1302.8176052 71.5476505 5137632

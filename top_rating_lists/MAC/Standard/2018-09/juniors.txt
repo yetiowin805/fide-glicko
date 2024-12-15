@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ip, Weng Tou	MAC 2006 M 1443.6469493 72.4270727 15400611

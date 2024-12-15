@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Meskens, Stephan	IRL 1969 M 1797.5410870 73.5162413 2502275
-2 McCabe, Shane	IRL 1968 M 1710.5052583 70.1598541 2503891

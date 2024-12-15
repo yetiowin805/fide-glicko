@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Husbands, Orlando	BAR 1997 M 1785.3311110 71.0968321 11101644
-2 Cox, Akeem	BAR 1991 M 1706.0226348 74.2247246 11100087

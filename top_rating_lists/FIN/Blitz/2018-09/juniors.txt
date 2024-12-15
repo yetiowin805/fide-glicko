@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nazarova, Anastasia	FIN 2001 F 1865.2773594 61.5719218 34101737
-2 Velagapudi, Vihan	FIN 2011 M 1404.3705505 69.8236336 515604

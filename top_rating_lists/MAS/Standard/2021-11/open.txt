@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Chan, Sheng Liang Bernard	MAS 1999 M 1791.3189263 73.0285056 5712858
-2 Teoh, Yi Hearn Lawrence	MAS 1989 M 1599.7309128 63.7190148 5706882

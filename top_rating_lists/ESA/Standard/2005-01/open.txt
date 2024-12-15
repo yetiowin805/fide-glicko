@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Leyva, Hector	ESA 1965 M 2378.3727842 70.7702746 6700268
-2 Arias, Lemmys A.	ESA 1978 M 2199.0694481 70.3566866 6700284

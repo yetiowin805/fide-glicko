@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rolston, Daniel Haruma	IRL 2009 M 1582.6494312 68.4983965 2511258
-2 McDonnell, James J.	IRL 1954 M 1560.7946925 73.5305924 2500787

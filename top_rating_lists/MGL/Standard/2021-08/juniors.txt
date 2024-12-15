@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Batsuren, Dambasuren	MGL 2004 M 2349.3766407 73.4371523 4902920
-2 Agibileg, Uurtsaikh	MGL 2001 M 2290.4482149 58.5560359 4901606
-3 Anand, Batsukh	MGL 2008 M 1915.6545301 57.7870196 4903510

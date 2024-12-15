@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hansen, Eric	CAN 1992 M 2467.8357011 70.8481275 2606771
-2 Vaingorten, Yaaqov	CAN 1981 M 2140.1217546 73.8339148 2603918

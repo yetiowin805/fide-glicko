@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Cabarcos Baulina, Manuel	AND 1997 M 1883.0463834 60.6599477 6901166
-2 Alcon Llosada, Alex	AND 2003 M 1715.0421776 74.8566983 6900780

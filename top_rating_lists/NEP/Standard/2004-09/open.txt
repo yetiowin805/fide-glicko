@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Thapa, Krishna	NEP 0 M 2076.5151504 68.6394413 12300217
-2 Shrestha, Keshav	NEP 0 M 2071.1290206 73.3322370 12300055

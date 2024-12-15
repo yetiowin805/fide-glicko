@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bennett, Eric	IRL 1977 M 1838.5366425 66.4519595 2501384
-2 McCabe, Shane	IRL 1968 M 1682.5162104 74.1506357 2503891

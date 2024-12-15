@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Campos, Maria Jose	ARG 1999 1948.9693520 64.6543379 146803
-2 Borda Rodas, Anapaola S.	ARG 2004 1931.7783264 73.5895087 152781
-3 Semprevivo, Florencia	ARG 1990 1794.7169047 68.5906548 173649

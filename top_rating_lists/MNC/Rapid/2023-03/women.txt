@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Dubois, Martine	MNC 1959 1778.5972887 59.7524605 601926
-2 Berezovsky, Fiorina	MNC 2007 1720.8675333 60.1676696 5400651
-3 Thoreux-Josso, Ambre	MNC 2009 1484.4354507 71.8042730 5400813

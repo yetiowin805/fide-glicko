@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Krush, Irina	USA 1983 F 2419.3064523 66.1805589 2012782

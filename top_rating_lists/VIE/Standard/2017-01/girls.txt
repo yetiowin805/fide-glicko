@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Nguyen, Thanh Thuy Tien	VIE 1999 1835.0603202 66.8121470 12400998
-2 Dong, Khanh Linh	VIE 2000 1693.3135972 69.7681538 12403040

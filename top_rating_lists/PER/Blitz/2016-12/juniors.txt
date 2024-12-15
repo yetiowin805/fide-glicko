@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Escalante Ramirez, Brian Sebasti	PER 1999 M 2135.0507744 73.4392894 3819566
-2 Rengifo Blancas, Renzo Jhonathan	PER 2000 M 1845.6224623 73.6302421 3807185

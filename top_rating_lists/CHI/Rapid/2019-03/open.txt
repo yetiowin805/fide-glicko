@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vasquez Schroeder, Rodrigo	CHI 1969 M 2522.0543161 66.3976279 3400042
-2 Valenzuela Gomez, Fernando	CHI 1991 M 2226.6624591 50.3374314 3409392
-3 Aguirre Contreras, Cristian	CHI 1996 M 2096.3629073 73.0543591 3412776
-4 Nauto Munoz, Isaias	CHI 2004 M 1871.3958129 74.3866458 3431746

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bajarani, Ulvi	AZE 1995 M 2375.4103294 70.7983644 13403028
-2 Mammadov, Zaur	AZE 1994 M 2316.3963456 71.1793027 13401033

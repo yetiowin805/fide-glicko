@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Prasad, Calvin	FIJ 1980 M 1907.5774135 73.7614229 11400072

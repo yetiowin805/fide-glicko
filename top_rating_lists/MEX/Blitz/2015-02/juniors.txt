@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Roque Sola, Andrea	MEX 2001 F 1583.2604606 68.7215220 5119480
-2 Moreno Vazquez, Esteban	MEX 2003 M 1502.9288644 71.7775427 5117780

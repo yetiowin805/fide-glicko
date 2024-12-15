@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tologontegin, Semetey	KGZ 1990 M 2284.0330710 52.6949090 13800574
-2 Akylbekov, Nasyr	KGZ 1984 M 2185.7004423 52.6647711 13800353

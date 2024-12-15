@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Montalvo Rosario, Alejandro	PUR 1968 M 2062.0563334 70.7862848 3100260
-2 Pinales Roussel, Gabriel	PUR 1998 M 1762.8166594 72.3030913 3101762

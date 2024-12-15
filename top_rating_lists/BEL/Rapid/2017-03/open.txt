@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Atanasiu, Nicolae	BEL 1957 M 1853.7383344 72.3710730 262420
-2 Ulburghs, Piet	BEL 1951 M 1706.5060259 69.3098397 211850

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Gomez Barrera, Javiera Belen	CHI 2002 1836.9626344 71.0013189 3418723
-2 Zuniga Lara, Catalina Paz	CHI 2000 1565.7209975 72.2630699 3423433
-3 Figueroa Bernal, Julia Dennis	CHI 2005 1564.1195729 74.1876000 3435300

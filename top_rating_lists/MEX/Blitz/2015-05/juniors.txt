@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Roque Sola, Andrea	MEX 2001 F 1583.2604606 73.8764684 5119480

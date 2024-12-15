@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Boulos, Carlos	LBN 2004 M 1970.4566178 68.8602574 5302749
-2 Khoder, Akram	LBN 2005 M 1789.7105216 72.5045484 5306914

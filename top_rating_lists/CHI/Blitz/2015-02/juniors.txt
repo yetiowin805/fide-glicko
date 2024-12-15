@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Henriquez Villagra, Cristobal	CHI 1996 M 2323.0143880 67.6472153 3409350
-2 Squella Lavin, Carlos Felipe	CHI 1996 M 1954.5691717 71.8206847 3406792
-3 Suarez OHiggins, Luis	CHI 1997 M 1877.8099984 67.5262899 3416780
-4 Aguirre Contreras, Cristian	CHI 1996 M 1862.4768009 59.4742241 3412776
-5 Donoso Diaz, Sebastian	CHI 2001 M 1825.1442695 66.2142583 3416097

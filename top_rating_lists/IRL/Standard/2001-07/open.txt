@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Baburin, Alexander	IRL 1967 M 2588.1731053 54.3270414 2500914

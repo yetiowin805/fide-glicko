@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sosa Trani, Luis A.	PUR 1958 M 1863.4006929 74.8614951 3100022
-2 Pedrosa Class, Jose D.	PUR 1997 M 1554.6205131 66.4087714 3105920

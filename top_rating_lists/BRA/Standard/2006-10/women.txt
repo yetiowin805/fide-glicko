@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Chang, Suzana	BRA 1972 2018.3949569 64.0605129 2105985
-2 Soler Di Benedetto, Sandra	BRA 1975 1964.4096247 74.4334878 2111578

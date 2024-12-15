@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Sigal-Passeck, Sofia	ISR 1999 1788.4715734 60.5763625 4169930
-2 Perry, Tal	ISR 2001 1631.7854890 63.8871751 2813750

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rabar Bakhtyar Hama Saleh	IRQ 2000 M 1592.8652937 68.2883808 4809645
-2 Al-Saffar, Abdullah Ammar Ahmed	IRQ 2009 M 1343.5552039 74.6635167 4814452

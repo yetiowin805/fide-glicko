@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Sanchez Rodriguez, Wilmairi	PUR 1991 1712.5582663 65.7619910 3101185
-2 Comas Colon, Rinelly	PUR 1995 1710.6865814 66.9812892 3101576
-3 Vazquez Maccarini, Danitza	PUR 2000 1679.2047084 55.0222091 3101193
-4 Alvarez Orta, Jo Ann	PUR 1994 1602.8819528 73.5233252 3100979

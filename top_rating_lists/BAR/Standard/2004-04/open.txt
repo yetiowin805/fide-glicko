@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Warner, Delisle	BAR 0 M 2327.0008728 73.9386527 11100109
-2 Szmetan, Ricardo	BAR 1952 M 2262.3365344 60.9114923 101028

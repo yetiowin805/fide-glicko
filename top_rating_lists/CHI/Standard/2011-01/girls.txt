@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Toro Pradenas, Maria Jose	CHI 1991 1895.3458232 71.2440779 3412610
-2 Jorquera Cabello, Valentina	CHI 1995 1887.2823010 59.6581995 3405494
-3 Cortes Arias, Mariela	CHI 1992 1627.9705642 53.1275808 3405478
-4 Jensen Recupero, Daniela	CHI 1995 1560.9316085 74.8258325 3412229

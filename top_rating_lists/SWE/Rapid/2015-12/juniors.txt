@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lokander, Martin	SWE 1996 M 2172.0580454 71.3809654 1709569
-2 Sundin, Emanuel	SWE 1999 M 1561.6174366 74.6631226 1719173

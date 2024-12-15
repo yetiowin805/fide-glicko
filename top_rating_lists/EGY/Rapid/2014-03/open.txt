@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Shoker, Samy	EGY 1987 M 2496.5079327 69.4160019 627143
-2 Wafa, Shrook	EGY 1997 F 1845.1945881 73.6700537 10609970

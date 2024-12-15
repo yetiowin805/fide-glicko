@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Ptacnikova, Lenka	ISL 1976 1946.6177934 43.7172496 305650
-2 Haile, Batel Goitom	ISL 2007 1493.7624122 52.6753644 2315190
-3 Birkisdottir, Freyja	ISL 2006 1408.9720195 59.5664803 2311860

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Boschetti, Claudio	SUI 1957 M 2079.6133047 74.1967873 1300920
-2 Vogelsanger,Nicolas	SUI 2008 M 1589.5085885 66.9143474 1337122

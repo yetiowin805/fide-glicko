@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tsotsonava, Elene	GEO 2005 F 1950.5492679 71.8270639 13615939

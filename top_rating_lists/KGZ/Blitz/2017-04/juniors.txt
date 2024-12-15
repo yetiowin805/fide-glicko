@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Teiitbaev, Aktilek	KGZ 2000 M 1857.0845658 59.0981332 13801937
-2 Omurbekova, Diana	KGZ 1999 F 1591.8939091 73.9806566 13800752

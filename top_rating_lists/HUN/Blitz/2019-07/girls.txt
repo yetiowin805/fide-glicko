@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Marjanovic, Annamaria	HUN 2001 2139.0504287 73.5582700 750930
-2 Majoros, Rozsa Evelin	HUN 2004 1858.5982255 71.5499001 767310
-3 Hatzi, Evelin	HUN 2000 1466.1977683 72.9371928 789372

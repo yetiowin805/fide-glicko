@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Moser, Eva	AUT 1982 F 2334.5233626 51.3769878 1607456
-2 Sprenger, Wendelin	AUT 1984 M 2192.9441624 66.2016242 1612794

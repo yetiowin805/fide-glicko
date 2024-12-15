@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Vecchione, Anna Pia	ITA 2001 1731.3501399 61.3176613 2804706
-2 Picchi, Darina Francesca	ITA 1997 1622.2542446 68.1756785 880329
-3 Petrini, Emanuela	ITA 2003 1537.1089910 73.5590621 2803130

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Grieve, Harry	ENG 2001 M 2155.6531089 70.5870139 426520
-2 Karas, Eugenia	ENG 2008 F 1641.4482066 72.8724184 463485

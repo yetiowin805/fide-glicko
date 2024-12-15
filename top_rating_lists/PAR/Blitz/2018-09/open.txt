@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Delgado Ramirez, Neuris	PAR 1981 M 2482.1522196 74.8502339 3503631
-2 Benitez Galeano, Alejandro	PAR 2002 M 1884.5803173 69.1719649 3703568

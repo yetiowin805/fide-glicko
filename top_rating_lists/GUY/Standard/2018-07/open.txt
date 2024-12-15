@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Drayton, Anthony	GUY 1994 M 1919.1054458 68.0046888 19700261

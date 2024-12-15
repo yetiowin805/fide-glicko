@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Srivachirawat, Kannapon	THA 1967 M 2190.8265607 74.7260465 6200230
-2 Tuorila, Kai	THA 1965 M 2166.3026995 73.0630674 6200214

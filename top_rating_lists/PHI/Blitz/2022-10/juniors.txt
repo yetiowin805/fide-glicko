@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Daluz, Christian Mark	PHI 2002 M 2080.6790280 67.6876162 5225760
-2 Cuizon, Richily Evans	PHI 2008 F 1506.5942908 72.7488160 5230306
-3 Calacday, Jericho	PHI 2007 M 1419.5176759 71.7356491 5219507

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Miciano, John Marvin	PHI 2000 M 1973.0477389 71.2981892 5211948

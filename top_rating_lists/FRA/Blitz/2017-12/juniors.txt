@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Haussernot, Cecile	FRA 1998 F 2223.3942480 64.3473689 601632
-2 Corrente, Roberto	FRA 2004 M 1478.9851565 68.9179384 36018562

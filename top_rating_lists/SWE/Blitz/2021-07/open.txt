@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gajic, Mladen	SWE 1989 M 2164.3772801 53.6345380 1709178
-2 Hart, Alexander	SWE 1985 M 1790.5093802 60.9053890 1735829

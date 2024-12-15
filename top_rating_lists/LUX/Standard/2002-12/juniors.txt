@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Daubenfeld, Gilles	LUX 1985 M 2124.7112802 69.2092050 4000641

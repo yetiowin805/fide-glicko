@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Abrantes, Persson	MOZ 1990 M 1881.7574734 68.9463370 14800063
-2 Vilhete, Vania Fausto Da T.	MOZ 1985 F 1594.5670601 73.6396054 14800144

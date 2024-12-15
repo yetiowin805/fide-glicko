@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Panchol, James Madol	SSD 1995 M 1955.3363579 62.5973184 10806253
-2 Michael Alier Noah	SSD 1982 M 1721.0623669 71.0146736 32500289

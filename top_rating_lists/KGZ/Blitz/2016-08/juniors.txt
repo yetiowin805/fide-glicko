@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Isaev, Chyngyz	KGZ 1999 M 1853.9890861 74.6256317 13801660
-2 Omurbekova, Diana	KGZ 1999 F 1586.5593139 67.9798083 13800752

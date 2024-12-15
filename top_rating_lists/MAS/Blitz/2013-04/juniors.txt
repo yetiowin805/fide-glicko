@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Teh, De Juan	MAS 2001 M 1646.5239649 74.7287922 5707722

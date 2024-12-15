@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Olebile, Thato	BOT 1991 M 1850.9972254 74.5687162 11300760
-2 Mooketsi, David	BOT 1991 M 1723.2011609 74.2891936 11300485

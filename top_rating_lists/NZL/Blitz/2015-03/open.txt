@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gao, Hans	NZL 1998 M 1828.5383505 74.8904533 4302460

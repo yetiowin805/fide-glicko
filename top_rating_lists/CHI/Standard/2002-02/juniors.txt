@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pineda, Adolfo	CHI 1984 M 2340.7111914 70.8837744 3403386
-2 Diaz, Robert	CHI 1986 M 2232.3724936 70.6444762 3404056

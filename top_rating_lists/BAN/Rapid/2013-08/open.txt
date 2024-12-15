@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Murshed, Niaz	BAN 1966 M 2305.2213118 73.5004915 10200010
-2 Minhazuddin, Ahmed	BAN 1989 M 2296.0584100 74.2450958 10201955

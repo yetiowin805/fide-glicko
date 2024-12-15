@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Blackman, Justin	BAR 1991 M 2053.5893717 72.8368802 11100516

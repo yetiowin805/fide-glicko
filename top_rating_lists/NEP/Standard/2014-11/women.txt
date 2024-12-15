@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Jaiswal, Bina	NEP 1997 1509.2495885 70.2545971 12301744
-2 Adhikari, Ashmita	NEP 1994 1494.7634420 66.3065210 12301329

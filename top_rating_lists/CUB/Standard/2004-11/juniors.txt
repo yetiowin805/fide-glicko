@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Guerra Mendez, Jose Angel	CUB 1988 M 2223.3565481 60.7631251 3508129
-2 Cardenas Ballester, Maidelin	CUB 1987 F 1817.9862854 62.9396028 3508242

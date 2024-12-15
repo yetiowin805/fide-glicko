@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hussein Kadhim Hasan	IRQ 1968 M 1837.9827729 71.7925014 4802098
-2 Laith, Kasib	IRQ 1986 M 1818.1418740 68.6303234 4801059

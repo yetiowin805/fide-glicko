@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mohammed, Zozek Salah Mohammed	IRQ 1986 M 2089.9375346 68.9878568 4803361
-2 Ameer,Dhafer Abdulameer	IRQ 2005 M 1404.6154436 74.7639255 4807537

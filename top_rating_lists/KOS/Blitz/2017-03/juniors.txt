@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Uruci, Endrit	KOS 2000 M 1871.6093340 62.7143618 22100199
-2 Mehmeti, Shqipdon	KOS 2000 M 1669.4739474 66.9316242 22100610

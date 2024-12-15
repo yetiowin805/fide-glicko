@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Lakinska, Simona	MKD 1999 1605.4664811 65.7338395 15001695
-2 Manova, Ivana	MKD 2001 1515.5542950 71.4527836 15003590

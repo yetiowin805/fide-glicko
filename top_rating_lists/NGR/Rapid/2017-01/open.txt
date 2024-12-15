@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Okike, David	NGR 1960 M 2075.8195888 73.8654983 8500134
-2 Nwizu Afamefuna Marcus	NGR 1981 M 1730.5996803 70.7275601 8504555

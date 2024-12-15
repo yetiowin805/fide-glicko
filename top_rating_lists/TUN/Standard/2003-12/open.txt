@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Belkhodja, Slim	TUN 1962 M 2446.1926763 47.0108179 600229
-2 Kaabi, Mejdi	TUN 0 M 2331.8399814 67.0527986 5500044

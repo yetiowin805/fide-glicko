@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Moradiabadi, Elshan	FID 1985 M 2502.8051694 73.2957805 12501255
-2 Rivera, Alberto	FID 1957 M 2133.5332120 51.9348741 3500390
-3 Ferragut Blanco, Arnaldo	FID 1973 M 2029.6053819 67.9589871 3502562

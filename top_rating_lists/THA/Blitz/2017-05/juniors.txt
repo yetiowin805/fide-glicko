@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Prasitsoonthorn, Teerachoti	THA 2003 M 1762.9453503 61.2405314 6204422
-2 Nunbhakdi, Tawin Matthew	THA 1998 M 1739.1383943 64.4235227 6203310

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bukhari, Mohammed	KSA 1959 M 1667.8670768 68.9531315 21502277
-2 Al Dubaisi, Hassan S	KSA 1989 M 1651.3028610 73.8251840 21504539

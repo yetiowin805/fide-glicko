@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Haznedaroglu, Kivanc	TUR 1981 M 2352.5599197 70.4652875 6300634

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Markidou, Christianna	CYP 1977 1649.3196244 62.7039957 5900433
-2 Ioannides Liu, Alice	CYP 2005 1492.7649308 71.4892568 5904374
-3 Sokolova, Victoria	CYP 2009 1344.0959984 72.9144104 5905460

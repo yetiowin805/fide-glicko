@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Almusawi, Maram	BRN 2008 1480.9635108 67.6793786 11205458
-2 Ahmed, Najla	BRN 2000 1270.3069996 67.9540393 11205270

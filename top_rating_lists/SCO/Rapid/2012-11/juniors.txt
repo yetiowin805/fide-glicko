@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sreeves, Clement	SCO 1992 M 2166.0742972 70.9354133 2402564
-2 McClement, Andrew	SCO 1995 M 2027.9486651 74.3445909 2400480

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ziani, Racym	ALG 2000 M 1662.3717161 72.2415490 7904967
-2 Chibane, Nabila	ALG 1998 F 1620.8307853 74.6717957 7904010

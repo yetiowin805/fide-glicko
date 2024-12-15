@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Alhejab, Meshal	KUW 2007 M 1623.0015824 58.0272331 10302603
-2 Alzaid, Zaid	KUW 1972 M 1514.9716089 67.5722648 383266891

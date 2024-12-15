@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Jimenez Matos, Jimmy	DOM 2001 M 1846.0868907 69.2116093 6411126
-2 Araujo Sanchez, Josue	DOM 2001 M 1735.3014246 74.1712648 6416896

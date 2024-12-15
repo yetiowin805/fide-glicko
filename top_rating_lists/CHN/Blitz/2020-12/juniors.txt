@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Song, Yuxin	CHN 2005 F 2077.7428656 71.5901965 8614300
-2 Feng, Yuanbo	CHN 2010 M 1304.3122311 73.5887347 8624054

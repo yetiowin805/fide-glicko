@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Del Castilho, Martyn	BAR 1989 M 2130.3474830 51.0078209 11100400
-2 Blackman, Justin	BAR 1991 M 1901.1593451 58.8841044 11100516

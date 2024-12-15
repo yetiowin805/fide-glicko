@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Studer, Noel	SUI 1996 M 2281.5192691 68.9511620 1319620
-2 Vulevic, Vjekoslav	SUI 1949 M 2259.2922672 68.4423581 1300270

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Eydsteinsson, Silas	FAI 1998 M 1855.7997177 74.6369826 7201443
-2 Nielsen, Jon I Horni	FAI 2005 M 1689.6600218 70.1903437 7202105
-3 Nielsen, Suni I Horni	FAI 2003 M 1627.6029309 73.7701701 7202393

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Joseph, Sanjiv	TTO 2008 M 1459.9264195 74.3156574 7706022

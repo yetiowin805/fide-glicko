@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lai, Cyrus Ho-yeung	HKG 1991 M 1691.9204705 72.3229424 6001220
-2 KUAN, Julian	HKG 1992 M 1671.8361317 71.1358163 6001025

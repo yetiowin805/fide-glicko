@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Koniahli, Malek	SYR 2000 M 1804.1224217 73.5800070 7603495
-2 Al Argha, Fatima	SYR 2004 F 1312.6541146 71.6396334 7603053

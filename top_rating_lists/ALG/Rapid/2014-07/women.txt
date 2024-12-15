@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Saim, Ikram Kaouter	ALG 2000 1551.4023506 74.1340074 7902883
-2 Benaissa, Imane	ALG 1983 1544.7840187 68.6572234 7902140

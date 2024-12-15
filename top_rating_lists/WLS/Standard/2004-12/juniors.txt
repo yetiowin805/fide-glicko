@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rees, Ioan	WLS 1988 M 2218.7783627 59.2758582 1801236
-2 Blackburn, Joathan Lb	WLS 1985 M 2184.7080748 72.3250697 1801090

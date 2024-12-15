@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bennett, Hilton	NZL 1955 M 1833.4077284 74.8031103 4300734
-2 Mitchell, Robert	NZL 1941 M 1475.6124540 70.2899551 4302095

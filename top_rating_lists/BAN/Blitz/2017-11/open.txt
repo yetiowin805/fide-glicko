@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mohammad Fahad, Rahman	BAN 2003 M 2089.1827134 73.4606882 10207791
-2 Rahman, Syed Mahfuzur	BAN 1979 M 2050.1620596 71.2824142 10200738

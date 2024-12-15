@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Morera Campos, Hazel Maria	CRC 1997 1666.7332099 72.6918618 6505910
-2 Marin Leon, Valeria	CRC 2000 1624.7649957 62.8255426 6503381
-3 Ramirez Almeciga, Yenny Melisa	CRC 1997 1557.8867299 71.1410927 6503616
-4 Salazar Gould, Melanie	CRC 2003 1551.2575932 58.8249168 6505090

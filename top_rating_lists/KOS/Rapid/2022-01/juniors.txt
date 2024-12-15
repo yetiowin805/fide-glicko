@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Saraci, Korab	KOS 2003 M 2033.6561150 64.1558410 4701968
-2 Jusufi, Ahmet	KOS 2006 M 1606.1898263 74.6969875 22104402

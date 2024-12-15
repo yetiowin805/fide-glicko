@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Van Foreest, Jorden	NED 1999 M 2473.8023994 73.3799729 1039784
-2 Rutten, Alexander	NED 2006 M 1961.4058510 74.1693009 1052063

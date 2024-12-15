@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ahmed Hassan Ahmed	SUD 1982 M 1955.1272018 73.3261801 12201588
-2 Hajar , Muhannad	SUD 1900 M 1796.2481306 73.3173033 12201006

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Whyms, Chappell	BAH 1969 M 1516.0260278 73.9840486 10400125

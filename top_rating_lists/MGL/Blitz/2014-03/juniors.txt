@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bilguun, Sumiya	MGL 1997 M 2080.4083462 74.7958828 4901541
-2 Enkhtuul, Altanulzii	MGL 1994 F 2002.9072322 69.2216755 4901444
-3 Enkhnar, Enkhbaatar	MGL 1997 M 1994.8151859 71.9942982 4900324

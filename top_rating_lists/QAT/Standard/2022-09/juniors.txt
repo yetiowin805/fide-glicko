@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Erfan Mohamad Firdaus	QAT 2009 M 1594.5054511 69.1655474 12102032
-2 Al-Homaid, Abdulla	QAT 2006 M 1478.1556177 69.7531138 12102016

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mlawa, Hemed	TAN 1900 M 1694.2712144 63.9925084 10002251

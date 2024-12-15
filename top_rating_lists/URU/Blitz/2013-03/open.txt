@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Guerrero, Alvaro	URU 1971 M 2059.7386964 74.9508712 3000478

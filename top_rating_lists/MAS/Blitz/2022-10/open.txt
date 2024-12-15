@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Wong, Damian Anthony	MAS 2001 M 1447.3128089 70.2471336 5782627

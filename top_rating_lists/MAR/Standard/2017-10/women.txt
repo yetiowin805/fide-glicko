@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Arif, Fadoua	MAR 1991 1737.4754269 74.4424070 9002286
-2 Makhlouf, Ahlam	MAR 2004 1511.2654342 68.0818816 9003380

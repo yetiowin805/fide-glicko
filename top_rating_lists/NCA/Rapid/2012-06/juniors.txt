@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Madrigal, Mariano	NCA 1994 M 1973.6120027 73.0834182 6100961
-2 Medrano, Randall	NCA 1992 M 1835.4456138 74.4185863 6100970

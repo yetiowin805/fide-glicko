@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Strugnell, Carl	WLS 1981 M 2076.9792753 74.5608880 616753
-2 Bullen, Alex	WLS 1994 M 1967.1401059 68.2054082 1801627

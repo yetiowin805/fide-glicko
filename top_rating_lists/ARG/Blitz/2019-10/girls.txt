@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Borda Rodas, Anapaola S.	ARG 2004 1750.2639969 61.7627460 152781
-2 Bosco, Giuliana	ARG 2004 1709.2329082 74.5042359 142611
-3 Scarsi, Anna Laura	ARG 2006 1535.4268755 62.7565558 159328

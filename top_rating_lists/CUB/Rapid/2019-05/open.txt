@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Alarcon Casellas, Rolando	CUB 1986 M 2390.5567313 69.7539166 3507610
-2 Garcia Pantoja, Roberto	CUB 1992 M 2323.4016982 69.6116251 3509265
-3 Alonso Bouza, Julio Javier	CUB 1989 M 2163.3254059 73.4736861 3508889

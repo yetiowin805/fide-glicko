@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Dahdal, Lougain	JOR 1990 F 1751.6144448 74.4898080 8102880

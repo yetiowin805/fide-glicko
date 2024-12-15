@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Aponte, Oriana Isabel	VEN 1997 1786.6168088 70.3967064 3902439
-2 Duran Reina, Luisa Elena	VEN 1982 1692.9509189 74.3326293 3900940
-3 Pena Gonzalez, Clara Isabel	VEN 2004 1495.8257292 71.4995080 3924203

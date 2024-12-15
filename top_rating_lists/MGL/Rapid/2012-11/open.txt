@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gundavaa, Bayarsaikhan	MGL 1989 M 2424.3199373 74.4488357 4901045
-2 Batchuluun, Tsegmed	MGL 1987 M 2418.3975131 74.4150090 4900847
-3 Munguntuul, Batkhuyag	MGL 1987 F 2392.2182766 71.1186217 4900758
-4 Enkhtuul, Altanulzii	MGL 1994 F 2076.4275350 61.9345741 4901444

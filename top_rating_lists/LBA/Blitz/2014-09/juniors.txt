@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 El Mashaili, Khalil	LBA 1994 M 1765.0259037 70.1353746 9200525
-2 Al Sori, Mohamed	LBA 1997 M 1672.0657442 74.0925257 9200711

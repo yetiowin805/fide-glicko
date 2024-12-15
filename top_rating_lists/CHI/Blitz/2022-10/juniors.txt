@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Marrujo Pardo, Mauricio Emmanuel	CHI 2010 M 1997.5874343 59.1630626 3943755
-2 Reyes Mendoza, Tomas	CHI 2007 M 1906.8160153 73.6569718 3439216
-3 Munoz Ramos, Christopher	CHI 2011 M 1894.6214429 62.4088664 3439615

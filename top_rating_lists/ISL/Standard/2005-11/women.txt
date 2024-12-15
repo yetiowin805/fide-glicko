@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Ptacnikova, Lenka	ISL 1976 2172.5620251 48.6729183 305650
-2 Thorsteinsdottir, Gudlaug	ISL 1961 2062.5473143 68.2556580 2300753
-3 Gretarsdottir, Lilja	ISL 1900 1928.4192549 70.1891297 2301385
-4 Fridthjofsdottir, Sigurl. Regina	ISL 1961 1798.9194660 72.6178208 2300788

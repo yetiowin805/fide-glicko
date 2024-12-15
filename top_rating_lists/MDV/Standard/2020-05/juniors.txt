@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Yameen, Yooshau Mohamed	MDV 2003 M 1409.3630034 70.6178361 16700910
-2 Nuha, Rilwan	MDV 2005 F 1250.5032959 73.6182119 16700899

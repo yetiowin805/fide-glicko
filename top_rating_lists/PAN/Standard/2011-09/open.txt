@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Baules, Jorge	PAN 1983 M 2326.1111339 74.0036535 6600247
-2 Aizpurua, Patrick	PAN 1994 M 1926.3958757 68.2909252 6600522

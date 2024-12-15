@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kirby, Peter J.	GCI 1963 M 1893.5038426 66.3703187 409014
-2 Rowe, Peter	GCI 1953 M 1809.8741580 74.9416569 10700099

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Estrada Gaspar, Nelly Massiel	MEX 1987 1997.9603762 63.6288520 5106320
-2 Gutierrez Mancillas, Alicia Abig	MEX 1990 1974.5498833 59.1433561 5108926
-3 Carreras Mendiolea, Paulina Adri	MEX 1989 1894.6863696 67.2866716 5105420

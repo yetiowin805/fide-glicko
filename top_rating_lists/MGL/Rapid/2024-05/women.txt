@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Munkhzul, Turmunkh	MGL 2002 2200.5060123 69.2672854 4901878
-2 Nomin-Erdene, Davaademberel	MGL 2000 2171.3736091 74.5211243 4900782
-3 Munguntuul, Batkhuyag	MGL 1987 2106.9403833 74.3671957 4900758
-4 Margadgua Erdenebayar	MGL 2005 1825.7190465 71.2196858 4904052

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Akesson, Ralf	SWE 1961 M 2366.6130340 67.7986677 1700120
-2 Westerberg, Jonathan	SWE 1994 M 2279.3846952 71.7324425 1701754

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ortiz Sanchez, Luis	WLS 1979 M 1829.4804514 65.5744089 24581160
-2 Rizvi, Nasir	WLS 1977 M 1807.5022976 62.3545158 1800540

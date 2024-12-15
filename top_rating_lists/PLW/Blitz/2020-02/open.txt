@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Parrado, Angelica	PLW 1968 F 1546.6794249 71.8108341 16600215
-2 Hossain, Mohammad Manik	PLW 1981 M 1429.7540599 74.7592111 16600185

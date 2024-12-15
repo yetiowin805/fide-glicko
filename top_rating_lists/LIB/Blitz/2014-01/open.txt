@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Chahrour, Ibrahim	LIB 1997 M 1930.6933069 74.9166500 5301653
-2 Jalloul, Maya M.	LIB 1990 F 1852.8164928 70.1503127 5300800

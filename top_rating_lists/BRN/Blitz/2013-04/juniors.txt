@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lakshminaryanan, Ishwaryaa	BRN 1999 F 1580.8998811 64.2953205 11201410
-2 Sridhar, Pranav	BRN 1998 M 1473.3332506 73.7814218 11201444

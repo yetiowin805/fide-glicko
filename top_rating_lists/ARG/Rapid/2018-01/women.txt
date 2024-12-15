@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Borda Rodas, Anapaola S.	ARG 2004 1730.2455514 69.8424008 152781
-2 Strgacich, Aylen	ARG 1999 1701.3838927 72.9267259 119296
-3 Bosco, Giuliana	ARG 2004 1639.8157426 67.6610718 142611
-4 Francisco Guecamburu, Candela Be	ARG 2006 1604.1493650 67.5441153 160911

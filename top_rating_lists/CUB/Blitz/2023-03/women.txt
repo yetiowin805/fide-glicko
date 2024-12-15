@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Forgas Moreno, Yaniela	CUB 1992 2067.3718568 71.9794655 3508072
-2 Gonzalez Ochoa, Yoana	CUB 1992 1865.2222838 65.3899164 3507629
-3 Fernandez Bustamante, Leancy B.	CUB 2000 1862.4991026 72.1781787 3523870
-4 Fernandez Rivero, Karla July	CUB 1997 1717.4367982 70.6953810 3517489

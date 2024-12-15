@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Agibileg, Uurtsaikh	MGL 2001 M 2157.9235827 60.1318619 4901606
-2 Anand, Batsukh	MGL 2008 M 1841.6649637 74.2858691 4903510

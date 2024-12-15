@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bonnez, Finn	DEN 1960 M 1830.8846291 73.6861726 1403800
-2 Hjort, Helge	DEN 1944 M 1732.0625649 65.7385662 1436678

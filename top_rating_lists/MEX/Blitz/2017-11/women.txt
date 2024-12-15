@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Roque Sola, Andrea	MEX 2001 1651.9433550 74.0618639 5119480
-2 Roque Sola, Maria Fernanda	MEX 2000 1645.7109123 61.8305647 5115833

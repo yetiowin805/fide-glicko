@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Musonda Chola	ZAM 2000 M 1999.9449383 68.1765361 8706050
-2 Bwalya Mulwale, Lubuuto	ZAM 2001 F 1689.3897867 73.4613024 8706964

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Halison Ishmael	MAW 1999 M 1530.0397695 74.4075597 20504241

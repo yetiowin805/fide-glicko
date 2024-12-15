@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gator, Mosab	LBA 1990 M 2043.8869733 67.5524369 1312383

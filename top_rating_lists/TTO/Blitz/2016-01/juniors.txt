@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Johnson, Joshua	TTO 1999 M 2020.2586504 63.3110716 7700768
-2 Yearwood, Sean	TTO 2003 M 1668.4382699 74.7492515 7702426

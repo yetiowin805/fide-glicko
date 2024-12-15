@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Quimi, Marco	PER 1962 M 2084.6880863 74.4813351 3800288

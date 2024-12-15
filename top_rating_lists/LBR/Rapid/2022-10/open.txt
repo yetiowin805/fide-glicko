@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 James, Tondo	LBR 1992 M 1786.6731888 72.9840705 22600132
-2 Bobby Ballah	LBR 1996 M 1739.2584490 73.1401145 22600531

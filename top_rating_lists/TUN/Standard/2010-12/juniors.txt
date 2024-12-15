@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ghalia, Daly	TUN 1996 M 1459.9667587 72.3284355 5502071

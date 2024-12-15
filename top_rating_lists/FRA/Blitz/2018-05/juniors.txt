@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bellahcene, Bilel	FRA 1998 M 2415.8936013 58.3444796 696358
-2 Haussernot, Cecile	FRA 1998 F 2201.9906830 67.5442747 601632

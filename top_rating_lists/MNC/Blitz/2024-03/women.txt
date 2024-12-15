@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Dornbusch, Tatiana	MNC 1982 1956.5839004 65.9567123 14107449
-2 Berezovsky, Fiorina	MNC 2007 1623.6286868 61.6409843 5400651

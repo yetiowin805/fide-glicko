@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Van Dael, Siem	NED 2004 M 2010.3105677 73.5890732 1049771
-2 Cherepanov, Daniil A	NED 2010 M 1380.7975437 74.0182367 1072226

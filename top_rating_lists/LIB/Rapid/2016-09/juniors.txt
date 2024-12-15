@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Khairallah, Ralph	LIB 1998 M 1703.7976296 74.4749250 5302994

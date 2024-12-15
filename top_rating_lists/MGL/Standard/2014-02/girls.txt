@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Enkhtuul, Altanulzii	MGL 1994 2140.0805045 46.4681733 4901444
-2 Bayarmaa, Bayarjargal	MGL 1995 1968.4782377 72.3177608 4900260
-3 Badamkhand, Norovsambuu	MGL 1995 1884.6210458 62.8282349 4901681
-4 Nominerdene, Davaademberel	MGL 2000 1845.8221774 58.7866380 4900782
-5 Saikhanzaya, Ganbaatar	MGL 1997 1796.2495008 63.2282488 4900030

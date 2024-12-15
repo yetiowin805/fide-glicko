@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Khademalsharieh, Sarasadat	IRI 1997 F 2056.2627731 70.7671390 12512214
-2 Derakhshani, Dorsa	IRI 1998 F 2032.0277630 74.9186796 12500330
-3 Gholami, Aryan	IRI 2001 M 1856.5717600 74.9376972 12513342

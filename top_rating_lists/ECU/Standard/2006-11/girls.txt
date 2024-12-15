@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Heredia Serrano, Carla	ECU 1991 1943.8568191 61.7572737 3603687
-2 Guerrero Suarez, Janitza	ECU 1992 1916.6001735 74.9952464 3602672
-3 Godoy Cardenas, Jessica	ECU 1990 1913.8990013 66.9341508 3603415

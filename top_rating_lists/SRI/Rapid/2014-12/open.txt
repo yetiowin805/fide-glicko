@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Somasundram, Jayakumar	SRI 1951 M 1809.7053927 69.4504860 9900250
-2 Rajapaksa, Miyuni Kavinya	SRI 2000 F 1577.1957938 55.0321104 9939210
-3 Rajapaksa, Inura	SRI 2003 M 1490.4082436 60.9517342 34178365

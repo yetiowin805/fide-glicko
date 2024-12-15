@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Atlas, Valeri	LIE 1968 M 2541.6088546 68.6311710 12000035
-2 Novkovic, Julia	LIE 1972 F 2130.2718654 73.4251421 12000086

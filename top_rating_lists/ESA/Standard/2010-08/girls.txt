@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Sanchez, Ingrid	ESA 1991 1828.1401818 64.0729110 6700217
-2 Hernandez, Bera	ESA 1992 1704.7840740 70.7721884 6700080

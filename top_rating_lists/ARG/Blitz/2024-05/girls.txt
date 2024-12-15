@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Francisco Guecamburu, Candela Be	ARG 2006 2121.8908878 73.1993413 160911
-2 Bosco, Giuliana	ARG 2004 1901.1453648 62.2659350 142611
-3 Gaite, Karen Nerina	ARG 2007 1830.4091368 73.3268923 169420
-4 Montiel Marin, Micaela Agustina	ARG 2008 1646.6435687 67.0518847 169250
-5 Castaneda, Milagros	ARG 2008 1482.7430294 69.3919905 180874

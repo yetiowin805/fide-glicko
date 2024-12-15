@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bueno, Mark	ARU 1998 M 1748.5894699 64.3919915 15900371
-2 Jacobs, Annelaine	ARU 1996 F 1546.1126628 61.1977137 15900177

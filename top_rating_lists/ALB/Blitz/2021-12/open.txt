@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pasko, Llambi	ALB 1991 M 2174.6265463 67.0192312 4701178
-2 Shuqja, Klean	ALB 2006 F 1880.1530472 70.1055315 4701585

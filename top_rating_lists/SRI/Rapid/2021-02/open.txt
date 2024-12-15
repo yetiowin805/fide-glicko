@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Silva, Kevin Ranidu	SRI 2005 M 1771.3560910 74.8187686 9935258
-2 Liyanage, Pesandu Rashmitha	SRI 2006 M 1708.8455810 73.5736305 9947876
-3 Nabil Nazar, Mohamed	SRI 2006 M 1695.4569570 74.0638660 9961640

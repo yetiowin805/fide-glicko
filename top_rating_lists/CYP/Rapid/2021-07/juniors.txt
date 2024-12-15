@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lavrishchev, Matvei	CYP 2010 M 1599.7445972 63.4486341 34390146
-2 Kyriakides, Andreas	CYP 2010 M 1443.4939617 72.0399037 5905320

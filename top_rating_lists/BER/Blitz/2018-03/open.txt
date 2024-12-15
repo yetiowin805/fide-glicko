@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lill, Sami	BER 1976 M 1804.6036200 71.5908232 8800170
-2 Casanova, Rey	BER 1966 M 1478.4983359 71.5065859 8800723

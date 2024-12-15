@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Darmanin, Jake	MLT 1994 M 1759.9854959 65.9930010 5601061
-2 Farrugia, Jamie	MLT 1999 F 1421.6149990 66.7361142 5600898

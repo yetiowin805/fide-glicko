@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Zaw Win Lay	MYA 1963 M 2452.9612268 73.0468423 13000098

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pereira, Eder Marcio	CPV 1987 M 1686.1671440 71.6955118 1928112
-2 Spinola, Sidney	CPV 1979 M 1659.8787119 72.6128898 1950720
-3 Junior, Aguinaldo Vera Cruz	CPV 1957 M 1569.1314216 69.5887446 23600250

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Alzamil, Abdulaziz	KSA 1990 M 1816.9086409 66.0954264 21507996
-2 Al Mutlaq, Ibrahim A	KSA 1989 M 1603.1968534 71.0794916 21504610

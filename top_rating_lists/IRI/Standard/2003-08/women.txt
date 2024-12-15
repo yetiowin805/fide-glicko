@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Paridar, Shadi	IRI 1986 2276.5791552 64.7812981 12500666
-2 Pourkashiyan, Atousa	IRI 0 2194.6949772 67.6583801 12502014

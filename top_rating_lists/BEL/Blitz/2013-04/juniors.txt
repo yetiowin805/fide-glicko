@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Beukema, Stefan	BEL 1996 M 2139.4464837 53.6064479 1024523
-2 Capone, Nicola	BEL 1999 M 2001.3167674 73.0040429 224715

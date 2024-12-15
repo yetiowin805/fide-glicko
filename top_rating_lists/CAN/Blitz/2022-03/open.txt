@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sohal, Tanraj	CAN 1996 M 2156.9435277 68.9743303 2608499
-2 Gribanov, Anton	CAN 1989 M 1545.0174846 52.9233109 2639220

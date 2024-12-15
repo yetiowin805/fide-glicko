@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Barria Zuniga, Daniel	CHI 1974 M 2439.7826032 68.8381589 3400816
-2 Perez Gormaz, Matias	CHI 1993 M 2193.6869940 73.2861016 3406342
-3 Aguirre Contreras, Cristian	CHI 1996 M 1989.7167971 68.3170780 3412776
-4 Estrada Lavin, Cristian Alexand	CHI 1999 M 1805.0417418 67.4999400 3411710

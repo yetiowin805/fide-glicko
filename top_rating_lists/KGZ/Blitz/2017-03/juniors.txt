@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Orozbaev, Eldiar	KGZ 2006 M 1616.6103427 74.9683209 13802240
-2 Omurbekova, Diana	KGZ 1999 F 1591.8939091 72.3129642 13800752

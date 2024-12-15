@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hamperl, Fred	GCI 0 M 2018.3150434 73.6009458 10700110
-2 Kirby, Peter J.	GCI 0 M 2001.5170399 73.4063925 409014

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 MacDonald, Duncan	WLS 2004 M 1711.3994042 65.4191810 1804758
-2 Stevenson, Neil	WLS 2005 M 1557.4210374 63.9868419 1804235

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Julien Casteleiro, Ariel	CUB 1990 M 1553.2697149 74.9279616 3516628

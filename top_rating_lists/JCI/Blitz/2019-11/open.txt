@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gurner, Jem	JCI 2003 M 1709.3953561 65.7738018 67600280
-2 Vanjare, Aditya	JCI 2004 M 1649.5752074 73.7750701 67600190

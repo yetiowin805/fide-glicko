@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Salih, Akar Ali Salih	IRQ 1990 M 2068.2111380 74.9148873 4800575
-2 Albadri Abd Al Sattar	IRQ 1966 M 2050.4071598 65.0083390 10602348

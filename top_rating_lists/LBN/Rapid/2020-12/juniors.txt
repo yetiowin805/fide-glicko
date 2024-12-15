@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Boulos, Carlos	LBN 2004 M 1992.6500561 61.8295194 5302749
-2 Ayoub, Auriane	LBN 2011 F 1380.3794703 72.6037242 5305233

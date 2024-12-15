@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Al-Hamoud, Sham	SYR 2001 1421.6945898 65.1013876 7604157
-2 Rafea, Dalaa	SYR 2003 1369.4759977 61.9617886 7604165

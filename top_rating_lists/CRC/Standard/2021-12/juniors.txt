@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Cabezas Solano, David Alejandro	CRC 2004 M 1850.3357031 66.5355962 6507522
-2 Diaz Charpentier, Kristel Meliss	CRC 2004 F 1765.4567940 62.6227770 6511708
-3 Salazar Gould, Melanie	CRC 2003 F 1707.6923642 62.8029121 6505090
-4 Mayorga Araya, Sofia	CRC 2009 F 1611.0117617 72.0715052 6514065
-5 Meza Vega, Jose Antonio	CRC 2004 M 1482.0102128 74.8527197 6513697

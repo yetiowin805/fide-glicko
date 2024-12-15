@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Pychova, Nela	CZE 1999 2012.1017446 71.7801707 351369
-2 Richterova, Natasa	CZE 1996 1876.3399266 63.7434375 350591
-3 Smajzrova, Katerina	CZE 1996 1506.4235025 67.0892416 373150

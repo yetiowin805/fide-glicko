@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Song, Raymond	TPE 1994 M 2364.1770590 69.9267266 3203824

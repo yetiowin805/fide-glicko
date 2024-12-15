@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Damianou, Ioannis	CYP 2003 M 1985.7219530 73.1970761 5902355
-2 Vermehren, Nicolas	CYP 2007 M 1471.8029701 58.3393467 5905010

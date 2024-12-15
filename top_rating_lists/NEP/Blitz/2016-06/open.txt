@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Dangol, Bijaya	NEP 1997 M 1824.0696732 66.4298025 12303038
-2 Thing, Bibek	NEP 1995 M 1800.4306195 70.1075325 12303135

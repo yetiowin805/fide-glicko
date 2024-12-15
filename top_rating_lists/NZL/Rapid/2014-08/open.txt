@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ang, Alphaeus Wei Ern	NZL 2002 M 1710.8472044 74.5803784 4303636
-2 Mitchell, Robert	NZL 1941 M 1499.3196103 61.5708237 4302095

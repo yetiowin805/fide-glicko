@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Quevedo, Andreina	URU 1999 1579.5965841 54.2288304 3004147
-2 Perez, Cecilia Manuela	URU 1998 1492.2363474 61.8493933 3003191
-3 de Leon, Veronica	URU 1997 1480.8690991 73.3336024 3000290

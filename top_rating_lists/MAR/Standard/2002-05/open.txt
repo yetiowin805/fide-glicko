@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hamdouchi, Hichem	MAR 1972 M 2575.2520491 44.7068231 9000011
-2 Tissir, Mohamed	MAR 1976 M 2365.2572475 51.1266871 9000240

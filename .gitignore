@@ -1,11 +1,6 @@
-*.txt
-!top_rating_lists/Standard/**
-!top_rating_lists/Rapid/**
-!top_rating_lists/Blitz/**
-
-.vscode/
-glicko2
-process_fide_rating_list
-remove_duplicates
-*.sh
-./random/*
+/*
+!src/
+!data/top_rating_lists/Standard/**
+!data/top_rating_lists/Rapid/**
+!data/top_rating_lists/Blitz/**
+!README.md

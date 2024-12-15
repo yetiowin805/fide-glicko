@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Fabian, Gaston	ARG 1995 M 2203.7980962 73.1640251 116262
-2 Martinez, Ayelen	ARG 1993 F 1973.5822982 72.0938008 118702

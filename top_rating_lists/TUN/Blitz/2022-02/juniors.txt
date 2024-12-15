@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ben Abbes,Ayoub	TUN 2003 M 1761.0035144 74.2870063 5519888

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Njili, Kamel	TUN 1982 M 2286.8366416 55.8182537 5500869
-2 Ouannes, Majed	TUN 2000 M 1608.9717621 74.3985137 5501601

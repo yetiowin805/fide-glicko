@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mohamed, Mehdi Aithmido	MAR 1990 M 2096.3136275 71.9937933 9000720

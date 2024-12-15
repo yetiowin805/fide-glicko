@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Duran Vega, Sergio	CRC 1993 M 2115.0383287 52.7961470 6501311
-2 Duran Vega, Andres	CRC 1996 M 1920.4430854 65.5463086 6501583
-3 Acevedo Mendez, Lisseth	CRC 1993 F 1753.1383843 69.9150290 6502938

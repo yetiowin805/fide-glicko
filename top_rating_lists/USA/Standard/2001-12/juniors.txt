@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pixton, Aaron	USA 1986 M 2503.9117746 72.8953631 2017245
-2 Krush, Irina	USA 1983 F 2437.3591786 54.5851899 2012782

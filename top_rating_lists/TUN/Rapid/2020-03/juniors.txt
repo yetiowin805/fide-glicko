@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Miladi, Amen	TUN 2004 F 1701.0129459 71.0465829 5503779
-2 Naam, Shedy	TUN 2008 M 1533.1960105 74.0619699 45114226

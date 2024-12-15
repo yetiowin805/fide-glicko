@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mijovic, Stefan	MNE 1988 M 2229.8259069 74.0386122 935069
-2 Vojinovic, Jovana	MNE 1992 F 2203.7060773 67.2741607 937266

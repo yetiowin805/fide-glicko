@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Faqih, Yara	PLE 1999 F 1368.5156931 73.4254074 11501642

@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Delgado Ramirez, Neuris	PAR 1981 M 2526.3972422 71.9054452 3503631
-2 Amarilla Ettiene, Ezequiel	PAR 2009 M 1754.5043831 70.6078343 3708403
-3 Zarza, Raul	PAR 1900 M 1434.9268964 74.2143109 3704220
-4 Benitez Sanabria, Diego Isaias	PAR 2012 M 1403.5581552 73.4829793 3712605

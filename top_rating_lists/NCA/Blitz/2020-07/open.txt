@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mejia, Donaldo	NCA 1900 M 1895.0916061 67.2761507 6102085
-2 Diego, Humberto	NCA 1900 M 1881.3079309 74.8539838 6100619
-3 Salinas Barrera, Jovani Enrique	NCA 1967 M 1543.0682765 71.8913408 6106757

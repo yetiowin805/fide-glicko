@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Maharaj, Yash Krishen	FIJ 2002 M 1620.3359302 72.6332723 11402504

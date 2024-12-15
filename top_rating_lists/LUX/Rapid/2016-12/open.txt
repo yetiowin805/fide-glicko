@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Berend, Fred	LUX 1965 M 2296.0786050 74.9450225 4000102
-2 Kremer, Nadine	LUX 1994 F 1864.2568640 74.6801789 4002970

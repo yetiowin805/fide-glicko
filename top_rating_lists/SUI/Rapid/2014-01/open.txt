@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pelletier, Yannick	SUI 1976 M 2599.3766283 72.3166384 1301837
-2 Vuilleumier, Alexandre	SUI 1982 M 2269.4431408 74.9243362 1305662
-3 Rindlisbacher, Lars	SUI 1996 M 2118.6074696 74.8103261 1304178

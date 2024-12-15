@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Wilson, Brandon	JAM 1988 M 2142.7178405 71.2815955 7400500

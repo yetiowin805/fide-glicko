@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Barria Zuniga, Daniel	CHI 1974 M 2402.5150141 70.6116165 3400816
-2 Olivares Olivares, Claudio	CHI 1992 M 2104.7336013 73.5709812 3400786
-3 Aguirre Contreras, Cristian	CHI 1996 M 1998.4428792 70.5860109 3412776
-4 Cuevas Araya, Walter	CHI 1981 M 1984.4754302 70.6732512 3405028
-5 Estrada Lavin, Cristian Alexand	CHI 1999 M 1758.8138158 69.0703387 3411710

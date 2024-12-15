@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Raji Sayel,Abu Azizah	PLE 2006 M 1729.4856968 67.0800281 11503327
-2 Mohammad, Ihsan	PLE 2005 M 1428.5672078 71.9065406 11501553

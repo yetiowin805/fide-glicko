@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Haj-Bakkor, Mohamed	SYR 1980 M 2131.8274790 70.6451783 7601611
-2 Rafee, Mohd Hayel	SYR 1900 M 1926.9327797 73.4977272 7603126

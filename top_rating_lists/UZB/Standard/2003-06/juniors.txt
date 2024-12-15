@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gareev, Timur	UZB 1988 M 2404.4082957 52.6427803 14200937
-2 Levushkina, E.	UZB 1984 F 2299.6627881 70.1803425 14200686

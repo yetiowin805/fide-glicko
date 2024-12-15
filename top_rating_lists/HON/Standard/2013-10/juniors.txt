@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Miller Matute, Marlon Eduardo	HON 2001 M 1477.8095542 72.0654512 8400555

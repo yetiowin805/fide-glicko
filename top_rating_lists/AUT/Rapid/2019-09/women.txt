@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Polterauer, Chiara	AUT 2000 2049.2827318 69.0220683 1638165
-2 Moerwald, Magdalena	AUT 2003 1697.2912556 73.5924173 1632078

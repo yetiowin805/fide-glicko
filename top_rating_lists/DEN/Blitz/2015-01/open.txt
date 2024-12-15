@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Boe, Mads	DEN 1968 M 2330.0908991 74.9372842 1401408

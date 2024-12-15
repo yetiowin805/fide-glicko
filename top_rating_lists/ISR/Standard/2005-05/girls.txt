@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Igla, Bella	ISR 1985 2264.0340129 47.7940050 2806819
-2 Vasiliev, Olga	ISR 1987 2186.5630027 53.9437991 2807602

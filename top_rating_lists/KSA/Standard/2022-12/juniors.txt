@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Alharthi, Ahmed Mohammed A	KSA 2005 M 1847.0271569 73.8510394 21522642
-2 Khayat, Emad	KSA 2002 M 1752.7768745 74.2424753 21518076

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gonzales, Dennis	PLW 1978 M 1546.4165897 74.7666500 16600150

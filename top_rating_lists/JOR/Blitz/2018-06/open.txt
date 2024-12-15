@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ahmad, Al Khatib	JOR 1995 M 2100.6246051 74.7027550 8103178

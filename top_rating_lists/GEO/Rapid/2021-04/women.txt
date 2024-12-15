@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Arabidze, Meri	GEO 1994 2331.0723792 73.6757319 13604040
-2 Batsiashvili, Nino	GEO 1987 2267.5037572 70.4606595 13602993

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ayyad, Maher	BRN 1978 M 2160.2793104 72.1488728 11200235
-2 Lakshminaryanan, Ishwaryaa	BRN 1999 F 1580.8998811 69.7855948 11201410

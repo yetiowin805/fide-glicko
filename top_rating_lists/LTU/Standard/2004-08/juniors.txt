@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Jegorovas, Aleksandras	LTU 1984 M 2271.8845862 71.5575785 12801950
-2 Savickas, Airidas	LTU 1987 M 2236.9696559 63.9448738 12802557
-3 Vaznonis, Vytautas	LTU 1986 M 2195.4976539 68.9084647 12802069

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vuilleumier, Alexandre	SUI 1982 M 2201.2255580 72.2158509 1305662
-2 Boschetti, Claudio	SUI 1957 M 2008.6554037 71.3935109 1300920

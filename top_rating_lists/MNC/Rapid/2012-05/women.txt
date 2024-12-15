@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Lebel-Arias, Julia	MNC 1946 1860.5173057 69.0385457 602019
-2 Chung, Mathilde	MNC 1999 1647.7594728 62.1036810 676446

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Barcon, Harmon	LBR 1981 M 1809.8246581 72.7602509 22600078
-2 Thomas, Saah	LBR 1987 M 1797.0525635 71.0920623 22600094

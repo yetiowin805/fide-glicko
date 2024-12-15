@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Bravo Choez, Ana	ECU 1988 1957.4730060 73.4021660 3601498
-2 Heredia Serrano, Carla	ECU 1991 1934.7421383 66.9417298 3603687
-3 Godoy Cardenas, Jessica	ECU 1990 1921.6769291 63.2120689 3603415

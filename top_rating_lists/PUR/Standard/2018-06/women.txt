@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Vazquez Maccarini, Danitza	PUR 2000 2026.4094444 56.0989507 3101193
-2 Vega Jimenez, Keyshla M.	PUR 1992 1561.1137617 64.2097675 3101851
-3 Diaz Acevedo, Isis N.	PUR 2003 1394.4434036 74.2665624 3105164
-4 Maldonado Polo, Mariangeli	PUR 2006 1330.5198309 69.9708469 3107299

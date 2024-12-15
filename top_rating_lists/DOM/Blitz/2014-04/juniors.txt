@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tiburcio Villar,  Franklin Jonel	DOM 2000 M 1756.8282325 62.0832117 6410685
-2 Jimenez Matos, Jimmy	DOM 2001 M 1727.2768342 63.1781712 6411126

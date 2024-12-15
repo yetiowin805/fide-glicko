@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Adianto, Utut	INA 1965 M 2602.0778101 61.4556081 7100019
-2 Megaranto, Susanto	INA 1987 M 2450.2501566 57.8493410 7101384

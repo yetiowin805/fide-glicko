@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Georgitsi, Antigoni	GRE 2001 1698.0758642 73.9200518 4246527
-2 Pletsia, Konstantina	GRE 2007 1233.4775338 72.1840813 25847821

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Polkki, Eino	FIN 2006 M 1798.2816408 73.4778314 515779
-2 Suslin, Altai	FIN 2012 M 1310.0590318 47.5570815 519529

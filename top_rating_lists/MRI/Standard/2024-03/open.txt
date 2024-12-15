@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lee Luen Mang, Stefan	MRI 1996 M 1621.8684642 74.9525714 9700242
-2 Andhin, Chethanah	MRI 2004 F 1379.1779561 49.6083660 9700463

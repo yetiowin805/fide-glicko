@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gatt, Matthias	MLT 2003 M 1695.5481002 64.1371932 5601452
-2 Mizzi, Jack	MLT 2006 M 1624.2211912 70.3298526 5602521

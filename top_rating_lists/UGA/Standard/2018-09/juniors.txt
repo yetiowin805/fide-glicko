@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mukumbya, Benjamin	UGA 1998 M 1776.2114972 70.8095339 10001115
-2 Masiko Ezekiel	UGA 1999 M 1561.6676631 69.3671767 10005420

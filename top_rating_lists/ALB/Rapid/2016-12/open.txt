@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Petritaj, Ferdinando	ALB 1963 M 2130.8974160 65.9373962 4700619
-2 Cukaj, Marin	ALB 1982 M 1820.1359709 73.5094539 4700686

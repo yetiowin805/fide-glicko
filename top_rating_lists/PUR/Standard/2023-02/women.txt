@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Morales Santos, Natasha	PUR 1998 1759.5603894 64.3080292 3101703
-2 Vega Jimenez, Keyshla M.	PUR 1992 1624.3428489 68.9516760 3101851
-3 Rivera Negron, Yanira	PUR 1989 1553.2597796 73.9799889 3101177

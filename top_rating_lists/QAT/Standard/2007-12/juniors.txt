@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al-Sulaiti, Ghanem	QAT 1992 M 2064.3654496 72.9537525 12100358
-2 Safar, Reem	QAT 1994 M 1599.0938536 73.1914731 12100269

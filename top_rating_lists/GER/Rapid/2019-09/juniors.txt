@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kueck, Artur	GER 2002 M 1721.5052453 73.6165337 12965120
-2 Ponomarev, Maximilian	GER 2005 M 1675.3205942 74.7173812 16216768

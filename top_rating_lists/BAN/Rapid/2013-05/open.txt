@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rahman, Ziaur	BAN 1974 M 2462.7677201 73.3803327 10200037
-2 Murshed, Niaz	BAN 1966 M 2328.9347834 74.8769715 10200010

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mueller, Leonhard	NAM 1967 M 2108.9178174 66.0560401 15200019
-2 Eichab, Charles	NAM 1979 M 1912.4877847 73.9006385 15200051

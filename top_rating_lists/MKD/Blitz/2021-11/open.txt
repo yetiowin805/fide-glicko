@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kralevski, Aleksander	MKD 1956 M 2031.7008247 73.2007895 15000664
-2 Zvezdakoski, Matej	MKD 2005 M 1765.2576366 73.9729075 15004961

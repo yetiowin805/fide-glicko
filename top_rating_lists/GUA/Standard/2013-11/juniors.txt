@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Giron, David	GUA 1993 M 1932.6039167 65.8967643 7300697
-2 Mencos Castillo, Maria	GUA 1996 F 1644.7686320 68.4473600 7300867

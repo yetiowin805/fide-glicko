@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hernandez Luna, Jose Angel	MEX 2002 M 1771.2815984 67.3388932 5123801
-2 Sandoval Fernandez, Dante	MEX 2003 M 1727.4511552 72.9083231 5138221
-3 Mejia Granados, Paulina Is	MEX 2002 F 1713.7917166 68.7132898 5125081

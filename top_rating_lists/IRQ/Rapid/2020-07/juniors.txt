@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rabar Bakhtyar Hama Saleh	IRQ 2000 M 1581.9312085 64.0214920 4809645
-2 Yashar, Didar Mohammed	IRQ 2008 M 1551.8455577 71.8334075 4816331
-3 Alan, Omiad Saber	IRQ 2006 M 1490.9141477 73.8376249 4813022

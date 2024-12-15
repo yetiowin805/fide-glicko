@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Zaczek, Jonathon	CAN 1985 M 1920.7982293 74.0235342 2607123

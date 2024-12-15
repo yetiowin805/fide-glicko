@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al Helal, Fahad	KSA 1966 M 1625.9816907 71.4315050 21500177
-2 Ghadoori, Mohammed	KSA 1960 M 1495.5643327 73.0810375 21500290

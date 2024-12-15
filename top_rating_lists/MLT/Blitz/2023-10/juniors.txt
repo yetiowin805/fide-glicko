@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mizzi, Jack	MLT 2006 M 1988.6263616 64.1054476 5602521
-2 Bilunov, Ignat	MLT 2004 M 1425.5107920 70.5550631 5602238

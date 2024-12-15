@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Babazada, Khazar	AZE 2005 M 2116.9309390 69.5764735 13413554
-2 Ahmad, Khagan	AZE 2011 M 1755.0501487 73.9105962 13431552

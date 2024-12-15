@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 De Gondo, Simplice Armel	CIV 1985 M 1981.0345016 57.5126124 14306310
-2 Manan, Yoboue Hermann	CIV 1977 M 1894.7534026 74.3266161 20800061

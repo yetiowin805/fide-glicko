@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Castillo, Rommel	NCA 1900 M 2080.1618760 74.9785333 6100490
-2 Rocha, Maximiliano	NCA 1900 M 1982.0396418 74.3816481 6100775
-3 Granados Diaz, Maria Esther	NCA 1995 F 1693.5820831 74.7016980 6101488

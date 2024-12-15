@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Badenhorst, Chloe	RSA 2007 1513.4834566 66.2013629 14339463
-2 Strong, Davida	RSA 2008 1452.2508529 73.2461872 14333082

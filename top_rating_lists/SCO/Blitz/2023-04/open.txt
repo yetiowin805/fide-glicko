@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Waldhausen Gordon, Frederick	SCO 2010 M 2189.5493616 66.8464490 2409143
-2 Banerjee, Supratit	SCO 2014 M 1725.2878546 55.8576868 2410079
-3 Deepak Ambattu, Rithvik	SCO 2014 M 1701.1647812 73.2964648 2410060
-4 McGillivray, Calum	SCO 1989 M 1560.0547971 67.2844630 2405407

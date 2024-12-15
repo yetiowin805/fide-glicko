@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Zhu, Chen	QAT 1976 2429.9357384 49.9150656 8600546
-2 Al-Khelaifi, Salama	QAT 1991 1679.2710102 66.5933135 12100048

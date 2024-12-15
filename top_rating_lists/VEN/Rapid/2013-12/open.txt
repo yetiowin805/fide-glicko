@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rondon Chacon, Rene Ibrahim	VEN 1984 M 1929.7349669 74.3781129 3903907
-2 Perez Sanchez, Ricardo Jose	VEN 1996 M 1875.3587332 56.1674054 3903923
-3 Larez Hernandez, Jose Alejandro	VEN 1997 M 1750.2994572 56.2307248 3906035
-4 Millan Gonzalez, Yuneitsy Del Va	VEN 1997 F 1620.0574283 57.7916985 3906132
-5 Carreno Planas, Manuela	VEN 1996 F 1506.7139195 59.0572244 3906019

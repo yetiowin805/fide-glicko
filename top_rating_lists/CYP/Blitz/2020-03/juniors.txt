@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Antoniou, Rafail	CYP 2008 M 1664.8602366 69.6771397 5904390
-2 Lavrishchev, Matvei	CYP 2010 M 1376.2795751 66.1248706 34390146

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nguyen, Gia Huy	VIE 2004 M 1730.5276824 71.3009633 12414077

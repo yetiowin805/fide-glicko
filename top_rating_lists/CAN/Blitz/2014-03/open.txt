@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hambleton, Aman	CAN 1992 M 2243.4269296 69.3317499 2606577
-2 Zaczek, Jonathon	CAN 1985 M 1819.8163113 69.4725940 2607123

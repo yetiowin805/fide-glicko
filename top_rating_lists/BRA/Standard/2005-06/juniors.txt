@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Fier, Alexander Hila	BRA 1988 M 2434.7375737 57.4841253 2107139
-2 Di Berardino, Diego Rafael	BRA 1987 M 2303.9894884 51.0957691 2105446
-3 Choma, Ernani Francisco	BRA 1987 M 2255.2390796 72.7762186 2106922
-4 Mekhitarian, Krikor Sevag	BRA 1986 M 2166.3102404 61.6999000 2107660

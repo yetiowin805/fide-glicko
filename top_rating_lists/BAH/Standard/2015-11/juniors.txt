@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hanna Jr, Philip	BAH 1996 M 1605.6304303 63.6260127 10400559
-2 Johnson, Daijah	BAH 2003 F 1447.5899436 68.7287179 10400591

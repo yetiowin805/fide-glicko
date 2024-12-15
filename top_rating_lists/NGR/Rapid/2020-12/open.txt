@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Adu, Oladapo	NGR 1971 M 2142.7276342 72.4561848 8500258
-2 Osunfuyi , Abimbola	NGR 1994 M 2090.2228725 74.9483521 8502439

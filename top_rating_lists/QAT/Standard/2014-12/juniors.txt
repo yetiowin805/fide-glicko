@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al-Hajri, Hamda	QAT 2002 F 1304.0329030 74.4387887 12100900

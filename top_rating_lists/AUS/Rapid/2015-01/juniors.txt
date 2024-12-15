@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Guo, Zhi Lin	AUS 1999 F 1660.5943221 74.2940811 3216381
-2 Chew Lee, Alanna	AUS 2000 F 1613.3643421 74.7174023 3215164

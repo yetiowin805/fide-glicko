@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Campos Moreno, Javier B.	CHI 1959 M 2534.2832025 49.0763847 3400034

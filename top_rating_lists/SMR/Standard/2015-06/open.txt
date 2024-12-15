@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Volpinari, Danilo	SMR 1969 M 1870.8646671 71.4920698 11800054
-2 Maccapani, Massimiliano	SMR 1970 M 1805.8315164 70.9078869 11800089

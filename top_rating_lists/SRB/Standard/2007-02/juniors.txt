@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nestorovic, Nikola	SRB 1989 M 2400.8803948 67.3427419 934526

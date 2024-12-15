@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Narva, Triin	EST 1994 1886.8197147 59.5911179 4502680
-2 Sagadijeva, Anna	EST 1998 1703.1669756 70.1724127 4501578

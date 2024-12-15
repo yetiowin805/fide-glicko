@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Granados Ortiz, Maria Jose	NCA 2001 1606.5130090 59.3734235 6103812
-2 Alvarez Gutierrez, Patricia	NCA 2002 1551.8646324 57.9612866 6105548
-3 Martinez Orozco, Cristiana Yorlene	NCA 2005 1413.5214249 72.2147659 6107079

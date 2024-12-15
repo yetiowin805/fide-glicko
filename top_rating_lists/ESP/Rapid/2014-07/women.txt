@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Perera Borrego, Mariela	ESP 1994 2124.5693123 67.9099856 22238255
-2 Guillo Longares, Cecilia	ESP 2004 1759.1286244 70.5598216 32082681
-3 Redondo Benavente, Ana	ESP 2001 1540.6261578 67.0875231 32021674

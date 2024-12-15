@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Saad, Baha	JOR 1989 M 1986.6903470 68.8188504 8101205

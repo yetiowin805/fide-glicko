@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Johnson, Joshua	TTO 1999 M 2074.9212578 63.9415313 7700768
-2 Martin, Mikel	TTO 2001 M 1733.6488596 72.8623229 7702310

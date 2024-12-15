@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bjelobrk, Igor	NZL 0 M 2354.1747644 74.2873655 4300726
-2 Wastney, Scott	NZL 0 M 2218.8092758 66.8607109 4300513

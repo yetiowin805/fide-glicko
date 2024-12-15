@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Cramling, Pia	SWE 1963 F 2452.7611168 71.3998739 1700030
-2 Akesson, Ralf	SWE 1961 M 2334.9842191 68.1760098 1700120

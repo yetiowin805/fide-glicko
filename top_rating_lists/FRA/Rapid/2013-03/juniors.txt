@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lagarde, Maxime	FRA 1994 M 2436.5171530 74.9192931 662399
-2 Song, Julien	FRA 1993 M 2286.4994865 74.2987106 659487

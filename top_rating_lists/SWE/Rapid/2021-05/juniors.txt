@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Petersson, David	SWE 2005 M 1583.1478311 74.8614994 1738658
-2 Johansson, Gustav 2007	SWE 2007 M 1434.8164089 70.8428928 1757520

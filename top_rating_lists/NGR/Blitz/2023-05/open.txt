@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Abdulraheem Abdulrahman Akintoye	NGR 1993 M 1944.8897536 74.9000764 8504563
-2 Fakuade Babatunde Olabode	NGR 1984 M 1941.3462405 70.2354221 8508640
-3 Dasaolu, Rotimi	NGR 1969 M 1717.1451958 73.0801999 8500150

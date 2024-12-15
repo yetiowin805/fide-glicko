@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Feliz Novas, Samuel	DOM 1994 M 1778.6675816 62.3029525 6408605
-2 Nieto, Alejandro	DOM 2000 M 1758.2824320 70.5804907 6410243
-3 Lopez Mallen, Neudys Enmanuel	DOM 1994 M 1680.6325897 74.8893911 6408648

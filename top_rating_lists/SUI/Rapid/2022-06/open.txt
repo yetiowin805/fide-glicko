@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bilin, Halil	SUI 1982 M 1662.6552852 44.6214836 1335065
-2 Vogelsanger,Nicolas	SUI 2008 M 1598.1972407 73.0921524 1337122

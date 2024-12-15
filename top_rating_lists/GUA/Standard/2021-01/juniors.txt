@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Aragon Trujillo, Ricardo M.	GUA 2007 M 1670.7093096 68.9780265 7303033
-2 Santiago Sontay, Jenny Fernanda	GUA 2002 F 1621.0993511 68.9823559 7303084
-3 Juarez Garcia, Daniela	GUA 2006 F 1551.9635700 68.3076602 7302703
-4 Molina Hun, Hieysson	GUA 2005 M 1497.9233501 74.7188079 7303009
-5 Santos Sagastume, Paolo Andres	GUA 2009 M 1435.3105862 68.6720845 7303866

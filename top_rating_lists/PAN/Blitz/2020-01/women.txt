@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Chung, Yaleika	PAN 1988 1640.8427119 63.4271014 6600603
-2 Carrillo Marval, Maria Angelica	PAN 1991 1637.0768666 63.1679239 3911853
-3 Rondon Chacon, Yolys Desiree	PAN 1986 1602.4014291 71.7308073 3903508
-4 Manfredi Carrera, Chiara Melina	PAN 2009 1299.6443560 74.8131909 6606954

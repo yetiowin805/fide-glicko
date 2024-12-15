@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lopez, Jasel	ARU 1994 M 2249.3768081 65.4932767 15900045
-2 Croes, Octavio	ARU 1954 M 1685.7795955 72.3452834 1007220

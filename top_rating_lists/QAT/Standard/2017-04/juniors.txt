@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Salih, Al Hor	QAT 2000 M 1577.1009221 69.6019102 12101001
-2 Ghanem, Al Shamari	QAT 2001 M 1574.9611243 64.4029619 12100986

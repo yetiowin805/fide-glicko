@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Ciuksyte, Dagne	LTU 1977 2382.2496496 62.6196567 12800619
-2 Morkunaite, Egle	LTU 0 2200.8845299 74.1849666 12801763

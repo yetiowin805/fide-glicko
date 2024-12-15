@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ermeni, Avni	KOS 1966 M 2195.2844451 67.6946756 912840
-2 Saraci, Nderim	KOS 1996 M 2160.3177472 64.5065376 6351921

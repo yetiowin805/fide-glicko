@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Han, Yichen	NED 2007 M 2042.8153684 70.3823974 1054430
-2 Slomczewski, Michal	NED 2000 M 1935.5119020 62.3516412 1040650

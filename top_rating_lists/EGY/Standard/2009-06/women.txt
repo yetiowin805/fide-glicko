@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Mona, Khaled	EGY 1994 1945.5133355 46.1778811 10605908
-2 Alaa El Din, Yosra	EGY 1986 1641.3604625 71.4999937 10606610

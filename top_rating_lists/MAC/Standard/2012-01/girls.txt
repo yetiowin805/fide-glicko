@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Wong, Kit	MAC 2000 1464.3158728 69.9514071 15400379

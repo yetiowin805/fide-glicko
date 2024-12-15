@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Davy, Damion	JAM 1990 M 1937.0631003 73.8434262 7400519
-2 Ramsay, Zachary	JAM 1990 M 1766.3823718 74.9561843 7400314

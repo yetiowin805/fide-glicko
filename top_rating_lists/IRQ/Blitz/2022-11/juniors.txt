@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hassan Wael Lateef	IRQ 2007 M 1450.7034351 74.7722281 4815548

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Smith, Javanna	TRI 1997 1525.0257075 51.3276764 7700466
-2 Johnson, Gabriella	TRI 2000 1451.1231932 58.7419815 7701128

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Margadgua Erdenebayar	MGL 2005 F 1825.7190465 69.4800150 4904052
-2 KHASCHULUU, Sergelenbaatar	MGL 2006 M 1605.9691663 49.9716483 4920929
-3 Tsogt-Erdene, Bayarjavkhlan	MGL 2009 M 1443.0544079 61.7337621 4922255

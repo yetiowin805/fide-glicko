@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 El Jawich, Amro	LIB 1995 M 2078.0337609 57.5175429 5300380
-2 Adeimi, Michel	LIB 1994 M 1850.4679847 73.3016378 689165

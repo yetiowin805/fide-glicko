@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Khusenkhojaev, Mustafokhuja	TJK 1998 M 2066.2315133 62.1875730 14700727
-2 Karimov, Alisher	TJK 1997 M 2007.4741045 60.3621512 14700280
-3 Hotami, Mutriba	TJK 1997 F 1712.8930983 65.9033266 14700204

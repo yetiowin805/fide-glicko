@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Jimenez Garcia, Emmanuel	CRC 1997 M 1864.9378767 74.0575341 6504779
-2 Alvarado, Dizan Ernesto	CRC 1967 M 1756.1023864 73.4522456 6500420
-3 Gamboa Alvarado, Olga Leticia	CRC 1990 F 1744.3290187 72.9952955 6502270

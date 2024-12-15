@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Asauskas, Henrikas	LTU 1982 M 2416.2214187 61.5094219 12801364

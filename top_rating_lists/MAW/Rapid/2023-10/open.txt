@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mwale, Joseph	MAW 1993 M 1972.8672514 72.2070018 16400135
-2 Kamwendo Precious	MAW 1991 M 1932.7056896 74.2453133 20500785

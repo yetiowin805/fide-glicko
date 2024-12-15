@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Wastney, Scott	NZL 0 M 2235.5819416 73.0901430 4300513

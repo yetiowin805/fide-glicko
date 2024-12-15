@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Rosario Almanzar, Raydili	DOM 1998 1624.0876230 61.3023401 6403573
-2 Coronado Paulino, Katerine E.	DOM 1999 1589.1813369 62.4009749 6405029
-3 Quiroz Farias, Yelibeth	DOM 1999 1549.6217144 74.9773870 6408958

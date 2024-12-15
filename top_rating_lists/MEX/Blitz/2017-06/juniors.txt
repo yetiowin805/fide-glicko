@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Roque Sola, Jose Luis	MEX 1999 M 1891.3556504 71.7170002 5120390
-2 Roque Sola, Maria Fernanda	MEX 2000 F 1622.4558813 69.0025195 5115833

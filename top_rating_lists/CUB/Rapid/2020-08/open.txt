@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Quesada Vera, Liordis	CUB 1983 M 2306.7112493 73.8526921 3507009
-2 Terry Cuellar, Luis Antonio	CUB 1964 M 2076.0462321 74.9835103 3505200
-3 Rojas Serra, Alexander	CUB 1993 M 2041.9439306 70.8539426 3513858

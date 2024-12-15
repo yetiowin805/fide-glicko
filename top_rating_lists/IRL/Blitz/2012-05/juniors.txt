@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Griffiths, Ryan Rhys	IRL 1993 M 2219.7292368 58.6872940 2502054
-2 Magee, Ronan	IRL 1998 M 1866.7998253 68.1990163 2503000

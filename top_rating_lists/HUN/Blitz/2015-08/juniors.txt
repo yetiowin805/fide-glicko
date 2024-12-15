@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rapport, Richard	HUN 1996 M 2496.2499567 66.0020552 738590
-2 Bodi, Tibor	HUN 1996 M 2184.2714788 73.6707040 701084

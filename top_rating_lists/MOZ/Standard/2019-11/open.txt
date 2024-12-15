@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Paiva, Donaldo	MOZ 1991 M 2059.8954191 64.9927446 14800098
-2 Vasco Mateus Felizardo Viageiro	MOZ 2003 M 1783.9672967 70.6964213 14800403

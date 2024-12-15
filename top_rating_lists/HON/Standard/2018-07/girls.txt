@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Ortiz, Rosa Daniela	HON 1999 1536.1014048 74.3247331 8400547
-2 Ramos Donaire, Maria Pradi	HON 2002 1453.8990244 70.8713929 8402337
-3 Garcia Reyes, Alejandra Nicolle	HON 2003 1396.6488152 74.1867157 8403023

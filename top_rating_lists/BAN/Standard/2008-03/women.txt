@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Hamid, Rani	BAN 1944 1985.5746813 61.0919824 10200096
-2 Khan, Nazrana	BAN 0 1915.5314887 67.8290987 10201734

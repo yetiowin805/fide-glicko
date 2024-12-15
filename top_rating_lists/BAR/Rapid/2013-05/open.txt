@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Husbands, Orlando	BAR 1997 M 1761.0569610 73.8312257 11101644
-2 Richards, Allon	BAR 1998 M 1623.4340780 71.4152471 11101423

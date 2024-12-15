@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Alzamil, Abdulaziz	KSA 1990 M 1824.7899401 64.9392476 21507996

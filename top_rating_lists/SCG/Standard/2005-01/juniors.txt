@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Jeremic, Veljko	SCG 1985 M 2545.9083533 67.5500991 927040
-2 Dimitrijevic, Aleksandra	SCG 1986 F 2191.0618640 67.6005851 929239

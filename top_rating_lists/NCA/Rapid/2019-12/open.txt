@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Madrigal, Mariano	NCA 1994 M 1990.5624169 73.4795066 6100961
-2 Flores, Manuel	NCA 1954 M 1858.4997769 72.8866944 6100163
-3 Salinas Barrera, Jovani Enrique	NCA 1967 M 1574.9313546 74.1619521 6106757

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nathoo, Loris	GUY 1974 M 1723.0278201 74.9924676 19700083
-2 Taylor, Jaden	GUY 2003 M 1399.8130404 72.8360717 19700709

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Marjanovics, Annamaria	HUN 2001 2030.1391681 67.3740930 750930
-2 Gal, Hanna Krisztina	HUN 1998 1877.9015911 69.2690931 711861
-3 Barcza, Lora	HUN 2005 1580.4584419 61.9748114 777749

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Amonatov, Farrukh	TJK 1978 M 2638.2421059 70.4423168 14700077
-2 Antonova, Nadezhda	TJK 1988 F 1875.2259477 48.8624816 14700182
-3 Shukurov, Saodiddin	TJK 1977 M 1613.2427170 70.3822104 14700573

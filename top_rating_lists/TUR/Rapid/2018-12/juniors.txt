@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tarhan, Adar	TUR 2007 M 1726.7742801 74.3705789 34544712
-2 Yilmaz, Mehmet	TUR 2009 M 1400.6105431 72.5767820 44542860

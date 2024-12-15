@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kwong, Wing Ki	HKG 2004 M 1722.9426851 72.2344228 6002013
-2 Uppal, Mahir	HKG 2009 M 1495.4785154 74.7626838 6003338

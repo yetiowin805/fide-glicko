@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ouakhir, Mehdi	MAR 1985 M 2210.9099141 54.4018575 9000437
-2 Karim, Ismael	MAR 1985 M 2179.8047360 52.0169494 625736

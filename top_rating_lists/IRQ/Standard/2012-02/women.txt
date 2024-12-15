@@ -1,7 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Al-Rufaye, Iman Hasan Mohammed	IRQ 1982 2072.1195379 72.2298517 4801067
-2 Ibraheem, Delbak Ismael Ibraheem	IRQ 1988 1783.5648472 59.4710877 4803116
-3 Al-Rajab, Maha Layth Ismael	IRQ 1989 1662.5080085 61.6917014 4803132
-4 Jalaluldeen, Kareen Kamal J.	IRQ 1993 1635.2874392 65.3424055 4801776
-5 Mohammed Ameen, Jwan Jamal M.A.	IRQ 1972 1626.9850426 65.8539211 4803000
-6 Al-Khalidi, Aisha Ali Ahmed	IRQ 1996 1468.4154202 71.7585135 4806042

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Cruz, Jonathan	PER 1990 M 2430.4080271 72.1924055 3802124
-2 Cruz, Filemon	PER 1964 M 2338.8296495 50.1657410 3800296
-3 Villar Reymundo, Juan Antonio	PER 1987 M 1988.5908636 55.9663669 3802744

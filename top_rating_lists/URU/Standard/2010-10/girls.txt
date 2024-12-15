@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Colombo, Camila	URU 1990 2000.5274491 52.9074216 3001822
-2 de Leon, Patricia	URU 1994 1640.6128088 59.7787175 3000273

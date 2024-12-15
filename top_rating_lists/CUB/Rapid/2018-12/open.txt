@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Arencibia Rodriguez, Walter	CUB 1967 M 2417.5292237 72.6892970 3500012
-2 Aguero Jimenez, Luis Lazaro	CUB 1991 M 2353.3832117 69.7790831 3508455
-3 Garcia Pantoja, Roberto	CUB 1992 M 2301.7366451 65.1991276 3509265
-4 Alonso Bouza, Julio Javier	CUB 1989 M 2163.3254059 64.5754114 3508889
-5 Sanchez Quintero, Raul	CUB 1949 M 1784.2486234 66.8320491 3512339

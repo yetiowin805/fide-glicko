@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bachmann, Axel	PAR 1989 M 2434.2943089 60.4649143 3700488
-2 Vargas, Gabriela	PAR 1988 M 1968.1110571 50.9690494 3700860

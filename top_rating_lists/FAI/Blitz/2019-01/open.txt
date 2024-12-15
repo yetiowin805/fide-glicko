@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Joensen, John	FAI 1978 M 1715.7184466 56.6379733 7200684
-2 Apol, Luitjen Akselsson	FAI 2006 M 1679.4071805 72.0154659 7202466

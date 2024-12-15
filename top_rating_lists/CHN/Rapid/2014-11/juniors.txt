@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Yu, Yangyi	CHN 1994 M 2642.6147112 63.9360307 8603820

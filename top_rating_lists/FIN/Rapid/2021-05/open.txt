@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Luukkonen, Tommi	FIN 1977 M 2269.4524999 73.3584141 501808
-2 Nazarova, Anastasia	FIN 2001 F 1967.4775633 65.0483742 34101737
-3 Jarnstrom, Henrik	FIN 1952 M 1725.8970667 72.4764842 510572

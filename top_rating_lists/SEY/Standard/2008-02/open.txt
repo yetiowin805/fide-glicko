@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hoareau, Benjamin	SEY  M 2038.2130638 72.6018386 9800069
-2 Meier, Kurt	SEY  M 2013.9244000 74.8511852 1307398

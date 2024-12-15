@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Figueroa Gonzalez, Karen Luvia	GUA 1998 M 1582.9912347 72.8421792 7301383
-2 Natareno, Elvia	GUA 1997 F 1545.7266271 63.7818432 7301251
-3 Cruz Lima, Kimberly Esmeralda	GUA 2001 F 1535.9686852 63.5551897 7301480
-4 Santiago Sontay, Jenny Fernanda	GUA 2002 F 1510.1256463 70.1701545 7303084
-5 Arango Perez, Lilian Rubi	GUA 2000 F 1471.8605885 72.0574967 7301766

@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Salazar Gould, Melanie	CRC 2003 1802.9389642 65.9904378 6505090
-2 Diaz Charpentier, Kristel Meliss	CRC 2004 1719.6122814 72.8411350 6511708
-3 Mayorga Araya, Sofia	CRC 2009 1526.7256491 73.6919891 6514065
-4 Salazar Gould, Kristy Valeria	CRC 2008 1509.0745856 67.4232779 6511643

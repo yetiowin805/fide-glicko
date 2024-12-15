@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Faulks, Nick	BER 1952 M 1733.5999847 65.9323323 8800103
-2 Gontcharov, Dimitri	BER 2007 M 1554.5925626 66.2387217 8800979

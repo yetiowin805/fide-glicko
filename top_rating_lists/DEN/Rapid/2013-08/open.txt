@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Grabow, Pouelsten Holm	DEN 1947 M 2085.2624356 74.4232071 1400630
-2 Hjort, Helge	DEN 1944 M 1787.0478362 46.6246126 1436678

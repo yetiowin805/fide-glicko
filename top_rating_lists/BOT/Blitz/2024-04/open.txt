@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Banda Natalie Katlo	BOT 2007 F 1652.4755215 74.1839724 11315075

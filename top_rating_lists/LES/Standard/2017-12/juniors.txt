@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Malillo Phera	LES 2005 F 1414.1052299 72.4262597 21300763
-2 Leboela, Maboloko	LES 1997 F 1356.4209314 72.7590800 21300119

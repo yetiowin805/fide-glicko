@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hansen, Eric	CAN 1992 M 2529.4133458 72.4266404 2606771
-2 Tayar, Jonathan	CAN 1988 M 2282.0605377 68.2837018 2606534

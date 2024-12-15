@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al Mamari, Ali Abdullah	OMA 2000 M 1663.8293461 74.8920408 22009671
-2 Al Mamari, Said Ahmed	OMA 1995 M 1642.9661156 65.9681194 22008772

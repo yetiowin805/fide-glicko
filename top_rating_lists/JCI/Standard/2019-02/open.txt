@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Belzo, Krzysztof	JCI 1983 M 1959.2089861 69.8551898 1126768
-2 Wojciechowski, Paul	JCI 1954 M 1783.3300571 68.7951267 15600017

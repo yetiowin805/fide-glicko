@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mesa Cruz, Juan Carlos	DOM 2003 M 1947.1681944 58.6730213 6423400
-2 Fondeur Fernandez, Adrian Francisco	DOM 2003 M 1616.9821586 72.2387619 6426271

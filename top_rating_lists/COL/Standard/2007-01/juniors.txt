@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pena, Alfredo	COL 1990 M 2232.7620312 62.5449457 4402464
-2 Arenas, David	COL 1991 M 2058.1426964 71.0997308 4403177

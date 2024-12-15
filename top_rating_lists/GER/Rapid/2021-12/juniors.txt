@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kopylov, Daniel	GER 2003 M 2146.1163877 68.2676438 12921971

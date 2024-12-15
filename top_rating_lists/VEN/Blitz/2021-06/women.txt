@@ -1,7 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Hernandez Mora, Nohelia Virginia	VEN 2005 1353.5147334 67.8143135 3915344
-2 Marin Murguey, Valentina Jatniel	VEN 2005 1284.7484412 67.4190782 3955478
-3 Quijada Delgado, Eliana Paola	VEN 2005 1252.4106980 70.7116688 3955494
-4 Cabeza Marquez, Mariangel Alejandra	VEN 2007 1197.2181544 71.4549198 3934527
-5 Rodriguez Guerra, Ildeglys Patricia	VEN 2006 1163.6075338 68.3915063 3964051
-6 Larez Grinstein, Katherine Sofia	VEN 2007 1160.4402455 73.5000185 3965295

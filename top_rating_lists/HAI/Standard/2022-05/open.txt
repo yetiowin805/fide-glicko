@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Seide, Henri	HAI 1900 M 1500.3667468 71.0381047 11900199

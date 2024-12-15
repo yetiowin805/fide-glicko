@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Sorokina, Anastasia	AUS 1980 2121.9137846 74.8449109 13501151
-2 Dekic, Biljana N.	AUS 1950 2116.1176029 72.0450005 3200493
-3 Szuveges, Narelle	AUS 0 1759.0880337 68.3152445 3202640

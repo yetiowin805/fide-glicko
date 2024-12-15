@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Alivodic, Dario	MNE 2002 M 1936.4974933 72.1299238 16501632
-2 Miletic, Vuk	MNE 2003 M 1924.0765011 74.1593719 16503406

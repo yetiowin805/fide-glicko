@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Borda Rodas, Anapaola S.	ARG 2004 2063.2434740 74.0281934 152781
-2 Quiroga Ortiz, Isabella	ARG 2012 1475.8295665 70.0047015 20007825
-3 Alvarez, Mia Morena	ARG 2013 1447.8573115 70.2765812 20030401

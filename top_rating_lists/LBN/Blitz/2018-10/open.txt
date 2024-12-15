@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Somoff, Abdo	LBN 1961 M 1864.2213203 68.2441043 5300754
-2 Boulos, Carlos	LBN 2004 M 1809.5197267 71.2506288 5302749

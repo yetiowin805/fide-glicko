@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Makoto, Rodwell	ZIM 1987 M 2279.0246924 72.3956133 11000120
-2 Chakanyuka, Charles	ZIM 1973 M 1895.6812639 74.2556796 11000341

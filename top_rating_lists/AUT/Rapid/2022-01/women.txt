@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Froewis, Annika	AUT 1994 2042.5533089 73.2986576 1621432
-2 Vicze, Zsofia	AUT 2004 1650.7414977 67.9899887 786519

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Leite, Catarina	POR 1983 F 2158.2549832 56.0588689 1901222
-2 Costa, Joao Guerra	POR 1987 M 2118.1378733 66.3821599 1901737

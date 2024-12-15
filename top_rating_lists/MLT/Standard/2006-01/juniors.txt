@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Cardona, Mark	MLT 1990 M 1917.2937682 72.5334626 5600286

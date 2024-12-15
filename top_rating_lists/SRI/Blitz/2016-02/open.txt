@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Alahakoon, Isuru	SRI 1987 M 1996.2075259 72.3158960 9900993
-2 Somasundram, Jayakumar	SRI 1951 M 1829.8163528 64.9756598 9900250
-3 Rajapaksa, Miyuni Kavinya	SRI 2000 F 1613.3551074 73.5442718 9939210
-4 Nanayakkara, J A K Saranath	SRI 2003 M 1571.4334450 74.4292427 9924906
-5 Wickramasinghe, Dilhara Ishini	SRI 2000 F 1524.3671137 74.9695116 9906738

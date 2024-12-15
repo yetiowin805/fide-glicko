@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Putnam, Liam	USA 2008 M 2046.9885878 65.6761855 30938279
-2 El-Bittar, John Fadi	USA 2007 M 1428.4335414 65.1849836 30919886

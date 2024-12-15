@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nielsen, Hogni Egilstoft	FAI 1997 M 2166.6642116 72.5439892 7200404
-2 Apol, Luitjen Akselsson	FAI 2006 M 1533.3894240 74.3921828 7202466

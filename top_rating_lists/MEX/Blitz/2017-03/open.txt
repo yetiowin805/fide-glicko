@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ramirez Garcia, Jorge Alberto	MEX 1983 M 2044.3555241 72.8117957 5108101
-2 Roque Sola, Maria Fernanda	MEX 2000 F 1600.1010579 72.8833165 5115833

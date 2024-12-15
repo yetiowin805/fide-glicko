@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Salas Torres, Pamela	CRC 1998 1669.3000081 67.7429004 6505716
-2 Salazar Gould, Melanie	CRC 2003 1524.6692552 61.2938940 6505090
-3 Ramirez Monge, Karina	CRC 1997 1317.8616046 71.6400741 6507786

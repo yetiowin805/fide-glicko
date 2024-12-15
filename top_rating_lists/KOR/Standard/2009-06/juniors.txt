@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gu, In Jung	KOR 1995 M 1678.2364160 71.7794559 13200232

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Klerides, Paris	CYP 1970 M 2180.2440771 68.3949263 5900158
-2 Antoniou, Antonis	CYP 0 M 2109.9086410 64.7068830 5900123

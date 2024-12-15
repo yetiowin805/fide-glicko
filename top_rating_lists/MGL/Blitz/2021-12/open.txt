@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Munguntuul, Batkhuyag	MGL 1987 F 2319.2586250 70.3675197 4900758
-2 Sharavdorj, Dashzegve	MGL 1974 M 2271.6065844 73.3684696 4900340
-3 Agibileg, Uurtsaikh	MGL 2001 M 2157.9235827 62.1513211 4901606

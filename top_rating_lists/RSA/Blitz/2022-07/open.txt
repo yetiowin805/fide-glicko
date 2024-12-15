@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Basson, Heinrich	RSA 1990 M 1858.8566775 63.9221238 14301440
-2 Steyn, Hans	RSA 1971 M 1745.1104280 68.9051126 14304309

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Markus, Robert	YUG 1983 M 2464.8017870 71.3319507 921637

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Du Plessis, Heinco	RSA 1994 M 2000.1851055 67.2381126 14306263
-2 Pon, Matt	RSA 1996 M 1819.7354371 72.5364920 14301644

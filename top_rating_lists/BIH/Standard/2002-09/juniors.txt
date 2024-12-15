@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rasic, Damir	BIH 1982 M 2371.1270098 70.2774143 14400774

@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Ortez, Andrea	ESA 2001 1663.7076566 59.9307649 6702392
-2 Garcia Mendez, Alcira Guadalupe	ESA 1998 1632.7359393 62.1105270 6702945
-3 Zavala Galindo, Alejandra Beatri	ESA 1997 1628.2025558 63.8891827 6703089
-4 Herrera, Marjorie	ESA 2001 1625.5285008 62.4261604 6704743

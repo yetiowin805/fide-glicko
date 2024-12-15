@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rudd, Jack	TRI 1979 M 2265.4392029 63.2746208 405736
-2 Harper, Ryan	TRI 0 M 2206.1399196 74.2034278 7700156

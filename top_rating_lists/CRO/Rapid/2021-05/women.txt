@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Zovko, Josipa	CRO 2008 1487.9839805 70.9214198 14570009
-2 Hajdinic, Ema	CRO 2009 1478.6111490 70.5217976 14567059

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tweedie, Steven	SCO 1987 M 2238.4582395 70.7143396 2401550
-2 Stokes, Ivan	SCO 1989 M 2006.2009399 57.3282948 2401932

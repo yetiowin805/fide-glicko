@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Zimbowa, Kudakwashe	ZIM 2000 M 1722.6986656 70.6452784 11001992
-2 Mudodo, Refiloe Hazel	ZIM 2005 F 1625.7932245 70.4741631 11000821
-3 Mawire, Rumbidzai	ZIM 2005 F 1519.0789091 72.6568275 14317940

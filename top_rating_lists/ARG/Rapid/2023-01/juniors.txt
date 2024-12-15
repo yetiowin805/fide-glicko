@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Koncurat, Enzo	ARG 2004 M 1804.9730181 63.3872934 145688
-2 Fournel, Bautista	ARG 2009 M 1685.3525967 71.1488867 20000421

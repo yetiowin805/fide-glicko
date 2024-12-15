@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nelson, Omowale	JAM 1900 M 2041.3959850 70.3728128 7400209

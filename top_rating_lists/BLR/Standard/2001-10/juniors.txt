@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Maiorov, Nikita	BLR 1985 M 2377.8270771 74.9134985 13501720
-2 Ginzburg, Mikhail	BLR 1981 M 2339.9819750 74.1612929 13501097

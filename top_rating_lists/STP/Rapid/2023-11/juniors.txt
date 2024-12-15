@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Cravid, Junior	STP 2005 M 1328.2950938 63.1057533 16901541

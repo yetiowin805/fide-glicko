@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sarmiento Robles, Paula	ECU 1999 F 1714.5728488 69.0587942 3607798
-2 Ruiz, Mishell	ECU 2001 F 1696.4419005 70.7400509 3627640

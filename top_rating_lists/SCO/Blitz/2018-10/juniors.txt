@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kante, Kalyan Sai Nandan	SCO 2004 M 1650.6417255 74.0642345 2406861
-2 Hartman, James	SCO 2005 M 1557.4143659 72.3876527 2405466
-3 Connolly Sams, Dietah	SCO 2005 M 1479.7900009 70.4740541 2405075

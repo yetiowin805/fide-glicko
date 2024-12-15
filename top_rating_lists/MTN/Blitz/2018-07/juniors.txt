@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mohamed Abderrahim Taleb Mohamed	MTN 2007 M 1801.4984884 73.0459405 19601441

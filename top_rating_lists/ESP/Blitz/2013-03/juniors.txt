@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Aranaz Murillo, Amalia	ESP 1995 F 2136.8690494 74.1147324 22200371
-2 Pozanco Romasanta, Marc	ESP 1997 M 1864.7572973 72.5457726 2255138
-3 Rodriguez Garcia, Carlos	ESP 1996 M 1770.1894878 73.6980235 2202140

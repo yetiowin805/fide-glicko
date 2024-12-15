@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mamatov, Melis	KGZ 1996 M 1892.7467075 71.1266177 13800027
-2 Dadabaev, Janybek	KGZ 1989 M 1865.2661527 74.2240524 13801236

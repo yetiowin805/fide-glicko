@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Van Hoolandt, Patrick	MNC 1958 M 1991.3696913 69.9668373 200999
-2 Cuttoli, Alexandre	MNC 2005 M 1927.2571185 73.0222357 36007293
-3 Dubois, Martine	MNC 1959 F 1860.4835604 71.6716817 601926

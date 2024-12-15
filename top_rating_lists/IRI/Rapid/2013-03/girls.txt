@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Khademalsharieh, Sarasadat	IRI 1997 2105.3455241 71.4650116 12512214
-2 Asgarizadeh, Minoo	IRI 1994 1977.9924774 71.8103124 12512230
-3 Derakhshani, Dorsa	IRI 1998 1858.0278409 68.7762545 12500330

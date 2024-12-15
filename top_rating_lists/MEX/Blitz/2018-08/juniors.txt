@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Garcia de Dios, Jose Antonio	MEX 2002 M 1937.8770234 56.9405978 5128919
-2 Luna Javier, Edgar Froylan	MEX 2001 M 1934.5705714 63.7199236 5120101
-3 Baltazar Ibanez, Diego	MEX 2001 M 1832.3731542 73.2726532 5120586
-4 Velazquez Quirarte, Santiago	MEX 2006 M 1515.4223815 74.1742098 5124859

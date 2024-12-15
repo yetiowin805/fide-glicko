@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mendez, Ruddy Antonio	DOM 1986 M 1969.8052718 71.3930844 6403387
-2 Mendez Ramirez, Victor	DOM 1998 M 1877.2079777 72.8349882 6419690
-3 Brito Rondon, Enmanuel De Jesus	DOM 1990 M 1814.0357318 72.3127749 6406610
-4 Arias, William Alfredo	DOM 1968 M 1807.2503644 73.1251047 6400655
-5 Gonzalez Alejo, Wily Gilberto	DOM 1980 M 1692.3323721 74.1311979 6405347

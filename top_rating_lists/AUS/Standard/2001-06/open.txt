@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rogers, Ian	AUS 1960 M 2545.7715392 46.3895435 3200019
-2 Johansen, Darryl K.	AUS 1959 M 2530.0818451 49.3058138 3200035

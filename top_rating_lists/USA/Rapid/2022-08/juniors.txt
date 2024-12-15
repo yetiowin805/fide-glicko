@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sheer, Grey	USA 2004 M 1786.1305912 74.7368855 30901731
-2 Udovenko, Daniel	USA 2011 M 1717.7837101 67.5917920 30957508

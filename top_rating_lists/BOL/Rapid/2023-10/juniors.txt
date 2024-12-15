@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Justiniano Flores, Luis Fernando	BOL 2008 M 1921.2542161 60.1016054 3319717
-2 Jaldin, Jose Fernando	BOL 2004 M 1619.2972606 60.1661391 3319377
-3 Paco Vargas, Jhon Erick	BOL 2009 M 1598.2656886 60.0465641 3345319
-4 Mollo Figueroa, Nicole	BOL 2011 F 1584.7246376 59.8904608 3325687
-5 Montano Lima, Leandro David	BOL 2009 M 1576.0637094 52.5394544 3339122

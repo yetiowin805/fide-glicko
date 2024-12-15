@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Arias, Daniel	ESA 1997 M 1831.9618470 73.1801544 6700640

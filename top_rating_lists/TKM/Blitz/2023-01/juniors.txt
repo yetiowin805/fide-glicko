@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Shohradova, Lala	TKM 2006 F 1854.6266169 74.3745114 14004089
-2 Karayev, Azat	TKM 2003 M 1610.1137833 53.7260789 14006383

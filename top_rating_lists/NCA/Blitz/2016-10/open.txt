@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Picado, Jorge	NCA 1980 M 2104.3474648 72.5733528 6100376

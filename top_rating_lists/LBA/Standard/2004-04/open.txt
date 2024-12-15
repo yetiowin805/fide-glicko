@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Chahrani, Ibrahim	LBA 0 M 2189.2881975 60.3124546 9200215
-2 Shabash, Abdullatief Mohamed	LBA 1955 M 2152.8933553 73.2358335 9200150

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Milovic, Aleksandra	MNE 1986 1748.0799419 72.2249652 933988
-2 Popovic, Mateja	MNE 2005 1571.5830600 74.1235012 16504518

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Francisco Guecamburu, Candela Be	ARG 2006 F 1966.6186025 69.2577496 160911
-2 Cumpe, Lucas	ARG 2004 M 1928.5175029 62.6616670 183920
-3 Lopez, Franco	ARG 2008 M 1526.7143052 70.2725451 20002475

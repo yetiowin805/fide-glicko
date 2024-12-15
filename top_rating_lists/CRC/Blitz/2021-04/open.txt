@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Zeledon Perez, Edgar	CRC 2001 M 1853.9747908 74.9140457 6509851
-2 Avendano Porras, Rodrigo	CRC 1999 M 1791.3599501 71.0808568 6503357

@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sismeiro, Miguel	POR 2004 M 1931.0775098 68.7489348 1950975
-2 Silva, Pedro Gil Ferreira Da	POR 2005 M 1879.2675563 70.3637786 1946102
-3 Guia, Artur Solovyov Eloy	POR 2007 M 1868.2843775 72.5312677 1946781
-4 Sarabando, Rodrigo Andias	POR 2007 M 1689.5817797 73.5894175 1950010

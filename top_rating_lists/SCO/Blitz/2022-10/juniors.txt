@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Deepak Ambattu, Rithvik	SCO 2014 M 1703.3810672 74.0027523 2410060
-2 Banerjee, Supratit	SCO 2014 M 1658.5383998 50.8670731 2410079

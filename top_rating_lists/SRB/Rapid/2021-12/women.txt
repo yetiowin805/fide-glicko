@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Stankovic, Marija	SRB 2005 1795.7673994 70.7663856 966169
-2 Djordjevic, Nevena	SRB 2004 1729.3163956 69.0802944 954918
-3 Baltic, Andjelija	SRB 2008 1490.3212107 71.2218303 995746

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mawuli Richardson	GHA 2008 M 1640.0104484 71.2537120 12602736
-2 Acheampong Dave Quansah Chief	GHA 2012 M 1507.8371907 66.2515947 12602280
-3 Mawutor Richardson	GHA 2010 M 1425.9851211 71.8214839 12602787

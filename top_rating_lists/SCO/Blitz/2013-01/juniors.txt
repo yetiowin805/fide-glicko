@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 McClement, Andrew	SCO 1995 M 1983.4244583 73.7560949 2400480
-2 Roy, Ali	SCO 1995 F 1707.9233688 73.9670580 2400456

@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Guillen Cristobal, Sandra N	MEX 1999 1824.6267025 74.7910416 5131790
-2 Mendez Tovar, Yessica Yissel	MEX 1995 1771.2597487 74.9048966 5113580
-3 Villanueva De Leon, Vanessa	MEX 1990 1687.4010121 74.8114576 5118441
-4 Balandran Duarte, Tania	MEX 1991 1649.3693068 73.2557537 5104793
-5 Martinez Mares, Genesis Alejandra	MEX 2005 1502.5907180 70.0249486 5144264

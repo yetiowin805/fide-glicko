@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nasanjargal, Urtnasan	MGL 1994 M 2300.8288434 68.2190553 4900774
-2 Enkhtuul, Altanulzii	MGL 1994 F 2061.2841444 59.5391526 4901444
-3 Saikhanzaya, Ganbaatar	MGL 1997 F 1743.5508452 69.4843235 4900030

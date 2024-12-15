@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nanjo, Ryosuke	JPN 1988 M 2163.3281816 73.0439334 7000634
-2 Katsuhara, Osamu	JPN 1976 M 2087.2214163 38.4905922 2022656

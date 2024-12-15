@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 James, Justin	LCA 2007 M 1472.4886526 66.1185440 23000422

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ismael, Namir Mohammed Ismael	IRQ 1971 M 2045.3183168 74.0860895 4800800

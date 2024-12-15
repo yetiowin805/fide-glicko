@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Senevirathne, S D B K	SRI 2007 M 1833.8449239 73.2790038 9982124
-2 Rajap, Ahamed Asif	SRI 2009 M 1691.0256092 68.2042498 9992332
-3 Sandanayake, Dehansa Nisanduni	SRI 2007 F 1527.9179594 74.3935991 9968210

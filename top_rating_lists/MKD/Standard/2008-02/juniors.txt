@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pancevski, Filip	MKD 1988 M 2362.0277219 51.1512149 15002187
-2 Bekarovski, Filip	MKD 1991 M 2039.1156768 72.6027123 15002586

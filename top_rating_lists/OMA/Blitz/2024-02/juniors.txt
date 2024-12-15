@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al Busaidi, Hamood	OMA 2005 M 1823.8741803 58.0806071 22006230
-2 Al Rahbi, Ahmed Badar	OMA 2007 M 1632.4112849 68.1255612 22006427

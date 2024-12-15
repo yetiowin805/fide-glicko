@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ramirez Reyes, Braulio	DOM 1980 M 2001.4618520 74.3275965 6401007
-2 De los Santos, Eddy	DOM 1971 M 1969.1115851 73.4051005 6400264

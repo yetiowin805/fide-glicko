@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Jaldin, Jose Fernando	BOL 2004 M 1616.6668584 72.4388458 3319377
-2 Mollo Figueroa, Nicole	BOL 2011 F 1514.3119666 64.1171211 3325687

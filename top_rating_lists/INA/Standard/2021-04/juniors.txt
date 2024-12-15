@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Arfan, Aditya Bagus	INA 2006 M 2021.1534229 73.3552103 7106041
-2 Malik, Jan Adiar	INA 2006 M 1788.9445300 72.3734668 7124511

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Edet, Udeme	NGR 1987 M 1947.7011313 74.6583067 8503125
-2 Odiase, Oluwaseun	NGR 1980 M 1643.6909888 56.3842858 8502315

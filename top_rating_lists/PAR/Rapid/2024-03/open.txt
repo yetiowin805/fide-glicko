@@ -1,8 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Delgado Ramirez, Neuris	PAR 1981 M 2496.0920735 71.2928625 3503631
-2 Amarilla Ettiene, Ezequiel	PAR 2009 M 1744.9693382 67.8405213 3708403
-3 Mayeregger Gonzalez, Renata Valentina	PAR 2007 F 1628.2723050 73.2633748 3708900
-4 Navarro Canete, Facundo Javier	PAR 2009 M 1579.3645401 73.9443801 3712532
-5 Veloso Tintel, Emmanuel Ian	PAR 2016 M 1531.8256327 63.2452310 3713202
-6 Benitez Sanabria, Diego Isaias	PAR 2012 M 1454.7395980 72.0518960 3712605
-7 Gonzalez Mendez, Martin Ezequiel	PAR 2015 M 1370.1621577 74.0283984 3714845

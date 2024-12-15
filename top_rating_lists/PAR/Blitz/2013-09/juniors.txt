@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Roman, Rodrigo	PAR 1994 M 2055.4093339 74.9250257 3701220

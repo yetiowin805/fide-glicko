@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Leon Hoyos, Manuel	MEX 1989 M 2401.3706919 47.6394422 5105269
-2 Morales Garcia, Sergio Joshafatt	MEX 1990 M 2189.6643247 55.2498159 5106249
-3 Sanchez Enriquez, Oscar Gerardo	MEX 1989 M 2120.3358163 63.5025115 5106311
-4 Tapie Amione, Pablo Adib	MEX 1988 M 2091.2036100 53.2902995 5107180
-5 Estrada Gaspar, Nelly Massiel	MEX 1987 F 2003.4885464 67.2196207 5106320

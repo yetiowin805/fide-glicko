@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Mandukhai, Myagmarsuren	MGL 2003 1879.2307093 69.9675563 4902246
-2 Amin-Erdene, Bayanmunkh	MGL 2006 1785.8226297 72.8397382 4903161
-3 Zol-Uchral Erdenesaikhan	MGL 2011 1671.5289110 68.9839703 4907078
-4 Margad, Munkhpurev	MGL 2011 1634.6978159 71.5305039 4910222

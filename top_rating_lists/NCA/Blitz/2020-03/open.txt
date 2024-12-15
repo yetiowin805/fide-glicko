@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mejia, Donaldo	NCA 1900 M 1888.4242125 74.9366639 6102085
-2 Solorzano Rivera, Freddy Alfonso	NCA 1996 M 1774.1602498 73.9129211 6104436

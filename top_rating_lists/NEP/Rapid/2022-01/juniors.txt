@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kusatha, Niken	NEP 2002 M 1874.5213898 62.1921256 12314560
-2 Paudel, Yubraj	NEP 2002 M 1842.9314223 74.7689063 12312886

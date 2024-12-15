@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Shaker, Musab	BRN 1986 M 1604.9002368 63.9518799 11201789
-2 Darwish, Hashim	BRN 1984 M 1588.5685212 74.7413517 11201258

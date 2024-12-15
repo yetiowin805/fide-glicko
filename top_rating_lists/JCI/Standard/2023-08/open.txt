@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Farrand, Tom	JCI 1961 M 1960.9822809 73.9291688 406457
-2 Roberts, Tallulah	JCI 1998 F 1482.0606516 68.6921333 15600572

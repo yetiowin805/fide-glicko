@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ben Farahat, Ramadan	LBA 1990 M 1730.4212998 70.7770511 9200487
-2 Abdulgader, Amira	LBA 1995 F 1439.9308583 67.8331422 9200746

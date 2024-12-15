@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Daulyte, Deimante	LTU 1989 2170.4815850 46.6069162 12802859
-2 Limontaite, Simona	LTU 1987 2095.7429124 58.0138047 12802506
-3 Gabrilaviciute, Laura	LTU 1987 1904.6393405 71.6075368 12803189

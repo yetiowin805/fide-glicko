@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Grigoryan, Karen H.	ARM 1995 M 2463.9231918 64.6266947 13301004
-2 Gabuzyan, Hovhannes	ARM 1995 M 2354.9410261 72.3990196 13303732

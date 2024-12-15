@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Fataliyeva, Ulviyya	AZE 1996 2153.8743258 60.7452333 13403052
-2 Mamedjarova, Zeinab	AZE 1983 2150.5602946 73.6554433 13401521
-3 Ibrahimova, Sabina	AZE 1995 1967.1972001 70.7867036 13403893

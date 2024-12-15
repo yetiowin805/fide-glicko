@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hicks, Robert Paul	TPE 1958 M 2037.3659253 74.0000830 16300050
-2 Yueh, Wei Po	TPE 1976 M 1888.9990346 73.9657730 8603103

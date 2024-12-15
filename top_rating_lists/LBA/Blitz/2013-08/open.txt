@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Alnami, Salaheddin	LBA 1993 M 1760.3402770 64.9892488 9200959
-2 Elnaami, Hashem A.k.	LBA 1994 M 1606.7055419 70.7772646 9201262
-3 Abdallah, Khaled Elnami	LBA 1958 M 1500.8073963 73.9094766 9200312

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Guzman, Oswaldo	GUA 1995 M 1830.6803981 74.4203444 7300930
-2 Cruz Lima, Kimberly Esmeralda	GUA 2001 F 1539.8143015 64.7406318 7301480

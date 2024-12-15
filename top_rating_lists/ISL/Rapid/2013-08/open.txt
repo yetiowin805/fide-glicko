@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kristinsson, Bjarni Jens	ISL 1991 M 1999.0335146 74.5711811 2302950
-2 Johannsdottir, Johanna Bjorg	ISL 1993 F 1898.6342197 74.7980127 2303108
-3 Ragnarsson, Dagur	ISL 1997 M 1872.4245183 72.4960591 2304058
-4 Johannesson, Oliver	ISL 1998 M 1765.6684469 73.9577077 2305623

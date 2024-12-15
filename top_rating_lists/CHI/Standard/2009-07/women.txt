@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Abarca Gonzalez, Damaris	CHI 1990 1890.6694928 70.9592065 3409414
-2 Quinones Mena, Jeannette	CHI 1972 1870.8532170 57.0263944 3400743
-3 Cortes Arias, Mariela	CHI 1992 1636.7164277 71.9517733 3405478

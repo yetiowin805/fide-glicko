@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nezad, Husein Aziz	QAT 1985 M 2308.2235872 66.1906259 12100293
-2 Al-Sulaiti, Ghanem	QAT 1992 M 2088.9207753 61.7300590 12100358

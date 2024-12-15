@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rosas, Ramiro	PAN 1980 M 1650.3009615 74.6125192 6601987

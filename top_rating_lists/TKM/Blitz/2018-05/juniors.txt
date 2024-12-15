@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Atabayev, Saparmyrat	TKM 1999 M 2306.3394010 69.5641439 14000571
-2 George, Alex	TKM 2009 M 1344.2039049 63.3790278 14004313

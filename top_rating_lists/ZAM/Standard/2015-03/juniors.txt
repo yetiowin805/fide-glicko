@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mulauzi, Joshua	ZAM 1996 M 1647.1444659 65.8632896 8700842
-2 Sorensen, Hampus	ZAM 2003 M 1603.3637922 53.5022503 8703884

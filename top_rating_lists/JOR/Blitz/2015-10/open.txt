@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Alattar, Ghayda M.	JOR 1991 F 1861.3434974 73.4024855 8101531
-2 Boshra, Alshaeby	JOR 1995 F 1823.8360943 74.4463695 8102937

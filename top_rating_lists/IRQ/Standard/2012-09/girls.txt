@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Jalaluldeen, Kareen Kamal J.	IRQ 1993 1652.2360122 60.0379488 4801776
-2 Al-Khalidi, Aisha Ali Ahmed	IRQ 1996 1518.4995484 64.2921496 4806042
-3 Jalal Al Deen, Dalin	IRQ 1997 1404.9654506 73.2310199 4804007

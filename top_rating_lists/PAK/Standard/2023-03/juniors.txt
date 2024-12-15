@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rehan Khan Nasir	PAK 2012 M 1658.1163131 61.0260855 7808283
-2 Kamran, Fardad	PAK 2006 M 1340.9636622 63.8360841 7814372

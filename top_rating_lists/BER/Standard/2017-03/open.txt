@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gontcharov, Serguei	BER 1966 M 1799.5322636 74.6233153 8800871

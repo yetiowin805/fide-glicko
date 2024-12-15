@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sreeves, Clement	SCO 1992 M 2050.0207905 74.3319157 2402564
-2 Allan, Brian	SCO 1934 M 1596.2413354 62.0278925 2402050

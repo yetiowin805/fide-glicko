@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Agrest, Inna	SWE 1991 2108.8862965 51.3757387 1708830
-2 Mossiaguine, Arina	SWE 2000 1183.5789947 74.3228873 1701410

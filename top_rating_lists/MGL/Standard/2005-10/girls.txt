@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Mongontuul, Bathuyag	MGL 1987 2334.7878759 47.6715849 4900758
-2 Bayaraa, Zorigt	MGL 1988 2010.9771126 63.4852170 4901010
-3 Enhjargal, Enhbaatar	MGL 1986 1875.4683680 73.6738649 4900960

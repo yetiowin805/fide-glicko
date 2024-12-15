@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tologontegin, Semetey	KGZ 1990 M 2282.3930393 57.8827775 13800574
-2 Davletbakov, Saddam	KGZ 1991 M 2123.3264634 68.6766786 13800566

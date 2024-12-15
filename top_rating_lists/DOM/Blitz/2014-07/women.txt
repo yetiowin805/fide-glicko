@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Diaz Cesar, Wilsaida Pieranlly	DOM 1991 1763.1109105 63.0504093 6403557
-2 Jose Polanco, Kenia	DOM 1985 1737.3351564 68.8581638 6401074
-3 Rosario Almanzar, Raydili	DOM 1998 1439.0657057 71.9248822 6403573

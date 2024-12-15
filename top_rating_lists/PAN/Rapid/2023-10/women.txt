@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Vasquez Jaen, Lourdes Lorena	PAN 2003 1666.9336325 69.7181948 6605559
-2 Chavarria Troya, Keytleen Denis	PAN 2011 1657.3757744 58.2600432 6608345
-3 Urriola Torres, Valentina	PAN 2010 1593.2222883 69.4050621 6614787
-4 Mendez Machado, Fatima	PAN 2011 1589.9374751 65.3933143 6606970
-5 Montezuma Camarena, Dayana Cristel	PAN 2009 1569.7074352 52.3989941 6611060

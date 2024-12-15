@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al-Hajiri, Bader	KUW 1968 M 1968.9484706 60.2882842 10300163
-2 Alkhaldi, Bader	KUW 1986 M 1798.0904205 74.3727866 10300171

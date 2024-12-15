@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Alvarado, Carlos	PER 1975 M 2092.8701707 74.9629463 3800555
-2 Caballero Quijano, Mitzy Mishell	PER 2001 F 1863.2076198 62.5396393 3807223
-3 Barrera Ricra, Victor Hugo	PER 1971 M 1844.3427380 73.9949989 3811611
-4 Egoavil Jump, Giannfranco	PER 1979 M 1782.8875480 74.6780461 3811000
-5 Chavez Melendez, Raul Angel	PER 1967 M 1490.0601889 71.3198985 3811638

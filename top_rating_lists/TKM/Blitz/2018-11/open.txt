@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Zakirov, Rafael	TKM 1977 M 1989.0439591 74.0361811 14000806
-2 George, Alex	TKM 2009 M 1333.9771414 69.7915498 14004313

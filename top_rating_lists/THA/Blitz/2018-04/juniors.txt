@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Prasitsoonthorn, Teerachoti	THA 2003 M 1762.4779060 64.1119220 6204422
-2 Tantipura, Noppakorn	THA 2003 M 1739.3867424 68.5077294 6204791
-3 Asavasaetakul, Chawit	THA 2003 M 1532.1851367 61.6368719 6204856

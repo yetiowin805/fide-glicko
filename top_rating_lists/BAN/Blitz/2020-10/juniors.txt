@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Manon, Reja Neer	BAN 2010 M 1784.9800016 69.0377897 10224009
-2 Swarnavo Choudhury	BAN 2006 M 1711.8433246 73.3147534 10214984

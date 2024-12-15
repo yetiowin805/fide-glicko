@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Megaranto, Susanto	INA 1987 M 2509.8890339 59.5196536 7101384
-2 Halay, Taufik	INA 1987 M 2314.2488001 71.7869118 7101392
-3 Purnama, Tirta Chandra	INA 1986 M 2310.7068869 67.5808840 7101422

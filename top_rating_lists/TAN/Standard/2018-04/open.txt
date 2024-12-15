@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kara Louis	TAN 1987 M 1570.7636991 64.1903063 21600279

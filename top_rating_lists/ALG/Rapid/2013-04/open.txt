@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Saim, Mohamed Ilias	ALG 1994 M 1894.6024580 74.4600193 7900465
-2 Nouali, Djouher	ALG 1987 F 1683.5088806 72.2164789 7900414

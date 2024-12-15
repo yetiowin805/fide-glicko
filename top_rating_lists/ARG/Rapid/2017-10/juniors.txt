@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pichot, Alan	ARG 1998 M 2463.3496303 68.0964995 110973
-2 Bellocchio, Franco	ARG 2000 M 1469.2306774 68.2213899 161969

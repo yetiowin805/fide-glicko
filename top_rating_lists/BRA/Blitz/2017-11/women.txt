@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Lisboa, Joana Cunha	BRA 2001 1676.9740837 61.3943029 2179628
-2 Da Cruz, Karoliny Taiane	BRA 1992 1612.6375664 74.4186117 2136910
-3 Santana Freitas, Maria Eduarda	BRA 2005 1590.4947213 64.9967119 2193787
-4 De Oliveira, Rafaela Farias	BRA 1997 1510.0957170 71.5797553 22713930
-5 Ribeiro, Jessica Maria da Silva	BRA 2000 1235.1747621 68.4287760 22701320

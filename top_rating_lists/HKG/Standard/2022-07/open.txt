@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ho, In Hei Henry	HKG 1991 M 1659.4480058 74.4321969 6002552
-2 Li, Joy Ching	HKG 2008 F 1554.4287576 72.9291787 462462

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Smith, Shreyas	JAM 1996 M 2014.1033181 74.0250418 7400713
-2 Blackwood, Ryan	JAM 1985 M 1865.9765263 73.2348245 7400640

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Checa, Nicolas	USA 2001 M 2440.1570444 74.6455582 2069342
-2 Niemann, Hans Moke	USA 2003 M 2378.7012765 68.5180006 2093596

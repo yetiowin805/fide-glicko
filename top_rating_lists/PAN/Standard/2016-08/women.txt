@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Gonzalez, Yaribeth	PAN 1986 1678.8064523 65.6685026 6600344
-2 Munoz, Alba	PAN 1991 1569.7303885 72.3280318 6600514

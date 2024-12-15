@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Yildiz, Betul Cemre	TUR 1989 F 2115.5483723 49.7169003 6302920

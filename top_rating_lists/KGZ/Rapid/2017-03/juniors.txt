@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sezdbekov, Ruslan	KGZ 2002 M 1774.3567029 74.0401052 13801856

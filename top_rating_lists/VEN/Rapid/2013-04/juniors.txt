@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ynojosa, Felix Jose	VEN 1996 M 2286.6301633 74.0495817 3900258
-2 Perez Sanchez, Ricardo Jose	VEN 1996 M 1824.9985320 73.7849227 3903923

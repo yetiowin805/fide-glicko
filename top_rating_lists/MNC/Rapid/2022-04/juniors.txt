@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 To, Nam Long	MNC 2012 M 1706.2843318 74.9643249 551059266
-2 Berezovsky, Fiorina	MNC 2007 F 1583.1742230 72.5724674 5400651

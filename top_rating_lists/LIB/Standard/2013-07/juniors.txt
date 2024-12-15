@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 El Jawich, Amro	LIB 1995 M 2084.1884791 60.5808742 5300380
-2 Chahrour, Ibrahim	LIB 1997 M 1871.6654197 59.5086275 5301653

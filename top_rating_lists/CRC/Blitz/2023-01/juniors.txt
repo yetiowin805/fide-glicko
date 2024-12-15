@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Cabezas Solano, David Alejandro	CRC 2004 M 1910.7478651 69.9690902 6507522
-2 Espitia Torres, Mateo	CRC 2003 M 1892.8208463 73.0315444 6508332
-3 Cartin Aguilar, Luis Javier	CRC 2004 M 1769.9896646 73.0831029 6516858
-4 Meza Vega, Jose Antonio	CRC 2004 M 1625.7568190 70.7274986 6513697

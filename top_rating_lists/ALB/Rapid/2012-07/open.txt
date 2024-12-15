@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Qendro, Llambi	ALB 1953 M 2231.9145784 73.0002806 4700074
-2 Mirimanian, Haik	ALB 1996 M 1917.3913256 73.9177487 4700180

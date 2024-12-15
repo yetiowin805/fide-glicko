@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vergara Jofre, Felipe	CHI 1998 M 1880.0714748 71.9763052 3416291
-2 Nauto Munoz, Isaias	CHI 2004 M 1755.0933190 62.3927646 3431746
-3 Marrujo Pardo, Mauricio Emmanuel	CHI 2010 M 1446.4141992 65.2557690 3943755

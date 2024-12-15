@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mongontuul, Bathuyag	MGL 1987 F 2314.4007012 47.6206791 4900758
-2 Battulga, Namhai	MGL 1985 M 2293.9628027 65.8013135 4900880
-3 Bayaraa, Zorigt	MGL 1988 F 2001.3186504 59.2608325 4901010

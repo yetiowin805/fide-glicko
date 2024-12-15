@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Millan Gonzalez, Yuneitsy Del Va	VEN 1997 1638.7730750 63.0623104 3906132
-2 Molina, Rosa Maria	VEN 1997 1541.4716806 71.9660278 3903982
-3 Yepez Moreno, Juliet Carolina	VEN 2001 1508.5367132 73.3180453 3905438
-4 Carreno Planas, Manuela	VEN 1996 1492.0606550 61.0899896 3906019

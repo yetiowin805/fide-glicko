@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Cheparinov, Ivan	BUL 1986 M 2519.2616377 50.2628157 2905540
-2 Georgieva, Liubka	BUL 1983 F 2267.4024807 61.9249823 2905612

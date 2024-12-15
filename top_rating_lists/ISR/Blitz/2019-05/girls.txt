@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Lahav, Michal	ISR 1999 1977.6546946 53.2766561 2813742
-2 Sadka Darrell, Daria	ISR 2004 1514.5324469 72.0691700 2826127

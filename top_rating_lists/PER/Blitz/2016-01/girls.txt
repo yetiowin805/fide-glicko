@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Hilario, Aleyla	PER 2002 1777.9804991 67.2995661 3819400
-2 Meza Rubio, Caroline	PER 2000 1700.9273333 69.5644205 3819647
-3 Mostacero Velarde, Isabella	PER 2001 1580.2835639 69.6639353 3816370

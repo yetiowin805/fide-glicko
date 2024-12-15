@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lu, Miaoyi	CHN 2010 F 2054.1416627 50.0829573 8618020
-2 Fang, Tianyang	CHN 2009 M 1461.2931183 63.4397715 8638845

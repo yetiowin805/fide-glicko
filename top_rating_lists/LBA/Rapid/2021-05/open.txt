@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Amer, Abdulmalk	LBA 1998 M 1800.6954740 68.9511090 9215352
-2 Gahfer, Khaled	LBA 1968 M 1783.0957359 73.1520285 9201750

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Morales Santos, Natasha	PUR 1998 1769.8831284 61.6122594 3101703
-2 Vega Jimenez, Keyshla M.	PUR 1992 1603.0339917 65.8748401 3101851
-3 Comas Colon, Rinelly M.	PUR 1995 1549.3806494 70.0034357 3101576

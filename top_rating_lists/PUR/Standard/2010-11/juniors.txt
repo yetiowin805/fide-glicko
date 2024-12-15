@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vazquez Reyes, Raul	PUR 1991 M 2184.0838607 51.0546268 3100235
-2 Rodriguez Santiago, Jaime	PUR 1990 M 2101.2752308 70.0894532 3100898

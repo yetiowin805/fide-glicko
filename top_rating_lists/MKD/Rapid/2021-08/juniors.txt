@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ivanov, Andrey	MKD 2010 M 1530.2763865 74.9959834 2934310

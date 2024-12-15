@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ieong, Seak Hin	MAC 2000 M 1484.8235781 73.5851008 15400344

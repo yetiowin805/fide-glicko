@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Chung, Mathilde	MNC 1999 1573.1684414 53.5896970 676446
-2 Malferrari, Sofia	MNC 2000 1368.5391150 63.3089573 20666284

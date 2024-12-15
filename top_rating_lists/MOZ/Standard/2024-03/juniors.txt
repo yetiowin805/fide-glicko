@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Joao Farisse	MOZ 2004 M 1767.9614542 67.7448547 14800730
-2 Carquete, Galilei	MOZ 2006 M 1632.9760795 71.1973842 14804174

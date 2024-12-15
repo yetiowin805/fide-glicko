@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Alsabbagh Eman	SYR 2008 1390.6694466 55.8744966 7608004
-2 Alsabbagh Aya	SYR 2009 1350.4071727 65.4646860 7608012

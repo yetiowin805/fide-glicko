@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Jones, Richard S.	WLS 1983 M 2272.7796487 55.8339021 1800833
-2 Powell, Annie	WLS 1985 F 1989.1777149 71.4574582 1801074

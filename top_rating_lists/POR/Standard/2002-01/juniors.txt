@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Leite, Catarina	POR 1983 F 2138.0932503 65.4689236 1901222

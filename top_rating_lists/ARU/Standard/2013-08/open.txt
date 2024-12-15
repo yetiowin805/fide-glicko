@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 De Mey, Juan Pablo	ARU 1994 M 1862.4104796 70.4943873 15900312

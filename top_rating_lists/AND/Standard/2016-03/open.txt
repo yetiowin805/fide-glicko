@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Aloma Vidal, Robert	AND 1989 M 2400.6227001 56.5540320 2260409
-2 Mellado Trivino, Juan	AND 1968 M 2331.0308315 69.8403814 2201224
-3 Garcia Paolicchi, Raul	AND 1952 M 2044.6848172 68.5179534 6900020

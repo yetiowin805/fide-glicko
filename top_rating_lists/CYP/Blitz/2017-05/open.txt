@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Isaakidis, Alexandros	CYP 1998 M 2031.1329516 62.6233990 5903076
-2 Sofokleous, Demetris	CYP 1968 M 1737.9618261 67.2594659 5901936
-3 Skettos, Nicolas	CYP 1996 M 1688.9426251 57.5087934 5900670

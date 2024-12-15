@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hajar , Muhannad	SUD 1900 M 1779.2257395 64.8757209 12201006
-2 Boshara, Mohammed Ahmed	SUD 1980 M 1767.7908222 73.5951711 12200727

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Van Hoolandt, Patrick	MNC 1958 M 1999.4180736 74.6060529 200999
-2 Dubois, Martine	MNC 1959 F 1888.1018397 71.1392969 601926

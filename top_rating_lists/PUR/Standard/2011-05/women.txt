@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Segarra Choe, Tammy	PUR 1989 1881.0246024 57.4856746 3100936
-2 Sanchez Rodriguez, Wilmairi	PUR 1991 1735.3186745 65.5563116 3101185
-3 Vazquez Maccarini, Danitza	PUR 2000 1640.6519835 72.2442419 3101193

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al-Modiahki, Mohamad	QAT 1974 M 2432.0004479 74.1784258 12100030
-2 Zhu, Chen	QAT 1976 F 2395.3293011 60.9120744 8600546

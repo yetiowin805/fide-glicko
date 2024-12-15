@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mora Moron, Jose Ramon	VEN 1991 M 1950.3159651 74.4392801 3902994
-2 Perez Sanchez, Ricardo Jose	VEN 1996 M 1885.2032939 64.9679861 3903923
-3 Larez Hernandez, Jose Alejandro	VEN 1997 M 1723.0129980 68.5033674 3906035
-4 Millan Gonzalez, Yuneitsy Del Va	VEN 1997 F 1568.1463344 73.1453783 3906132

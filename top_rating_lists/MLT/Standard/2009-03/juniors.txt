@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Zerafa, Robert	MLT 1989 M 1960.2837286 68.0776160 5600618

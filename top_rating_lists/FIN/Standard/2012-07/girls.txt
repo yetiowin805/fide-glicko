@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Tumanova, Irina	FIN 1996 1616.4948864 58.9185231 505102
-2 Nazarova, Anastasia	FIN 2001 1571.2321448 63.7369558 34101737
-3 Larionova, Katariina	FIN 1998 1344.6617333 74.2370816 500852

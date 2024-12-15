@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bersamina, Paulo	PHI 1998 M 2188.2689275 68.8116652 5206995
-2 San Diego, Marie Antoinette	PHI 1999 F 1839.9630139 74.9124369 5205204

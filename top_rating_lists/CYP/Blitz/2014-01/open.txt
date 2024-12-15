@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Klerides, Paris	CYP 1970 M 2162.9517036 73.9456061 5900158
-2 Georgiou, Andreas	CYP 1973 M 1569.6428233 71.1986608 5900360

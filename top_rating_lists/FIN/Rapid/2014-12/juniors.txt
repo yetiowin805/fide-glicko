@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nazarova, Anastasia	FIN 2001 F 1710.8273072 57.2215783 34101737
-2 Norlamo, Sarabella	FIN 2003 F 1430.6750292 71.2924624 4505344

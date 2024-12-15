@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 James, Jack	NZL 1998 M 1958.5902605 73.6660969 4303482
-2 Picken, Oliver	NZL 2003 M 1628.5733314 74.5350024 4304764

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Veer Gandhi	TAN 1999 M 1690.1365603 74.7912644 21600155

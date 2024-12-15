@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al-Hajiri, Bader	KUW 1968 M 2022.3482987 68.7971673 10300163
-2 Alothman, Salem	KUW 2003 M 1474.3284660 71.8273809 10301186

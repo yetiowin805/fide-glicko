@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Dominguez, Ana	ESA 1995 1629.4412510 74.8704450 6700993
-2 Aviles, Claudia Maria	ESA 1994 1569.9293028 73.0310623 6701906
-3 Martinez Corpeno, Karla Beatriz	ESA 1994 1429.1522955 74.5132440 6703070

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Cahyadi	INA 1987 M 1687.7795183 72.1515607 7106068

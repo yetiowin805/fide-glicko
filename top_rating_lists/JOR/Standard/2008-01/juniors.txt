@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Saif Abu-Hazeem	JOR 1991 M 2038.6979404 69.9656347 8102023
-2 Saad, Baha	JOR 1989 M 1981.9501648 67.4026486 8101205

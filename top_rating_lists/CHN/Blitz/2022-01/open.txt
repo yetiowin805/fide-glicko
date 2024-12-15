@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Zhou, Jianchao	CHN 1988 M 2368.2574447 67.2236226 8603537
-2 Zhu, Jiner	CHN 2002 F 2199.5555549 73.4826628 8608059

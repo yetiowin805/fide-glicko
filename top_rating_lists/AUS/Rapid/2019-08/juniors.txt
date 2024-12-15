@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Wu, Yifu	AUS 2004 M 1611.6993361 73.9631535 3222845
-2 Rupasinghe, Sayum	AUS 2008 M 1527.0936351 73.3052103 3231313

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Liu, Joy	AUS 2009 1549.3835316 70.7625713 3245160
-2 Rupasinghe, Chanya	AUS 2011 1487.2429445 69.4513158 3236242

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Javakhishvili, Mariam	GEO 1999 1787.9143881 62.9491769 13609955
-2 Oniani, Tamar	GEO 2001 1619.2959975 74.0123687 13613715

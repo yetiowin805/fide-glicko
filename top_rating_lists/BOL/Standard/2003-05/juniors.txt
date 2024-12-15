@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Guerra, Daniel Ruben	BOL 1983 M 2100.8702654 74.1380413 3300420

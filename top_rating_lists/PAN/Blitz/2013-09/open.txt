@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Aizpurua, Patrick	PAN 1994 M 2040.6505019 57.7973327 6600522
-2 Fuentes, Adrian	PAN 1998 M 1806.1519017 67.3122423 6600875
-3 Carrillo, Jose Antonio	PAN 1975 M 1649.9878435 71.8261980 6600476

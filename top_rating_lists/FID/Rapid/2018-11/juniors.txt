@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mazzini, Katarina	FID 2003 M 1640.4395407 64.7360079 73006971
-2 Potocar, Nika	FID 2006 M 1305.8299691 66.0069768 73008044

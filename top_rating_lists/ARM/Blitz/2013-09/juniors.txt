@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gabuzyan, Hovhannes	ARM 1995 M 2341.8608667 66.8260350 13303732
-2 Baghdasaryan, Vahe	ARM 1993 M 2315.6805102 67.5386256 13303139

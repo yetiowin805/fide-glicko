@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Raharimanana, Faratiana	MAD 1991 1746.1482791 71.8448145 13100378
-2 Razafindrabiaza, Christine	MAD 1978 1547.7393931 67.0760762 13100416
-3 Tsinjoviniavo, Aina Mahasambatra	MAD 2012 1497.7105668 73.3659566 13105450
-4 Razafindrabe, Bakoly	MAD 1995 1456.4957600 64.6841300 13104063

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kumar, Manoj	FIJ 1977 M 1964.1550985 73.6258901 11400064
-2 Sukhu, Gloria	FIJ 1954 F 1570.5460872 69.8937402 11400099

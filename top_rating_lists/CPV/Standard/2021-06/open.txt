@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pereira, Eder Marcio	CPV 1987 M 1802.2578953 74.7658513 1928112
-2 Fernandes, Luis De Pina	CPV 1966 M 1692.3158897 74.5514109 23600179
-3 Moes Joaquim, Carlos	CPV 1953 M 1555.1618346 69.2719416 1928104

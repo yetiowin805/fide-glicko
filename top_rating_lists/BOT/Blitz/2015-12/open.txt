@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Oatlhotse, Providence	BOT 1985 M 2090.9600913 73.2117326 11300507
-2 Mudongo, Boikhutso	BOT 1979 F 1646.7721835 74.3172845 11300230

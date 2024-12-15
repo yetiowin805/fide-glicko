@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Aponte, Oriana Isabel	VEN 1997 1786.6168088 63.0608809 3902439
-2 Yepez Moreno, Juliet Carolina	VEN 2001 1657.3204004 71.5366796 3905438
-3 Manaure Rodriguez, Cristina	VEN 1999 1309.1373622 74.4655155 3915557

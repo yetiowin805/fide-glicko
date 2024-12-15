@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Latorre, Matias	PAR 1994 M 2200.7232289 74.9237622 3701107

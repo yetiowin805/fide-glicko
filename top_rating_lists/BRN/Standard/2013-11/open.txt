@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Amini, Hossein Ali	BRN 1900 M 1469.2612274 70.5566504 11201584
-2 Lakshminaryanan, Ishwaryaa	BRN 1999 F 1395.4549874 70.7867056 11201410

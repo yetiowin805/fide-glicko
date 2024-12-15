@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Studer, Noel	SUI 1996 M 2281.5192691 57.2505714 1319620
-2 Avilova, Yulia	SUI 2004 F 1401.1198887 66.3822608 34166073

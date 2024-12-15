@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Adnan, Habib	BRN 2001 M 1819.1783915 70.3859512 11202270
-2 Al Mahmood, Salman	BRN 2004 M 1487.8565306 62.6198089 11201517

@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Diaz Leon, Richard Josue	MEX 1977 M 1931.2376001 72.0672681 5104696
-2 Flores Teillery, Alejandro Franci	MEX 2006 M 1745.1864648 68.4851352 5136660
-3 Diaz Espinoza, Axel Alberto	MEX 2001 M 1733.3937189 68.3655471 5128722
-4 Mendieta, Gallegos Diego Armando	MEX 2004 M 1549.8278270 67.3721344 5159580

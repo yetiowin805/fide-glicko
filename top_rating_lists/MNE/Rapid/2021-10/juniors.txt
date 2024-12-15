@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Miletic, Vuk	MNE 2003 M 1975.9028608 74.9927153 16503406

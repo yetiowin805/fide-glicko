@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Janiashvili, Mariami	GEO 2000 F 1830.7022587 71.5653915 13612077
-2 Kupatadze, Tornike	GEO 2006 M 1658.6889357 74.9548750 13618369

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Salih, Al Hor	QAT 2000 M 1707.3255673 72.7382061 12101001

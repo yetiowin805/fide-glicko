@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Fonseca Cabrera, Ernesto	NCA 1900 M 2039.6938258 72.6558683 6101046
-2 Ortiz, Marcos	NCA 1900 M 2021.4037231 73.8590506 6100678

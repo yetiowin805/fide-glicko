@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Gonzalez Ochoa, Yoana	CUB 1992 1927.1699305 74.4583076 3507629
-2 Fernandez Bustamante, Leancy B.	CUB 2000 1862.4991026 66.8872634 3523870
-3 Catala Matienzo, Ivette	CUB 1986 1843.0043230 72.7471475 3506819
-4 Caballero Ramos, Greter	CUB 2006 1744.0920690 70.8804421 3530655
-5 Fernandez Rivero, Karla July	CUB 1997 1717.4367982 65.3016660 3517489

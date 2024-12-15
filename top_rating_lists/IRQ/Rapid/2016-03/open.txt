@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al Falahi, Ziad Tarik Mohammad	IRQ 1973 M 1392.3430804 64.1715707 4807235

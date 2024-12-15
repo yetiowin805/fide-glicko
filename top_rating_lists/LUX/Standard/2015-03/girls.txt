@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Biryukov, Alice	LUX 1998 1815.3551629 69.7799868 4002440
-2 Blond Hanten, Elsa	LUX 2001 1382.4639953 61.1548462 4001516

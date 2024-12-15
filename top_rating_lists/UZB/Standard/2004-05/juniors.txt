@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gareev, Timur	UZB 1988 M 2467.9837041 52.0057187 14200937
-2 Husnutdinov, Damir	UZB 1985 M 2347.5935052 60.0452303 14200910

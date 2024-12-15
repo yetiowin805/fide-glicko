@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Wickramasinghe, Dilhara Ishini	SRI 2000 1545.7343050 74.4454940 9906738
-2 Methmani, Nelunika	SRI 1998 1492.9822322 71.0015661 9910050
-3 Jayasundara, H J M R M	SRI 1999 1435.0110238 72.1992410 9914137
-4 Balasuriya, Sajini Hasara	SRI 1999 1401.2242527 73.9265939 9903801

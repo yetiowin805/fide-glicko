@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rowe, Duane	JAM 1978 M 1867.5974956 56.4522164 7400268

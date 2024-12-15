@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gameel, Mohamed	YEM 1994 M 2085.2316603 59.1756284 9401440
-2 Ali Abdo, Asma	YEM 2001 F 1353.9893374 70.5603177 9402128

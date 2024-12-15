@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mutlu, Burak Alp	TUR 2009 M 1476.6837209 72.2399907 44507461

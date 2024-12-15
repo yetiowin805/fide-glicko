@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Myo Naing	MYA 1964 M 2226.6910484 68.3630360 13000071

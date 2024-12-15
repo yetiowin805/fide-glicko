@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Durante, Aurelio	URU 1962 M 1881.7613927 74.4255676 3001270
-2 Calabria, Luis	URU 1973 M 1787.8224369 68.3977822 3005810

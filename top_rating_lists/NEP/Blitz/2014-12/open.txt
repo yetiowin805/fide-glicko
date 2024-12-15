@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kuluju, Bikash	NEP 1981 M 1876.3669568 74.5639759 12300918
-2 Duwal, Ganesh Man	NEP 1957 M 1811.0413489 70.9776082 12300284

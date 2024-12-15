@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Terubea, Cydel	FIJ 1998 F 1444.7236094 71.4520969 11400455
-2 Prasad, Tanvi	FIJ 2006 F 1262.8492223 74.9032898 11401117

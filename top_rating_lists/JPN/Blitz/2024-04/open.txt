@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Schweizer, Samuel	JPN 1996 M 1982.0957946 72.1072692 1325353
-2 Rolston, Daniel Haruma	JPN 2009 M 1766.0974239 50.8944321 2511258

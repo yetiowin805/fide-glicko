@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rahmani, Asef	AFG 1973 M 1739.1123711 69.6380647 12540951
-2 Sakhawaty, Sepehr	AFG 2003 M 1700.1710998 61.8033536 11701455

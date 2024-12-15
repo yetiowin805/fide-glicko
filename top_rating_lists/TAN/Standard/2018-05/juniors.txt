@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sareen Sugam	TAN 2004 M 1359.6405005 73.6062886 21600562

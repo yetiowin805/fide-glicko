@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mwale, Samuel	ZAM 2002 M 1695.0537262 72.6197919 8703302
-2 Shane Kennedy	ZAM 2008 M 1467.6126798 73.3102694 8707162

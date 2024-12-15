@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Alhejab, Meshal	KUW 2007 M 1746.4839977 70.3844105 10302603
-2 Aldaihani, Turki	KUW 2005 M 1700.3921448 68.1959165 10304339

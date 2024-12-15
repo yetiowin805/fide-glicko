@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Asher, Miguel	JAM 1991 M 1698.5466286 73.2118990 7400756
-2 Smith, Shreyas	JAM 1996 M 1689.8233250 65.4474880 7400713

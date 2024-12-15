@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 AL-Sayed, Mohammed	QAT 1981 M 2418.9518338 58.3977369 12100196
-2 Nezad, Husein Aziz	QAT 1985 M 2365.4054234 74.0308520 12100293

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Thomas, Jac	WLS 1991 M 2001.3590639 72.3616919 1801422
-2 Owens, Megan R	WLS 1995 F 1617.2303747 73.4075196 1801996

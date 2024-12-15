@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Li, Ande	CHN 2008 M 1577.1588456 74.8402360 8620997

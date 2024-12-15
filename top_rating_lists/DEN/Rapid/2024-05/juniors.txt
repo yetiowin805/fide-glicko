@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bekmukhanov, Sauran	DEN 2012 M 1737.5936280 74.4536667 1472844
-2 Skytte, Robert	DEN 2013 M 1522.8727793 74.0599011 1471775

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ponce Cano, Adrian	ESP 1998 M 2108.8927741 64.3149325 22296913
-2 Nieto Rego, Ana	ESP 2004 F 1493.6203380 58.9360988 24537330

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Koniahli, Malek.	SYR 2000 M 2080.1865511 72.6857513 7603495
-2 Alsabbagh Eman	SYR 2008 F 1275.4354131 74.0885880 7608004

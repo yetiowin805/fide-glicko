@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ayyad, Husain	BRN 1986 M 2097.6239920 74.9079452 11200243
-2 Shaker, Musab	BRN 1986 M 1631.2994244 68.0699331 11201789

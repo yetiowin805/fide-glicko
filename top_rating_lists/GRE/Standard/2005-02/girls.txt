@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Papadopoulou, Vera	GRE 1986 2188.4802217 45.0890459 4205472
-2 Stoumbou, Eleni	GRE 1988 1926.6263069 72.2484392 4210174

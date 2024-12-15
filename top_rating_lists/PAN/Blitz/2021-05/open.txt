@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Leon, Orlando	PAN 1992 M 2088.2922943 74.3201507 6600913
-2 Mendez, Andre	PAN 2008 M 1698.5639644 74.8422229 6603793

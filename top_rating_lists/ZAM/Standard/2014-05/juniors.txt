@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Phiri, Richmond	ZAM 1998 M 1984.0114664 64.7574139 8700443
-2 Jonathan, Thomas	ZAM 2000 M 1499.2493430 73.3537643 8700494

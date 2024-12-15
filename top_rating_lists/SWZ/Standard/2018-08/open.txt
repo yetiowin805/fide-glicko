@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mziyako, Sobhi	SWZ 1900 M 1438.8945951 70.0781296 20700059
-2 Pales Pi, Marta	SWZ 1963 F 1319.7353122 74.7081934 345279188

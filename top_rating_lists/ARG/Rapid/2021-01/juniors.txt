@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rodriguez, Facundo	ARG 2004 M 3224.1766996 57.6207308 159239

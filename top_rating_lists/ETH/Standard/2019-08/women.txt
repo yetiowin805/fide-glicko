@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Haile , Lidet Abate	ETH 1996 1652.0400008 66.1128917 15702073
-2 Eshete , Ruth Leykun	ETH 1994 1574.4330125 74.8556034 15700194

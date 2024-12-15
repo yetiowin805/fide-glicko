@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Ioannides Liu, Alice	CYP 2005 1492.7649308 73.1781797 5904374
-2 Bouzana, Christina	CYP 2009 1353.6849203 65.3814956 5905508
-3 Sokolova, Victoria	CYP 2009 1344.0959984 74.5725706 5905460

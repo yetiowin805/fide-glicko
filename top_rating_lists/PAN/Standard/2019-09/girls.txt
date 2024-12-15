@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Vasquez Jaen, Lourdes Lorena	PAN 2003 1495.2627535 60.0749060 6605559
-2 Alvarez, Claudia	PAN 2004 1380.5573805 58.4232511 6604374
-3 Lobo Jimenez, Mariana	PAN 2008 1265.5553045 73.5346399 6605516

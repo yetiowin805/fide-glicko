@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Glaves, Raheem	JAM 2001 M 1897.9740563 68.4572829 7402724
-2 Brown, Raehanna	JAM 2005 F 1604.7791073 68.1262188 7402740

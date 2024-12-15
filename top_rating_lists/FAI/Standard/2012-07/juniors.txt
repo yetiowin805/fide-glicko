@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nielsen, Rogvi Egilstoft	FAI 1992 M 2124.4866803 57.0998070 7200447
-2 Nielsen, Hogni Egilstoft	FAI 1997 M 1978.9004891 57.7593916 7200404
-3 Jacobsen, Heidrikur T.	FAI 1993 M 1770.7409085 67.9482315 7200340
-4 Eydsteinsson, Silas	FAI 1998 M 1586.3744091 71.6182684 7201443

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al Qudaimi, Basheer	YEM 1984 M 2266.8555705 71.7341506 9400346
-2 Farhan, Marwan Ali	YEM 1900 M 1873.2222773 65.4990186 9401652

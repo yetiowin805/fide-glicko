@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Chahrani, Ibrahim	LBA 1972 M 2252.9908297 60.1868664 9200215
-2 Asabri, Hussien	LBA 1967 M 2085.2620509 73.3309443 9200177

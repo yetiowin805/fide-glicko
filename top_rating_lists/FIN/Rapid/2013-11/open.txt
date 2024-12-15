@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Parkkinen, Jyrki	FIN 1968 M 2050.0572977 74.5934500 502375
-2 Patola, Eero	FIN 1950 M 1800.2524618 74.2962127 504092

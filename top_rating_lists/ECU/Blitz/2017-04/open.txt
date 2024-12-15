@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Noboa, Kevin	ECU 1999 M 1828.7687044 72.1348431 3618471
-2 Ruiz, Mishell	ECU 2001 F 1675.2093457 73.7240150 3627640

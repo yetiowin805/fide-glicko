@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Yeung, Jason	SUR 2006 M 1929.9322674 74.4683347 8203970

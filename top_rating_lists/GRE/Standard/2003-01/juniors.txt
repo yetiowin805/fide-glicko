@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mastrovasilis, Dimitrios	GRE 1983 M 2475.5206399 45.2842771 4202694
-2 Makka, Ioulia	GRE 1983 F 2228.3714443 47.5835936 4205316
-3 Stiri, Alexandra	GRE 1984 F 2141.6013697 54.9330226 4205383

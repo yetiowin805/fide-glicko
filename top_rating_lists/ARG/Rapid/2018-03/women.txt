@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Borda Rodas, Anapaola S.	ARG 2004 1730.2455514 73.2581140 152781
-2 Bosco, Giuliana	ARG 2004 1639.8157426 71.1816953 142611
-3 Francisco Guecamburu, Candela Be	ARG 2006 1604.1493650 71.0698450 160911

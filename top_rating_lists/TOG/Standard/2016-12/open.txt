@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Strovsky, Mikhail	TOG 1986 M 1761.6612783 64.1887729 24111627
-2 Amewounou, Komlan Kouessan	TOG 1983 M 1563.1871520 70.5628486 21200017
-3 Botsoe, Koffi	TOG 1974 M 1512.4461652 68.0307568 21200025

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Hapala, Lisa	AUT 1994 1869.0115793 58.9798462 1622080
-2 Schnegg, Anna-Lena	AUT 1998 1856.9597520 67.1828330 1625268

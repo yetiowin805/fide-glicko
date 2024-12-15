@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Thorsteinsdottir, Hallgerdur	ISL 1992 1876.8193914 55.4591818 2302454
-2 Kristinardottir, Elsa Maria	ISL 1989 1715.9414927 61.0969407 2300370
-3 Johannsdottir, Johanna Bjorg	ISL 1993 1708.9632603 60.7769161 2303108
-4 Helgadottir, Sigridur Bjorg	ISL 1992 1605.3341677 66.1226788 2303701
-5 Finnbogadottir, Tinna Kristin	ISL 1991 1597.9387667 59.7493798 2300214

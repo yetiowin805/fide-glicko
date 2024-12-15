@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Cuizon, Richily Evans	PHI 2008 F 1582.0435938 63.5132379 5230306

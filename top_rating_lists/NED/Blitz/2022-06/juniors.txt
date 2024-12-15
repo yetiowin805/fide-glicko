@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Van Dael, Siem	NED 2004 M 2050.9447828 68.4367071 1049771
-2 Grutter, Tim	NED 2003 M 2008.3674089 71.7088802 1057472

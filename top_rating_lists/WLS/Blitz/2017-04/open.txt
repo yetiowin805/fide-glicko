@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Brown, Thomas	WLS 1976 M 1928.7923637 69.7970272 1801430
-2 Taylor, Robert Graham	WLS 1944 M 1730.6097494 71.3794935 1800841

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sendur, Adnan	TUR 1961 M 2458.5144625 64.8389555 6300880
-2 Haznedaroglu, Kivanc	TUR 1981 M 2352.5599197 70.4652875 6300634

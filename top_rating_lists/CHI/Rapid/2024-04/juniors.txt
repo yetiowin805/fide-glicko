@@ -1,9 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Miranda Camus, Joaquin Ignacio	CHI 2004 M 2041.4184457 71.3080788 3449300
-2 Munoz Ramos, Christopher	CHI 2011 M 2005.1645000 60.9780879 3439615
-3 Marrujo Pardo, Mauricio Emmanuel	CHI 2010 M 1993.3513772 71.4338620 3943755
-4 Salas Radovic, Mateo Gareth	CHI 2010 M 1616.5806366 72.9449028 3458768
-5 Gutierrez Verdugo, Leonidas	CHI 2015 M 1583.1167773 65.6422354 3457710
-6 Rubilar Jaque, Ariel	CHI 2009 M 1490.3590420 74.3461933 3458482
-7 Barrientos Alvarado, Mateo Alexis	CHI 2010 M 1412.4334836 70.9337964 3460975
-8 Larranaga Arriagada, Emilio Alon	CHI 2014 M 1396.3552721 73.7930989 3461068

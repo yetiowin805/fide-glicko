@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Medjkouh, Said	ALG 1994 M 2018.4679388 74.6572189 7901496
-2 Banat, Rizlene	ALG 1998 F 1695.0975489 70.1148418 602825

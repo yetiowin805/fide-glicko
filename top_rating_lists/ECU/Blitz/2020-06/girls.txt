@@ -1,7 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Quezada Pauker,Katheen Gabriela	ECU 2007 1671.9997111 67.3311215 3632261
-2 Escobar Villota, Domenika Gabriela	ECU 2007 1536.8709426 72.6629445 3635287
-3 Artieda Berru,Ariadna Ameli	ECU 2007 1534.2572274 66.8848746 3630293
-4 Orbe Vivero, Maria Jose	ECU 2007 1478.9751554 69.2643566 3636330
-5 Guerrero Caicedo, Arlette	ECU 2006 1458.8371393 70.1187653 3633667
-6 Palacios Gordillo, Camila Estefania	ECU 2006 1440.4178247 70.3827044 3636852

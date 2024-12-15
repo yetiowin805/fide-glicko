@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lam, Chun Yung Samuel	HKG 2010 M 1542.1843472 68.9972231 6004431
-2 Kong, Steven Chun-shing	HKG 2007 M 1357.9358603 71.6584742 66200458

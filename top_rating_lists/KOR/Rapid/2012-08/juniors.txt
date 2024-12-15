@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Jang, Kyungsik	KOR 1997 M 1756.8346776 71.2948843 13201166
-2 Bae, Jisoo	KOR 1999 M 1488.9289561 72.0483331 13200828

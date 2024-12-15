@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Simonet, Marc	AND 1977 M 2172.5312471 74.3992472 6900127
-2 Garcia Paolicchi, Raul	AND 1952 M 2061.9308451 73.0732263 6900020

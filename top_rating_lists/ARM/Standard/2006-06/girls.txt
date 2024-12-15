@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Andriasian, Siranush	ARM 1986 2207.0806507 47.3330037 13301926
-2 Darbinian, Nune	ARM 1990 2070.8502786 69.2892187 13302566

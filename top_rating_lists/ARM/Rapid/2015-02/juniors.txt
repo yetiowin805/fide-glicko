@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Parvanyan, Ashot	ARM 2001 M 1998.1510441 74.5070587 13307550

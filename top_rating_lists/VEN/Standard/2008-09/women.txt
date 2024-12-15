@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Sanchez Castillo, Sarai	VEN 1981 2117.6452450 61.1584973 3900754
-2 Sanchez Santana, Celsa Carolina	VEN 0 1945.7546532 66.2520163 3902188
-3 Hernandez, Zaida	VEN 0 1943.6665377 68.4986418 3901041
-4 Moreno Garcia, Elizabeth Paola	VEN 0 1936.2517399 64.1676317 3901556

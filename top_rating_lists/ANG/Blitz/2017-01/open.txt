@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Santos, Jeovani Amaro Dias	ANG 1988 M 2031.2966768 63.6447418 10100482
-2 Adao, David	ANG 1992 M 1938.4676058 72.6464810 10100474

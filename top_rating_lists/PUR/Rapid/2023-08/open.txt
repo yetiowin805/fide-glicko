@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Almedina Ortiz, Edgardo J.	PUR 1988 M 1989.8947469 66.3671166 3100197
-2 Morales Santos, Natasha	PUR 1998 F 1906.0508345 68.6606340 3101703
-3 Boggiano Pereira, Miguel A.	PUR 1999 M 1895.0630467 53.6472804 3102750

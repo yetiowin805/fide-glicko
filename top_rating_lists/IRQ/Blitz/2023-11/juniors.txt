@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pola Azad Saber	IRQ 2005 M 1703.9855498 73.9971938 4809653
-2 Zaid Alaa Chaseb	IRQ 2005 M 1697.6377102 74.9383185 4811623

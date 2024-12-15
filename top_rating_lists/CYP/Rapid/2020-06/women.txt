@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Sokolova, Larisa	CYP 1978 1681.8742918 74.3561326 5904919
-2 Sarkisian, Aikaterina	CYP 2011 1488.2116133 64.3886886 5905265
-3 Sokolova, Victoria	CYP 2009 1460.3075280 62.4427197 5905460

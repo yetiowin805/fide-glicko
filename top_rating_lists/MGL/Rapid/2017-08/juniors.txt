@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bilguun, Sumiya	MGL 1997 M 2295.2917760 71.4381727 4901541
-2 Chinguun, Sumiya	MGL 2005 M 1890.5520296 65.1074348 4902572

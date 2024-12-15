@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Guzman, Christopher	DOM 1990 M 1953.0536828 74.3073988 6405096
-2 Diaz, Wilsaida	DOM 1991 F 1513.9212077 74.5804517 6403557

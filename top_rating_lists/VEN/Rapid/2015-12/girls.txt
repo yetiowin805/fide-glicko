@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Calvete Gimenez, Johaslyn Aymer	VEN 1995 1714.3201640 68.8943074 3905578
-2 Yepez Moreno, Juliet Carolina	VEN 2001 1657.3204004 69.8049444 3905438
-3 Manaure Rodriguez, Cristina	VEN 1999 1309.1373622 72.8025767 3915557

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Campos Moreno, Javier B.	CHI 1959 M 2508.1447838 50.3471591 3400034
-2 Galefsky, Eduardo	CHI 0 M 2230.7068629 68.7985443 3405010
-3 Caceres, Sergio	CHI 1964 M 2227.6047721 68.2390807 3402169

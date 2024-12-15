@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Khoder, Akram	LBN 2005 M 1789.7105216 70.7938536 5306914
-2 Ayoub, Auriane	LBN 2011 F 1202.4723505 73.6578937 5305233

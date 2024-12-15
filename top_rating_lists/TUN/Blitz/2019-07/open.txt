@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Zaibi, Amir	TUN 1988 M 2120.1989133 72.9576704 5500796
-2 Njili, Kamel	TUN 1982 M 2100.4887178 55.3149335 5500869

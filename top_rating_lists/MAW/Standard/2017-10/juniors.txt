@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 SANGA Yewo	MAW 2006 M 1333.9147987 74.1334147 20503156

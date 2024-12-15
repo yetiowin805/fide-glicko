@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Munguntuul, Batkhuyag	MGL 1987 2334.4795287 70.9150896 4900758
-2 Enkhtuul, Altanulzii	MGL 1994 2024.0469020 69.9801207 4901444
-3 Lkhamsuren, Uuganbayar	MGL 1991 2008.7266024 74.2798854 4901347
-4 Saikhanzaya, Ganbaatar	MGL 1997 1781.9127096 72.5291766 4900030

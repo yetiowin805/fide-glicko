@@ -1,8 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Diaz Cesar, Wilsaida Pieranlly	DOM 1991 1768.2555774 72.6482387 6403557
-2 Castillo Pena, Patricia Evarista	DOM 1991 1666.0968747 68.2640397 6412106
-3 Almanzar Vasquez, Jeniffer Maria	DOM 1993 1656.0978536 60.9805945 6406505
-4 Hazim Gonzalez, Elizabeth	DOM 1962 1647.3432598 61.5797593 6400183
-5 Rosario Almanzar, Raydily	DOM 1998 1613.4045975 61.3386928 6403573
-6 Coronado Paulino, Katerine E.	DOM 1999 1595.4758440 73.0599936 6405029
-7 Joaquin Salcedo, Candida	DOM 1972 1499.6852883 73.7154297 6408095

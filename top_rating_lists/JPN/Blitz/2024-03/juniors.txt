@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rolston, Daniel Haruma	JPN 2009 M 1780.8830517 52.1378316 2511258
-2 Okabe, Yuma	JPN 2007 M 1597.1706990 73.6249073 7004419

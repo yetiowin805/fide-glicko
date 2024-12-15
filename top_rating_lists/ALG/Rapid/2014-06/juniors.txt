@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Saim, Mohamed Ilias	ALG 1994 M 1964.3609003 66.2834840 7900465
-2 Saim, Ikram Kaouter	ALG 2000 F 1551.4023506 72.4680800 7902883

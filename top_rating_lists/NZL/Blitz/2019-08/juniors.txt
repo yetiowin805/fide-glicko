@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ang, Alphaeus Wei Ern	NZL 2002 M 1949.5319678 74.6318396 4303636
-2 Ning, Isabelle Yixuan	NZL 2009 F 1487.0597051 72.9932091 4307763

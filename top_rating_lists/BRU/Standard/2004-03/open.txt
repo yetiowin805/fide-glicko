@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Pg, Mohd Omar Ak Hirawan	BRU 0 M 2142.0149833 57.2027405 10500111
-2 Pg, Mohd Omar Ak Hira	BRU 0 M 2061.3654305 65.3798481 10500103

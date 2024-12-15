@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Dardha, Daniel	BEL 2005 M 2374.3933181 65.1763132 240990
-2 Ouaki, Mark	BEL 2003 M 1889.1815240 74.1812591 257460

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Shrestha, Keshav	NEP 0 M 2064.6394798 70.9047506 12300055
-2 Surbir, Lama	NEP 0 M 1950.7055322 73.8423981 5017432

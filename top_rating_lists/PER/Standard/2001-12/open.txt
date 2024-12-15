@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Granda Zuniga, Julio E	PER 1967 M 2605.0000000 66.7497284 3800024
-2 Vidarte Morales, Arturo	PER 1967 M 2386.8555624 70.7831580 3800253

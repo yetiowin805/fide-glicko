@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Teoh, Yi Hearn Lawrence	MAS 1900 M 1760.6617765 72.8851500 5706882
-2 Toh, Qin Kane	MAS 1900 M 1654.1852020 69.9226817 5707625

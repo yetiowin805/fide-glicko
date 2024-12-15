@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mena, Ailen Oriana	AHO 1999 F 1686.1413429 70.1997608 3902773
-2 Roose, Alex	AHO 1951 M 1633.0179446 74.0861061 7500246

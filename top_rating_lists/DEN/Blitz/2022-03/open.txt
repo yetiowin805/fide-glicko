@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Andersen, Mads	DEN 1995 M 2318.1604316 68.1161917 1413864
-2 Sigurdsson, Magnus	DEN 1980 M 1558.9405159 70.6204091 1418017

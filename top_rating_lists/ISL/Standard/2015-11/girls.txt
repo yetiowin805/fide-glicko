@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Hauksdottir, Hrund	ISL 1996 1684.5370353 65.8142782 2302608
-2 Magnusdottir, Veronika Steinunn	ISL 1998 1629.2948556 51.9385554 2309114
-3 Davidsdottir, Nansy	ISL 2002 1615.3388480 57.7220806 2309491
-4 Birkisdottir, Freyja	ISL 2006 1124.0975578 65.2486217 2311860

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Bruzon Batista, Lazaro	CUB 1982 M 2649.7343934 74.5434900 3503739
-2 Martinez Duany, Lelys Stanley	CUB 1985 M 2461.4040169 68.4437646 3504727

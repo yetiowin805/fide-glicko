@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Hoang, Thi Bao Tram	VIE 1987 2283.8073730 51.5571183 12401102
-2 Pham, Le Thao Nguyen	VIE 1987 2214.8132774 71.5162038 12401226

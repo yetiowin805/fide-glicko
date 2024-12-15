@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Beukes, Dante M	NAM 2003 M 1649.3411037 66.4467505 15200540
-2 Gurirab, Kevin N	NAM 2003 M 1453.3053515 64.7670090 15200752

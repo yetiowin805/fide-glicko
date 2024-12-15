@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Vazquez Maccarini, Danitza	PUR 2000 1983.2686196 56.5513700 3101193
-2 Morales Santos, Natasha	PUR 1998 1840.1932218 73.2695472 3101703
-3 Vega Jimenez, Keyshla M.	PUR 1992 1598.0247207 63.2028983 3101851
-4 Maldonado Polo, Mariangeli	PUR 2006 1389.3226236 51.8440249 3107299
-5 Bengoa Feliciano, Katsi M.	PUR 2007 1320.0590422 66.2944112 3107450

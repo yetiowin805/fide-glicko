@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Olson, Hamish	SCO 1994 M 2042.3625387 70.9191673 2404257

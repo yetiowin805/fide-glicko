@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vasquez Schroeder, Rodrigo	CHI 1969 M 2466.9702638 72.4856316 3400042
-2 Perez Gormaz, Matias	CHI 1993 M 2189.3869096 66.1278295 3406342

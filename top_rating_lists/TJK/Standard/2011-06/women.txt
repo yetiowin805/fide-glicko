@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Antonova, Nadezhda	TJK 1988 1847.6859264 71.0889233 14700182
-2 Ilhom, Mootribai	TJK 1997 1672.7393403 74.1968536 14700204

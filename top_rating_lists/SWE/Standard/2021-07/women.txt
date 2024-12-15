@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Cramling, Pia	SWE 1963 2327.4005335 68.3365966 1700030
-2 Ostensson, Julia	SWE 2005 1463.4254730 67.6420179 1747703

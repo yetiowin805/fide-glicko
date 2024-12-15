@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Efimov, Igor	MNC 1960 M 2350.8901013 66.0646888 806404
-2 Van Hoolandt, Patrick	MNC 1958 M 2106.4643012 66.1340881 200999
-3 Tortorella, Giancarlo	MNC 1968 M 1762.3400018 74.0601457 824909

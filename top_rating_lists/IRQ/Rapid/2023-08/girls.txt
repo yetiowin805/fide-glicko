@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Parwa, Pshtiwan Ahmed	IRQ 2007 1481.3421384 70.9379282 4814193
-2 Roziya, Fakhraddin Awdl	IRQ 2007 1434.8549113 72.6317439 4814720
-3 Pari, Pishtiwan Ahmed	IRQ 2009 1302.5923087 72.0024060 4814533

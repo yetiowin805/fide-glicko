@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Juhasz, Barbara	HUN 1995 2042.3984578 73.7944498 743585
-2 Barcza, Lora	HUN 2005 1534.6562500 74.1738142 777749

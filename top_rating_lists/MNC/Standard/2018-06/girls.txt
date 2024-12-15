@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Lomandong, Noela-Joyce	MNC 2001 1888.3655455 49.9445813 5400384
-2 Rubsamen, Anais	MNC 2003 1557.3889947 56.8024546 26091305
-3 Berezovsky, Fiorina	MNC 2007 1463.2987599 49.5326695 5400651

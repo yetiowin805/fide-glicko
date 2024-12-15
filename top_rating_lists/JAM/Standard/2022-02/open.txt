@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rowe, Duane	JAM 1978 M 1876.7088977 56.9445089 7400268
-2 Miller, Rachel	JAM 2000 F 1746.9958450 61.5610124 7401302

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Dominguez, Facundo	URU 1998 M 1848.6678076 71.3338879 3005178
-2 Kimelman, Gabriel	URU 1999 M 1825.7615945 68.5501671 3003035
-3 Gomez Troccoli, Martin	URU 1996 M 1583.6994969 71.8559711 3006778

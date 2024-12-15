@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Annaberdiev, Meilis	TKM 1985 M 2403.5349162 72.8392191 14000563
-2 Hallaeva, Bahar	TKM 1988 F 1994.2375740 73.6145329 14000679

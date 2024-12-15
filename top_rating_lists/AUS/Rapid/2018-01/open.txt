@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rodgers, Jack	AUS 1996 M 1924.3757164 70.5263874 3220885
-2 Jain, Kamal	AUS 1973 M 1578.2723806 74.9157251 5088240

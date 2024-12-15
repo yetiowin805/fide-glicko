@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kanyamarala, Tarun	IRL 2004 M 2059.4610127 69.9719463 45004714
-2 Kanyamarala, Trisha	IRL 2005 F 1901.5576340 70.0735846 45004722
-3 Rolston, Daniel Haruma	IRL 2009 M 1474.6985313 67.2777163 2511258

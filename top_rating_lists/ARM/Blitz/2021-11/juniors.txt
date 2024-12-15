@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hakobyan, Aram	ARM 2001 M 2454.0112679 72.6672887 13306677
-2 Sargsyan, Shant	ARM 2002 M 2428.8074889 66.9881418 13306766

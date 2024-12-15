@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Peter Majur Manyang	SSD 1996 M 1970.6708698 62.4407067 32500840
-2 Panchol, James Madol	SSD 1995 M 1903.9431632 66.2009906 10806253

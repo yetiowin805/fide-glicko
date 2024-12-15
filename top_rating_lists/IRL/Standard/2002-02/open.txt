@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Baburin, Alexander	IRL 1967 M 2589.3977707 59.1778120 2500914
-2 Heidenfeld, Mark	IRL 1968 M 2331.3086104 74.0848879 2500990

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Zrikem, Nassim	MAR 2002 M 1870.3656197 64.7443164 9002693
-2 Drais Ali	MAR 2002 M 1629.4754948 67.1387959 9005404

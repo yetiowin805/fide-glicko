@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Shaker, Musab	BRN 1986 M 1635.9777008 62.7803329 11201789
-2 Al Mahmood, Salman	BRN 2004 M 1571.9065886 69.8938321 11201517

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kovalev, Vladislav	BLR 1994 M 2451.9130603 65.2530310 13504398
-2 Kazakovskiy, Valeriy	BLR 2000 M 1869.7841585 72.1728112 13507443

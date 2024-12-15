@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 De La Riva Aguado, Oscar	AND 1972 M 2411.4099557 70.7198749 6900224
-2 Simonet, Marc	AND 1977 M 2154.6283391 72.0978318 6900127
-3 Garcia Paolicchi, Raul	AND 1952 M 2061.9308451 67.9037922 6900020

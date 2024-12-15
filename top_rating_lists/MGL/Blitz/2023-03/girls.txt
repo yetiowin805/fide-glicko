@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Bayasgalan, Khishigbaatar	MGL 2007 1961.9360824 66.8413902 4904311
-2 Munkhzul, Davaakhuu	MGL 2006 1960.2267886 74.4073660 4902815
-3 Margadgua Erdenebayar	MGL 2005 1780.0514450 68.3628579 4904052

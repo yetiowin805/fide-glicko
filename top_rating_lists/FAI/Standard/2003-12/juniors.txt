@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Poulsen, Martin	FAI 1984 M 2260.3239380 47.9856547 7200315
-2 Simonsen, Hans Kristian	FAI 1983 M 2236.1056198 51.8273062 7200439

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Adu, Oladapo	NGR 1971 M 2167.5336393 74.1248819 8500258
-2 Okike, David	NGR 1960 M 2144.3623217 60.6435412 8500134

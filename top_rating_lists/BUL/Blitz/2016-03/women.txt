@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Stefanova, Antoaneta	BUL 1979 2464.1731371 73.6529223 2902257
-2 Bednikova, Stefi	BUL 1986 1986.3366666 74.7898514 2906570
-3 Grabcheva, Natalia	BUL 2002 1631.0224104 69.9314896 2917815

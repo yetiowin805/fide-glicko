@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Nguyen, Thien Ngan	VIE 2005 1850.4529599 71.5675950 12414816
-2 Luong, Hoang Tu Linh	VIE 2005 1688.0894296 74.5405803 12414697

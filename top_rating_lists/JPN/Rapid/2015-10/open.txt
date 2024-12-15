@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ito, Tomoki	JPN 2005 M 1560.7466840 74.9189295 64300293

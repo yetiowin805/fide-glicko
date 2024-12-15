@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Lujan, Carolina	ARG 1985 2271.6538760 60.7617526 109878
-2 Burijovich, Liliana	ARG 1965 2173.7517437 73.1428168 102652
-3 Malajovich, Sandra	ARG 1968 2016.7217141 73.4927958 102660

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Seraoui, Mohcen	ALG 1982 M 2029.4707351 74.6884413 7901003
-2 Latreche, Khadidja	ALG 1990 F 1841.1603664 74.8870008 7901780

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Vazquez Maccarini, Danitza	PUR 2000 1775.1326971 50.4867578 3101193
-2 Comas Colon, Rinelly	PUR 1995 1764.6568688 62.6020620 3101576
-3 Alvarez Orta, Jo Ann	PUR 1994 1637.4668319 73.1043751 3100979

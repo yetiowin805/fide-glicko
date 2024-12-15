@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Ibraheem, Delbak Ismael Ibraheem	IRQ 1988 1783.5648472 63.4447362 4803116
-2 Al-Rajab, Maha Layth Ismael	IRQ 1989 1662.5080085 65.5300974 4803132
-3 Jalaluldeen, Kareen Kamal J.	IRQ 1993 1635.2874392 68.9821620 4801776
-4 Mohammed Ameen, Jwan Jamal M.A.	IRQ 1972 1626.9850426 69.4663499 4803000

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 De Silva, L M S T	SRI 2006 M 1967.2113804 66.9247951 9953698
-2 Senevirathne, S D B K	SRI 2007 M 1831.6334186 73.0927182 9982124

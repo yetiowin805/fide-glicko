@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Amewounou, Komlan Kouessan	TOG 1983 M 1651.1878245 73.5876294 21200017
-2 Ephoevi-Ga, Adama Mawulikplimi	TOG 1986 M 1628.2376095 73.3209100 21200149
-3 Botsoe, Koffi	TOG 1974 M 1563.8854079 71.2653089 21200025
-4 Numatsi, Yawotsu Dzigba	TOG 1980 M 1512.5469050 74.1671581 21200254

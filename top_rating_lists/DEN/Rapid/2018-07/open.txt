@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Baliuniene, Margarita	DEN 1960 F 1754.5121625 64.5941267 12802760
-2 Meskenas, Paulius	DEN 2005 M 1708.1642757 70.4681637 12809969

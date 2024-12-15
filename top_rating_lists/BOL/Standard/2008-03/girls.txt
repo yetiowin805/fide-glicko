@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Cordero, Daniela	BOL 1992 1831.5752718 53.5828871 3301630
-2 Borda, Carla	BOL 1989 1731.6872589 71.8499846 3301087

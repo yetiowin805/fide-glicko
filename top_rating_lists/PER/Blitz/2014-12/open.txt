@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Cori T., Deysi	PER 1993 F 2220.5375429 74.5516314 3801934
-2 Caballero Quijano, Mitzy Mishell	PER 2001 F 1863.2076198 73.4997040 3807223
-3 Chavez Melendez, Raul Angel	PER 1967 M 1565.7963020 70.9348512 3811638

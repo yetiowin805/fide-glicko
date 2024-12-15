@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Motwani, Paul	SCO 1962 M 2505.0000000 52.3874105 2400022
-2 Rowson, Jonathan	SCO 1977 M 2505.0000000 52.3874105 2400561

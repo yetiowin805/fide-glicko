@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gumpo, Thabo	BOT 1990 M 1852.6315137 72.9942586 11300353

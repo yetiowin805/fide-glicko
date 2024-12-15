@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Silva, David	ANG 1998 M 2264.5830427 74.2324114 10101314
-2 Santos, Jeovani Amaro Dias	ANG 1988 M 2031.2966768 70.9166439 10100482

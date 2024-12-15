@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Liao, Chun-Che Tim	TPE 1991 M 1769.0753044 71.1039477 16300122

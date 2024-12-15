@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Zilleruelo Irizarry, Diego	PUR 1990 M 2025.1556859 69.1352252 3101460
-2 Almedina Ortiz, Edgardo J.	PUR 1988 M 1978.6350824 67.9398948 3100197
-3 Boggiano Pereira, Miguel A.	PUR 1999 M 1925.4849932 57.9966860 3102750
-4 Chevere Duperoy, Roberto	PUR 1968 M 1548.3579069 72.6477371 3108791

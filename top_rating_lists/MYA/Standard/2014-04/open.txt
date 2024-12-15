@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Wynn Zaw Htun	MYA 1982 M 2318.4140042 71.5473389 13002783
-2 Zinmar Min Than	MYA 1978 F 1591.5519777 68.2498448 13002880

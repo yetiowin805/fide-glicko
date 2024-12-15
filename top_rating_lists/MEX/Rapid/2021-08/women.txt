@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Roque Sola, Andrea	MEX 2001 1692.9841545 73.8861676 5119480
-2 Aguilar Sanchez, Citlali	MEX 2004 1605.0947567 67.0154979 5119502
-3 Del Razo Mendoza, Andrea Nikole	MEX 2003 1557.3352571 73.6181157 5137640
-4 Del Razo Mendoza, Nancy Ailine	MEX 2006 1262.6472510 72.2367994 5137632

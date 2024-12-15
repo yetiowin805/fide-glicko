@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Montalvo, Alejandro	PUR 0 M 2240.5729432 67.2090178 3100260
-2 Bermudez Adams, William	PUR 0 M 2213.8389224 73.0475087 3100251
-3 Santa Torres, Juan	PUR 1963 M 2212.3101566 65.7258879 3100120
-4 Lamastus-Candal, Jean P.	PUR 0 M 2194.6185417 74.7126041 3100448

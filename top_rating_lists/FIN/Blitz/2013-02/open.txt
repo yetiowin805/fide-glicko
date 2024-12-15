@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rantanen, Yrjo A.	FIN 1950 M 2272.6547757 73.2353484 500038
-2 Westerinen, Heikki M.J.	FIN 1944 M 2264.8367032 73.8030267 500020
-3 Luukkonen, Tommi	FIN 1977 M 2202.3402886 65.7783190 501808

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Cabezas Solano, David Alejandro	CRC 2004 M 1910.7478651 64.4900198 6507522
-2 Meza Vega, Jose Antonio	CRC 2004 M 1572.6044071 72.8439569 6513697

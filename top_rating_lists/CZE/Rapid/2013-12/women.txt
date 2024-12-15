@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Miturova, Magdalena	CZE 1993 2078.6380673 70.7978438 330221
-2 Kubikova, Hana	CZE 1962 2074.5774350 73.1837955 302597
-3 Novosadova, Kristyna	CZE 1990 2048.6018808 70.2852613 328065

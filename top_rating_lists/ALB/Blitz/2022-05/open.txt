@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Katana Vladimir	ALB 1961 M 1650.6637682 73.5689992 4703375
-2 Bajraktari, Besnik	ALB 1957 M 1496.3060432 70.2764889 4702042

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Extross, Eshaan	AUS 2009 M 1445.9621496 55.2881564 3239276
-2 Yang, Minchen	AUS 2010 M 1437.9686511 63.2585246 3239438

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Fernandes, Luis De Pina	CPV 1966 M 1656.4581442 74.2720148 23600179
-2 Moes Joaquim, Carlos	CPV 1953 M 1601.4875822 65.0383718 1928104
-3 Gomes Reis, Marcello	CPV 2002 M 1562.7591530 72.1155582 23600217

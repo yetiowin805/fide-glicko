@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Indjic, Aleksandar	SRB 1995 M 2306.2058814 68.9950833 911925
-2 Nestorovic, Lazar	SRB 1993 M 2297.9691615 70.4315501 937517

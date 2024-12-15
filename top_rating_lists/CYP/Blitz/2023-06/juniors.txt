@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Antoniou, Rafail	CYP 2008 M 1898.2705392 69.5143184 5904390
-2 Skouroupathis, Kyriakos	CYP 2015 M 1547.0752069 71.1724018 5908981

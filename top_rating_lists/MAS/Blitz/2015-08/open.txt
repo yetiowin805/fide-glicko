@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tan, Jun Ying	MAS 2003 M 1608.4954350 73.2973406 5710413
-2 Chua, Jia-Tien	MAS 2003 F 1525.6275288 70.0032638 5710006

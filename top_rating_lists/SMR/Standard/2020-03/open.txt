@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Volpinari, Danilo	SMR 1969 M 1812.2245375 73.5231446 11800054
-2 Righi, Ezio	SMR 1956 M 1757.1343925 67.8142070 11800038

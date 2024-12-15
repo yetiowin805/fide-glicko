@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Apap, Hugo	MNC 1999 M 1721.8522849 74.8738451 20697465

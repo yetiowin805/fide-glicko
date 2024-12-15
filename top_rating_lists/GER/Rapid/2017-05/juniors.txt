@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Svane, Rasmus	GER 1997 M 2458.5167249 67.3051504 4657101

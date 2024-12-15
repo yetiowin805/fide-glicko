@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Borda Rodas, Anapaola S.	ARG 2004 1750.2639969 63.7149296 152781
-2 Scarsi, Anna Laura	ARG 2006 1535.4268755 64.6775652 159328

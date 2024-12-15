@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Juhasz, Barbara	HUN 1995 2109.5544175 61.8626610 743585
-2 Reisinger, Rita	HUN 1992 1465.5729904 65.2112264 789917

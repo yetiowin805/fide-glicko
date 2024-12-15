@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Waligora, Franciszek	LUX 2005 M 1715.2830061 73.8648193 4005120
-2 Bourg, Nicolas	LUX 2008 M 1676.8615719 64.3898250 4006160

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Dgebuadze, Alexandre	BEL 1971 M 2509.9383005 74.5224914 203882
-2 Geenen, Marc	BEL 1961 M 2222.5230977 71.7563568 200085

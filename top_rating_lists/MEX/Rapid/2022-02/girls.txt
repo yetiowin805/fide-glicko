@@ -1,7 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Hernandez Ortega, Carolina	MEX 2005 1693.1327520 67.7435276 5132126
-2 Valdes Alvarez, Lilia Cristina	MEX 2010 1598.2089818 74.4705334 5169976
-3 Del Razo Mendoza, Andrea Nikole	MEX 2003 1583.9810535 64.6806636 5137640
-4 Aguilar Sanchez, Citlalli Genoveva	MEX 2004 1562.2040983 61.8260094 5119502
-5 De Dios Suarez, Mayra Valentina	MEX 2006 1545.3556884 74.0685412 5135567
-6 Del Razo Mendoza, Nancy Ailine	MEX 2006 1331.0144322 68.7432979 5137632

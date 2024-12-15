@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Matthew Bailey	ANT 1998 M 1534.8476288 73.7344443 23800011

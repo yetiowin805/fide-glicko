@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Jose Polanco, Kenia	MNC 1985 1808.3543592 73.4527817 6401074
-2 Berezovsky, Fiorina	MNC 2007 1460.7023707 71.4138947 5400651

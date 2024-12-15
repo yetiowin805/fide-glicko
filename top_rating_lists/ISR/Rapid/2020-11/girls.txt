@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Qasem, Huda	ISR 2005 1568.6421539 74.2352926 2816806
-2 Kochavi, Dana	ISR 2007 1396.4852422 74.2395272 2837137

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Botto, Julien	MNC 1993 M 1931.1629561 65.5845894 5400015
-2 Malferrari, Sofia	MNC 2000 F 1400.9807014 71.0582582 20666284

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Izzat, Kanan	AZE 1996 M 2215.3976697 74.5376765 13405209

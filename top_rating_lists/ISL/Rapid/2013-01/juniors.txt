@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gretarsson, Hjorvar Steinn	ISL 1993 M 2422.9255664 74.1676485 2302241
-2 Johannsdottir, Johanna Bjorg	ISL 1993 F 1839.7469784 74.5655832 2303108

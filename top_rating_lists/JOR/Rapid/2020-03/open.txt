@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Boshra, Alshaeby	JOR 1995 F 1896.7899169 74.4793448 8102937
-2 Al Namas, Kanan	JOR 1900 M 1736.7449874 70.8135589 8100098

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tanaka, Yuuki	JPN 1977 M 2267.7562726 74.1872308 7000332

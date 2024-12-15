@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Johannsdottir, Johanna Bjorg	ISL 1993 F 1898.6342197 74.7980127 2303108
-2 Ragnarsson, Dagur	ISL 1997 M 1872.4245183 72.4960591 2304058
-3 Johannesson, Oliver	ISL 1998 M 1765.6684469 73.9577077 2305623

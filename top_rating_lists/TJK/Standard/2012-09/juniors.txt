@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ilhomzoda, Ikrom	TJK 1992 M 2131.9271853 71.8646465 14700328
-2 Nasriddinzoda, Marvorii	TJK 1993 F 1913.7032906 65.9805823 14700395

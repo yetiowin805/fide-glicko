@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Diaz, Wilsaida	DOM 1991 1555.8063747 70.2196898 6403557
-2 Santos, Carol	DOM 1993 1521.8076871 74.1770246 6402348

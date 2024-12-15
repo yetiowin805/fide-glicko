@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Barrientos, Sergio	COL 1986 M 2411.2112036 40.1392964 4401824
-2 Castano, Duvan Martin	COL 1985 M 2264.4855541 63.8921660 4401603
-3 Garcia, Eduardo	COL 1987 M 2247.0632167 55.9472323 4401867

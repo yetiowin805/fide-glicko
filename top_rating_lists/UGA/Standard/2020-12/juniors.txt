@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ssenabulya Sharif	UGA 2003 M 1616.5865449 74.4578176 10005501
-2 Nansubuga , Gloria	UGA 2001 F 1585.4954273 74.4875671 10000887

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Dimitrijevic, Aleksandra	SCG 1986 F 2188.4343022 74.6548216 929239
-2 Stojanovic, Andjelija	SCG 1987 F 2119.5230915 68.1954586 928682

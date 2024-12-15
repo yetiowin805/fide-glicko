@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kirby, Peter J.	GCI 1963 M 1868.8902736 67.8145766 409014
-2 Brookfield, Toby	GCI 1971 M 1810.5602064 63.7712508 10700234

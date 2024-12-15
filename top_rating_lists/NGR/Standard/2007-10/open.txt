@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Onyekwere, Chikwere	NGR 0 M 2260.0490679 73.6474891 8500428
-2 Adu, Oladapo	NGR 0 M 2236.8818100 53.9523159 8500258
-3 Adedeji, Adekola	NGR 0 M 1942.5477137 67.7110896 8500371

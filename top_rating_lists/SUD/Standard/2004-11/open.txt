@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nadir, Samir	SUD 0 M 2116.0567206 63.0679279 12200085
-2 Yousif, Ammar Mohd.	SUD 0 M 1987.5773002 69.8916895 12200069

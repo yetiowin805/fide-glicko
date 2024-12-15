@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Maroroa, Sue	NZL 1991 1874.0461922 60.0442942 4301498
-2 Chen, Eachen	NZL 1991 1813.2592624 72.6279703 4301919

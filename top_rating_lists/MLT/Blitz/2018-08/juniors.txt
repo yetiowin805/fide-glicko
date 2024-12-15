@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gatt, Matthias	MLT 2003 M 1683.1719645 72.4566467 5601452
-2 Bilunov, Ignat	MLT 2004 M 1473.6206620 72.8966072 5602238

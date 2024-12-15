@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Abatzidis, Stelios	CYP 0 M 1973.3645197 73.2551492 4205707

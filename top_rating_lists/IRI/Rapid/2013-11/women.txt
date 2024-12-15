@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Khademalsharieh, Sarasadat	IRI 1997 2149.1315638 65.6035518 12512214
-2 Derakhshani, Dorsa	IRI 1998 1857.1547103 74.4602049 12500330
-3 Ghaemmaghami, Pegah	IRI 1998 1601.9608096 73.0484395 12527092

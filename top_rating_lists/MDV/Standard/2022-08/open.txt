@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Muhammed, Shuaau	MDV 1994 M 1949.9646615 63.0698849 16700406
-2 Farooq, Noor	MDV 1995 M 1585.9164644 73.3859554 16701445

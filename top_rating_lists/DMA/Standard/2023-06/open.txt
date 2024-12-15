@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Morvan, Carlton	DMA 1987 M 1499.2516879 74.6634669 93800061

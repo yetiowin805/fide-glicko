@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nunbhakdi, Tawin Matthew	THA 1998 M 1864.4436990 73.0046250 6203310
-2 Prasitsoonthorn, Teerachoti	THA 2003 M 1755.0305693 61.1322360 6204422
-3 Tantipura, Noppakorn	THA 2003 M 1625.8562753 70.6957383 6204791
-4 Asavasaetakul, Chawit	THA 2003 M 1567.3583948 69.9322791 6204856
-5 Chongstitwattana, Cholapat	THA 1981 M 1471.0149142 73.9341508 6205178

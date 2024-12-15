@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Yonal, Timur	TUR 2010 M 1884.0256697 52.4969178 44115725
-2 Anil, Ayhan	TUR 1984 M 1641.0925821 72.5855300 6309348

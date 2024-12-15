@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Predojevic, Borki	BIH 1987 M 2504.6811460 48.9009757 930849
-2 Dimovski, Aleksandra	BIH 1985 F 2101.1257591 73.5578399 931616

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Moradiabadi, Elshan	FID 1985 M 2533.6198585 72.4946387 12501255
-2 Rivera, Alberto	FID 1957 M 2117.1172941 58.4205500 3500390

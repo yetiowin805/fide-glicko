@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lyn, Christopher	JAM 2002 M 1661.4741300 70.9155964 7402775
-2 Yankana, Alliyah	JAM 2001 F 1439.7815509 72.4883783 7402406

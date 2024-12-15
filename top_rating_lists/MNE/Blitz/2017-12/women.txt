@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Milovic, Aleksandra	MNE 1986 1864.5276180 64.4150722 933988
-2 Blagojevic, Lidija	MNE 1965 1814.4226541 61.5401407 916773
-3 Koljevic, Nikolina	MNE 2001 1592.1266407 68.2716559 16503945

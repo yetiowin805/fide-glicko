@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Barrere, Claudio	URU 1989 M 2107.2786732 70.3638861 3000907
-2 Arcos Facio, Mateo	URU 1992 M 2021.6715376 70.6083961 3001199

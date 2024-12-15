@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Abdusattorov, Nodirbek	UZB 2004 M 2523.8522912 71.3399328 14204118
-2 Vokhidov, Shamsiddin	UZB 2002 M 2425.3947330 69.8747923 14204223
-3 Sindarov, Javokhir	UZB 2005 M 2358.6097995 73.5087938 14205483

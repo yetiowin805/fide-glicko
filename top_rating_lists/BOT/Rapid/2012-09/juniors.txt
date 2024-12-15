@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Francis, Onkemetse	BOT 1992 F 1606.8255302 74.2325834 11301287

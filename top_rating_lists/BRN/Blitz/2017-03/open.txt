@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Rouquier, Burhan	BRN 1985 M 1691.3543011 74.7714320 11200413
-2 Shaker, Musab	BRN 1986 M 1604.9002368 65.8391116 11201789

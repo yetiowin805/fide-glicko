@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Meskenas, Paulius	DEN 2005 M 1877.7499254 70.4287182 12809969
-2 Jaques, Hannibal Valeur	DEN 2005 M 1647.3333993 67.6386713 1454188

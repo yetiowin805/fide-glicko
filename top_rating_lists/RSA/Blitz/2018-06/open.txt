@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Basson, Heinrich	RSA 1990 M 1909.3622031 72.8804535 14301440
-2 Mpya, Tshediso M	RSA 1987 M 1825.2707703 68.6435541 14308452

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Berend, Elvira	LUX 1965 2280.6332053 67.5110412 4000510
-2 Biryukov, Alice	LUX 1998 1721.3194971 66.6122673 4002440

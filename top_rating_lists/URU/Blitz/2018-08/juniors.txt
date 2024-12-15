@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kimelman, Gabriel	URU 1999 M 1969.8141337 74.1265878 3003035
-2 Dominguez, Facundo	URU 1998 M 1922.9349789 73.1371894 3005178

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Shaker, Musab	BRN 1986 M 1655.7807189 74.8402922 11201789
-2 Pranesh, J.r.	BRN 2007 M 1334.0464806 74.3955450 11202718

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Mendez Tovar, Yessica Yissel	MEX 1995 1729.0427777 71.6556900 5113580
-2 Balandran Duarte, Tania	MEX 1991 1634.5999617 64.5064486 5104793
-3 Gonzalez, Herrera Karen Regina	MEX 2002 1176.2049947 67.4044295 5150310

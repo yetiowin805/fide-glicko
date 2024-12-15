@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Duwal, Nikesh	NEP 1994 M 1586.0956874 71.3139643 12300535

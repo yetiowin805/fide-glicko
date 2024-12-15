@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sorm, Daniel	FID 1960 M 2311.8173320 69.1394003 5400139

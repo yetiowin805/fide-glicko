@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Musheghyan, Murad	ARM 1999 M 1723.3963632 74.6386138 13305751
-2 Hovsepyan, Gagik K.	ARM 2003 M 1579.3402761 67.4923919 13312936

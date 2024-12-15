@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tobing, Daniel Hermawan Lumban	INA 2003 M 1771.1794059 71.1103805 7105487
-2 Elisabeth, Christine	INA 2002 F 1699.4382054 67.9694269 7106165

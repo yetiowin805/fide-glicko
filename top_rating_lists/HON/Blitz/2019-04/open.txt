@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Solorzano, Andres	HON 1985 M 1809.5816325 73.8172677 8400440
-2 Fajardo Ramos, Fredy	HON 1975 M 1699.9308789 70.1990663 8401667
-3 Grandes, Rolando	HON 1989 M 1688.1380245 72.0765792 8402108

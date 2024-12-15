@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Costantini, Roberto	ITA 1983 M 2338.2349806 49.8507879 807621
-2 Bertagnolli, Alexander	ITA 1983 M 2286.0404291 73.7434856 809551
-3 Berni, Giorgio	ITA 1985 M 2233.2292551 64.0690639 811270

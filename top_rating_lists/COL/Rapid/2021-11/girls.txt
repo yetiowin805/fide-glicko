@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Hernandez Bermudez, Manuela	COL 2004 1724.9490386 63.2277815 4483103
-2 Ceballos Castellanos, Isabela	COL 2004 1600.3855069 67.5713156 4452410
-3 Sanchez Riobo, Emily Dainne	COL 2005 1494.1296213 74.1500567 4441001

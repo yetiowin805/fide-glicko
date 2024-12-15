@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Sukandar, Irine Kharisma	INA 1992 2136.1327645 67.4849762 7101937
-2 Karenza, Dita	INA 2000 1779.3321586 71.7820052 7101473
-3 Elisabeth, Christine	INA 2002 1770.3836293 72.9535637 7106165

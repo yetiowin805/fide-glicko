@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Malakhatko, Vadim	BEL 1977 M 2489.4865149 70.3654740 14104202
-2 Godart, Francois	BEL 1994 M 2223.4892500 74.1732382 208078

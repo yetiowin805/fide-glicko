@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Shpati, Ted	ALB 1999 M 1987.4844632 67.8302786 4701399
-2 Pasku, Sotir	ALB 1955 M 1874.6515084 72.4041866 4700880

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Safarli, Aykhan	FID 1989 M 1887.6224815 69.2337581 6364802

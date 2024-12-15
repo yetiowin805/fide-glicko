@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Saduakassova, Dinara	KAZ 1996 2135.9269375 64.2409232 13700090
-2 Karabayeva, Zhanna	KAZ 1994 1974.8047627 62.5721816 13704664
-3 Ainutdinova, Yekaterina	KAZ 1994 1965.2724506 62.7210513 13705563

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Solomon, Kenny	RSA 1979 M 2331.6717208 64.7132884 14300192
-2 Goldberg, Shmuel	RSA 1998 M 1791.1529130 67.1014076 14317737

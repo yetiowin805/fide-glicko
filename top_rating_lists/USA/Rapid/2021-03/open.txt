@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Gareyev, Timur	USA 1988 M 2506.3011271 71.9708370 14200937
-2 Mize, Dylan	USA 1991 M 1615.4215097 73.6747479 30932599

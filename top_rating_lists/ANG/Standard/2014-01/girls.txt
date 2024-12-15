@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Caxito, Esperanca	ANG 1999 1582.6092281 63.2422029 10100903
-2 Domingos, Maria M	ANG 1996 1552.4485463 67.0687442 10100768

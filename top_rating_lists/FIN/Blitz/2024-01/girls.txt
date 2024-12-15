@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Vashchenko, Diana	FIN 2006 1753.7377067 65.9509611 34134603
-2 Lappi, Utu	FIN 2006 1375.9663026 72.5977166 513032

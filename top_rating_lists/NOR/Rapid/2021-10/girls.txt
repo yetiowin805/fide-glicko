@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Helliesen, Lykke-Merlot	NOR 2008 1599.9865350 70.8587235 1530950
-2 Young, Anna Ovidia	NOR 2008 1294.7856349 69.1485004 1539949

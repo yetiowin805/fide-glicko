@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Heron, Andrew	LIE 2007 M 1545.2702712 55.6978060 12000213

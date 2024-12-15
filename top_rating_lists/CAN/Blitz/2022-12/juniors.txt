@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Atanasov, Anthony	CAN 2008 M 1977.2934301 73.5405836 2623897
-2 Soberov, Emil	CAN 2010 M 1734.8154822 59.1556193 34344217

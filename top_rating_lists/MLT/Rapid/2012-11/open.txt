@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Psaila, Clarence	MLT 1984 M 1905.7802004 71.4458907 5600359
-2 Pettersson, Alexander	MLT 1982 M 1866.6033636 73.7177475 5600928

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Pychova, Nela	CZE 1999 2071.1288159 73.7078892 351369
-2 Pribylova, Sofie	CZE 2002 1814.0460179 52.5849708 371726

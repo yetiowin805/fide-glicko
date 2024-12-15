@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Teoh, Yi Hearn Lawrence	MAS 1989 M 1754.5826212 69.0559698 5706882
-2 Wong, Damian Anthony	MAS 2001 M 1474.1723929 74.7032477 5782627

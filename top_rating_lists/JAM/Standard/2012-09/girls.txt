@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Gray, Krishna	JAM 1992 1561.5287275 68.3852681 7400659
-2 Barrett, Ariel	JAM 1992 1501.9856150 67.0700949 7400411

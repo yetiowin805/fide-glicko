@@ -1,7 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Murillo Gonzalez, Carlos Esteban	CRC 1998 M 1921.6167597 74.9148622 6504892
-2 Cabezas Solano, David Alejandro	CRC 2004 M 1910.7478651 66.3666555 6507522
-3 Avendano Porras, Rodrigo	CRC 1999 M 1867.4686523 61.1869717 6503357
-4 Bejarano Sandoval, Allan	CRC 1988 M 1681.1131508 72.0773588 6501478
-5 Meza Vega, Jose Antonio	CRC 2004 M 1572.6044071 74.5038237 6513697
-6 Baum Gutierrez, Ismael	CRC 1991 M 1504.7442163 68.2617974 6505392

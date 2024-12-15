@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Eid, Fadi	LIB 1970 M 2355.5434458 74.9037500 5300118
-2 Khairallah, Faisal	LIB 1975 M 2275.6090473 51.8915946 4628250

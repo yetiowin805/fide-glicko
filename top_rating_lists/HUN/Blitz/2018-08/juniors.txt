@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Leszko, Bence	HUN 2003 M 1913.9475649 72.8349798 769070
-2 Papp, Bence	HUN 2003 M 1817.7864864 73.6771288 788384

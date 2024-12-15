@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nazarova, Anastasia	FIN 2001 F 1990.0894248 58.8126398 34101737
-2 Jarnstrom, Henrik	FIN 1952 M 1715.1263674 63.8339015 510572
-3 Velagapudi, Vihan	FIN 2011 M 1537.5492959 74.3311296 515604

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Aizenberg, Benny	ISR 2006 M 1986.5394382 73.8014581 2821125
-2 Etingof, Yury	ISR 2007 M 1811.9441483 65.1140953 44100493

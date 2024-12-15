@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Somoff, Abdo	LIB 1961 M 1946.3320965 71.8248501 5300754
-2 Asmar, Elie	LIB 1900 M 1915.7747824 74.7744011 5301432

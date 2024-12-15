@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Terbe, Julianna	HUN 1997 F 2083.6585301 68.3934766 708780
-2 Gal, Hanna Krisztina	HUN 1998 F 1969.2270422 69.5394002 711861

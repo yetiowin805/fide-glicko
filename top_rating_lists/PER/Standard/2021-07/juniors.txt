@@ -1,9 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ccerhuayo Escobedo, Mels Leopold	PER 2003 M 1817.1752856 74.0518169 3825302
-2 Benavides Conza, Diego Angelo	PER 2006 M 1688.7725082 74.4032672 3836673
-3 Reyes Zavaleta, Fabian Ricardo	PER 2006 M 1670.7361980 74.5074268 3844153
-4 Reyes Zavaleta, Diego Alexander	PER 2005 M 1557.1764105 73.6810799 3844145
-5 Reyes Zavaleta, Cristhian Yamil	PER 2010 M 1485.7562762 73.3411540 3844340
-6 Bendezu Yupanqui, Albert Martin	PER 2008 M 1427.4378950 74.0963120 3850749
-7 Reyes Zavaleta, Sergio Gabriel	PER 2011 M 1256.1060330 73.8420759 3845494
-8 Rojas Salas, Rihanna Irina	PER 2012 F 1245.7451799 74.1548186 3839850

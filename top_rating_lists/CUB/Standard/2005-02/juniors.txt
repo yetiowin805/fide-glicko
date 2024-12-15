@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ordaz Valdes, Lisandra	CUB 1988 F 2246.3910904 70.7093487 3506940
-2 Guerra Mendez, Jose Angel	CUB 1988 M 2232.4228528 58.9587778 3508129
-3 Ginesta Caballero, Olga Lucia	CUB 1986 F 1964.6702550 55.8397686 3508234
-4 Cardenas Ballester, Maidelin	CUB 1987 F 1887.7655607 53.9606458 3508242

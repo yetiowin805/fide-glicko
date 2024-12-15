@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Stanec, Nikolaus	AUT 1968 M 2513.0000000 52.3874105 1601776

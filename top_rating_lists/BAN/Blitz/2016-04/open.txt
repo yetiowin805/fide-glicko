@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mohammad Fahad, Rahman	BAN 2003 M 2041.8988343 71.9891241 10207791
-2 Chowdhury, Sohel	BAN 1972 M 1959.1635958 74.8008861 10201114
-3 Anisuzzaman, Jewel	BAN 1974 M 1950.8881470 74.8113749 10204695

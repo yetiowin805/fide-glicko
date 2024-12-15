@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Maltezeanu, Stefan	LUX 1999 M 1972.6160282 68.3181613 4004655
-2 Mergen, Mett	LUX 1947 M 1582.4407877 72.8324360 4000331

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mwale, Joseph	MAW 1993 M 1946.9348920 72.8397141 16400135
-2 Howahowa Gift	MAW 1981 M 1557.8685131 73.6741983 20506902

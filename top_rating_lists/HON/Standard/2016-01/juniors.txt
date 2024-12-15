@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Miller Matute, Marlon Eduardo	HON 2001 M 1694.5821944 68.5131091 8400555
-2 Fernandez Alacha, Mirna Graciela	HON 1997 F 1494.8746076 74.1792519 8400482

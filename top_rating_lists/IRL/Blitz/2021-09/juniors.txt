@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nemeth, Zalan	IRL 2002 M 2010.8577615 74.2194743 2512041
-2 Kanyamarala, Tarun	IRL 2004 M 2007.5428798 74.6126244 45004714

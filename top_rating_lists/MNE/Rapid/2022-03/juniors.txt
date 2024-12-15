@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Miletic, Vuk	MNE 2003 M 2087.9093177 66.8668998 16503406
-2 Andjelic, Djordje	MNE 2005 M 1899.0861587 72.2516139 16502094

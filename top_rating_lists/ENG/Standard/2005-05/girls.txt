@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Gilbert, Jessie	ENG 1987 2125.0740582 63.4024713 409090

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Moradiabadi, Elshan	IRI 1985 M 2529.1775795 63.5252758 12501255
-2 Ghaem Maghami, Ehsan	IRI 1982 M 2492.5115108 55.9449755 12500739
-3 Khademalsharieh, Sarasadat	IRI 1997 F 2056.2627731 74.1749736 12512214

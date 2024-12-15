@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Prakash, Prashil	FIJ 1984 M 1697.9405439 73.7428080 11400692

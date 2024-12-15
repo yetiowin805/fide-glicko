@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mossong, Hubert	LUX 1950 M 2069.6370239 74.8791984 4000030
-2 Kremer, Nadine	LUX 1994 F 1880.4903981 71.6220558 4002970

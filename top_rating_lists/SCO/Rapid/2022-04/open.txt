@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 O`Neill, Tom C	SCO 1967 M 1340.7937815 73.8476297 2401401

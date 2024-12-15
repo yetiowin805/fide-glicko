@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Zaw Ye Htut	MYA 2007 M 1848.0472845 44.8949412 13013955

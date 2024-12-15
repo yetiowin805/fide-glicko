@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Constantinou, Pavlos	CYP 1982 M 2032.1105910 73.0097770 5900328
-2 Abatzidis, Stelios	CYP 1961 M 1949.1999832 74.0396203 4205707
-3 Georgiou, Andreas	CYP 1973 M 1647.8709170 71.6740387 5900360

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mathurin, Nathaniel	LCA 2004 M 1827.1671247 74.3100047 23000139
-2 James, Justin	LCA 2007 M 1445.1103842 68.4147238 23000422

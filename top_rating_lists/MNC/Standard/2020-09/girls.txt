@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Berezovsky, Fiorina	MNC 2007 1549.5418513 64.6086494 5400651
-2 Thoreux-Josso, Ambre	MNC 2009 1185.6537229 71.9354852 5400813
-3 Dinoni Attali, Myriam	MNC 2010 1184.5023967 67.9243845 5400996

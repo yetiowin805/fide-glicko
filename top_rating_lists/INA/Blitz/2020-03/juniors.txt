@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tobing, Daniel Hermawan Lumban	INA 2003 M 2063.4305690 74.8473153 7105487
-2 Fisabilillah, Ummi	INA 2000 F 1899.8758050 73.9878882 7104804
-3 Elisabeth, Christine	INA 2002 F 1761.5897063 68.0913016 7106165

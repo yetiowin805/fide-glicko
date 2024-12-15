@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Roque Sola, Maria Fernanda	MEX 2000 F 1618.7420694 67.4228358 5115833
-2 Velazquez Quirarte, Santiago	MEX 2006 M 1450.0207591 67.4880252 5124859

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Amin, Bassem	EGY 1988 M 2535.1219105 52.8763834 10601457
-2 Ameir, Moheb	EGY 1993 M 1895.3405776 72.7437541 10600620

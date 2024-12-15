@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Hoareau, Benjamin	SEY  M 2038.2130638 74.2660599 9800069

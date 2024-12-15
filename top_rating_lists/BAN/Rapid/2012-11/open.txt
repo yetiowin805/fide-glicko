@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Murshed, Niaz	BAN 1966 M 2335.5884262 74.3979895 10200010
-2 Abdullah, Al-Saif	BAN 1997 M 1982.0142914 74.1693006 10203257

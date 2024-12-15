@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al-Housa, Khalil	PLE 1948 M 1456.5252167 59.8110481 11500379
-2 Mohammed A. E. Orouq	PLE 1977 M 1445.6925006 66.6609656 11505494

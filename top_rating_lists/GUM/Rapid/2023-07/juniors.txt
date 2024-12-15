@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ramas, Carmina Jasmine	GUM 2004 F 1541.8183466 74.4393976 31001548
-2 Combs, Noah	GUM 2007 M 1525.3685075 74.0734198 31000711

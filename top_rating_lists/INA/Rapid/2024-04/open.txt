@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Susilodinata, Andrean	INA 1990 M 2182.9279142 73.5132372 7101651
-2 Halomoan, Marco Matheus	INA 2000 M 1702.6087304 65.0554159 7126417
-3 Agung, Rinaldi Santoso	INA 1987 M 1599.7284295 68.3829181 7105185

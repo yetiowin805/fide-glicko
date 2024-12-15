@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ababneh, Ghayth	JOR 1982 M 1934.1825617 63.6540872 8101043
-2 Ghaith Almomani	JOR 1991 M 1695.2650725 73.3645200 8110930

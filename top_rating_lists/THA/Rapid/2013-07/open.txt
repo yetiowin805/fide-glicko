@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Wiwatanadate, Poompong	THA 1990 M 1877.6093549 74.5590949 6201083
-2 Nakvanich, Sahapol	THA 1969 M 1716.3333303 74.3286315 6200478
-3 Srivatanakul, Pricha	THA 1937 M 1642.8976188 64.9654201 6200508

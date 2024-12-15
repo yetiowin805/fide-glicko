@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Abdullah, Al-Saif	BAN 1997 M 1993.9005009 69.6325416 10203257
-2 Zoar Haque, Prodhan	BAN 1995 M 1792.9407539 66.7406764 10207473

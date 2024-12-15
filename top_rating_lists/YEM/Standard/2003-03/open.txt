@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Al-Zendani, Zendan	YEM 1982 M 2318.7723001 66.8538188 9400249
-2 Faraj, Yahya	YEM 0 M 2203.9396949 73.4201026 9400184

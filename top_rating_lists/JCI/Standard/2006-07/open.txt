@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Simmons, Matthew	JCI 0 M 1992.0289356 73.7757235 15600114

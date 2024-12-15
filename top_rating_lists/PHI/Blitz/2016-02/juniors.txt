@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Mendoza, Shania Mae	PHI 1998 F 1899.6030930 74.6845250 5211158
-2 Calacday, James	PHI 2007 M 1332.0008410 59.5511859 5217075

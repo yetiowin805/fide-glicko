@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Methu, Joseph Muragu	KEN 1987 M 1946.8430752 68.9599064 10804714
-2 Ndirangu, Joyce Nyaruai	KEN 1995 F 1704.7569985 73.6812124 10802886

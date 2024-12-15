@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Perdomo, Leandro	ARG 1985 M 2383.8896707 72.3321480 109746
-2 Herman, Diego	ARG 1972 M 2019.7595519 72.7110472 104833

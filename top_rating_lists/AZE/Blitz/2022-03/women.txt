@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Mammadova, Gulnar	AZE 1991 2144.1642319 70.3973836 13403508
-2 Mamedjarova, Turkan	AZE 1989 2119.0047050 73.3372271 13402005
-3 Beydullayeva, Govhar	AZE 2003 1977.4937630 74.2478750 13413015

@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Fierro Baquero, Martha L.	ECU 1977 2305.8191739 52.0178338 3600270
-2 Vasquez Ramirez, Rocio	ECU 1983 2193.8321360 71.8761209 3600750
-3 Heredia Serrano, Carla	ECU 1991 1903.1477636 59.1351168 3603687

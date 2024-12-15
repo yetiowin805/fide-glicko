@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Asabri, Hussien	LBA 0 M 2244.3405378 72.9585824 9200177
-2 Chahrani, Ibrahim	LBA 0 M 2206.1166187 52.7815216 9200215
-3 Shabash, Abdullatief Mohamed	LBA 1955 M 2064.5191066 74.9124975 9200150

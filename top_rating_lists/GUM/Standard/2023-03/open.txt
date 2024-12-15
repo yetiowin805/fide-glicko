@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ollet, Myra	GUM 1979 F 1414.9226905 72.9133256 31000517

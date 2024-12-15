@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Radziewicz, Iweta	POL 1981 2462.5369475 64.2480038 1108166
-2 Matras, Agnieszka	POL 1982 2227.8937758 68.7095272 1114581

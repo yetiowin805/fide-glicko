@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Thomas, Jac	WLS 1991 M 2002.7162006 74.5756172 1801422

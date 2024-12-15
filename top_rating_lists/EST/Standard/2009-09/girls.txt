@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Vahtra, Tuuli	EST 1989 1961.5169975 67.9503899 4502060
-2 Narva, Triin	EST 1994 1875.2728537 63.6840062 4502680

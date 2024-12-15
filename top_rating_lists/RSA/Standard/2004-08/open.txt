@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Michelakis, George	RSA 1972 M 2462.0587964 74.3087769 14300087
-2 Aronov, Yuri	RSA 1977 M 2205.3868525 74.6361455 14300176

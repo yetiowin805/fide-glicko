@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Jorquera Cabello, Valentina	CHI 1995 1806.4960051 58.7565771 3405494
-2 Cortes Arias, Mariela	CHI 1992 1686.1727036 62.1928461 3405478
-3 Luna Benalcazar, Gianella	CHI 1995 1648.5495655 73.7347894 3412237
-4 Jensen Recupero, Daniela	CHI 1995 1631.2432093 62.4433353 3412229

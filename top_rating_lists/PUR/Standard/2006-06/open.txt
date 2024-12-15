@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Santa Torres, Juan	PUR 1963 M 2207.6582047 63.6800949 3100120
-2 Santa, Luis A.	PUR 1968 M 2168.4632330 67.7505267 3100189
-3 Lamastus-Candal, Jean P.	PUR 0 M 2164.5452748 52.0983837 3100448

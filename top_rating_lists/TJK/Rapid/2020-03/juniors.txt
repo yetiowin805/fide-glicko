@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ashurov, Ibrokhim	TJK 2009 M 1673.1172208 60.3805684 14701715
-2 Fayzieva, Darina	TJK 2006 F 1283.6782045 53.0812845 14701960

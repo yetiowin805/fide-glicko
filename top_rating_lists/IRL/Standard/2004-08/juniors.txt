@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Jessel, Stephen	IRL 1986 M 2215.7531215 52.6189705 628859
-2 Dignam, Matthew	IRL 1988 M 2138.5925638 66.3417881 2501422

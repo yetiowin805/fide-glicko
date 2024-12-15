@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Georgiadis, Nico	SUI 1996 M 2387.4455991 70.8275404 1300113
-2 Meylan, Andre	SUI 1995 M 1857.4933804 71.9236595 1301225

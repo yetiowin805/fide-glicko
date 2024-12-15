@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nikolovski, Nikola	MKD 1998 M 2192.9745828 69.2163665 15002314
-2 Stojanov, Ptolomej Petar	MKD 1999 M 1650.4762513 74.3468306 15004252
-3 Vlahovic, Velimir	MKD 2004 M 1501.3101395 70.2244149 15003582

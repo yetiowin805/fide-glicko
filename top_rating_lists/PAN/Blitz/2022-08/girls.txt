@@ -1,5 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Lobo Jimenez, Mariana Esther	PAN 2008 1583.1659859 71.9903448 6605516
-2 Vasquez Jaen, Lourdes Lorena	PAN 2003 1553.8162393 71.3535540 6605559
-3 Urriola Torres, Valentina	PAN 2010 1469.9766732 74.1461756 6614787
-4 Mendez Machado, Fatima	PAN 2011 1362.5900931 61.1623551 6606970

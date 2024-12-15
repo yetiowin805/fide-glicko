@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Caballero Quijano, Mitzy Mishell	PER 2001 1855.4259251 67.1363799 3807223
-2 Hilario, Aleyla	PER 2002 1793.0312440 61.5916609 3819400
-3 Meza Rubio, Caroline	PER 2000 1717.3583086 68.6717319 3819647
-4 Pomayay Camacllanqui, Sasha Marl	PER 2003 1602.5798008 72.2748301 3819760
-5 Mostacero Velarde, Isabella	PER 2001 1580.2835639 60.2535975 3816370

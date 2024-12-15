@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Nazarova, Anastasia	FIN 2001 F 1856.9383729 64.9130228 34101737
-2 Andreev, Atos	FIN 2002 M 1576.2329039 72.0344749 512982

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Kruger, Neeke	RSA 2007 M 1558.3382275 73.5138308 14351633

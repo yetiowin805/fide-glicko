@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Tuorila, Kai	THA 1965 M 2166.3026995 74.7169507 6200214

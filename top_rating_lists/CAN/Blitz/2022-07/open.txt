@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Soberov, Emil	CAN 2010 M 1730.7538878 49.7733441 34344217
-2 Gribanov, Anton	CAN 1989 M 1504.5898602 53.8414677 2639220

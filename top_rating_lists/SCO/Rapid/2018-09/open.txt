@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Arakhamia-Grant, Ketevan	SCO 1968 F 2197.6342271 70.9968611 13600168
-2 Kennedy, Craig	SCO 1966 M 1809.6153327 66.6684410 408905

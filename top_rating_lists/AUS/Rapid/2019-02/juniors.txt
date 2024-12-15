@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Jia, Frank	AUS 2002 M 1623.6796936 74.6033808 3227782
-2 Anup Kumar, Vihaan	AUS 2010 M 1289.0777454 71.8342397 3234517

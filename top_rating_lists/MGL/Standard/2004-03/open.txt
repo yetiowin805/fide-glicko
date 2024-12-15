@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Sharavdorj, Dashzeveg	MGL 1974 M 2432.7331728 42.7915508 4900340
-2 Mongontuul, Bathuyag	MGL 1987 F 2317.0998374 47.9674341 4900758
-3 Anhchimeg, Bayanmonh	MGL 1983 F 2215.7013126 73.0050454 4900600

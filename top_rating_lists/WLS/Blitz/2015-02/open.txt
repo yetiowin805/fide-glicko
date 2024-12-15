@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Taylor, Robert Graham	WLS 1944 M 1752.5853727 74.9159604 1800841

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Santos, Carol	DOM 1993 1545.1310524 74.2734579 6402348
-2 Diaz, Wilsaida	DOM 1991 1544.4976302 65.7328349 6403557

@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Lam, Colin	HKG 2009 M 1443.6143624 74.5154946 6004474

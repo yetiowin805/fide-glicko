@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Vuilleumier, Alexandre	SUI 1982 M 2248.0026323 60.5702220 1305662
-2 Patuzzo, Fabrizio	SUI 1977 M 2159.9288663 69.8111962 1304240
-3 Paleologu, Vladimir	SUI 1971 M 2130.5528685 71.8009972 1305573

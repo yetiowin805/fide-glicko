@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ruotanen, Helge	FIN 1951 M 1814.1040647 60.3256800 501883
-2 Jarnstrom, Henrik	FIN 1952 M 1666.0050754 58.5897200 510572

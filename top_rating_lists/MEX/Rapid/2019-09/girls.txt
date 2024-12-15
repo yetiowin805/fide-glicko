@@ -1,6 +1,0 @@
-Rank Name Federation BirthYear Rating RD
-1 Mejia Granados, Paulina Isabel	MEX 2002 1712.3389998 73.5029517 5125081
-2 Aviles Campos, Andrea Regi	MEX 2005 1684.4976561 61.4335474 5123542
-3 Laurrabaquio Ramirez, Itzel Aten	MEX 2001 1652.9182878 69.6183043 5128870
-4 Martinez Mares, Genesis Alejandra	MEX 2005 1545.1592940 66.3785475 5144264
-5 Aguilar Sanchez, Citlali	MEX 2004 1518.1379150 73.3243869 5119502

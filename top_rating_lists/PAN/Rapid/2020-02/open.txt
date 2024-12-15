@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Carrillo, Jose Antonio	PAN 1975 M 1752.4759585 73.4892238 6600476

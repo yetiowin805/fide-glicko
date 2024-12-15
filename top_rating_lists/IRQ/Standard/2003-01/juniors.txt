@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Araz, Basim	IRQ 1984 M 2229.0088548 68.8237302 4801040
-2 Laith, Kasib	IRQ 1986 M 1957.5045085 71.5314650 4801059

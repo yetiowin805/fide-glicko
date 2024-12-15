@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Thomas, James	WLS 1994 M 1751.5609909 74.4430157 1802020
-2 Owens, Megan R	WLS 1995 F 1681.5659287 63.6306964 1801996

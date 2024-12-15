@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Dardha, Daniel	BEL 2005 M 2215.2171647 65.7593872 240990
-2 Kayikci, Kaan	BEL 1998 M 1653.6958882 70.4249608 239917

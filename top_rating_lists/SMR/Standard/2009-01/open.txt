@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Righi, Ezio	SMR 1956 M 2108.3551647 73.5212253 11800038
-2 Grassi, Enrico	SMR 1960 M 2025.5581882 73.2623822 11800046

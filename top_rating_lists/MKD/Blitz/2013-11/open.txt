@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Menkinoski, Riste	MKD 1978 M 2267.1109555 67.9744918 15001261
-2 Lazov, Toni	MKD 2000 M 1821.6512543 71.6319136 15000770

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Ortiz Sanchez, Luis	WLS 1979 M 1866.2146362 62.0426653 24581160
-2 Sharhorodsky, Yaroslav	WLS 2010 M 1564.0855385 74.9762308 34163913

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Shresta, Bilam Lal	NEP  M 2114.4360363 74.4872202 12300047
-2 Niraj, Niraula	NEP  M 2044.5020859 70.6469626 12300128

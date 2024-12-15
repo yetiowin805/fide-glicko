@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Camhi, David	TPE 1972 M 1637.0754249 71.8911831 16300254
-2 Phurailatpam, Numit	TPE 2009 M 1330.5115545 74.2246008 16303407

@@ -1,3 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 AbuAzizah, Raji	PLE 2006 M 1866.4122685 53.9511707 11503327
-2 Seder, Mohammed	PLE 2009 M 1860.6691744 66.1612563 11505567

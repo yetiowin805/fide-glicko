@@ -1,4 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Cabarcos Baulina, Manuel	AND 1997 M 1650.6918687 67.5190134 6901166
-2 Martinez Gamiz, Marc	AND 2005 M 1600.6627708 67.6486109 6900976
-3 Ribera Veganzones, Serni	AND 2007 M 1598.8732505 73.5349860 6900860

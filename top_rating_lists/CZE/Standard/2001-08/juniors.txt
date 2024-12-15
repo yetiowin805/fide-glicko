@@ -1,2 +1,0 @@
-Rank Name Federation BirthYear Sex Rating RD
-1 Jirka, Jiri	CZE 1983 M 2376.5527499 71.0880504 311731
