@@ -5,7 +5,9 @@ import argparse
 # Sixth command in pipeline
 
 
-def run_glicko(folder, start_year, start_month, end_year, end_month, data_dir):
+def run_glicko(
+    folder, start_year, start_month, end_year, end_month, data_dir, upload_to_s3=False
+):
     for year in range(start_year, end_year + 1):
         # For the start year, use the provided start month. For other years, start from January.
         start_m = start_month if year == start_year else 1
@@ -55,9 +57,11 @@ def run_glicko(folder, start_year, start_month, end_year, end_month, data_dir):
             os.system(cmd)
 
 
-def main(start_year, start_month, end_year, end_month, data_dir):
+def main(start_year, start_month, end_year, end_month, data_dir, upload_to_s3=False):
     # Run for Standard
-    run_glicko("Standard", start_year, start_month, end_year, end_month, data_dir)
+    run_glicko(
+        "Standard", start_year, start_month, end_year, end_month, data_dir, upload_to_s3
+    )
 
     if start_year <= 2011 and end_year >= 2012:
         # Copy the 2011-12 rating list to Rapid and Blitz
@@ -66,12 +70,28 @@ def main(start_year, start_month, end_year, end_month, data_dir):
         shutil.copy(src_file, f"{data_dir}/rating_lists/Blitz/2011-12.txt")
 
         # Run for Rapid and Blitz starting from 2011-12
-        run_glicko("Rapid", 2011, 12, end_year, end_month, data_dir)
-        run_glicko("Blitz", 2011, 12, end_year, end_month, data_dir)
+        run_glicko("Rapid", 2011, 12, end_year, end_month, data_dir, upload_to_s3)
+        run_glicko("Blitz", 2011, 12, end_year, end_month, data_dir, upload_to_s3)
     elif start_year >= 2012:
         # Run for Rapid and Blitz
-        run_glicko("Rapid", start_year, start_month, end_year, end_month, data_dir)
-        run_glicko("Blitz", start_year, start_month, end_year, end_month, data_dir)
+        run_glicko(
+            "Rapid",
+            start_year,
+            start_month,
+            end_year,
+            end_month,
+            data_dir,
+            upload_to_s3,
+        )
+        run_glicko(
+            "Blitz",
+            start_year,
+            start_month,
+            end_year,
+            end_month,
+            data_dir,
+            upload_to_s3,
+        )
 
 
 if __name__ == "__main__":
@@ -97,6 +117,13 @@ if __name__ == "__main__":
         help="Base directory for all data files",
         default=".",
     )
+    parser.add_argument(
+        "--upload_to_s3",
+        type=str,
+        help="Upload results to S3 bucket, y/n",
+        required=False,
+        default="n",
+    )
 
     # Parse arguments
     args = parser.parse_args()
@@ -104,4 +131,11 @@ if __name__ == "__main__":
     # Parse start and end month/year
     start_year, start_month = map(int, args.start_month.split("-"))
     end_year, end_month = map(int, args.end_month.split("-"))
-    main(start_year, start_month, end_year, end_month, args.data_dir)
+    main(
+        start_year,
+        start_month,
+        end_year,
+        end_month,
+        args.data_dir,
+        args.upload_to_s3 == "y",
+    )

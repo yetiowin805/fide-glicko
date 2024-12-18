@@ -142,7 +142,9 @@ if __name__ == "__main__":
     tasks = []
 
     for country in countries:
-        tasks.append((country, month, year, os.path.join(args.data_dir, "raw_tournament_data")))
+        tasks.append(
+            (country, month, year, os.path.join(args.data_dir, "raw_tournament_data"))
+        )
 
     # Number of processes to use
     num_processes = 6  # Adjust this as necessary

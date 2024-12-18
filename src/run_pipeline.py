@@ -90,6 +90,14 @@ if __name__ == "__main__":
                 f"python3 src/process_fide_rating_list.py --month {month} --data_dir {args.data_dir}"
             )
 
+            if args.upload_to_s3 == "y":
+                print(
+                    f"python3 upload_to_s3.py --data_dir {args.data_dir} --path player_info/processed/{month}"
+                )
+                os.system(
+                    f"python3 src/aws/upload_to_s3.py --data_dir {args.data_dir} --path player_info/processed/{month}"
+                )
+
         if args.scrape_fide == "y":
             print(f"python3 fide_scraper.py --month {month} --data_dir {args.data_dir}")
             os.system(
@@ -148,10 +156,21 @@ if __name__ == "__main__":
         print(f"python3 remove_duplicates.py --root_dir {clean_numerical_path}")
         os.system(f"python3 src/remove_duplicates.py --root_dir {clean_numerical_path}")
 
+    if args.upload_to_s3 == "y":
+        # Upload each month's data to S3
+        for month in months:
+            # Upload raw tournament data
+            print(
+                f"python3 upload_to_s3.py --data_dir {args.data_dir} --path clean_numerical/{month}"
+            )
+            os.system(
+                f"python3 src/aws/upload_to_s3.py --data_dir {args.data_dir} --path clean_numerical/{month}"
+            )
+
     # Run glicko with adjusted dates
     print(
-        f"python3 run_glicko.py --start_month {adj_start_month_str} --end_month {adj_end_month_str} --data_dir {args.data_dir}"
+        f"python3 src/run_glicko.py --start_month {adj_start_month_str} --end_month {adj_end_month_str} --data_dir {args.data_dir} --upload_to_s3 {args.upload_to_s3}"
     )
     os.system(
-        f"python3 src/run_glicko.py --start_month {adj_start_month_str} --end_month {adj_end_month_str} --data_dir {args.data_dir}"
+        f"python3 src/run_glicko.py --start_month {adj_start_month_str} --end_month {adj_end_month_str} --data_dir {args.data_dir} --upload_to_s3 {args.upload_to_s3}"
     )

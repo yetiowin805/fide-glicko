@@ -3,6 +3,8 @@ from tqdm import tqdm
 import math
 import os
 from countries import countries
+import argparse
+import logging
 
 # Constants moved to top and grouped logically
 RATING_CONSTANTS = {
@@ -197,10 +199,11 @@ def extract_player_info(input_filename):
 class RatingListWriter:
     """Handles writing rating lists in various formats"""
 
-    def __init__(self, players, players_info, year):
+    def __init__(self, players, players_info, year, upload_to_s3=False):
         self.players = players
         self.players_info = players_info
         self.year = year
+        self.upload_to_s3 = upload_to_s3
         self.sorted_players = sorted(
             players.values(), key=lambda p: p.rating, reverse=True
         )
@@ -250,7 +253,7 @@ class RatingListWriter:
                 f.write(line)
 
     def write_global_lists(self, output_dir):
-        """Writes global rating lists for different categories"""
+        """Writes global rating lists for different categories and optionally uploads to S3"""
         categories = {
             "open": {"max_count": 100, "condition": lambda p, d: True},
             "women": {"max_count": 100, "condition": lambda p, d: d["sex"] == "F"},
@@ -264,6 +267,13 @@ class RatingListWriter:
                 and self.year - d["b_year"] <= 20,
             },
         }
+
+        # Initialize DataManager if upload_to_s3 is enabled
+        data_manager = None
+        if hasattr(self, "upload_to_s3") and self.upload_to_s3:
+            from aws.data_manager import DataManager
+
+            data_manager = DataManager(use_s3=True)
 
         for category, settings in categories.items():
             qualified_players = []
@@ -287,6 +297,17 @@ class RatingListWriter:
                 filepath = os.path.join(output_dir, f"{category}.txt")
                 header = "Rank Name Federation BirthYear Sex Rating RD"
                 self._write_category_file(filepath, header, qualified_players)
+
+                # Upload to S3 if enabled
+                if data_manager:
+                    try:
+                        success = data_manager.save_file(filepath)
+                        if success:
+                            logging.info(f"Successfully uploaded {filepath} to S3")
+                        else:
+                            logging.error(f"Failed to upload {filepath} to S3")
+                    except Exception as e:
+                        logging.error(f"Error uploading {filepath} to S3: {str(e)}")
 
 
 def write_federation_lists(dir, filename, players, players_info, year):
@@ -393,6 +414,7 @@ def main(
     top_rating_list_filename,
     player_info_filename,
     year,
+    upload_to_s3=False,
 ):
 
     players = {}
@@ -464,14 +486,16 @@ def main(
     apply_new_ratings(players)
 
     # Create a RatingListWriter instance
-    writer = RatingListWriter(players, players_info, year)
+    writer = RatingListWriter(players, players_info, year, upload_to_s3)
 
     # Write raw ratings to output file
     writer.write_raw_ratings(output_filename)
     print(f"Results written to {output_filename}")
 
     # Write global rating lists
-    writer.write_global_lists(os.path.join(top_rating_list_dir, top_rating_list_filename))
+    writer.write_global_lists(
+        os.path.join(top_rating_list_dir, top_rating_list_filename)
+    )
 
     # Write federation-specific lists
     write_federation_lists(
@@ -481,26 +505,29 @@ def main(
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 8:
-        print(
-            f"Usage: {sys.argv[0]} <ratings_file> <games_file> <output_file> <top_rating_list_dir> <top_rating_list_filename> <player_info_filename> <year>"
-        )
-        sys.exit(1)
+    parser = argparse.ArgumentParser(description="Calculate Glicko-2 ratings")
+    parser.add_argument("ratings_file", help="Input ratings file")
+    parser.add_argument("games_file", help="Input games file")
+    parser.add_argument("output_file", help="Output ratings file")
+    parser.add_argument("top_rating_list_dir", help="Directory for top rating lists")
+    parser.add_argument(
+        "top_rating_list_filename", help="Filename for top rating lists"
+    )
+    parser.add_argument("player_info_filename", help="Player info filename")
+    parser.add_argument("year", type=int, help="Year for processing")
+    parser.add_argument(
+        "--upload-to-s3", action="store_true", help="Upload results to S3 bucket"
+    )
 
-    ratings_filename = sys.argv[1]
-    games_filename = sys.argv[2]
-    output_filename = sys.argv[3]
-    top_rating_list_dir = sys.argv[4]
-    top_rating_list_filename = sys.argv[5]
-    player_info_filename = sys.argv[6]
-    year = int(sys.argv[7])
+    args = parser.parse_args()
 
     main(
-        ratings_filename,
-        games_filename,
-        output_filename,
-        top_rating_list_dir,
-        top_rating_list_filename,
-        player_info_filename,
-        year,
+        args.ratings_file,
+        args.games_file,
+        args.output_file,
+        args.top_rating_list_dir,
+        args.top_rating_list_filename,
+        args.player_info_filename,
+        args.year,
+        args.upload_to_s3,
     )
