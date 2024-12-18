@@ -57,6 +57,13 @@ if __name__ == "__main__":
         help="Base directory for all data files",
         default=".",
     )
+    parser.add_argument(
+        "--upload_to_s3",
+        type=str,
+        help="Upload results to S3 bucket, y/n",
+        required=False,
+        default="n",
+    )
 
     # Parse arguments
     args = parser.parse_args()
