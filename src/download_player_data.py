@@ -50,9 +50,7 @@ if __name__ == "__main__":
 
     expected_txt_file = os.path.join(SAVE_PATH, f"{year}-{month:02}.txt")
     if os.path.exists(expected_txt_file):
-        print(
-            f"File {expected_txt_file} already exists. Skipping download for {month}/{year}."
-        )
+        print(f"File {expected_txt_file} already exists.")
     else:
         if year > 2012 or (year == 2012 and month >= 9):
             zip_header = f"standard_{month_str}{year_str}"
@@ -69,9 +67,12 @@ if __name__ == "__main__":
         try:
             with zipfile.ZipFile(zip_path, "r") as zip_ref:
                 zip_ref.extractall(SAVE_PATH)
+                os.rename(
+                    os.path.join(SAVE_PATH, f"{zip_header}frl.txt"), expected_txt_file
+                )
         except Exception as e:
             print(f"Failed to extract {zip_path}: {e}")
 
         os.remove(zip_path)
 
-    print("Files downloaded, extracted, and renamed successfully!")
+        print("Files downloaded, extracted, and renamed successfully!")
