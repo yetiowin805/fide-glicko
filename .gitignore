@@ -4,6 +4,7 @@
 !.gitignore
 !README.md
 !tester
+!rust
 
 *.txt
 !data/top_rating_lists/Standard/**
