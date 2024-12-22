@@ -1,5 +1,6 @@
 import os
-import requests
+import aiohttp
+import aiofiles
 from bs4 import BeautifulSoup
 import argparse
 from countries import countries
@@ -7,6 +8,8 @@ import re
 import logging
 from typing import Set
 from datetime import date
+import asyncio
+from pathlib import Path
 
 # Add constants at the top
 BASE_URL = "https://ratings.fide.com/tournament_list.phtml"
@@ -28,65 +31,77 @@ def is_valid_rating_period(year: int, month: int) -> bool:
     return True
 
 
-def scrape_fide_data(
-    country: str, month: int, year: int, raw_tournament_data_path: str
+async def scrape_fide_data(
+    session: aiohttp.ClientSession,
+    country: str, 
+    month: int, 
+    year: int, 
+    raw_tournament_data_path: str,
+    semaphore: asyncio.Semaphore
 ) -> None:
     """
     Scrape FIDE tournament data for a specific country and rating period.
-
-    Args:
-        country: Country code
-        month: Month (1-12)
-        year: Year (>=2001)
-        raw_tournament_data_path: Base path for storing tournament data
     """
     if not is_valid_rating_period(year, month):
         return
 
-    # Pad the month with a leading zero if it's less than 10
     month_str = f"{month:02d}"
-    # Create the formatted string
     formatted_str = f"country={country}&rating_period={year}-{month_str}-01"
-
-    dir_path = os.path.join(raw_tournament_data_path, country, f"{year}-{month_str}")
+    dir_path = Path(raw_tournament_data_path) / country / f"{year}-{month_str}"
 
     # Check if the directory path exists
-    if os.path.exists(os.path.join(dir_path, "tournaments.txt")):
+    if (dir_path / "tournaments.txt").exists():
         return
 
-    # Generate the URL for the specific month and year
     url = f"{BASE_URL}?moder=ev_code&{formatted_str}"
-
     logging.info(f"Scraping data from: {url}")
 
     try:
-        response = requests.get(url, timeout=30)
-        response.raise_for_status()
-    except requests.RequestException as e:
+        async with semaphore:
+            async with session.get(url, timeout=30) as response:
+                response.raise_for_status()
+                text = await response.text()
+    except (aiohttp.ClientError, asyncio.TimeoutError) as e:
         logging.error(f"Failed to fetch data for {country} {year}-{month:02d}: {e}")
         return
 
-    # Parse the HTML content
-    soup = BeautifulSoup(response.text, "html.parser")
-
-    # Use a set to store unique hrefs
-    unique_codes = set()
-
-    # Find all <a> elements
-    a_elements = soup.find_all("a", href=True)
-
-    # Filter and add unique hrefs to the set
-    for a in a_elements:
-        if "tournament_report.phtml" in a["href"]:
-            unique_codes.add(a["href"].split("=")[-1])
+    soup = BeautifulSoup(text, "html.parser")
+    unique_codes = {
+        a["href"].split("=")[-1]
+        for a in soup.find_all("a", href=True)
+        if "tournament_report.phtml" in a["href"]
+    }
 
     if unique_codes:
-        # Create the directory path
-        os.makedirs(dir_path, exist_ok=True)
+        dir_path.mkdir(parents=True, exist_ok=True)
+        async with aiofiles.open(dir_path / "tournaments.txt", "w") as file:
+            await file.write("\n".join(unique_codes) + "\n")
 
-        with open(os.path.join(dir_path, "tournaments.txt"), "w") as file:
-            for element in unique_codes:
-                file.write(str(element) + "\n")
+
+async def main(month: str, data_dir: str):
+    # Parse month/year
+    year, month_num = map(int, month.split("-"))
+
+    # Configure async session
+    max_concurrent_requests = 10
+    semaphore = asyncio.Semaphore(max_concurrent_requests)
+    
+    connector = aiohttp.TCPConnector(limit=100)
+    timeout = aiohttp.ClientTimeout(total=60)
+
+    async with aiohttp.ClientSession(connector=connector, timeout=timeout) as session:
+        tasks = [
+            scrape_fide_data(
+                session,
+                country,
+                month_num,
+                year,
+                os.path.join(data_dir, "raw_tournament_data"),
+                semaphore
+            )
+            for country in countries
+        ]
+        await asyncio.gather(*tasks)
 
 
 if __name__ == "__main__":
@@ -113,10 +128,5 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    # Parse month/year
-    year, month = map(int, args.month.split("-"))
-
-    for country in countries:
-        scrape_fide_data(
-            country, month, year, os.path.join(args.data_dir, "raw_tournament_data")
-        )
+    # Run the main asynchronous function
+    asyncio.run(main(args.month, args.data_dir))
