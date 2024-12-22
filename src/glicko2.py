@@ -245,11 +245,19 @@ class RatingListWriter:
         with open(filepath, "w") as f:
             f.write(header + "\n")
             for rank, player, details in players_with_rank:
-                line = (
-                    f"{rank} {details['name']}\t{details['federation']} "
-                    f"{details['b_year']} {details.get('sex', '')} "
-                    f"{player.rating:.7f} {player.rd:.7f} {player.id}\n"
-                )
+                # For women's and girls' categories, exclude sex from the output
+                if any(cat in filepath for cat in ['women.txt', 'girls.txt']):
+                    line = (
+                        f"{rank} {details['name']}\t{details['federation']} "
+                        f"{details['b_year']} {player.rating:.7f} "
+                        f"{player.rd:.7f} {player.id}\n"
+                    )
+                else:
+                    line = (
+                        f"{rank} {details['name']}\t{details['federation']} "
+                        f"{details['b_year']} {details.get('sex', '')} "
+                        f"{player.rating:.7f} {player.rd:.7f} {player.id}\n"
+                    )
                 f.write(line)
 
     def write_global_lists(self, output_dir):
@@ -295,7 +303,11 @@ class RatingListWriter:
 
             if qualified_players:
                 filepath = os.path.join(output_dir, f"{category}.txt")
-                header = "Rank Name Federation BirthYear Sex Rating RD"
+                # Different headers for women/girls vs other categories
+                if category in ['women', 'girls']:
+                    header = "Rank Name Federation BirthYear Rating RD"
+                else:
+                    header = "Rank Name Federation BirthYear Sex Rating RD"
                 self._write_category_file(filepath, header, qualified_players)
 
                 # Upload to S3 if enabled
