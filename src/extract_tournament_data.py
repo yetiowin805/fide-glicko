@@ -79,8 +79,11 @@ def parse_opponent_row(td_tags: List[Tag], path: Path) -> Optional[Opponent]:
     return Opponent(
         name=tdisa.text, id=tdisa.get("href", "").strip("#"), result=float(result)
     )
-    
-def get_crosstable_path(country: str, month: int, year: int, code: str, data_dir: str) -> Path:
+
+
+def get_crosstable_path(
+    country: str, month: int, year: int, code: str, data_dir: str
+) -> Path:
     """
     Generate the file path for a crosstable based on country, month, year, and code.
 
@@ -99,7 +102,13 @@ def get_crosstable_path(country: str, month: int, year: int, code: str, data_dir
     formatted_date = f"{year}-{month_str}"
 
     # Define the base directory for crosstables using data_dir
-    base_dir = Path(data_dir) / "raw_tournament_data" / country / formatted_date / "crosstables"
+    base_dir = (
+        Path(data_dir)
+        / "raw_tournament_data"
+        / country
+        / formatted_date
+        / "crosstables"
+    )
 
     # Ensure the directory exists
     base_dir.mkdir(parents=True, exist_ok=True)
@@ -161,11 +170,13 @@ def missing_crosstable_generate_data(
     return [False] + players_info
 
 
-def parse_tournament_info(country: str, month: int, year: int, code: str, data_dir: str):
+def parse_tournament_info(
+    country: str, month: int, year: int, code: str, data_dir: str
+):
     """Parse tournament information from info file."""
     month_str = f"{month:02d}"
     formatted_str = f"{year}-{month_str}"
-    
+
     path = os.path.join(
         data_dir, "raw_tournament_data", country, formatted_str, "info", f"{code}.txt"
     )
@@ -199,7 +210,7 @@ def get_tournament_data(country: str, month: int, year: int, data_dir: str):
     # Pad the month with a leading zero if it's less than 10
     month_str = f"{month:02d}"
     formatted_str = f"{year}-{month_str}"
-    
+
     # Create the path for tournaments
     tournaments_path = os.path.join(
         data_dir, "raw_tournament_data", country, formatted_str, "tournaments.txt"
@@ -287,18 +298,29 @@ def parse_html_file(path: Path) -> BeautifulSoup:
 
 def is_missing_crosstable(soup: BeautifulSoup) -> bool:
     """Check if the crosstable is missing based on the soup content."""
-    return bool(soup.find(
-        string=lambda string: "Tournament report was updated or replaced, please view Tournament Details for more information."
-        in string
-    ))
+    return bool(
+        soup.find(
+            string=lambda string: "Tournament report was updated or replaced, please view Tournament Details for more information."
+            in string
+        )
+    )
 
 
-def parse_missing_crosstable(country: str, month: int, year: int, code: str, data_dir: str) -> List[MissingCrosstablePlayer]:
+def parse_missing_crosstable(
+    country: str, month: int, year: int, code: str, data_dir: str
+) -> List[MissingCrosstablePlayer]:
     """Parse tournament data when crosstable is missing."""
     # Get path to report file
     month_str = f"{month:02d}"
     formatted_str = f"{year}-{month_str}"
-    path = Path(data_dir) / "raw_tournament_data" / country / formatted_str / "report" / f"{code}.txt"
+    path = (
+        Path(data_dir)
+        / "raw_tournament_data"
+        / country
+        / formatted_str
+        / "report"
+        / f"{code}.txt"
+    )
 
     with open(path, encoding="utf-8") as fp:
         try:
@@ -314,12 +336,14 @@ def parse_missing_crosstable(country: str, month: int, year: int, code: str, dat
         players = []
         for tr in tr_tags:
             td_elements = tr.find_all("td")
-            players.append(MissingCrosstablePlayer(
-                fide_id=td_elements[0].string.strip(),
-                RC=td_elements[4].string.strip(),
-                score=td_elements[6].string.strip(),
-                N=td_elements[7].string.strip()
-            ))
+            players.append(
+                MissingCrosstablePlayer(
+                    fide_id=td_elements[0].string.strip(),
+                    RC=td_elements[4].string.strip(),
+                    score=td_elements[6].string.strip(),
+                    N=td_elements[7].string.strip(),
+                )
+            )
 
         return players
 
@@ -336,10 +360,10 @@ def parse_result(td_tag: Tag, path: Path) -> Optional[str]:
         else:
             logging.error(f"Unexpected result at path: {path}, td_tags: {td_tag}")
             raise Exception(result)
-    
+
     if result in ["0", "0.5", "1.0", "Forfeit"]:
         return result
-    
+
     logging.error(f"Unexpected result at path: {path}, result: {result}")
     raise Exception(result)
 
@@ -356,16 +380,16 @@ def parse_regular_crosstable(soup: BeautifulSoup, path: Path) -> List[Player]:
             continue
 
         bgcolor = td_tags[0].get("bgcolor")
-        
+
         # New player row
         if bgcolor == BGCOLOR_PLAYER:
             if current_player is not None:
                 players.append(current_player)
-            
+
             player = parse_player_row(td_tags)
             if player:
                 current_player = player
-                
+
         # Opponent row
         elif bgcolor == BGCOLOR_OPPONENT and current_player is not None:
             opponent = parse_opponent_row(td_tags, path)

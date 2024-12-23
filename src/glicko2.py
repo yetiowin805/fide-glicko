@@ -246,7 +246,7 @@ class RatingListWriter:
             f.write(header + "\n")
             for rank, player, details in players_with_rank:
                 # For women's and girls' categories, exclude sex from the output
-                if any(cat in filepath for cat in ['women.txt', 'girls.txt']):
+                if any(cat in filepath for cat in ["women.txt", "girls.txt"]):
                     line = (
                         f"{rank} {details['name']}\t{details['federation']} "
                         f"{details['b_year']} {player.rating:.7f} "
@@ -304,7 +304,7 @@ class RatingListWriter:
             if qualified_players:
                 filepath = os.path.join(output_dir, f"{category}.txt")
                 # Different headers for women/girls vs other categories
-                if category in ['women', 'girls']:
+                if category in ["women", "girls"]:
                     header = "Rank Name Federation BirthYear Rating RD"
                 else:
                     header = "Rank Name Federation BirthYear Sex Rating RD"

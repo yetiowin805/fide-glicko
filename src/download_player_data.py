@@ -3,8 +3,6 @@ import requests
 import zipfile
 import argparse
 
-# This is the first command in the pipeline
-
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Download FIDE player information.")
     parser.add_argument(

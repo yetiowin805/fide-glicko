@@ -33,11 +33,11 @@ def is_valid_rating_period(year: int, month: int) -> bool:
 
 async def scrape_fide_data(
     session: aiohttp.ClientSession,
-    country: str, 
-    month: int, 
-    year: int, 
+    country: str,
+    month: int,
+    year: int,
     raw_tournament_data_path: str,
-    semaphore: asyncio.Semaphore
+    semaphore: asyncio.Semaphore,
 ) -> None:
     """
     Scrape FIDE tournament data for a specific country and rating period.
@@ -85,7 +85,7 @@ async def main(month: str, data_dir: str):
     # Configure async session
     max_concurrent_requests = 10
     semaphore = asyncio.Semaphore(max_concurrent_requests)
-    
+
     connector = aiohttp.TCPConnector(limit=100)
     timeout = aiohttp.ClientTimeout(total=60)
 
@@ -97,7 +97,7 @@ async def main(month: str, data_dir: str):
                 month_num,
                 year,
                 os.path.join(data_dir, "raw_tournament_data"),
-                semaphore
+                semaphore,
             )
             for country in countries
         ]
