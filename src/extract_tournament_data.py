@@ -1,26 +1,28 @@
 import os
-import requests
-from bs4 import BeautifulSoup
-import re
-from multiprocessing import Pool
 import logging
 import argparse
-from countries import countries
-from dataclasses import dataclass
-from typing import List, Dict, Optional, Union
 from pathlib import Path
-from bs4 import BeautifulSoup, Tag
+from typing import List, Dict, Optional, Union
+from dataclasses import dataclass, asdict
 from datetime import datetime
+from bs4 import BeautifulSoup, Tag
+from multiprocessing import Pool
 
-# Fourth command in pipeline
-
-# Set up logging
-logging.basicConfig(filename="error_log.txt", level=logging.ERROR)
+from countries import countries
 
 # Constants
-BGCOLOR_PLAYER = "#CBD8F9"
-BGCOLOR_OPPONENT = "#FFFFFF"
+BGCOLOR_PLAYER = "#CBD8F9".lower()
+BGCOLOR_OPPONENT = "#FFFFFF".lower()
 VALID_RESULTS = {"0", "0.5", "1.0", "Forfeit"}
+
+# Set up logging
+logging.basicConfig(
+    filename="error_log.txt",
+    level=logging.ERROR,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+)
+logger = logging.getLogger()
+logger.setLevel(logging.INFO)
 
 
 @dataclass
@@ -46,6 +48,53 @@ class MissingCrosstablePlayer:
     N: str
 
 
+def get_crosstable_path(
+    country: str, month: int, year: int, code: str, data_dir: str
+) -> Path:
+    """Generate the file path for a crosstable."""
+    month_str = f"{month:02d}"
+    formatted_date = f"{year}-{month_str}"
+
+    base_dir = (
+        Path(data_dir)
+        / "raw_tournament_data"
+        / country
+        / formatted_date
+        / "crosstables"
+    )
+    base_dir.mkdir(parents=True, exist_ok=True)
+
+    return base_dir / f"{code}.txt"
+
+
+def parse_html_file(path: Path) -> BeautifulSoup:
+    """Parse an HTML file into a BeautifulSoup object."""
+    try:
+        with open(path, encoding="utf-8") as fp:
+            content = fp.read()
+            logger.info(f"HTML Content Snippet from {path}: {content[:1000]}")
+            return BeautifulSoup(content, "lxml")
+    except Exception as e:
+        logger.error(f"Error parsing HTML file at {path}: {e}")
+        raise
+
+
+def parse_result(td_tag: Tag, path: Path) -> Optional[str]:
+    """Parse the result from a table cell."""
+    try:
+        result_tag = td_tag.find("font")
+        result = result_tag.text.strip() if result_tag else td_tag.text.strip()
+
+        if result in VALID_RESULTS:
+            return result
+
+        raise ValueError(f"Invalid result: {result}")
+
+    except Exception as e:
+        logger.error(f"Error parsing result at {path}: {e}")
+        raise
+
+
 def parse_player_row(td_tags: List[Tag]) -> Optional[Player]:
     """Parse a row containing player information."""
     if len(td_tags) < 2:
@@ -56,19 +105,18 @@ def parse_player_row(td_tags: List[Tag]) -> Optional[Player]:
         return None
 
     return Player(
-        fide_id=td_tags[0].text,
-        name=tdisa.text,
-        number=tdisa.get("name", ""),
+        fide_id=td_tags[0].text.strip(),
+        name=tdisa.text.strip(),
+        number=tdisa.get("name", "").strip(),
         opponents=[],
     )
 
 
 def parse_opponent_row(td_tags: List[Tag], path: Path) -> Optional[Opponent]:
     """Parse a row containing opponent information."""
-    if len(td_tags) < 2:
-        return None
 
     tdisa = td_tags[1].find("a")
+
     if not tdisa or "NOT Rated Game" in td_tags[0].get_text():
         return None
 
@@ -77,48 +125,50 @@ def parse_opponent_row(td_tags: List[Tag], path: Path) -> Optional[Opponent]:
         return None
 
     return Opponent(
-        name=tdisa.text, id=tdisa.get("href", "").strip("#"), result=float(result)
+        name=tdisa.text.strip(),
+        id=tdisa.get("href", "").strip("#"),
+        result=float(result),
     )
 
 
-def get_crosstable_path(
-    country: str, month: int, year: int, code: str, data_dir: str
-) -> Path:
-    """
-    Generate the file path for a crosstable based on country, month, year, and code.
+def parse_regular_crosstable(
+    soup: BeautifulSoup, path: Path, code: str
+) -> List[Player]:
+    """Parse a regular tournament crosstable."""
+    players_dict: Dict[str, Player] = {}
+    current_player = None
 
-    Args:
-        country (str): The country code or name.
-        month (int): The month number (1-12).
-        year (int): The year in YYYY format.
-        code (str): The tournament code.
-        data_dir (str): Base directory for all data files.
+    for tr in soup.find_all("tr", recursive=True):
+        td_tags = tr.find_all("td")
+        if not td_tags or len(td_tags) != 8:
+            continue
 
-    Returns:
-        Path: The path to the crosstable file.
-    """
-    # Pad the month with a leading zero if necessary
-    month_str = f"{month:02d}"
-    formatted_date = f"{year}-{month_str}"
+        bgcolor = td_tags[1].get("bgcolor", "").lower() if len(td_tags) > 1 else None
+        if not bgcolor:
+            continue
+        if bgcolor == BGCOLOR_PLAYER:
+            fide_id = td_tags[0].text.strip()
+            if fide_id in players_dict:
+                logger.warning(f"Duplicate player {fide_id} in tournament {code}")
+                current_player = None
+                continue
 
-    # Define the base directory for crosstables using data_dir
-    base_dir = (
-        Path(data_dir)
-        / "raw_tournament_data"
-        / country
-        / formatted_date
-        / "crosstables"
-    )
+            player = parse_player_row(td_tags)
+            if player:
+                players_dict[fide_id] = player
+                current_player = player
+            else:
+                current_player = None
 
-    # Ensure the directory exists
-    base_dir.mkdir(parents=True, exist_ok=True)
+        elif bgcolor == BGCOLOR_OPPONENT and current_player:
+            opponent = parse_opponent_row(td_tags, path)
+            if opponent and not any(
+                op.name == opponent.name and op.id == opponent.id
+                for op in current_player.opponents
+            ):
+                current_player.opponents.append(opponent)
 
-    crosstable_filename = f"{code}.txt"
-
-    # Combine the base directory and filename to get the full path
-    crosstable_path = base_dir / crosstable_filename
-
-    return crosstable_path
+    return list(players_dict.values())
 
 
 def parse_crosstable(
@@ -131,7 +181,7 @@ def parse_crosstable(
     if is_missing_crosstable(soup):
         return parse_missing_crosstable(country, month, year, code, data_dir)
 
-    return parse_regular_crosstable(soup, path)
+    return parse_regular_crosstable(soup, path, code)
 
 
 def missing_crosstable_generate_data(
@@ -219,12 +269,18 @@ def get_tournament_data(country: str, month: int, year: int, data_dir: str):
     # Check if the tournaments file exists
     if os.path.isfile(tournaments_path):
         with open(tournaments_path, "r") as f:
-            print(tournaments_path)
+            logger.info(f"Processing tournaments from: {tournaments_path}")
             lines = f.readlines()
 
         # Loop through each line in the file
         for line in lines:
-            code = line[:-1]
+            code = line.strip()
+
+            if not code:
+                logger.warning(
+                    f"Empty tournament code found in {tournaments_path}. Skipping."
+                )
+                continue
 
             # Define the path for the processed data
             path = os.path.join(
@@ -243,57 +299,90 @@ def get_tournament_data(country: str, month: int, year: int, data_dir: str):
                     content = f.read()
                     lines = content.splitlines()
 
-                    date_received = lines[0].strip()
-                    time_control = lines[1].strip().split(":")[1].strip()
-                # If any of the game results are in the content, skip to the next iteration
-                if not re.match(
-                    r"Date Received: \d{2}-\d{2}-\d{2}", date_received
-                ) and not re.match(r"Date Received: 0000-00-00", date_received):
-                    if time_control in ["Standard", "Rapid", "Blitz"]:
-                        continue
-                else:
-                    # If not, delete the file
-                    os.remove(path)
+                    if len(lines) < 2:
+                        logger.warning(
+                            f"Incomplete data in {path}. Deleting and reprocessing."
+                        )
+                        os.remove(path)
+                        should_process = True
+                    else:
+                        date_received = lines[0].strip()
+                        time_control = (
+                            lines[1].strip().split(":")[1].strip()
+                            if ":" in lines[1]
+                            else None
+                        )
 
-            # If the file doesn't exist or was deleted due to missing results
-            crosstable_info = parse_crosstable(country, month, year, code, data_dir)
-            date_received, time_control = parse_tournament_info(
-                country, month, year, code, data_dir
-            )
+                        # Check if the tournament has already been processed with valid data
+                        if date_received != "0000-00-00" and time_control in [
+                            "Standard",
+                            "Rapid",
+                            "Blitz",
+                        ]:
+                            logger.info(
+                                f"Tournament {code} already processed. Skipping."
+                            )
+                            should_process = False
+                        else:
+                            logger.info(
+                                f"Invalid or missing data in {path}. Deleting and reprocessing."
+                            )
+                            os.remove(path)
+                            should_process = True
 
-            # Create the directory if it doesn't exist
-            os.makedirs(os.path.dirname(path), exist_ok=True)
-            if not crosstable_info or not crosstable_info[0]:
-                crosstable_info = crosstable_info[1:]
-                # same as below, except we write a flag that tells the next step that we need to generate the data
-                with open(path, "w") as f:
-                    f.write(f"No Crosstable: True\n")
-                    f.write(f"Date Received: {date_received}\n")
-                    f.write(f"Time Control: {time_control}\n")
-                    for element in crosstable_info:
-                        f.write(f"{element}\n")
             else:
-                # Write the variables to the file
-                with open(path, "w") as f:
-                    f.write(f"Date Received: {date_received}\n")
-                    f.write(f"Time Control: {time_control}\n")
-                    for element in crosstable_info:
-                        f.write(f"{element}\n")
+                should_process = True
+
+            if should_process:
+                # Parse crosstable
+                try:
+                    crosstable_info = parse_crosstable(
+                        country, month, year, code, data_dir
+                    )
+                except Exception as e:
+                    logger.error(f"Error parsing crosstable for tournament {code}: {e}")
+                    continue
+
+                # Parse tournament info
+                try:
+                    date_received, time_control = parse_tournament_info(
+                        country, month, year, code, data_dir
+                    )
+                except Exception as e:
+                    logger.error(f"Error parsing tournament info for {code}: {e}")
+                    date_received, time_control = "0000-00-00", "Unknown"
+
+                # Create the directory if it doesn't exist
+                os.makedirs(os.path.dirname(path), exist_ok=True)
+                if isinstance(crosstable_info, list) and not isinstance(
+                    crosstable_info[0], bool
+                ):
+                    # Regular crosstable
+                    with open(path, "w") as f:
+                        f.write(f"Date Received: {date_received}\n")
+                        f.write(f"Time Control: {time_control}\n")
+                        for player in crosstable_info:
+                            f.write(f"{asdict(player)}\n")
+                elif isinstance(crosstable_info, list) and isinstance(
+                    crosstable_info[0], bool
+                ):
+                    # Missing crosstable
+                    crosstable_info = crosstable_info[1:]
+                    with open(path, "w") as f:
+                        f.write(f"No Crosstable: True\n")
+                        f.write(f"Date Received: {date_received}\n")
+                        f.write(f"Time Control: {time_control}\n")
+                        for element in crosstable_info:
+                            f.write(f"{asdict(element)}\n")
+                else:
+                    logger.error(
+                        f"Unexpected crosstable_info format for tournament {code}. Skipping."
+                    )
 
 
 def get_tournament_data_helper(args):
     """Helper function for parallel processing."""
     return get_tournament_data(*args)
-
-
-def parse_html_file(path: Path) -> BeautifulSoup:
-    """Parse an HTML file into a BeautifulSoup object."""
-    try:
-        with open(path, encoding="utf-8") as fp:
-            return BeautifulSoup(fp, "lxml")
-    except Exception as x:
-        logging.error(f"Unexpected result at path: {path}")
-        raise x
 
 
 def is_missing_crosstable(soup: BeautifulSoup) -> bool:
@@ -348,61 +437,6 @@ def parse_missing_crosstable(
         return players
 
 
-def parse_result(td_tag: Tag, path: Path) -> Optional[str]:
-    """Parse the result from a table cell."""
-    result_tag = td_tag.find("font")
-    if result_tag:
-        result = result_tag.text.strip()
-    else:
-        result = td_tag.text.strip()
-        if result[-1] == "0":
-            result = "0"
-        else:
-            logging.error(f"Unexpected result at path: {path}, td_tags: {td_tag}")
-            raise Exception(result)
-
-    if result in ["0", "0.5", "1.0", "Forfeit"]:
-        return result
-
-    logging.error(f"Unexpected result at path: {path}, result: {result}")
-    raise Exception(result)
-
-
-def parse_regular_crosstable(soup: BeautifulSoup, path: Path) -> List[Player]:
-    """Parse a regular tournament crosstable."""
-    tr_tags = soup.find_all("tr")
-    players: List[Player] = []
-    current_player = None
-
-    for tr in tr_tags:
-        td_tags = tr.find_all("td")
-        if not td_tags:
-            continue
-
-        bgcolor = td_tags[0].get("bgcolor")
-
-        # New player row
-        if bgcolor == BGCOLOR_PLAYER:
-            if current_player is not None:
-                players.append(current_player)
-
-            player = parse_player_row(td_tags)
-            if player:
-                current_player = player
-
-        # Opponent row
-        elif bgcolor == BGCOLOR_OPPONENT and current_player is not None:
-            opponent = parse_opponent_row(td_tags, path)
-            if opponent:
-                current_player.opponents.append(opponent)
-
-    # Add the last player
-    if current_player is not None:
-        players.append(current_player)
-
-    return players
-
-
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description="Get FIDE tournaments information for a specific month."
@@ -423,7 +457,11 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # Parse month/year
-    year, month = map(int, args.month.split("-"))
+    try:
+        year, month = map(int, args.month.split("-"))
+    except ValueError:
+        logger.error("Invalid month format. Expected YYYY-MM.")
+        raise
 
     tasks = []
 

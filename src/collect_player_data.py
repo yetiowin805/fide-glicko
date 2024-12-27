@@ -1,11 +1,10 @@
-import re
 import os
 from pathlib import Path
-import ast
 from multiprocessing import Pool
 from tqdm import tqdm
 import itertools
-import numpy as np
+import ast
+import re
 from datetime import datetime
 import argparse
 import logging
@@ -29,7 +28,7 @@ RD_DEFAULT = 350
 def setup_data_dirs(base_dir: str) -> Dict[str, Path]:
     """Set up data directories based on the provided base directory."""
     return {
-        "player_info": Path(base_dir) / "player_info/processed",
+        "player_info": Path(base_dir) / "player_info" / "processed",
         "rating_lists": Path(base_dir) / "rating_lists",
         "raw_tournament": Path(base_dir) / "raw_tournament_data",
         "clean_numerical": Path(base_dir) / "clean_numerical",
@@ -66,38 +65,58 @@ def get_ratings_for_period(
     year: int, month: int, time_control: str, data_dir: Dict[str, Path]
 ) -> Tuple[Dict, Dict]:
     """Cache and return FIDE and Glicko ratings for a given period."""
-    period_key = f"{year}-{month}"
+    period_key = f"{year}-{month:02d}"
 
     if period_key not in fide_ratings:
         player_info_path = find_latest_player_info(year, month, data_dir)
-        with open(player_info_path, "r", encoding="utf-8", errors="replace") as f:
-            fide_ratings[period_key] = {player["id"]: player for player in map(eval, f)}
+        try:
+            with open(player_info_path, "r", encoding="utf-8", errors="replace") as f:
+                fide_ratings[period_key] = {
+                    player["id"]: player for player in map(ast.literal_eval, f)
+                }
+        except Exception as e:
+            logger.error(
+                f"Error reading FIDE ratings from {player_info_path}: {str(e)}"
+            )
+            fide_ratings[period_key] = {}
 
     if period_key not in glicko_ratings:
         rating_path = (
             data_dir["rating_lists"] / time_control / f"{year:04d}-{month:02d}.txt"
         )
-        with open(rating_path) as f:
-            glicko_ratings[period_key] = {
-                int(components[0]): dict(
-                    zip(
-                        ["id", "rating", "rd", "volatility"],
-                        [int(components[0])] + [float(x) for x in components[1:]],
-                    )
+        if not rating_path.exists():
+            logger.warning(f"Glicko rating file does not exist: {rating_path}")
+            glicko_ratings[period_key] = {}
+        else:
+            try:
+                with open(rating_path) as f:
+                    glicko_ratings[period_key] = {
+                        int(components[0]): dict(
+                            zip(
+                                ["id", "rating", "rd", "volatility"],
+                                [int(components[0])]
+                                + [float(x) for x in components[1:]],
+                            )
+                        )
+                        for components in (
+                            line.strip().split() for line in f if line.strip()
+                        )
+                    }
+            except Exception as e:
+                logger.error(
+                    f"Error reading Glicko ratings from {rating_path}: {str(e)}"
                 )
-                for components in (line.split() for line in f)
-            }
+                glicko_ratings[period_key] = {}
 
-    return fide_ratings[period_key], glicko_ratings[period_key]
+    return fide_ratings.get(period_key, {}), glicko_ratings.get(period_key, {})
 
 
 def parse_tournament_date(date_line: str) -> Optional[datetime]:
     """Parse tournament date with proper error handling."""
-    date_without_prefix = (
-        date_line[15:].strip()
-        if date_line.startswith("Date Received:")
-        else date_line.strip()
-    )
+    if date_line.startswith("Date Received:"):
+        date_without_prefix = date_line[15:].strip()
+    else:
+        date_without_prefix = date_line.strip()
 
     if date_without_prefix == "Not submitted":
         return None
@@ -105,32 +124,16 @@ def parse_tournament_date(date_line: str) -> Optional[datetime]:
     try:
         return datetime.strptime(date_without_prefix, "%Y-%m-%d")
     except ValueError as e:
+        logger.error(f"Invalid date format: {date_without_prefix}")
         raise ValueError(f"Invalid date format: {date_without_prefix}") from e
-
-
-def calculate_tournament_averages(
-    ratings_data: dict, raw_players: List[dict]
-) -> Tuple[float, float, float]:
-    """Calculate tournament rating averages and transformation."""
-    tournament_fide_ratings = [r["fide"] for r in ratings_data.values()]
-    tournament_glicko_ratings = [r["glicko"] for r in ratings_data.values()]
-    tournament_rds = [r["rd"] for r in ratings_data.values()]
-
-    if not tournament_fide_ratings:
-        return 0, RATING_DEFAULT, RD_DEFAULT
-
-    m, b = np.polyfit(tournament_fide_ratings, tournament_glicko_ratings, 1)
-    average_rd = sum(tournament_rds) / len(tournament_rds)
-
-    return m, b, average_rd
 
 
 def write_fide_data(
     source_file: str,
     destination_file: str,
     time_control: str,
-    month: int,
     year: int,
+    month: int,
     end_month: int,
     end_year: int,
     data_dir: Dict[str, Path],
@@ -138,97 +141,96 @@ def write_fide_data(
     """Process and write FIDE tournament data."""
     try:
         with open(source_file, "r") as f:
-            first_line = f.readline().strip()
-            has_crosstable = "No Crosstable" not in first_line
-
-            # Parse date
-            date_line = f.readline().strip() if has_crosstable else first_line
+            # Read and parse Date Received
+            date_line = f.readline().strip()
             date_obj = parse_tournament_date(date_line)
             if not date_obj:
+                logger.info(f"Date not submitted in file: {source_file}")
                 return
 
             # Validate tournament date
             if date_obj.year > end_year or (
                 date_obj.year == end_year and date_obj.month > end_month
             ):
-                return
-
-            # Validate time control
-            file_time_control = f.readline().split(":")[1].strip()
-            if file_time_control != time_control:
-                return
-
-            # Process based on crosstable availability
-            if has_crosstable:
-                process_with_crosstable(f, destination_file)
-            else:
-                process_no_crosstable(
-                    f, destination_file, year, month, time_control, data_dir
+                logger.info(
+                    f"Tournament date {date_obj} outside range in file: {source_file}"
                 )
+                return
+
+            # Read and parse Time Control
+            time_control_line = f.readline().strip()
+            time_control_match = re.match(r"Time Control:\s*(\w+)", time_control_line)
+            if not time_control_match:
+                logger.error(f"Time Control line format incorrect in {source_file}")
+                return
+            file_time_control = time_control_match.group(1).lower()
+
+            if file_time_control != time_control.lower():
+                return
+
+            # Read and parse Player lines
+            players = []
+            for line_number, line in enumerate(f, start=3):
+                if not line.strip():
+                    continue  # Skip empty lines
+                try:
+                    player_data = ast.literal_eval(line.strip())
+                    # Validate required fields
+                    if not all(
+                        k in player_data
+                        for k in ("fide_id", "name", "number", "opponents")
+                    ):
+                        logger.warning(
+                            f"Missing fields in player data at {source_file}:{line_number}"
+                        )
+                        continue
+                    players.append(player_data)
+                except (ValueError, SyntaxError) as e:
+                    logger.error(
+                        f"Error parsing player data at {source_file}:{line_number}: {str(e)}"
+                    )
+                    continue
+
+        if not players:
+            logger.info(f"No valid player data found in file: {source_file}")
+            return
+
+        # Build number to fide_id mapping
+        number_to_fide_id = {player["number"]: player["fide_id"] for player in players}
+
+        # Open destination file in append mode
+        with open(destination_file, "a") as f2:
+            for player in players:
+                fide_id = player["fide_id"]
+                opponents = player["opponents"]
+                num_opponents = len(opponents)
+
+                # Write player fide_id and number of opponents
+                f2.write(f"{fide_id} {num_opponents}\n")
+
+                # Write each opponent's fide_id and result
+                for opponent in opponents:
+                    opponent_number = opponent.get("id")
+                    opponent_result = opponent.get("result", 0.0)
+
+                    if not opponent_number:
+                        logger.warning(
+                            f"Missing opponent ID for player {fide_id} in file {source_file}"
+                        )
+                        continue
+
+                    opponent_fide_id = number_to_fide_id.get(opponent_number)
+                    if not opponent_fide_id:
+                        logger.warning(
+                            f"Opponent number {opponent_number} not found for player {fide_id} in file {source_file}"
+                        )
+                        continue
+
+                    f2.write(f"{opponent_fide_id} {opponent_result}\n")
 
     except Exception as e:
         logger.error(f"Error processing {source_file}: {str(e)}")
         raise
-
-
-def process_with_crosstable(f, destination_file: str) -> None:
-    """Process tournament data with crosstable."""
-    players = [eval(line.strip()) for line in f]
-    fide_id_to_player = {player["number"]: player["fide_id"] for player in players}
-
-    with open(destination_file, "a") as f2:
-        for player in players:
-            if not player["opponents"]:
-                continue
-            f2.write(f"{player['fide_id']} {len(player['opponents'])}\n")
-
-            for opponent in player["opponents"]:
-                if "result" not in opponent:
-                    raise ValueError(
-                        f"No result found for opponent {opponent['name']} of player {player['name']}"
-                    )
-                f2.write(f"{fide_id_to_player[opponent['id']]} {opponent['result']}\n")
-
-
-def process_no_crosstable(
-    f,
-    destination_file: str,
-    year: int,
-    month: int,
-    time_control: str,
-    data_dir: Dict[str, Path],
-) -> None:
-    """Process tournament data without crosstable."""
-    fide_data, glicko_data = get_ratings_for_period(year, month, time_control, data_dir)
-
-    raw_players = [eval(line.strip()) for line in f]
-    fide_ids = [p["fide_id"] for p in raw_players]
-
-    # Get ratings data
-    ratings_data = {
-        fide_id: {
-            "fide": int(fide_data[fide_id]["rating"]),
-            "glicko": glicko_data.get(int(fide_id), {"rating": RATING_DEFAULT})[
-                "rating"
-            ],
-            "rd": glicko_data.get(int(fide_id), {"rd": RD_DEFAULT})["rd"],
-        }
-        for fide_id in fide_ids
-        if fide_id in fide_data
-    }
-
-    if not ratings_data:
-        return
-
-    m, b, average_rd = calculate_tournament_averages(ratings_data, raw_players)
-
-    with open(destination_file, "a") as f2:
-        for player in raw_players:
-            average_glicko = m * float(player["RC"]) + b
-            average_score = float(player["score"]) / float(player["N"])
-            f2.write(f"{player['fide_id']} {player['N']}\n")
-            for _ in range(int(player["N"])):
-                f2.write(f"{average_glicko} {average_rd} {average_score}\n")
 
 
 def write_fide_data_helper(args):
@@ -277,35 +279,86 @@ if __name__ == "__main__":
     # Process tournament files
     source_dir = DATA_DIR["raw_tournament"]
     destination_dir = DATA_DIR["clean_numerical"]
+    time_control = args.time_control.lower()
 
-    tournament_files = list(source_dir.glob("*.txt"))
+    # Recursively find all processed/*.txt files
+    tournament_files = list(source_dir.rglob("processed/*.txt"))
     if not tournament_files:
         logger.warning(f"No tournament files found in {source_dir}")
         exit(0)
 
-    # Prepare arguments for parallel processing
-    process_args = [
-        (
-            str(f),
-            str(destination_dir / f.name),
-            args.time_control,
-            start_month,
-            start_year,
-            end_month,
-            end_year,
-            DATA_DIR,
-        )
-        for f in tournament_files
-    ]
+    logger.info(f"Found {len(tournament_files)} tournament files to process.")
+
+    tasks = []
+    destination_paths_set = set()
+
+    for file_path in tournament_files:
+        try:
+            # Extract formatted_date from the path: country/{formatted_date}/processed/{int}.txt
+            # Assuming the structure is {source_dir}/country/YYYY-MM/processed/{integer}.txt
+            formatted_date = file_path.parent.parent.name  # {formatted_date} directory
+            year_str, month_str = formatted_date.split("-")
+            year = int(year_str)
+            month = int(month_str)
+
+            # Check if the file's date is within the specified range
+            if (year < start_year) or (year == start_year and month < start_month):
+                continue
+            if (year > end_year) or (year == end_year and month > end_month):
+                continue
+
+            # Define the destination path based on year, month, and time_control
+            destination_path = (
+                destination_dir / f"{year:04d}-{month:02d}" / time_control / "games.txt"
+            )
+
+            # Add to the set of destination paths for pre-processing
+            destination_paths_set.add(destination_path)
+
+            # Append the task
+            tasks.append(
+                (
+                    str(file_path),
+                    str(destination_path),
+                    time_control,
+                    year,
+                    month,
+                    end_month,
+                    end_year,
+                    DATA_DIR,
+                )
+            )
+        except Exception as e:
+            logger.error(f"Error processing file path {file_path}: {str(e)}")
+            continue
+
+    if not tasks:
+        logger.warning("No tournament files found within the specified date range.")
+        exit(0)
+
+    # Prepare destination files: ensure directories exist and clear files
+    for dest_path in destination_paths_set:
+        try:
+            dest_path.parent.mkdir(parents=True, exist_ok=True)
+            # Clear the destination file
+            with open(dest_path, "w") as f:
+                pass
+        except Exception as e:
+            logger.error(f"Error preparing destination file {dest_path}: {str(e)}")
+            exit(1)
+
+    logger.info(
+        f"Processing {len(tasks)} tournament files with '{time_control}' time control."
+    )
 
     # Process files in parallel
     with Pool() as pool:
         list(
             tqdm(
-                pool.imap_unordered(write_fide_data_helper, process_args),
-                total=len(process_args),
+                pool.imap_unordered(write_fide_data_helper, tasks),
+                total=len(tasks),
                 desc="Processing tournaments",
             )
         )
 
-    logger.info("Tournament data processing completed successfully")
+    logger.info("Tournament data processing completed successfully.")
