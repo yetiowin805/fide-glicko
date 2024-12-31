@@ -1,15 +1,11 @@
 import argparse
 import os
 from datetime import datetime, date
+import subprocess
 
 
-def get_months_between(start_month_str, end_month_str):
-    start_year, start_month = map(int, start_month_str.split("-"))
-    end_year, end_month = map(int, end_month_str.split("-"))
-
-    start_date = date(start_year, start_month, 1)
-    end_date = date(end_year, end_month, 1)
-
+def get_months_between(start_date: date, end_date: date) -> list[str]:
+    """Return list of month strings (YYYY-MM) between two dates, inclusive."""
     months = []
     current_date = start_date
     while current_date <= end_date:
@@ -68,8 +64,14 @@ if __name__ == "__main__":
     # Parse arguments
     args = parser.parse_args()
 
+    # Convert string arguments to date objects before calling function
+    start_year, start_month = map(int, args.start_month.split("-"))
+    end_year, end_month = map(int, args.end_month.split("-"))
+    start_date = date(start_year, start_month, 1)
+    end_date = date(end_year, end_month, 1)
+
     # Get list of all months between start and end
-    months = get_months_between(args.start_month, args.end_month)
+    months = get_months_between(start_date, end_date)
 
     # Process each month
     for month in months:
@@ -118,48 +120,42 @@ if __name__ == "__main__":
             f"python3 src/extract_tournament_data.py --month {month} --data_dir {args.data_dir}"
         )
 
-    # Calculate adjusted start and end months (one month earlier)
-    start_year, start_month = map(int, args.start_month.split("-"))
-    end_year, end_month = map(int, args.end_month.split("-"))
-
-    # Adjust start month
-    if start_month == 1:
-        adj_start_year = start_year - 1
-        adj_start_month = 12
+    # Calculate adjusted dates (one month earlier)
+    if start_date.month == 1:
+        adj_start_date = date(start_date.year - 1, 12, 1)
     else:
-        adj_start_year = start_year
-        adj_start_month = start_month - 1
+        adj_start_date = date(start_date.year, start_date.month - 1, 1)
 
-    # Adjust end month
-    if end_month == 1:
-        adj_end_year = end_year - 1
-        adj_end_month = 12
+    if end_date.month == 1:
+        adj_end_date = date(end_date.year - 1, 12, 1)
     else:
-        adj_end_year = end_year
-        adj_end_month = end_month - 1
-
-    adj_start_month_str = f"{adj_start_year:04d}-{adj_start_month:02d}"
-    adj_end_month_str = f"{adj_end_year:04d}-{adj_end_month:02d}"
-
-    # Run collect_player_data.py with data_dir
-    print(
-        f"python3 collect_player_data.py --start_month {adj_start_month_str} --end_month {adj_end_month_str} --data_dir {args.data_dir}"
-    )
-    os.system(
-        f"python3 src/collect_player_data.py --start_month {adj_start_month_str} --end_month {adj_end_month_str} --data_dir {args.data_dir}"
-    )
+        adj_end_date = date(end_date.year, end_date.month - 1, 1)
 
     # Get months between adjusted dates for remove_duplicates.py
-    adj_months = get_months_between(adj_start_month_str, adj_end_month_str)
+    adj_months = get_months_between(adj_start_date, adj_end_date)
     for month in adj_months:
+        current_year = int(month.split("-")[0])
+        print(
+            f"python3 collect_player_data.py --month {month} --time_control Standard --data_dir {args.data_dir}"
+        )
+        os.system(
+            f"python3 src/collect_player_data.py --month {month} --time_control Standard --data_dir {args.data_dir}"
+        )
+        if current_year >= 2012:
+            for time_control in ["Rapid", "Blitz"]:
+                print(
+                    f"python3 collect_player_data.py --month {month} --time_control {time_control} --data_dir {args.data_dir}"
+                )
+                os.system(
+                    f"python3 src/collect_player_data.py --month {month} --time_control {time_control} --data_dir {args.data_dir}"
+                )
         clean_numerical_path = os.path.join(args.data_dir, "clean_numerical", month)
         print(f"python3 remove_duplicates.py --root_dir {clean_numerical_path}")
         os.system(f"python3 src/remove_duplicates.py --root_dir {clean_numerical_path}")
 
     if args.upload_to_s3 == "y":
         # Upload each month's data to S3
-        for month in months:
-            # Upload raw tournament data
+        for month in adj_months:
             print(
                 f"python3 upload_to_s3.py --data_dir {args.data_dir} --path clean_numerical/{month}"
             )
@@ -167,10 +163,22 @@ if __name__ == "__main__":
                 f"python3 src/aws/upload_to_s3.py --data_dir {args.data_dir} --path clean_numerical/{month}"
             )
 
-    # Run glicko with adjusted dates
-    print(
-        f"python3 src/run_glicko.py --start_month {adj_start_month_str} --end_month {adj_end_month_str} --data_dir {args.data_dir} --upload_to_s3 {args.upload_to_s3}"
-    )
-    os.system(
-        f"python3 src/run_glicko.py --start_month {adj_start_month_str} --end_month {adj_end_month_str} --data_dir {args.data_dir} --upload_to_s3 {args.upload_to_s3}"
+    # When calling run_glicko.py, format the date without the day
+    adj_start_month_str = f"{adj_start_date.year:04d}-{adj_start_date.month:02d}"
+    adj_end_month_str = f"{adj_end_date.year:04d}-{adj_end_date.month:02d}"
+
+    # Call run_glicko.py with correct date format
+    subprocess.run(
+        [
+            "python3",
+            "src/run_glicko.py",
+            "--start_month",
+            adj_start_month_str,  # YYYY-MM format
+            "--end_month",
+            adj_end_month_str,  # YYYY-MM format
+            "--data_dir",
+            args.data_dir,
+            "--upload_to_s3",
+            args.upload_to_s3,
+        ]
     )

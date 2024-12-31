@@ -353,7 +353,12 @@ def get_tournament_data(country: str, month: int, year: int, data_dir: str):
                     date_received, time_control = "0000-00-00", "Unknown"
 
                 # Create the directory if it doesn't exist
+                if not crosstable_info:
+                    logger.error(f"No crosstable info for tournament {code}. Skipping.")
+                    continue
+
                 os.makedirs(os.path.dirname(path), exist_ok=True)
+
                 if isinstance(crosstable_info, list) and not isinstance(
                     crosstable_info[0], bool
                 ):
@@ -433,7 +438,6 @@ def parse_missing_crosstable(
                     N=td_elements[7].string.strip(),
                 )
             )
-
         return players
 
 
