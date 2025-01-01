@@ -8,6 +8,7 @@ from countries import countries
 import logging
 from pathlib import Path
 from typing import Dict, Tuple, Optional
+from multiprocessing import Pool
 
 # Configure logging
 logging.basicConfig(

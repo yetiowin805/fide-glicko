@@ -509,11 +509,11 @@ def main(
         os.path.join(top_rating_list_dir, top_rating_list_filename)
     )
 
-    # Write federation-specific lists
-    write_federation_lists(
-        top_rating_list_dir, top_rating_list_filename, players, players_info, year
-    )
-    print(f"Rating lists written to {top_rating_list_dir}")
+    # # Write federation-specific lists
+    # write_federation_lists(
+    #     top_rating_list_dir, top_rating_list_filename, players, players_info, year
+    # )
+    # print(f"Rating lists written to {top_rating_list_dir}")
 
 
 if __name__ == "__main__":
