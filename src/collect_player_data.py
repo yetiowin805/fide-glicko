@@ -8,7 +8,7 @@ from countries import countries
 import logging
 from pathlib import Path
 from typing import Dict, Tuple, Optional
-from multiprocessing import Pool
+from multiprocessing import Pool, Lock, Manager
 
 # Configure logging
 logging.basicConfig(
@@ -26,6 +26,12 @@ glicko_ratings: Dict[int, Dict] = {}
 RATING_DEFAULT = 1500
 RD_DEFAULT = 350
 
+# Add global lock
+lock: Optional[Lock] = None
+
+def initializer_process(l: Lock):
+    global lock
+    lock = l
 
 def setup_data_dirs(base_dir: str) -> Dict[str, Path]:
     return {
@@ -109,9 +115,6 @@ def get_target_date(year: int, month: int) -> Tuple[int, int]:
 
     if target_month == 1:
         year += 1
-    elif target_month > 12:
-        target_month -= 12
-        year += 1
 
     return year, target_month
 
@@ -169,7 +172,7 @@ def write_fide_data(
     year: int,
     data_dir: Dict[str, Path],
 ) -> None:
-    global fide_ratings, glicko_ratings
+    global lock, fide_ratings, glicko_ratings
     try:
         with open(source_file, "r", encoding="utf-8") as f:
             date_line = f.readline().strip()
@@ -246,26 +249,28 @@ def write_fide_data(
                     player["number"]: player["fide_id"] for player in players
                 }
 
-                with open(destination_file, "a", encoding="utf-8") as f2:
-                    for player in players:
-                        fide_id = player["fide_id"]
-                        opponents = player["opponents"]
-                        f2.write(f"{fide_id} {len(opponents)}\n")
-                        for opponent in opponents:
-                            opponent_number = opponent.get("id")
-                            opponent_result = opponent.get("result", 0.0)
-                            if not opponent_number:
-                                logger.warning(
-                                    f"Missing opponent ID for player {fide_id} in file {source_file}"
-                                )
-                                continue
-                            opponent_fide_id = number_to_fide_id.get(opponent_number)
-                            if not opponent_fide_id:
-                                logger.warning(
-                                    f"Opponent number {opponent_number} not found for player {fide_id} in file {source_file}"
-                                )
-                                continue
-                            f2.write(f"{opponent_fide_id} {opponent_result}\n")
+                with lock:
+                    with open(destination_file, "a", encoding="utf-8") as f2:
+                        for player in players:
+                            fide_id = player["fide_id"]
+                            opponents = player["opponents"]
+                            # Filter valid opponents first
+                            valid_opponents = []
+                            for opponent in opponents:
+                                opponent_number = opponent.get("id")
+                                opponent_fide_id = number_to_fide_id.get(opponent_number)
+                                if not opponent_number or not opponent_fide_id:
+                                    logger.warning(
+                                        f"Invalid opponent (number={opponent_number}) for player {fide_id} in file {source_file}"
+                                    )
+                                    continue
+                                valid_opponents.append((opponent_fide_id, opponent.get("result", 0.0)))
+                            
+                            # Write only if there are valid opponents
+                            if valid_opponents:
+                                f2.write(f"{fide_id} {len(valid_opponents)}\n")
+                                for opponent_fide_id, opponent_result in valid_opponents:
+                                    f2.write(f"{opponent_fide_id} {opponent_result}\n")
             elif all(k in first_player for k in ("RC", "score", "N")):
                 players = [first_player]
                 for line_number, line in enumerate(f, start=3):
@@ -325,25 +330,26 @@ def write_fide_data(
                     m, b = 0, RATING_DEFAULT
                     average_rd = RD_DEFAULT
 
-                with open(destination_file, "a", encoding="utf-8") as f2:
-                    for player in players:
-                        fide_id = player["fide_id"]
-                        try:
-                            rc = float(player["RC"])
-                            score = float(player["score"])
-                            N = int(player["N"])
-                        except (ValueError, TypeError) as e:
-                            logger.warning(
-                                f"Invalid RC, score, or N for player {fide_id} in file {source_file}: {e}"
-                            )
-                            continue
+                with lock:
+                    with open(destination_file, "a", encoding="utf-8") as f2:
+                        for player in players:
+                            fide_id = player["fide_id"]
+                            try:
+                                rc = float(player["RC"])
+                                score = float(player["score"])
+                                N = int(player["N"])
+                            except (ValueError, TypeError) as e:
+                                logger.warning(
+                                    f"Invalid RC, score, or N for player {fide_id} in file {source_file}: {e}"
+                                )
+                                continue
 
-                        average_glicko = m * rc + b
-                        average_score = score / N if N != 0 else 0.0
+                            average_glicko = m * rc + b
+                            average_score = score / N if N != 0 else 0.0
 
-                        f2.write(f"{fide_id} {N}\n")
-                        for _ in range(N):
-                            f2.write(f"{average_glicko} {average_rd} {average_score}\n")
+                            f2.write(f"{fide_id} {N}\n")
+                            for _ in range(N):
+                                f2.write(f"{average_glicko} {average_rd} {average_score}\n")
             else:
                 logger.error(
                     f"Unknown crosstable format in file {source_file}: Missing both 'opponents' and 'RC' fields."
@@ -432,7 +438,7 @@ if __name__ == "__main__":
                 str(file_path),
                 time_control,
                 month,
-                target_year,
+                year,
                 DATA_DIR,
             )
         )
@@ -453,7 +459,11 @@ if __name__ == "__main__":
         f"Processing {len(tasks)} tournament files with '{time_control}' time control for {args.month}."
     )
 
-    with Pool() as pool:
+    # Add manager and lock creation back
+    manager = Manager()
+    shared_lock = manager.Lock()
+
+    with Pool(initializer=initializer_process, initargs=(shared_lock,)) as pool:
         list(
             tqdm(
                 pool.imap_unordered(write_fide_data_helper, tasks),

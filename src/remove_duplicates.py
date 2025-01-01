@@ -42,7 +42,12 @@ def process_file(path, local_players_map):
             if not line:
                 break
             parts = line.strip().split()
-            fide_id, n = int(parts[0]), int(parts[1])
+            try:
+                fide_id, n = int(parts[0]), int(parts[1])
+            except ValueError:
+                print(f"Invalid fide_id or n: {parts}")
+                print(line)
+                exit(1)
             player = local_players_map.setdefault(fide_id, Player())
             for _ in range(n):
                 line = file.readline()
