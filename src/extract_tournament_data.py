@@ -162,10 +162,7 @@ def parse_regular_crosstable(
 
         elif bgcolor == BGCOLOR_OPPONENT and current_player:
             opponent = parse_opponent_row(td_tags, path)
-            if opponent and not any(
-                op.name == opponent.name and op.id == opponent.id
-                for op in current_player.opponents
-            ):
+            if opponent:
                 current_player.opponents.append(opponent)
 
     return list(players_dict.values())
@@ -257,7 +254,7 @@ def parse_tournament_info(
 
 def get_tournament_data(country: str, month: int, year: int, data_dir: str):
     """Process tournament data for a given country and month."""
-    # Pad the month with a leading zero if it's less than 10
+    print(f"Processing tournament data for {country} in {month}/{year}")
     month_str = f"{month:02d}"
     formatted_str = f"{year}-{month_str}"
 

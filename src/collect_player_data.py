@@ -29,9 +29,11 @@ RD_DEFAULT = 350
 # Add global lock
 lock: Optional[Lock] = None
 
+
 def initializer_process(l: Lock):
     global lock
     lock = l
+
 
 def setup_data_dirs(base_dir: str) -> Dict[str, Path]:
     return {
@@ -258,18 +260,25 @@ def write_fide_data(
                             valid_opponents = []
                             for opponent in opponents:
                                 opponent_number = opponent.get("id")
-                                opponent_fide_id = number_to_fide_id.get(opponent_number)
+                                opponent_fide_id = number_to_fide_id.get(
+                                    opponent_number
+                                )
                                 if not opponent_number or not opponent_fide_id:
                                     logger.warning(
                                         f"Invalid opponent (number={opponent_number}) for player {fide_id} in file {source_file}"
                                     )
                                     continue
-                                valid_opponents.append((opponent_fide_id, opponent.get("result", 0.0)))
-                            
+                                valid_opponents.append(
+                                    (opponent_fide_id, opponent.get("result", 0.0))
+                                )
+
                             # Write only if there are valid opponents
                             if valid_opponents:
                                 f2.write(f"{fide_id} {len(valid_opponents)}\n")
-                                for opponent_fide_id, opponent_result in valid_opponents:
+                                for (
+                                    opponent_fide_id,
+                                    opponent_result,
+                                ) in valid_opponents:
                                     f2.write(f"{opponent_fide_id} {opponent_result}\n")
             elif all(k in first_player for k in ("RC", "score", "N")):
                 players = [first_player]
@@ -349,7 +358,9 @@ def write_fide_data(
 
                             f2.write(f"{fide_id} {N}\n")
                             for _ in range(N):
-                                f2.write(f"{average_glicko} {average_rd} {average_score}\n")
+                                f2.write(
+                                    f"{average_glicko} {average_rd} {average_score}\n"
+                                )
             else:
                 logger.error(
                     f"Unknown crosstable format in file {source_file}: Missing both 'opponents' and 'RC' fields."
