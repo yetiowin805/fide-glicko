@@ -4,11 +4,9 @@ import (
 	"context"
 	"fmt"
 	"log"
-	"sync"
-	"time"
 
 	"github.com/aws/aws-lambda-go/lambda"
-)		
+)
 
 type HandlerInput struct {
 	Federations []string `json:"federations"`
@@ -22,57 +20,11 @@ type HandlerInput struct {
 	BatchSize             int      `json:"batch_size"`
 }
 
-func scrapeBatch(batch []TournamentData, input *HandlerInput, batch_id int) []TournamentData {
-
-	// Prepare for scraping tournament details
-	var scrapeWg sync.WaitGroup             // WaitGroup to synchronize scrapes
-	var mu sync.Mutex                       // Mutex to protect shared resources
-	results := make([]TournamentData, 0, input.BatchSize) // Preallocate slice for batch
-	semaphore := make(chan struct{}, input.MaxConcurrentScrapes)
-	tournaments_scraped := 0
-	tournaments_total := len(batch)
-
-	// Channel to handle failed tournaments for retries
-	failedChan := make(chan TournamentData, min(100, input.BatchSize)) // Buffer size can be adjusted
-
-	// Function to process tournaments
-	processTournament := func(t TournamentData, input *HandlerInput) {
-		scrapeWg.Add(1)
-		go func(t TournamentData, input *HandlerInput) {
-			scrapeTournamentDetails(t, semaphore, &mu, &results, &scrapeWg, failedChan, &tournaments_scraped, &tournaments_total, input, batch_id)
-		}(t, input)
-	}
-
-	// Initial processing of all tournaments
-	for _, tournament := range batch {
-		processTournament(tournament, input)
-	}
-
-	// Wait for all scrapes to finish
-	scrapeWg.Wait()
-	close(failedChan)
-
-	failed_tournaments := []TournamentData{}
-	for failedTournament := range failedChan {
-		if failedTournament.RetryCount < input.MaxRetries {
-			failed_tournaments = append(failed_tournaments, failedTournament)
-		}
-	}
-
-	log.Printf("Saving %d tournaments to S3", len(results))
-
-	saveCompressedJSONToS3(results, input.Year, input.Month, input.S3Bucket, input.S3KeyPrefix, input.Region, batch_id)
-	saveSampleJSONToS3(results, input.S3Bucket, input.S3KeyPrefix, input.Region, batch_id)
-
-	return failed_tournaments
-
+type HandlerOutput struct {
+	Games []GameData `json:"games"`
 }
 
-
-// handler is the Lambda function entry point
 func handler(ctx context.Context, input HandlerInput) (HandlerOutput, error) {
-
-	start := time.Now()
 
 	// Validate input
 	if len(input.Federations) == 0 {
@@ -96,35 +48,29 @@ func handler(ctx context.Context, input HandlerInput) (HandlerOutput, error) {
 		input.MaxRetries = 3
 	}
 	if input.BatchSize == 0 {
-		input.BatchSize = 5000
+		input.BatchSize = 3000
 	}
 
-	players, err := GetPlayersInfo(input.Year, input.Month, input.MaxRetries)
-	if err != nil {
-		return HandlerOutput{}, fmt.Errorf("failed to get players info: %v", err)
-	}
+	// Save player info
+	GetPlayersInfo(&input)
 
+	// Get tournament list
 	allTournaments := scrapeAllFederations(input.Year, input.Month, input.Federations)
 
-
-	batch_id := 0
-	// Process by batches
+	// Save tournament details
+	getTournamentDetails(allTournaments, &input)
+	// Get games in batches
+	batchId := 0
 	for len(allTournaments) > 0 {
 		batch := allTournaments[:min(input.BatchSize, len(allTournaments))]
-		failed_tournaments := scrapeBatch(batch, &input, batch_id)
-		// Remove the processed tournaments from allTournaments and add the failed ones
-		allTournaments = allTournaments[len(batch):]
-		allTournaments = append(allTournaments, failed_tournaments...)
-		batch_id += 1
+		allTournaments = allTournaments[min(input.BatchSize, len(allTournaments)):]
+		failedTournaments := processBatch(batch, &input, batchId)
+		allTournaments = append(allTournaments, failedTournaments...)
+		batchId++
 	}
-	
-	elapsed := time.Since(start)
 
-	log.Printf("Time taken: %s", elapsed)
+	return HandlerOutput{}, nil
 
-	return HandlerOutput{
-		tournaments_total: len(allTournaments),
-	}, nil
 }
 
 func main() {

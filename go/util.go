@@ -3,19 +3,20 @@ package main
 import (
 	"bytes"
 	"compress/gzip"
+	"encoding/csv"
 	"encoding/json"
 	"fmt"
 	"io"
 	"log"
 	"net/http"
 	"time"
-	"encoding/csv"
 
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/s3"
 	"github.com/xitongsys/parquet-go-source/writerfile"
 	"github.com/xitongsys/parquet-go/writer"
+	"github.com/xitongsys/parquet-go/parquet"
 )
 
 const (
@@ -101,6 +102,22 @@ func saveToS3(data []byte, filename, suffix, contentType, contentEncoding string
 	return nil
 }
 
+func savePlayersInfoToS3(players []map[string]string, input *HandlerInput) error {
+
+	// Write data as JSON
+	jsonData, err := json.Marshal(players)
+	if err != nil {
+		return fmt.Errorf("failed to marshal players data: %v", err)
+	}
+
+	err = saveToS3(jsonData, "players", "json", "application/json", "", input)
+	if err != nil {
+		return fmt.Errorf("failed to save players info to S3: %v", err)
+	}
+
+	return nil
+}
+
 func saveTournamentDetailsToS3(tournaments []TournamentData, input *HandlerInput) error {
 
 	// Create a buffer to hold the CSV data
@@ -137,10 +154,8 @@ func saveGamesParquetToS3(games []GameData, input *HandlerInput, batch_id int) e
 
 	buf := new(bytes.Buffer)
 
-	pw, err := writerfile.NewWriterFile(buf)
-	if err != nil {
-		return fmt.Errorf("failed to create Parquet writer file: %w", err)
-	}
+	pw := writerfile.NewWriterFile(buf)
+
 
 	gameWriter, err := writer.NewParquetWriter(pw, new(GameData), 4)
 	if err != nil {
@@ -148,7 +163,7 @@ func saveGamesParquetToS3(games []GameData, input *HandlerInput, batch_id int) e
 	}
 	defer gameWriter.WriteStop()
 
-	gameWriter.CompressionType = "GZIP"
+	gameWriter.CompressionType = parquet.CompressionCodec_GZIP
 
 	for _, game := range games {
 		if err := gameWriter.Write(game); err != nil {
@@ -169,7 +184,7 @@ func saveGamesParquetToS3(games []GameData, input *HandlerInput, batch_id int) e
 		return fmt.Errorf("failed to close gzip writer: %w", err)
 	}
 
-	err = saveToS3(compressedBuf.Bytes(), "games", "parquet.gzip", "application/x-parquet", "gzip", input)
+	err = saveToS3(compressedBuf.Bytes(), fmt.Sprintf("games_%d", batch_id), "parquet.gzip", "application/x-parquet", "gzip", input)
 	if err != nil {
 		return fmt.Errorf("failed to save games to S3: %w", err)
 	}
@@ -200,7 +215,7 @@ func saveGamesCSVToS3(games []GameData, input *HandlerInput, batch_id int) error
 		return fmt.Errorf("failed to flush CSV writer: %w", err)
 	}
 
-	err := saveToS3(buf.Bytes(), "games", "csv", "text/csv", "", input)
+	err := saveToS3(buf.Bytes(), fmt.Sprintf("games_%d", batch_id), "csv", "text/csv", "", input)
 	if err != nil {
 		return fmt.Errorf("failed to save games to S3: %w", err)
 	}

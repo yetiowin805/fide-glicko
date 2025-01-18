@@ -9,9 +9,10 @@ import (
 	"github.com/PuerkitoBio/goquery"
 )
 
-// parseTournamentList extracts tournament codes from the tournament list HTML
+// parseTournamentList extracts unique tournament codes from the tournament list HTML
 func parseTournamentList(html string) ([]string, error) {
 	var codes []string
+	seen := make(map[string]struct{}) // Map to track unique codes
 	doc, err := goquery.NewDocumentFromReader(strings.NewReader(html))
 	if err != nil {
 		return codes, fmt.Errorf("failed to parse HTML: %v", err)
@@ -23,13 +24,16 @@ func parseTournamentList(html string) ([]string, error) {
 			parts := strings.Split(href, "=")
 			if len(parts) > 1 {
 				code := parts[len(parts)-1]
-				codes = append(codes, code)
+				if _, found := seen[code]; !found { // Check if code is already seen
+					seen[code] = struct{}{} // Mark as seen
+					codes = append(codes, code)
+				}
 			}
 		}
 	})
-
 	return codes, nil
 }
+
 
 // scrapeFederation fetches the tournament list for a federation and sends tournament data to a channel
 func scrapeFederation(
@@ -42,8 +46,7 @@ func scrapeFederation(
 	defer wg.Done()
 
 	url := fmt.Sprintf("%s/tournament_list.phtml?country=%s&rating_period=%d-%02d-01", BaseTournamentURL, federation, year, month)
-	log.Printf("Fetching tournament list for federation %s from %s", federation, url)
-
+	
 	body, err := get(url)
 	if err != nil {
 		log.Printf("Failed to fetch tournament list for %s: %v", federation, err)

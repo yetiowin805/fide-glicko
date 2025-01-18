@@ -176,9 +176,11 @@ func processFile(content string, lengths []int, keys []string, year, month int) 
 
 }
 
-func GetPlayersInfo(year, month, maxRetries int) ([]map[string]string, error) {
+func GetPlayersInfo(handlerInput *HandlerInput) ([]map[string]string, error) {
 
-	year = year % 100
+	year := handlerInput.Year % 100
+	month := handlerInput.Month
+	maxRetries := handlerInput.MaxRetries
 
 	// Download and extract the file
 	var content string
@@ -198,13 +200,19 @@ func GetPlayersInfo(year, month, maxRetries int) ([]map[string]string, error) {
 	lengths, keys := getFormatConfig(year, month)
 
 	// Process the file
-	processedContent, err := processFile(content, lengths, keys, year, month)
+	players, err := processFile(content, lengths, keys, year, month)
 	if err != nil {
 		log.Printf("Error processing file: %v\n", err)
 		return nil, err
 	}
 
+	// Save to S3
+	err = savePlayersInfoToS3(players, handlerInput)
+	if err != nil {
+		log.Printf("Error saving players info to S3: %v", err)
+	}
+
 	// Return the processed content
-	return processedContent, nil
+	return players, nil
 
 }

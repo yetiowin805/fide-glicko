@@ -100,6 +100,8 @@ func getTournamentDetails(tournaments []TournamentData, input *HandlerInput) []T
 	results := make([]TournamentData, 0, len(tournaments)) // Preallocate slice for batch
 	semaphore := make(chan struct{}, input.MaxConcurrentScrapes)
 
+	log.Printf("Getting details for %d tournaments", len(tournaments))
+
 	for len(tournaments) > 0 {
 
 		// Channel to handle failed tournaments for retries
@@ -180,8 +182,6 @@ func parseReport(reportDoc *goquery.Document, code string) map[string]map[string
 		}
 	})
 
-	log.Printf("Extracted %d players from missing crosstable for tournament %s", len(playersInfo), code)
-
 	// Return the result as a map
 	return playersInfo
 }
@@ -208,7 +208,7 @@ func parseResult(resultText string) float32 {
 
 // parseCrosstable parses the crosstable from the HTML
 func parseCrosstable(htmlContent string, code string) (map[string]map[string]interface{}, bool, error) {
-	var players map[string]map[string]interface{}
+	var players map[string]map[string]interface{} = make(map[string]map[string]interface{})
 	var currentPlayer map[string]interface{}
 
 	doc, err := goquery.NewDocumentFromReader(strings.NewReader(htmlContent))
@@ -274,7 +274,6 @@ func parseCrosstable(htmlContent string, code string) (map[string]map[string]int
 		}
 	})
 
-	log.Printf("Processed %d players for tournament %s", len(players), code)
 	return players, false, nil
 }
 
@@ -383,7 +382,7 @@ func processBatch(batch []TournamentData, input *HandlerInput, batch_id int) []T
 		}
 	}
 
-	log.Printf("Saving %d tournaments to S3 for batch %d", len(results), batch_id)
+	log.Printf("Saving %d games to S3 for batch %d", len(results), batch_id)
 
 	err := saveGamesParquetToS3(results, input, batch_id)
 	if err != nil {
