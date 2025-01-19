@@ -9,6 +9,7 @@ import (
 	"os"
 	"path/filepath"
 	"strings"
+	"strconv"
 )
 
 var MonthMappings = map[int]string{
@@ -26,7 +27,7 @@ var MonthMappings = map[int]string{
 	12: "dec",
 }
 
-func downloadAndExtract(year, month int) (string, error) {
+func downloadAndExtractPlayers(year, month int) (string, error) {
 	// Downloads the ZIP file from FIDE, extracts the TXT file, and returns its content.
 
 	var zipHeader string
@@ -141,8 +142,8 @@ func processLine(line string, lengths []int) ([]string, error) {
 	return parts, nil
 }
 
-func processFile(content string, lengths []int, keys []string, year, month int) ([]map[string]string, error) {
-	var processedLines []map[string]string
+func processFile(content string, lengths []int, keys []string, year, month int) ([]PlayerData, error) {
+	var players []PlayerData
 
 	lines := strings.Split(content, "\n")
 
@@ -163,20 +164,48 @@ func processFile(content string, lengths []int, keys []string, year, month int) 
 			return nil, fmt.Errorf("error processing line: %w", err)
 		}
 
-		// Create a map from keys to parts
-		playerMap := make(map[string]string)
+		player := PlayerData{}
+
 		for i, key := range keys {
-			playerMap[key] = parts[i]
+			value := strings.TrimSpace(parts[i])
+			switch key {
+			case "id":
+				player.Id, _ = strconv.Atoi(value)
+			case "name":
+				player.Name = value
+			case "fed":
+				player.Federation = value
+			case "sex":
+				player.Sex = value
+			case "title":
+				player.Title = value
+			case "w_title":
+				player.WTitle = value
+			case "o_title":
+				player.OTitle = value
+			case "foa":
+				player.FOA = value
+			case "rating":
+				player.Rating, _ = strconv.Atoi(value)
+			case "games":
+				player.Games, _ = strconv.Atoi(value)
+			case "k":
+				player.K, _ = strconv.Atoi(value)
+			case "b_year":
+				player.BirthYear, _ = strconv.Atoi(value)
+			case "flag":
+				player.Flag = value
+			}
 		}
 
-		processedLines = append(processedLines, playerMap)
+		players = append(players, player)
 	}
 
-	return processedLines, nil
+	return players, nil
 
 }
 
-func GetPlayersInfo(handlerInput *HandlerInput) ([]map[string]string, error) {
+func GetPlayersInfo(handlerInput *HandlerInput) ([]PlayerData, error) {
 
 	year := handlerInput.Year % 100
 	month := handlerInput.Month
@@ -186,7 +215,7 @@ func GetPlayersInfo(handlerInput *HandlerInput) ([]map[string]string, error) {
 	var content string
 	var err error
 	for i := 0; i < maxRetries; i++ {
-		content, err = downloadAndExtract(year, month)
+		content, err = downloadAndExtractPlayers(year, month)
 		if err != nil {
 			log.Printf("Error downloading or extracting file: %v\n", err)
 			continue

@@ -301,7 +301,7 @@ func getTournamentGames(
 	tournament TournamentData,
 	semaphore chan struct{},
 	wg *sync.WaitGroup,
-) ([]GameData, error) {
+) ([]GameData, []ReportData, error) {
 
 	defer wg.Done()
 
@@ -309,14 +309,14 @@ func getTournamentGames(
 	semaphore <- struct{}{}
 	defer func() { <-semaphore }()
 
+	games := []GameData{}
+	reports := []ReportData{}
+
 	// Scrape tournament details
 	tournament, err := scrapeCrosstable(tournament)
 	if err != nil {
-		return []GameData{}, err
+		return games, reports, err
 	}
-
-	// Classical, rapid, and blitz games
-	games := []GameData{}
 
 	if !tournament.HasReport {
 
@@ -334,9 +334,19 @@ func getTournamentGames(
 				}
 			}
 		}
+	} else {
+		for _, player := range tournament.Crosstable {
+			player_id, _ := strconv.Atoi(player["fide_id"].(string))
+			reports = append(reports, ReportData{
+				PlayerId: player_id,
+				RC:       player["rc"].(string),
+				Score:    player["score"].(float32),
+				N:        player["n"].(int32),
+			})
+		}
 	}
 
-	return games, nil
+	return games, reports, nil
 
 }
 
@@ -345,7 +355,8 @@ func processBatch(batch []TournamentData, input *HandlerInput, batch_id int) []T
 	// Prepare for scraping tournament details
 	var scrapeWg sync.WaitGroup                     // WaitGroup to synchronize scrapes
 	var mu sync.Mutex                               // Mutex to protect shared resources
-	results := make([]GameData, 0, input.BatchSize) // Preallocate slice for batch
+	games := make([]GameData, 0, input.BatchSize) // Preallocate slice for batch
+	reports := make([]ReportData, 0, input.BatchSize) // Preallocate slice for batch
 	semaphore := make(chan struct{}, input.MaxConcurrentScrapes)
 
 	// Channel to handle failed tournaments for retries
@@ -355,12 +366,16 @@ func processBatch(batch []TournamentData, input *HandlerInput, batch_id int) []T
 	processTournament := func(t TournamentData) {
 		scrapeWg.Add(1)
 		go func(t TournamentData) {
-			games, err := getTournamentGames(t, semaphore, &scrapeWg)
+			gameData, reportData, err := getTournamentGames(t, semaphore, &scrapeWg)
 			if err != nil {
 				failedChan <- t
 			} else {
 				mu.Lock()
-				results = append(results, games...)
+				if len(gameData) > 0 {
+					games = append(games, gameData...)
+				} else {
+					reports = append(reports, reportData...)
+				}
 				mu.Unlock()
 			}
 		}(t)
@@ -382,16 +397,28 @@ func processBatch(batch []TournamentData, input *HandlerInput, batch_id int) []T
 		}
 	}
 
-	log.Printf("Saving %d games to S3 for batch %d", len(results), batch_id)
+	log.Printf("Saving %d games to S3 for batch %d", len(games), batch_id)
 
-	err := saveGamesParquetToS3(results, input, batch_id)
+	err := saveGamesParquetToS3(games, input, batch_id)
 	if err != nil {
 		log.Printf("Error saving games to S3: %v", err)
 	}
 	// Save a sample of the games to CSV
-	err = saveGamesCSVToS3(results[:100], input, batch_id)
+	err = saveGamesCSVToS3(games[:min(100, len(games))], input, batch_id)
 	if err != nil {
 		log.Printf("Error saving games to S3: %v", err)
+	}
+
+	if len(reports) > 0 {
+		err = saveReportsParquetToS3(reports, input, batch_id)
+		if err != nil {
+			log.Printf("Error saving reports to S3: %v", err)
+		}
+
+		err = saveReportsCSVToS3(reports[:min(100, len(reports))], input, batch_id)
+		if err != nil {
+			log.Printf("Error saving reports to S3: %v", err)
+		}
 	}
 
 	return failed_tournaments
