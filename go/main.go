@@ -4,8 +4,10 @@ import (
 	"context"
 	"fmt"
 	"log"
+	"os"
+	"strings"
 
-	"github.com/aws/aws-lambda-go/lambda"
+	// "github.com/aws/aws-lambda-go/lambda"
 )
 
 type HandlerInput struct {
@@ -74,5 +76,28 @@ func handler(ctx context.Context, input HandlerInput) (HandlerOutput, error) {
 }
 
 func main() {
-	lambda.Start(handler)
+	// Read federations from file
+	data, err := os.ReadFile("federations.txt")
+	if err != nil {
+		log.Fatalf("Failed to read federations file: %v", err)
+	}
+
+	// Split the file content into a slice of strings (one federation per line)
+	federations := strings.Split(strings.TrimSpace(string(data)), "\n")
+
+	for year := 2024; year > 2012; year-- {
+		for month := 1; month <= 12; month++ {
+			handler(context.Background(), HandlerInput{
+				Federations: federations,
+				Year:        year,
+				Month:       month,
+				S3Bucket:    "test-bucket-fide-glicko",
+				S3KeyPrefix: "tournament-data",
+				Region:      "us-east-2",
+				MaxConcurrentScrapes: 20,
+				MaxRetries:          3,
+				BatchSize:           8000,
+			})
+		}
+	}
 }

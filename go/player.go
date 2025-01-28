@@ -226,7 +226,7 @@ func GetPlayersInfo(handlerInput *HandlerInput) ([]PlayerData, error) {
 		return nil, fmt.Errorf("failed to download or extract file after %d retries", maxRetries)
 	}
 
-	lengths, keys := getFormatConfig(year, month)
+	lengths, keys := getFormatConfig(handlerInput.Year, month)
 
 	// Process the file
 	players, err := processFile(content, lengths, keys, year, month)
