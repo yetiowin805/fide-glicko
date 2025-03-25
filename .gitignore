@@ -1,12 +1,14 @@
 /*
 !data/
 !src/
+!aws/
 !.gitignore
 !README.md
 !tester
 !rust
 
 *.txt
+*.json
 !data/top_rating_lists/Standard/**
 !data/top_rating_lists/Rapid/**
 !data/top_rating_lists/Blitz/**

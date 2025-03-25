@@ -12,7 +12,7 @@ import asyncio
 from pathlib import Path
 
 # Add constants at the top
-BASE_URL = "https://ratings.fide.com/tournament_list.phtml"
+BASE_URL = "https://ratings.fide.com/a_tournamnets.php"
 TOURNAMENT_REPORT_URL = "tournament_report.phtml"
 
 
@@ -53,29 +53,44 @@ async def scrape_fide_data(
     if (dir_path / "tournaments.txt").exists():
         return
 
-    url = f"{BASE_URL}?moder=ev_code&{formatted_str}"
-    logging.info(f"Scraping data from: {url}")
+    # Create directory if it doesn't exist
+    os.makedirs(dir_path, exist_ok=True)
 
-    try:
-        async with semaphore:
-            async with session.get(url, timeout=30) as response:
-                response.raise_for_status()
-                text = await response.text()
-    except (aiohttp.ClientError, asyncio.TimeoutError) as e:
-        logging.error(f"Failed to fetch data for {country} {year}-{month:02d}: {e}")
-        return
+    api_url = "https://ratings.fide.com/a_tournaments.php"
+    params = {"country": country, "period": f"{year}-{month_str}-01"}
 
-    soup = BeautifulSoup(text, "html.parser")
-    unique_codes = {
-        a["href"].split("=")[-1]
-        for a in soup.find_all("a", href=True)
-        if "tournament_report.phtml" in a["href"]
-    }
+    async with semaphore:
+        async with session.get(api_url, params=params, timeout=30) as api_response:
+            api_response.raise_for_status()
+            content = await api_response.text()
 
-    if unique_codes:
-        dir_path.mkdir(parents=True, exist_ok=True)
-        async with aiofiles.open(dir_path / "tournaments.txt", "w") as file:
-            await file.write("\n".join(unique_codes) + "\n")
+    # Parse HTML with BeautifulSoup
+    soup = BeautifulSoup(content, "html.parser")
+
+    content = content.replace("</a>", "")
+    content = content.replace("&lt;", "<")
+    content = content.replace("&gt;", ">")
+
+    import json
+
+    data = json.loads(content)
+
+    tournament_ids = []
+
+    # Extract tournament IDs from the data
+    if "data" in data and isinstance(data["data"], list):
+        for tournament in data["data"]:
+            if isinstance(tournament, list) and len(tournament) > 0:
+                tournament_ids.append(tournament[0])
+
+    if tournament_ids:
+        async with aiofiles.open(dir_path / "tournaments.txt", "w") as f:
+            await f.write("\n".join(tournament_ids))
+        logging.info(
+            f"Saved {len(tournament_ids)} tournaments for {country} {year}-{month_str}"
+        )
+    else:
+        logging.info(f"No tournaments found for {country} {year}-{month_str}")
 
 
 async def main(month: str, data_dir: str):
