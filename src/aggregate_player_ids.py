@@ -94,21 +94,22 @@ async def main(month, data_dir):
         unique_player_ids = set()
         tournaments_processed = 0
 
-        # Process each federation directory
-        for month_dir in tc_path.iterdir():
-            if not month_dir.is_dir():
-                continue
+        # Process only the directory for the current month
+        month_dir = tc_path / month_str
+        if not month_dir.exists() or not month_dir.is_dir():
+            logging.info(f"No {time_control} tournaments found for {month_str}")
+            continue
 
-            logging.info(f"Processing {time_control} tournaments from {month_dir.name}")
+        logging.info(f"Processing {time_control} tournaments from {month_str}")
+        
+        # Process all tournament files in this month directory
+        for tournament_file in month_dir.glob("*.txt"):
+            player_ids = await read_player_ids_from_file(tournament_file)
+            unique_player_ids.update(player_ids)
+            tournaments_processed += 1
             
-            # Process all tournament files in this month directory
-            for tournament_file in month_dir.glob("*.txt"):
-                player_ids = await read_player_ids_from_file(tournament_file)
-                unique_player_ids.update(player_ids)
-                tournaments_processed += 1
-                
-                if tournaments_processed % 100 == 0:
-                    logging.info(f"Processed {tournaments_processed} tournaments for {time_control}, found {len(unique_player_ids)} unique player IDs so far")
+            if tournaments_processed % 100 == 0:
+                logging.info(f"Processed {tournaments_processed} tournaments for {time_control}, found {len(unique_player_ids)} unique player IDs so far")
 
         # Sort the IDs numerically
         sorted_ids = sorted(unique_player_ids, key=int)

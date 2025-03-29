@@ -62,6 +62,10 @@ def extract_calculation_data(html_content):
                 "games": []
             }
             
+            # Check if player is unrated in this tournament by looking for the Rp header in this table
+            rp_headers = calc_table.find_all("td", string=lambda s: s and "Rp" in s)
+            current_tournament["player_is_unrated"] = len(rp_headers) > 0
+            
             # Find all rows with class="list4" and bgcolor="#efefef" that contain actual player data
             game_rows = calc_table.find_all("tr", attrs={"bgcolor": "#efefef"})
             
@@ -169,9 +173,6 @@ async def fetch_calculations(
                     async with aiofiles.open(output_path, "w", encoding="utf-8") as f:
                         await f.write(json.dumps(calculation_data, indent=2))
 
-                    logging.info(
-                        f"Successfully saved calculation data for player {fide_id} with time control {time_control}"
-                    )
                     return True
 
             except (aiohttp.ClientError, asyncio.TimeoutError) as e:
