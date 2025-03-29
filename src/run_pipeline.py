@@ -107,15 +107,25 @@ if __name__ == "__main__":
             )
 
             # Run aggregate_player_ids.py to collect player IDs from tournaments
-            print(f"python3 aggregate_player_ids.py --month {month} --data_dir {args.data_dir}")
-            os.system(f"python3 src/aggregate_player_ids.py --month {month} --data_dir {args.data_dir}")
-            
-            # Run scrape_calculations.py to get player calculation data
-            print(f"python3 scrape_calculations.py --month {month} --data_dir {args.data_dir}")
-            os.system(f"python3 src/scrape_calculations.py --month {month} --data_dir {args.data_dir}")
-            
-            # Run process_game_data.py to convert to clean numerical format
-            print(f"python3 process_game_data.py --month {month} --data_dir {args.data_dir}")
-            os.system(f"python3 src/process_game_data.py --month {month} --data_dir {args.data_dir}")
+            print(
+                f"python3 aggregate_player_ids.py --month {month} --data_dir {args.data_dir}"
+            )
+            os.system(
+                f"python3 src/aggregate_player_ids.py --month {month} --data_dir {args.data_dir}"
+            )
 
-    
+            # Run scrape_calculations.py to get player calculation data
+            print(
+                f"python3 scrape_calculations.py --month {month} --data_dir {args.data_dir}"
+            )
+            os.system(
+                f"python3 src/scrape_calculations.py --month {month} --data_dir {args.data_dir}"
+            )
+
+            # Run process_game_data.py to convert to clean numerical format
+            print(
+                f"python3 process_game_data.py --month {month} --data_dir {args.data_dir}"
+            )
+            os.system(
+                f"python3 src/process_game_data.py --month {month} --data_dir {args.data_dir}"
+            )

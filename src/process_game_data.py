@@ -11,6 +11,8 @@ from collections import defaultdict
 tournament_map_cache = {}
 # Cache for global player mappings {month: name_to_id_map}
 global_player_map_cache = {}
+
+
 async def load_global_player_mapping(data_dir, month):
     """
     Load the global player mapping from the master FIDE player list.
@@ -40,7 +42,7 @@ async def load_global_player_mapping(data_dir, month):
         # Track names we've seen to detect duplicates
         seen_names = set()
         duplicate_names = set()
-        
+
         async with aiofiles.open(global_player_file, "r", encoding="utf-8") as f:
             content = await f.read()
             lines = content.splitlines()
@@ -52,10 +54,12 @@ async def load_global_player_mapping(data_dir, month):
                     if "id" in player_data and "name" in player_data:
                         player_id = str(player_data["id"])
                         player_name = player_data["name"]
-                        
+
                         # Normalize the name by removing capitalization, commas, and periods
-                        normalized_name = player_name.lower().replace(",", "").replace(".", "")
-                        
+                        normalized_name = (
+                            player_name.lower().replace(",", "").replace(".", "")
+                        )
+
                         # Check for duplicate names
                         if normalized_name in seen_names:
                             duplicate_names.add(normalized_name)
@@ -63,18 +67,24 @@ async def load_global_player_mapping(data_dir, month):
                             seen_names.add(normalized_name)
                             name_to_id[normalized_name] = player_id
                 except json.JSONDecodeError as json_e:
-                    logging.warning(f"Skipping invalid JSON line in {global_player_file}: {line} - Error: {json_e}")
+                    logging.warning(
+                        f"Skipping invalid JSON line in {global_player_file}: {line} - Error: {json_e}"
+                    )
                     continue
-        
+
         # Remove all entries for duplicate names
         for name in duplicate_names:
             if name in name_to_id:
                 del name_to_id[name]
-        
-        if duplicate_names:
-            logging.warning(f"Removed {len(duplicate_names)} duplicate player names from mapping")
 
-        logging.info(f"Loaded {len(name_to_id)} players from global player list for {month}")
+        if duplicate_names:
+            logging.warning(
+                f"Removed {len(duplicate_names)} duplicate player names from mapping"
+            )
+
+        logging.info(
+            f"Loaded {len(name_to_id)} players from global player list for {month}"
+        )
         # Store in cache
         global_player_map_cache[month] = name_to_id
     except Exception as e:
@@ -82,6 +92,7 @@ async def load_global_player_mapping(data_dir, month):
         global_player_map_cache[month] = {}
 
     return global_player_map_cache[month]
+
 
 async def load_tournament_player_mapping(data_dir, time_control, tournament_id):
     """
@@ -108,15 +119,17 @@ async def load_tournament_player_mapping(data_dir, time_control, tournament_id):
     tournament_file = Path(data_dir) / f"{tournament_id}.txt"
 
     if not tournament_file.exists():
-         # Try globbing as a fallback if direct path fails (original behavior)
+        # Try globbing as a fallback if direct path fails (original behavior)
         tournament_file_pattern = f"**/{tournament_id}.txt"
         tournament_files = list(Path(data_dir).glob(tournament_file_pattern))
         if not tournament_files:
-            logging.warning(f"Tournament file not found for ID: {tournament_id} in {data_dir}")
+            logging.warning(
+                f"Tournament file not found for ID: {tournament_id} in {data_dir}"
+            )
             # Cache the fact that it's not found
             tournament_map_cache[tournament_id] = {}
             return {}
-        tournament_file = tournament_files[0] # Take the first match
+        tournament_file = tournament_files[0]  # Take the first match
 
     try:
         async with aiofiles.open(tournament_file, "r", encoding="utf-8") as f:
@@ -134,8 +147,10 @@ async def load_tournament_player_mapping(data_dir, time_control, tournament_id):
                         # TODO: Consider adding name cleaning here if needed
                         name_to_id[player_name] = player_id
                 except json.JSONDecodeError as json_e:
-                     logging.warning(f"Skipping invalid JSON line in {tournament_file}: {line} - Error: {json_e}")
-                     continue # Skip malformed lines
+                    logging.warning(
+                        f"Skipping invalid JSON line in {tournament_file}: {line} - Error: {json_e}"
+                    )
+                    continue  # Skip malformed lines
 
         # logging.info(f"Loaded {len(name_to_id)} players for tournament {tournament_id}")
         # Store in cache
@@ -145,7 +160,7 @@ async def load_tournament_player_mapping(data_dir, time_control, tournament_id):
         # Cache empty dict on error to prevent retrying failed loads repeatedly
         tournament_map_cache[tournament_id] = {}
 
-    return tournament_map_cache[tournament_id] # Return from cache
+    return tournament_map_cache[tournament_id]  # Return from cache
 
 
 async def process_calculation_files(data_dir, month):
@@ -166,16 +181,17 @@ async def process_calculation_files(data_dir, month):
     tournament_map_cache.clear()
     global_player_map_cache.clear()
     logging.info("Cleared tournament and global player map caches.")
-    
+
     # Load the global player mapping for fallback
     # Calculate the previous month
     from datetime import datetime
+
     current_month = datetime.strptime(month, "%Y-%m")
     if current_month.month == 1:
         prev_month = f"{current_month.year-1}-12"
     else:
         prev_month = f"{current_month.year}-{current_month.month-1:02d}"
-    
+
     global_player_map = await load_global_player_mapping(data_dir, prev_month)
     logging.info(f"Loaded global player mapping with {len(global_player_map)} entries")
 
@@ -193,10 +209,10 @@ async def process_calculation_files(data_dir, month):
             continue
 
         time_control = tc_dir.name  # standard, rapid, or blitz
-        logging.info(f"Processing time control: {time_control}") # Added logging
+        logging.info(f"Processing time control: {time_control}")  # Added logging
 
         # Process each player file (sequentially)
-        player_files = list(tc_dir.glob('*.json')) # Get files first for logging count
+        player_files = list(tc_dir.glob("*.json"))  # Get files first for logging count
         logging.info(f"Found {len(player_files)} player files for {time_control}.")
         processed_files_count = 0
 
@@ -212,8 +228,8 @@ async def process_calculation_files(data_dir, month):
                     calculation_data = json.loads(content)
 
                 # Process each tournament in the calculation
-                for tournament in calculation_data.get('tournaments', []):
-                    tournament_id = tournament.get('tournament_id')
+                for tournament in calculation_data.get("tournaments", []):
+                    tournament_id = tournament.get("tournament_id")
                     if not tournament_id:
                         continue
 
@@ -221,64 +237,88 @@ async def process_calculation_files(data_dir, month):
                     name_to_id = await load_tournament_player_mapping(
                         processed_tournament_dir, time_control, tournament_id
                     )
-                    if not name_to_id: # Skip if mapping failed to load or was empty
-                         # logging.warning(f"Skipping tournament {tournament_id} for player {player_id} due to missing/failed mapping.") # Optional: reduce noise
-                         continue
+                    if not name_to_id:  # Skip if mapping failed to load or was empty
+                        # logging.warning(f"Skipping tournament {tournament_id} for player {player_id} due to missing/failed mapping.") # Optional: reduce noise
+                        continue
 
                     # Process each game in this tournament
-                    for game in tournament.get('games', []):
-                        opponent_name = game.get('opponent_name', '')
+                    for game in tournament.get("games", []):
+                        opponent_name = game.get("opponent_name", "")
                         try:
-                            result = float(game.get('result', '')) # Ensure result is float
+                            result = float(
+                                game.get("result", "")
+                            )  # Ensure result is float
                         except (ValueError, TypeError):
-                             logging.warning(f"Invalid result format: {game.get('result')} for player {player_id} vs {opponent_name} in tournament {tournament_id}. Skipping game.")
-                             continue # Skip game if result is invalid
+                            logging.warning(
+                                f"Invalid result format: {game.get('result')} for player {player_id} vs {opponent_name} in tournament {tournament_id}. Skipping game."
+                            )
+                            continue  # Skip game if result is invalid
 
                         # Clean the opponent name (Placeholder)
                         # opponent_name = clean_name(opponent_name)
 
                         # Look up the opponent's FIDE ID using the tournament mapping
-                        opponent_id = name_to_id.get(opponent_name) # Use .get for safer lookup
+                        opponent_id = name_to_id.get(
+                            opponent_name
+                        )  # Use .get for safer lookup
 
                         # Fall back to global player mapping if not found in tournament
                         if not opponent_id and opponent_name:
                             # logging.warning(f"{player_id}: Could not find ID for opponent: '{opponent_name}' in tournament {tournament_id}")
                             # Normalize the name by removing capitalization, commas, and periods
-                            normalized_name = opponent_name.lower().replace(",", "").replace(".", "")
+                            normalized_name = (
+                                opponent_name.lower().replace(",", "").replace(".", "")
+                            )
                             opponent_id = global_player_map.get(normalized_name)
                         if not opponent_id:
-                            logging.warning(f"{player_id}: Could not find ID for opponent: '{opponent_name}' in global mapping")
+                            logging.warning(
+                                f"{player_id}: Could not find ID for opponent: '{opponent_name}' in global mapping"
+                            )
 
                         if opponent_id:
                             # Convert the result to a numeric value
                             if result not in [0.0, 0.5, 1.0]:
-                                logging.warning(f"Unknown numeric result value: {result} for player {player_id} vs {opponent_id}. Assuming valid.")
+                                logging.warning(
+                                    f"Unknown numeric result value: {result} for player {player_id} vs {opponent_id}. Assuming valid."
+                                )
                                 # Decide how to handle unexpected float values if necessary
 
                             # Add to the collection grouped by player
-                            games_by_tc_player[time_control][player_id].append((opponent_id, result))
+                            games_by_tc_player[time_control][player_id].append(
+                                (opponent_id, result)
+                            )
 
                             # Add game from opponent's perspective if the player was unrated
-                            if tournament.get("player_is_unrated", False): # Default to False
-                                opponent_id_str = str(opponent_id) # Ensure string key
-                                games_by_tc_player[time_control][opponent_id_str].append((player_id, 1.0 - result))
+                            if tournament.get(
+                                "player_is_unrated", False
+                            ):  # Default to False
+                                opponent_id_str = str(opponent_id)  # Ensure string key
+                                games_by_tc_player[time_control][
+                                    opponent_id_str
+                                ].append((player_id, 1.0 - result))
                         else:
-                            logging.warning(f"{player_id}: Could not find ID for opponent: '{opponent_name}' in tournament {tournament_id}")
-                processed_files_count += 1 # Count successfully opened/parsed files
+                            logging.warning(
+                                f"{player_id}: Could not find ID for opponent: '{opponent_name}' in tournament {tournament_id}"
+                            )
+                processed_files_count += 1  # Count successfully opened/parsed files
 
             except json.JSONDecodeError as json_e:
-                 logging.error(f"Error decoding JSON from calculation file {player_file}: {json_e}")
-                 # Continue to next file
+                logging.error(
+                    f"Error decoding JSON from calculation file {player_file}: {json_e}"
+                )
+                # Continue to next file
             except Exception as e:
                 logging.error(f"Error processing calculation file {player_file}: {e}")
                 # Continue to next file
 
-        logging.info(f"Processed {processed_files_count} calculation files for {time_control}.") # Log count
+        logging.info(
+            f"Processed {processed_files_count} calculation files for {time_control}."
+        )  # Log count
 
     # Write the output files in the new format
-    logging.info("Writing output files...") # Added logging
+    logging.info("Writing output files...")  # Added logging
     for time_control, players_games in games_by_tc_player.items():
-        if not players_games: # Skip writing if no games for this TC
+        if not players_games:  # Skip writing if no games for this TC
             logging.info(f"No games to write for time control {time_control}.")
             continue
 
@@ -289,7 +329,9 @@ async def process_calculation_files(data_dir, month):
             async with aiofiles.open(output_path, "w", encoding="utf-8") as f:
                 # Sort players for consistent output
                 sorted_player_ids = sorted(players_games.keys())
-                logging.info(f"Writing {len(sorted_player_ids)} players' games for {time_control} to {output_path}...")
+                logging.info(
+                    f"Writing {len(sorted_player_ids)} players' games for {time_control} to {output_path}..."
+                )
 
                 for player_id in sorted_player_ids:
                     games = players_games[player_id]
@@ -300,7 +342,9 @@ async def process_calculation_files(data_dir, month):
                     # games.sort(key=lambda x: x[0])
                     for opponent_id, result in games:
                         # Ensure result is formatted correctly (e.g., 0.5 not 0.500000...)
-                        result_str = f"{result:.1f}" if result == 0.5 else str(int(result))
+                        result_str = (
+                            f"{result:.1f}" if result == 0.5 else str(int(result))
+                        )
                         await f.write(f"{opponent_id} {result_str}\n")
 
             # Count total games for logging

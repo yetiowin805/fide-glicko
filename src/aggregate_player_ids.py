@@ -17,16 +17,16 @@ async def read_player_ids_from_file(file_path):
                 line = line.strip()
                 if not line:
                     continue
-                
+
                 try:
                     # Parse the JSON object and extract the id field
                     player_data = json.loads(line)
-                    if 'id' in player_data:
-                        player_ids.append(player_data['id'])
+                    if "id" in player_data:
+                        player_ids.append(player_data["id"])
                 except json.JSONDecodeError as e:
                     logging.warning(f"Invalid JSON in {file_path}: {line}")
                     continue
-                
+
         return player_ids
     except Exception as e:
         logging.error(f"Error reading {file_path}: {e}")
@@ -101,15 +101,17 @@ async def main(month, data_dir):
             continue
 
         logging.info(f"Processing {time_control} tournaments from {month_str}")
-        
+
         # Process all tournament files in this month directory
         for tournament_file in month_dir.glob("*.txt"):
             player_ids = await read_player_ids_from_file(tournament_file)
             unique_player_ids.update(player_ids)
             tournaments_processed += 1
-            
+
             if tournaments_processed % 100 == 0:
-                logging.info(f"Processed {tournaments_processed} tournaments for {time_control}, found {len(unique_player_ids)} unique player IDs so far")
+                logging.info(
+                    f"Processed {tournaments_processed} tournaments for {time_control}, found {len(unique_player_ids)} unique player IDs so far"
+                )
 
         # Sort the IDs numerically
         sorted_ids = sorted(unique_player_ids, key=int)
@@ -131,26 +133,28 @@ async def main(month, data_dir):
     # After processing each time control separately, create a combined "all" file
     logging.info(f"Creating combined file for all time controls for {month_str}")
     all_unique_ids = set()
-    
+
     # Read each time control file and combine
     for time_control in time_controls:
         tc_file = output_dir / f"{month_str}_{time_control}.txt"
         if not tc_file.exists():
             continue
-        
+
         async with aiofiles.open(tc_file, "r", encoding="utf-8") as f:
             content = await f.read()
             ids = content.strip().split("\n")
             all_unique_ids.update(ids)
-    
+
     sorted_all_ids = sorted(all_unique_ids, key=int)
-    
+
     if sorted_all_ids:
         all_output_file = output_dir / f"{month_str}_all.txt"
         async with aiofiles.open(all_output_file, "w", encoding="utf-8") as f:
             await f.write("\n".join(sorted_all_ids))
-        
-        logging.info(f"Successfully saved {len(sorted_all_ids)} unique player IDs to combined file {all_output_file}")
+
+        logging.info(
+            f"Successfully saved {len(sorted_all_ids)} unique player IDs to combined file {all_output_file}"
+        )
 
 
 if __name__ == "__main__":

@@ -101,10 +101,7 @@ async def fetch_process_and_save(
 
                     # Create the final save path with time control directory structure
                     final_save_path = (
-                        base_output_dir
-                        / tc_dir
-                        / date_str
-                        / f"{tournament_code}.txt"
+                        base_output_dir / tc_dir / date_str / f"{tournament_code}.txt"
                     )
 
                     # Ensure the directory exists

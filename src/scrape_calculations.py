@@ -19,10 +19,10 @@ def extract_calculation_data(html_content):
     """
     Extract player names, ratings, federations, and results from calculation HTML.
     Can handle multiple tournaments in a single calculation page.
-    
+
     Args:
         html_content: HTML content of the calculation page
-        
+
     Returns:
         dict: Structured data containing the calculation information
     """
@@ -30,12 +30,12 @@ def extract_calculation_data(html_content):
     result_data = {
         "tournaments": [],
     }
-    
+
     # First find all tournament headers
     tournament_headers = soup.find_all("div", class_="rtng_line01")
     tournament_ids = []
     tournament_names = []
-    
+
     for header in tournament_headers:
         # Look for tournament links and extract IDs
         tournament_link = header.find("a")
@@ -47,28 +47,25 @@ def extract_calculation_data(html_content):
                 tournament_name = tournament_link.text.strip()
                 tournament_ids.append(tournament_id)
                 tournament_names.append(tournament_name)
-    
+
     # Find all calculation tables - keeping the original method
     calc_tables = soup.find_all("table", class_="calc_table")
-    
+
     # Process each table and associate with tournament ID
     for i, calc_table in enumerate(calc_tables):
         if i < len(tournament_ids):  # Make sure we have a tournament ID for this table
             tournament_id = tournament_ids[i]
-            
+
             # Create tournament entry
-            current_tournament = {
-                "tournament_id": tournament_id,
-                "games": []
-            }
-            
+            current_tournament = {"tournament_id": tournament_id, "games": []}
+
             # Check if player is unrated in this tournament by looking for the Rp header in this table
             rp_headers = calc_table.find_all("td", string=lambda s: s and "Rp" in s)
             current_tournament["player_is_unrated"] = len(rp_headers) > 0
-            
+
             # Find all rows with class="list4" and bgcolor="#efefef" that contain actual player data
             game_rows = calc_table.find_all("tr", attrs={"bgcolor": "#efefef"})
-            
+
             for row in game_rows:
                 try:
                     cells = row.find_all("td", class_="list4")
@@ -99,17 +96,17 @@ def extract_calculation_data(html_content):
 
                     # Add tournament_id to each game
                     game["tournament_id"] = tournament_id
-                    
+
                     # Add to current tournament's games
                     current_tournament["games"].append(game)
 
                 except Exception as e:
                     logging.error(f"Error extracting game data: {e}")
-            
+
             # Add tournament to results if it has games
             if current_tournament["games"]:
                 result_data["tournaments"].append(current_tournament)
-    
+
     return result_data
 
 
