@@ -1,7 +1,9 @@
 import argparse
 import os
+import gc
 from datetime import datetime, date
 import subprocess
+import logging
 
 
 def get_months_between(start_date: date, end_date: date) -> list[str]:
@@ -53,9 +55,28 @@ if __name__ == "__main__":
         help="Base directory for all data files",
         default=".",
     )
+    parser.add_argument(
+        "--force_gc",
+        type=str,
+        help="Force garbage collection between months, y/n",
+        default="y",
+    )
+    parser.add_argument(
+        "--log_level",
+        type=str,
+        choices=["DEBUG", "INFO", "WARNING", "ERROR"],
+        help="Set logging level",
+        default="INFO",
+    )
 
     # Parse arguments
     args = parser.parse_args()
+
+    # Configure logging
+    logging.basicConfig(
+        level=getattr(logging, args.log_level),
+        format="%(asctime)s - %(levelname)s - %(message)s"
+    )
 
     # Convert string arguments to date objects before calling function
     start_year, start_month = map(int, args.start_month.split("-"))
@@ -67,65 +88,55 @@ if __name__ == "__main__":
     months = get_months_between(start_date, end_date)
 
     # Process each month
-    for month in months:
-        print(f"\nProcessing month: {month}")
+    for i, month in enumerate(months):
+        logging.info(f"\n{'='*50}\nProcessing month: {month} ({i+1}/{len(months)})\n{'='*50}")
+        
+        # Dictionary to store memory usage info
+        memory_info = {}
+        
+        try:
+            if args.download_player_data == "y":
+                cmd = f"python3 src/download_player_data.py --data_dir {args.data_dir} --month {month}"
+                logging.info(f"Running: {cmd}")
+                subprocess.run(cmd, shell=True, check=True)
+                
+                cmd = f"python3 src/process_fide_rating_list.py --month {month} --data_dir {args.data_dir}"
+                logging.info(f"Running: {cmd}")
+                subprocess.run(cmd, shell=True, check=True)
 
-        if args.download_player_data == "y":
-            print(
-                f"python3 download_player_data.py --data_dir {args.data_dir} --month {month}"
-            )
-            os.system(
-                f"python3 src/download_player_data.py --data_dir {args.data_dir} --month {month}"
-            )
-
-            print(
-                f"python3 process_fide_rating_list.py --month {month} --data_dir {args.data_dir}"
-            )
-            os.system(
-                f"python3 src/process_fide_rating_list.py --month {month} --data_dir {args.data_dir}"
-            )
-
-            if args.upload_to_s3 == "y":
-                print(
-                    f"python3 upload_to_s3.py --data_dir {args.data_dir} --path player_info/processed/{month}"
-                )
-                os.system(
-                    f"python3 src/aws/upload_to_s3.py --data_dir {args.data_dir} --path player_info/processed/{month}"
-                )
-
-        if args.scrape_fide == "y":
-            print(f"python3 fide_scraper.py --month {month} --data_dir {args.data_dir}")
-            os.system(
-                f"python3 src/fide_scraper.py --month {month} --data_dir {args.data_dir}"
-            )
-
-            print(
-                f"python3 tournament_scraper.py --month {month} --data_dir {args.data_dir}"
-            )
-            os.system(
-                f"python3 src/tournament_scraper.py --month {month} --data_dir {args.data_dir}"
-            )
-
-            # Run aggregate_player_ids.py to collect player IDs from tournaments
-            print(
-                f"python3 aggregate_player_ids.py --month {month} --data_dir {args.data_dir}"
-            )
-            os.system(
-                f"python3 src/aggregate_player_ids.py --month {month} --data_dir {args.data_dir}"
-            )
-
-            # Run scrape_calculations.py to get player calculation data
-            print(
-                f"python3 scrape_calculations.py --month {month} --data_dir {args.data_dir}"
-            )
-            os.system(
-                f"python3 src/scrape_calculations.py --month {month} --data_dir {args.data_dir}"
-            )
+            if args.scrape_fide == "y":
+                cmd = f"python3 src/fide_scraper.py --month {month} --data_dir {args.data_dir}"
+                logging.info(f"Running: {cmd}")
+                subprocess.run(cmd, shell=True, check=True)
+                
+                cmd = f"python3 src/tournament_scraper.py --month {month} --data_dir {args.data_dir}"
+                logging.info(f"Running: {cmd}")
+                subprocess.run(cmd, shell=True, check=True)
+                
+                cmd = f"python3 src/aggregate_player_ids.py --month {month} --data_dir {args.data_dir}"
+                logging.info(f"Running: {cmd}")
+                subprocess.run(cmd, shell=True, check=True)
+                
+                cmd = f"python3 src/scrape_calculations.py --month {month} --data_dir {args.data_dir}"
+                logging.info(f"Running: {cmd}")
+                subprocess.run(cmd, shell=True, check=True)
 
             # Run process_game_data.py to convert to clean numerical format
-            print(
-                f"python3 process_game_data.py --month {month} --data_dir {args.data_dir}"
-            )
-            os.system(
-                f"python3 src/process_game_data.py --month {month} --data_dir {args.data_dir}"
-            )
+            cmd = f"python3 src/process_game_data.py --month {month} --data_dir {args.data_dir}"
+            logging.info(f"Running: {cmd}")
+            subprocess.run(cmd, shell=True, check=True)
+            
+        except subprocess.CalledProcessError as e:
+            logging.error(f"Error processing month {month}: {e}")
+        
+        # Perform garbage collection to free memory between months
+        if args.force_gc == "y":
+            before_count = gc.get_count()
+            logging.info(f"Running garbage collection... (before: {before_count})")
+            n_collected = gc.collect(generation=2)  # Full collection
+            after_count = gc.get_count()
+            logging.info(f"Garbage collection completed: {n_collected} objects collected. (after: {after_count})")
+        
+        logging.info(f"Finished processing month: {month}\n")
+        
+    logging.info("Pipeline completed successfully!")

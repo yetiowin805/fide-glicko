@@ -44,7 +44,7 @@ def run_glicko(
             cmd = (
                 f"python3 {os.path.join(os.path.dirname(__file__), 'glicko2.py')} "
                 f"{data_dir}/rating_lists/{folder}/{year:04d}-{month:02d}.txt "
-                f"{data_dir}/clean_numerical/{year:04d}-{month:02d}/{time_control}.txt "
+                f"{data_dir}/clean_numerical/{next_year:04d}-{next_month:02d}/{time_control}.txt "
                 f"{data_dir}/rating_lists/{folder}/{next_year:04d}-{next_month:02d}.txt "
                 f"{data_dir}/top_rating_lists/ "
                 f"{folder}/{next_year:04d}-{next_month:02d} "

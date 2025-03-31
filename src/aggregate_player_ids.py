@@ -130,32 +130,6 @@ async def main(month, data_dir):
             f"Successfully saved {len(sorted_ids)} unique player IDs to {output_file} from {tournaments_processed} tournaments"
         )
 
-    # After processing each time control separately, create a combined "all" file
-    logging.info(f"Creating combined file for all time controls for {month_str}")
-    all_unique_ids = set()
-
-    # Read each time control file and combine
-    for time_control in time_controls:
-        tc_file = output_dir / f"{month_str}_{time_control}.txt"
-        if not tc_file.exists():
-            continue
-
-        async with aiofiles.open(tc_file, "r", encoding="utf-8") as f:
-            content = await f.read()
-            ids = content.strip().split("\n")
-            all_unique_ids.update(ids)
-
-    sorted_all_ids = sorted(all_unique_ids, key=int)
-
-    if sorted_all_ids:
-        all_output_file = output_dir / f"{month_str}_all.txt"
-        async with aiofiles.open(all_output_file, "w", encoding="utf-8") as f:
-            await f.write("\n".join(sorted_all_ids))
-
-        logging.info(
-            f"Successfully saved {len(sorted_all_ids)} unique player IDs to combined file {all_output_file}"
-        )
-
 
 if __name__ == "__main__":
     # Set up logging

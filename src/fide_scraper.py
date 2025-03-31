@@ -27,7 +27,7 @@ def is_valid_rating_period(year: int, month: int) -> bool:
     if year < 2012:
         return month % 2 == 1
     if year == 2012:
-        return month < 7 and month % 2 == 1
+        return (month < 7 and month % 2 == 1) or month >= 7
     return True
 
 
