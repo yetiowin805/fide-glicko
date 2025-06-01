@@ -57,12 +57,48 @@ async def scrape_fide_data(
     os.makedirs(dir_path, exist_ok=True)
 
     api_url = "https://ratings.fide.com/a_tournaments.php"
-    params = {"country": country, "period": f"{year}-{month_str}-01"}
+    params = {
+        "country": country,
+        "period": f"{year}-{month_str}-01"
+    }
 
-    async with semaphore:
-        async with session.get(api_url, params=params, timeout=30) as api_response:
-            api_response.raise_for_status()
-            content = await api_response.text()
+    try:
+        async with semaphore:
+            # Add minimal headers needed for AJAX request
+            headers = {
+                "Accept": "application/json, text/javascript, */*; q=0.01",
+                "X-Requested-With": "XMLHttpRequest",
+                "Referer": f"https://ratings.fide.com/rated_tournaments.phtml?country={country}&period={year}-{month_str}-01"
+            }
+            
+            async with session.get(api_url, params=params, headers=headers, timeout=30) as api_response:
+                logging.info(f"Requesting URL: {api_response.url}")
+                logging.info(f"Response status: {api_response.status}")
+                logging.info(f"Response headers: {api_response.headers}")
+                
+                api_response.raise_for_status()
+                
+                # Read the raw bytes first
+                raw_content = await api_response.read()
+                if not raw_content:
+                    logging.error(f"Empty response received for {country} {year}-{month_str}")
+                    return
+                
+                # Decode the content, handling gzip compression
+                content = await api_response.text()
+                
+                logging.info(f"Response content length: {len(content)}")
+                logging.info(f"First 100 chars of response: {content[:100]}")
+
+    except aiohttp.ClientError as e:
+        logging.error(f"HTTP error occurred for {country} {year}-{month_str}: {str(e)}")
+        return
+    except asyncio.TimeoutError:
+        logging.error(f"Request timed out for {country} {year}-{month_str}")
+        return
+    except Exception as e:
+        logging.error(f"Unexpected error for {country} {year}-{month_str}: {str(e)}")
+        return
 
     # Parse HTML with BeautifulSoup
     soup = BeautifulSoup(content, "html.parser")
