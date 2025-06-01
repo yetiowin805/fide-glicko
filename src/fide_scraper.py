@@ -72,9 +72,6 @@ async def scrape_fide_data(
             }
             
             async with session.get(api_url, params=params, headers=headers, timeout=30) as api_response:
-                logging.info(f"Requesting URL: {api_response.url}")
-                logging.info(f"Response status: {api_response.status}")
-                logging.info(f"Response headers: {api_response.headers}")
                 
                 api_response.raise_for_status()
                 
@@ -87,8 +84,6 @@ async def scrape_fide_data(
                 # Decode the content, handling gzip compression
                 content = await api_response.text()
                 
-                logging.info(f"Response content length: {len(content)}")
-                logging.info(f"First 100 chars of response: {content[:100]}")
 
     except aiohttp.ClientError as e:
         logging.error(f"HTTP error occurred for {country} {year}-{month_str}: {str(e)}")
